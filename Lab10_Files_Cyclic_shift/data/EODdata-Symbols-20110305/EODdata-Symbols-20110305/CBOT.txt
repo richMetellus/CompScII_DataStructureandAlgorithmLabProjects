@@ -1,0 +1,689 @@
+Symbol	Description
+AH	DJ UBS Excess Index
+AH.C	DJ UBS Excess Index Continuation
+AHH11	DJ UBS Excess Index {Mar 11}
+AHM11	DJ UBS Excess Index {Jun 11}
+AHZ11	DJ UBS Excess Index {Dec 11}
+AHZ12	DJ UBS Excess Index {Dec 12}
+AHZ13	DJ UBS Excess Index {Dec 13}
+AHZ14	DJ UBS Excess Index {Dec 14}
+AK	Ethanol Futures (P)
+AK.C	Ethanol Futures (P) Continuation
+AKF12	Ethanol Futures (P) {Jan 12}
+AKF13	Ethanol Futures (P) {Jan 13}
+AKG12	Ethanol Futures (P) {Feb 12}
+AKG13	Ethanol Futures (P) {Feb 13}
+AKH11	Ethanol Futures (P) {Mar 11}
+AKH12	Ethanol Futures (P) {Mar 12}
+AKH13	Ethanol Futures (P) {Mar 13}
+AKJ11	Ethanol Futures (P) {Apr 11}
+AKJ12	Ethanol Futures (P) {Apr 12}
+AKJ13	Ethanol Futures (P) {Apr 13}
+AKK11	Ethanol Futures (P) {May 11}
+AKK12	Ethanol Futures (P) {May 12}
+AKK13	Ethanol Futures (P) {May 13}
+AKM11	Ethanol Futures (P) {Jun 11}
+AKM12	Ethanol Futures (P) {Jun 12}
+AKM13	Ethanol Futures (P) {Jun 13}
+AKN11	Ethanol Futures (P) {Jul 11}
+AKN12	Ethanol Futures (P) {Jul 12}
+AKQ11	Ethanol Futures (P) {Aug 11}
+AKQ12	Ethanol Futures (P) {Aug 12}
+AKU11	Ethanol Futures (P) {Sep 11}
+AKU12	Ethanol Futures (P) {Sep 12}
+AKV11	Ethanol Futures (P) {Oct 11}
+AKV12	Ethanol Futures (P) {Oct 12}
+AKX11	Ethanol Futures (P) {Nov 11}
+AKX12	Ethanol Futures (P) {Nov 12}
+AKZ11	Ethanol Futures (P) {Dec 11}
+AKZ12	Ethanol Futures (P) {Dec 12}
+BO	Soybean Oil (P)
+BO.C	Soybean Oil (P) Continuation
+BOF12	Soybean Oil (P) {Jan 12}
+BOH11	Soybean Oil (P) {Mar 11}
+BOH12	Soybean Oil (P) {Mar 12}
+BOK11	Soybean Oil (P) {May 11}
+BOK12	Soybean Oil (P) {May 12}
+BON11	Soybean Oil (P) {Jul 11}
+BON12	Soybean Oil (P) {Jul 12}
+BON13	Soybean Oil (P) {Jul 13}
+BOQ11	Soybean Oil (P) {Aug 11}
+BOQ12	Soybean Oil (P) {Aug 12}
+BOU11	Soybean Oil (P) {Sep 11}
+BOU12	Soybean Oil (P) {Sep 12}
+BOV11	Soybean Oil (P) {Oct 11}
+BOV12	Soybean Oil (P) {Oct 12}
+BOV13	Soybean Oil (P) {Oct 13}
+BOZ11	Soybean Oil (P) {Dec 11}
+BOZ12	Soybean Oil (P) {Dec 12}
+BOZ13	Soybean Oil (P) {Dec 13}
+C	Corn (P)
+C.C	Corn (P) Continuation
+CH11	Corn (P) {Mar 11}
+CH12	Corn (P) {Mar 12}
+CK11	Corn (P) {May 11}
+CK12	Corn (P) {May 12}
+CM.C	South Minnesota CBS Continuation
+CMH11	South Minnesota CBS {Mar 11}
+CMJ11	South Minnesota CBS {Apr 11}
+CMK11	South Minnesota CBS {May 11}
+CMM11	South Minnesota CBS {Jun 11}
+CMN11	South Minnesota CBS {Jul 11}
+CMN12	South Minnesota CBS {Jul 12}
+CMQ11	South Minnesota CBS {Aug 11}
+CMU11	South Minnesota CBS {Sep 11}
+CMV11	South Minnesota CBS {Oct 11}
+CMX11	South Minnesota CBS {Nov 11}
+CMZ11	South Minnesota CBS {Dec 11}
+CMZ12	South Minnesota CBS {Dec 12}
+CN.C	East Nebraska CBS Continuation
+CN11	Corn (P) {Jul 11}
+CN12	Corn (P) {Jul 12}
+CN13	Corn (P) {Jul 13}
+CNF12	East Nebraska CBS {Jan 12}
+CNG12	East Nebraska CBS {Feb 12}
+CNH11	East Nebraska CBS {Mar 11}
+CNH12	East Nebraska CBS {Mar 12}
+CNJ11	East Nebraska CBS {Apr 11}
+CNJ12	East Nebraska CBS {Apr 12}
+CNK11	East Nebraska CBS {May 11}
+CNK12	East Nebraska CBS {May 12}
+CNM11	East Nebraska CBS {Jun 11}
+CNM12	East Nebraska CBS {Jun 12}
+CNN11	East Nebraska CBS {Jul 11}
+CNN12	East Nebraska CBS {Jul 12}
+CNQ11	East Nebraska CBS {Aug 11}
+CNU11	East Nebraska CBS {Sep 11}
+CNV11	East Nebraska CBS {Oct 11}
+CNX11	East Nebraska CBS {Nov 11}
+CNZ11	East Nebraska CBS {Dec 11}
+CNZ12	East Nebraska CBS {Dec 12}
+CO.C	East SouthDakota CBS Continuation
+COF12	East SouthDakota CBS {Jan 12}
+COG12	East SouthDakota CBS {Feb 12}
+COH11	East SouthDakota CBS {Mar 11}
+COH12	East SouthDakota CBS {Mar 12}
+COJ11	East SouthDakota CBS {Apr 11}
+COJ12	East SouthDakota CBS {Apr 12}
+COK11	East SouthDakota CBS {May 11}
+COK12	East SouthDakota CBS {May 12}
+COM11	East SouthDakota CBS {Jun 11}
+COM12	East SouthDakota CBS {Jun 12}
+CON11	East SouthDakota CBS {Jul 11}
+CON12	East SouthDakota CBS {Jul 12}
+COQ11	East SouthDakota CBS {Aug 11}
+COU11	East SouthDakota CBS {Sep 11}
+COV11	East SouthDakota CBS {Oct 11}
+COX11	East SouthDakota CBS {Nov 11}
+COZ11	East SouthDakota CBS {Dec 11}
+COZ12	East SouthDakota CBS {Dec 12}
+CS.C	Soybean Crush Continuation
+CSG11	Soybean Crush {Feb 11}
+CSH11	Soybean Crush {Mar 11}
+CSK11	Soybean Crush {May 11}
+CSN11	Soybean Crush {Jul 11}
+CSN12	Soybean Crush {Jul 12}
+CSQ11	Soybean Crush {Aug 11}
+CSU11	Soybean Crush {Sep 11}
+CSV11	Soybean Crush {Oct 11}
+CSV12	Soybean Crush {Oct 12}
+CSZ11	Soybean Crush {Dec 11}
+CSZ12	Soybean Crush {Dec 12}
+CU11	Corn (P) {Sep 11}
+CU12	Corn (P) {Sep 12}
+CY.C	NorthEast Iowa CBS Continuation
+CYH11	NorthEast Iowa CBS {Mar 11}
+CYJ11	NorthEast Iowa CBS {Apr 11}
+CYK11	NorthEast Iowa CBS {May 11}
+CYM11	NorthEast Iowa CBS {Jun 11}
+CYN11	NorthEast Iowa CBS {Jul 11}
+CYN12	NorthEast Iowa CBS {Jul 12}
+CYQ11	NorthEast Iowa CBS {Aug 11}
+CYU11	NorthEast Iowa CBS {Sep 11}
+CYV11	NorthEast Iowa CBS {Oct 11}
+CYX11	NorthEast Iowa CBS {Nov 11}
+CYZ11	NorthEast Iowa CBS {Dec 11}
+CYZ12	NorthEast Iowa CBS {Dec 12}
+CZ11	Corn (P) {Dec 11}
+CZ12	Corn (P) {Dec 12}
+CZ13	Corn (P) {Dec 13}
+DC	DJ Composite
+DD.C	DJIA big-sized Continuation
+DDH11	DJIA big-sized {Mar 11}
+DDM11	DJIA big-sized {Jun 11}
+DH	DJ Real Estate Index
+DJ	DJIA
+DJ.C	DJIA Continuation
+DJH11	DJIA {Mar 11}
+DJM11	DJIA {Jun 11}
+DJU11	DJIA {Sep 11}
+DJZ11	DJIA {Dec 11}
+DO.C	NorthWest Iowa CBS Continuation
+DOH11	NorthWest Iowa CBS {Mar 11}
+DOJ11	NorthWest Iowa CBS {Apr 11}
+DOK11	NorthWest Iowa CBS {May 11}
+DOM11	NorthWest Iowa CBS {Jun 11}
+DON11	NorthWest Iowa CBS {Jul 11}
+DON12	NorthWest Iowa CBS {Jul 12}
+DOQ11	NorthWest Iowa CBS {Aug 11}
+DOU11	NorthWest Iowa CBS {Sep 11}
+DOV11	NorthWest Iowa CBS {Oct 11}
+DOX11	NorthWest Iowa CBS {Nov 11}
+DOZ11	NorthWest Iowa CBS {Dec 11}
+DOZ12	NorthWest Iowa CBS {Dec 12}
+DR	Dried Grain Futures
+DR.C	Dried Grain Futures Continuation
+DRF12	Dried Grain Futures {Jan 12}
+DRG11	Dried Grain Futures {Feb 11}
+DRH11	Dried Grain Futures {Mar 11}
+DRJ11	Dried Grain Futures {Apr 11}
+DRK11	Dried Grain Futures {May 11}
+DRM11	Dried Grain Futures {Jun 11}
+DRX11	Dried Grain Futures {Nov 11}
+DT	DJ Transports
+DU	DJ Utilities
+DV	Dow Treasuries
+FE.C	Southern Iowa CBS Continuation
+FEH11	Southern Iowa CBS {Mar 11}
+FEJ11	Southern Iowa CBS {Apr 11}
+FEK11	Southern Iowa CBS {May 11}
+FEM11	Southern Iowa CBS {Jun 11}
+FEN11	Southern Iowa CBS {Jul 11}
+FEN12	Southern Iowa CBS {Jul 12}
+FEQ11	Southern Iowa CBS {Aug 11}
+FEU11	Southern Iowa CBS {Sep 11}
+FEV11	Southern Iowa CBS {Oct 11}
+FEX11	Southern Iowa CBS {Nov 11}
+FEZ11	Southern Iowa CBS {Dec 11}
+FEZ12	Southern Iowa CBS {Dec 12}
+FF	30-Day Fed Funds (P)
+FF.C	30-Day Fed Funds (P) Continuation
+FFF12	30-Day Fed Funds (P) {Jan 12}
+FFG11	30-Day Fed Funds (P) {Feb 11}
+FFG12	30-Day Fed Funds (P) {Feb 12}
+FFH11	30-Day Fed Funds (P) {Mar 11}
+FFH12	30-Day Fed Funds (P) {Mar 12}
+FFJ11	30-Day Fed Funds (P) {Apr 11}
+FFJ12	30-Day Fed Funds (P) {Apr 12}
+FFK11	30-Day Fed Funds (P) {May 11}
+FFK12	30-Day Fed Funds (P) {May 12}
+FFM11	30-Day Fed Funds (P) {Jun 11}
+FFN11	30-Day Fed Funds (P) {Jul 11}
+FFQ11	30-Day Fed Funds (P) {Aug 11}
+FFU11	30-Day Fed Funds (P) {Sep 11}
+FFV11	30-Day Fed Funds (P) {Oct 11}
+FFX11	30-Day Fed Funds (P) {Nov 11}
+FFZ11	30-Day Fed Funds (P) {Dec 11}
+FQ.C	Corn Calendar Swap Continuation
+FQF12	Corn Calendar Swap {Jan 12}
+FQG12	Corn Calendar Swap {Feb 12}
+FQH11	Corn Calendar Swap {Mar 11}
+FQH12	Corn Calendar Swap {Mar 12}
+FQJ11	Corn Calendar Swap {Apr 11}
+FQJ12	Corn Calendar Swap {Apr 12}
+FQK11	Corn Calendar Swap {May 11}
+FQK12	Corn Calendar Swap {May 12}
+FQM11	Corn Calendar Swap {Jun 11}
+FQM12	Corn Calendar Swap {Jun 12}
+FQN11	Corn Calendar Swap {Jul 11}
+FQN12	Corn Calendar Swap {Jul 12}
+FQN13	Corn Calendar Swap {Jul 13}
+FQQ11	Corn Calendar Swap {Aug 11}
+FQQ12	Corn Calendar Swap {Aug 12}
+FQU11	Corn Calendar Swap {Sep 11}
+FQU12	Corn Calendar Swap {Sep 12}
+FQV11	Corn Calendar Swap {Oct 11}
+FQV12	Corn Calendar Swap {Oct 12}
+FQX11	Corn Calendar Swap {Nov 11}
+FQX12	Corn Calendar Swap {Nov 12}
+FQZ11	Corn Calendar Swap {Dec 11}
+FQZ12	Corn Calendar Swap {Dec 12}
+FQZ13	Corn Calendar Swap {Dec 13}
+FR.C	Soybean Calendar Swa Continuation
+FRF12	Soybean Calendar Swa {Jan 12}
+FRG12	Soybean Calendar Swa {Feb 12}
+FRH11	Soybean Calendar Swa {Mar 11}
+FRH12	Soybean Calendar Swa {Mar 12}
+FRJ11	Soybean Calendar Swa {Apr 11}
+FRJ12	Soybean Calendar Swa {Apr 12}
+FRK11	Soybean Calendar Swa {May 11}
+FRK12	Soybean Calendar Swa {May 12}
+FRM11	Soybean Calendar Swa {Jun 11}
+FRM12	Soybean Calendar Swa {Jun 12}
+FRN11	Soybean Calendar Swa {Jul 11}
+FRN12	Soybean Calendar Swa {Jul 12}
+FRQ11	Soybean Calendar Swa {Aug 11}
+FRQ12	Soybean Calendar Swa {Aug 12}
+FRU11	Soybean Calendar Swa {Sep 11}
+FRU12	Soybean Calendar Swa {Sep 12}
+FRV11	Soybean Calendar Swa {Oct 11}
+FRV12	Soybean Calendar Swa {Oct 12}
+FRX11	Soybean Calendar Swa {Nov 11}
+FRX12	Soybean Calendar Swa {Nov 12}
+FRZ11	Soybean Calendar Swa {Dec 11}
+FU.C	Wheat Calendar Swap Continuation
+FUF12	Wheat Calendar Swap {Jan 12}
+FUG12	Wheat Calendar Swap {Feb 12}
+FUH11	Wheat Calendar Swap {Mar 11}
+FUH12	Wheat Calendar Swap {Mar 12}
+FUJ11	Wheat Calendar Swap {Apr 11}
+FUJ12	Wheat Calendar Swap {Apr 12}
+FUK11	Wheat Calendar Swap {May 11}
+FUK12	Wheat Calendar Swap {May 12}
+FUM11	Wheat Calendar Swap {Jun 11}
+FUM12	Wheat Calendar Swap {Jun 12}
+FUN11	Wheat Calendar Swap {Jul 11}
+FUN12	Wheat Calendar Swap {Jul 12}
+FUQ11	Wheat Calendar Swap {Aug 11}
+FUU11	Wheat Calendar Swap {Sep 11}
+FUV11	Wheat Calendar Swap {Oct 11}
+FUX11	Wheat Calendar Swap {Nov 11}
+FUZ11	Wheat Calendar Swap {Dec 11}
+FV.C	5-Year T-Note (P) Continuation
+FVH11	5-Year T-Note (P) {Mar 11}
+FVM11	5-Year T-Note (P) {Jun 11}
+FZ.C	Ethanol Forward Continuation
+FZF12	Ethanol Forward {Jan 12}
+FZG11	Ethanol Forward {Feb 11}
+FZG12	Ethanol Forward {Feb 12}
+FZH11	Ethanol Forward {Mar 11}
+FZH12	Ethanol Forward {Mar 12}
+FZJ11	Ethanol Forward {Apr 11}
+FZJ12	Ethanol Forward {Apr 12}
+FZK11	Ethanol Forward {May 11}
+FZK12	Ethanol Forward {May 12}
+FZM11	Ethanol Forward {Jun 11}
+FZM12	Ethanol Forward {Jun 12}
+FZN11	Ethanol Forward {Jul 11}
+FZN12	Ethanol Forward {Jul 12}
+FZQ11	Ethanol Forward {Aug 11}
+FZQ12	Ethanol Forward {Aug 12}
+FZU11	Ethanol Forward {Sep 11}
+FZU12	Ethanol Forward {Sep 12}
+FZV11	Ethanol Forward {Oct 11}
+FZV12	Ethanol Forward {Oct 12}
+FZX11	Ethanol Forward {Nov 11}
+FZX12	Ethanol Forward {Nov 12}
+FZZ11	Ethanol Forward {Dec 11}
+FZZ12	Ethanol Forward {Dec 12}
+J8.C	7-Year Swaps Continuation
+J8H11	7-Year Swaps {Mar 11}
+J8M11	7-Year Swaps {Jun 11}
+JD	DJ UBS Comm TR Index
+NI.C	10-Year Swaps (P) Continuation
+NIH11	10-Year Swaps (P) {Mar 11}
+NIM11	10-Year Swaps (P) {Jun 11}
+NJ.C	5-Year Swaps (P) Continuation
+NJH11	5-Year Swaps (P) {Mar 11}
+NJM11	5-Year Swaps (P) {Jun 11}
+NZ.C	30-Year Swaps (P) Continuation
+NZH11	30-Year Swaps (P) {Mar 11}
+NZM11	30-Year Swaps (P) {Jun 11}
+O	Oats (P)
+O.C	Oats (P) Continuation
+OH11	Oats (P) {Mar 11}
+OH12	Oats (P) {Mar 12}
+OK11	Oats (P) {May 11}
+OK12	Oats (P) {May 12}
+ON11	Oats (P) {Jul 11}
+ON12	Oats (P) {Jul 12}
+OU11	Oats (P) {Sep 11}
+OU12	Oats (P) {Sep 12}
+OZ11	Oats (P) {Dec 11}
+QS.C	30-Year Swaps Continuation
+QSH11	30-Year Swaps {Mar 11}
+QSM11	30-Year Swaps {Jun 11}
+RR	Rough Rice (P)
+RR.C	Rough Rice (P) Continuation
+RRF12	Rough Rice (P) {Jan 12}
+RRH11	Rough Rice (P) {Mar 11}
+RRK11	Rough Rice (P) {May 11}
+RRN11	Rough Rice (P) {Jul 11}
+S	Soybeans (P)
+S.C	Soybeans (P) Continuation
+SA.C	5-Year Swaps Continuation
+SAH11	5-Year Swaps {Mar 11}
+SAM11	5-Year Swaps {Jun 11}
+SF12	Soybeans (P) {Jan 12}
+SF13	Soybeans (P) {Jan 13}
+SH11	Soybeans (P) {Mar 11}
+SH12	Soybeans (P) {Mar 12}
+SH13	Soybeans (P) {Mar 13}
+SK11	Soybeans (P) {May 11}
+SK12	Soybeans (P) {May 12}
+SK13	Soybeans (P) {May 13}
+SM	Soybean Meal (P)
+SM.C	Soybean Meal (P) Continuation
+SMF12	Soybean Meal (P) {Jan 12}
+SMH11	Soybean Meal (P) {Mar 11}
+SMH12	Soybean Meal (P) {Mar 12}
+SMK11	Soybean Meal (P) {May 11}
+SMK12	Soybean Meal (P) {May 12}
+SMN11	Soybean Meal (P) {Jul 11}
+SMN12	Soybean Meal (P) {Jul 12}
+SMN13	Soybean Meal (P) {Jul 13}
+SMQ11	Soybean Meal (P) {Aug 11}
+SMQ12	Soybean Meal (P) {Aug 12}
+SMU11	Soybean Meal (P) {Sep 11}
+SMU12	Soybean Meal (P) {Sep 12}
+SMV11	Soybean Meal (P) {Oct 11}
+SMV12	Soybean Meal (P) {Oct 12}
+SMV13	Soybean Meal (P) {Oct 13}
+SMZ11	Soybean Meal (P) {Dec 11}
+SMZ12	Soybean Meal (P) {Dec 12}
+SMZ13	Soybean Meal (P) {Dec 13}
+SN11	Soybeans (P) {Jul 11}
+SN12	Soybeans (P) {Jul 12}
+SN13	Soybeans (P) {Jul 13}
+SN14	Soybeans (P) {Jul 14}
+SQ11	Soybeans (P) {Aug 11}
+SQ12	Soybeans (P) {Aug 12}
+SQ13	Soybeans (P) {Aug 13}
+SR.C	10-Year Swaps Continuation
+SRH11	10-Year Swaps {Mar 11}
+SRM11	10-Year Swaps {Jun 11}
+SU11	Soybeans (P) {Sep 11}
+SU12	Soybeans (P) {Sep 12}
+SU13	Soybeans (P) {Sep 13}
+SX11	Soybeans (P) {Nov 11}
+SX12	Soybeans (P) {Nov 12}
+SX13	Soybeans (P) {Nov 13}
+SX14	Soybeans (P) {Nov 14}
+TF.C	3-Year T-Note (P) Continuation
+TFH11	3-Year T-Note (P) {Mar 11}
+TFM11	3-Year T-Note (P) {Jun 11}
+TFU11	3-Year T-Note (P) {Sep 11}
+TFZ11	3-Year T-Note (P) {Dec 11}
+TU.C	2-Year T-Note (P) Continuation
+TUH11	2-Year T-Note (P) {Mar 11}
+TUM11	2-Year T-Note (P) {Jun 11}
+TY.C	10-Year T-Note (P) Continuation
+TYH11	10-Year T-Note (P) {Mar 11}
+TYM11	10-Year T-Note (P) {Jun 11}
+UD.C	Ultra T-Bond Continuation
+UDH11	Ultra T-Bond {Mar 11}
+UDM11	Ultra T-Bond {Jun 11}
+UDU11	Ultra T-Bond {Sep 11}
+W	Wheat (P)
+W.C	Wheat (P) Continuation
+WH11	Wheat (P) {Mar 11}
+WH12	Wheat (P) {Mar 12}
+WK11	Wheat (P) {May 11}
+WK12	Wheat (P) {May 12}
+WN11	Wheat (P) {Jul 11}
+WN12	Wheat (P) {Jul 12}
+WU11	Wheat (P) {Sep 11}
+WZ11	Wheat (P) {Dec 11}
+XK.C	Soybeans mini-sized Continuation
+XKF12	Soybeans mini-sized {Jan 12}
+XKF13	Soybeans mini-sized {Jan 13}
+XKH11	Soybeans mini-sized {Mar 11}
+XKH12	Soybeans mini-sized {Mar 12}
+XKH13	Soybeans mini-sized {Mar 13}
+XKK11	Soybeans mini-sized {May 11}
+XKK12	Soybeans mini-sized {May 12}
+XKK13	Soybeans mini-sized {May 13}
+XKN11	Soybeans mini-sized {Jul 11}
+XKN12	Soybeans mini-sized {Jul 12}
+XKN13	Soybeans mini-sized {Jul 13}
+XKN14	Soybeans mini-sized {Jul 14}
+XKQ11	Soybeans mini-sized {Aug 11}
+XKQ12	Soybeans mini-sized {Aug 12}
+XKQ13	Soybeans mini-sized {Aug 13}
+XKU11	Soybeans mini-sized {Sep 11}
+XKU12	Soybeans mini-sized {Sep 12}
+XKU13	Soybeans mini-sized {Sep 13}
+XKX11	Soybeans mini-sized {Nov 11}
+XKX12	Soybeans mini-sized {Nov 12}
+XKX13	Soybeans mini-sized {Nov 13}
+XKX14	Soybeans mini-sized {Nov 14}
+XN.C	Corn mini-sized Continuation
+XNH11	Corn mini-sized {Mar 11}
+XNH12	Corn mini-sized {Mar 12}
+XNK11	Corn mini-sized {May 11}
+XNK12	Corn mini-sized {May 12}
+XNN11	Corn mini-sized {Jul 11}
+XNN12	Corn mini-sized {Jul 12}
+XNN13	Corn mini-sized {Jul 13}
+XNU11	Corn mini-sized {Sep 11}
+XNU12	Corn mini-sized {Sep 12}
+XNZ11	Corn mini-sized {Dec 11}
+XNZ12	Corn mini-sized {Dec 12}
+XNZ13	Corn mini-sized {Dec 13}
+XW.C	Wheat mini-sized Continuation
+XWH11	Wheat mini-sized {Mar 11}
+XWH12	Wheat mini-sized {Mar 12}
+XWK11	Wheat mini-sized {May 11}
+XWK12	Wheat mini-sized {May 12}
+XWN11	Wheat mini-sized {Jul 11}
+XWN12	Wheat mini-sized {Jul 12}
+XWU11	Wheat mini-sized {Sep 11}
+XWZ11	Wheat mini-sized {Dec 11}
+YC.C	Corn mini-sized (P) Continuation
+YCH11	Corn mini-sized (P) {Mar 11}
+YCH12	Corn mini-sized (P) {Mar 12}
+YCK11	Corn mini-sized (P) {May 11}
+YCK12	Corn mini-sized (P) {May 12}
+YCN11	Corn mini-sized (P) {Jul 11}
+YCN12	Corn mini-sized (P) {Jul 12}
+YCN13	Corn mini-sized (P) {Jul 13}
+YCU11	Corn mini-sized (P) {Sep 11}
+YCU12	Corn mini-sized (P) {Sep 12}
+YCZ11	Corn mini-sized (P) {Dec 11}
+YCZ12	Corn mini-sized (P) {Dec 12}
+YCZ13	Corn mini-sized (P) {Dec 13}
+YE.C	Eurodollars mini-siz Continuation
+YEH11	Eurodollars mini-siz {Mar 11}
+YEM11	Eurodollars mini-siz {Jun 11}
+YK.C	Soybeans mini-siz(P) Continuation
+YKF12	Soybeans mini-siz(P) {Jan 12}
+YKF13	Soybeans mini-siz(P) {Jan 13}
+YKH11	Soybeans mini-siz(P) {Mar 11}
+YKH12	Soybeans mini-siz(P) {Mar 12}
+YKH13	Soybeans mini-siz(P) {Mar 13}
+YKK11	Soybeans mini-siz(P) {May 11}
+YKK12	Soybeans mini-siz(P) {May 12}
+YKK13	Soybeans mini-siz(P) {May 13}
+YKN11	Soybeans mini-siz(P) {Jul 11}
+YKN12	Soybeans mini-siz(P) {Jul 12}
+YKN13	Soybeans mini-siz(P) {Jul 13}
+YKN14	Soybeans mini-siz(P) {Jul 14}
+YKQ11	Soybeans mini-siz(P) {Aug 11}
+YKQ12	Soybeans mini-siz(P) {Aug 12}
+YKQ13	Soybeans mini-siz(P) {Aug 13}
+YKU11	Soybeans mini-siz(P) {Sep 11}
+YKU12	Soybeans mini-siz(P) {Sep 12}
+YKU13	Soybeans mini-siz(P) {Sep 13}
+YKX11	Soybeans mini-siz(P) {Nov 11}
+YKX12	Soybeans mini-siz(P) {Nov 12}
+YKX13	Soybeans mini-siz(P) {Nov 13}
+YKX14	Soybeans mini-siz(P) {Nov 14}
+YM	DJIA mini-sized
+YM.C	DJIA mini-sized Continuation
+YMH11	DJIA mini-sized {Mar 11}
+YMM11	DJIA mini-sized {Jun 11}
+YW.C	Wheat mini-sized (P) Continuation
+YWH11	Wheat mini-sized (P) {Mar 11}
+YWH12	Wheat mini-sized (P) {Mar 12}
+YWK11	Wheat mini-sized (P) {May 11}
+YWK12	Wheat mini-sized (P) {May 12}
+YWN11	Wheat mini-sized (P) {Jul 11}
+YWN12	Wheat mini-sized (P) {Jul 12}
+YWU11	Wheat mini-sized (P) {Sep 11}
+YWZ11	Wheat mini-sized (P) {Dec 11}
+ZB.C	T-Bond Continuation
+ZBH11	T-Bond {Mar 11}
+ZBM11	T-Bond {Jun 11}
+ZBU11	T-Bond {Sep 11}
+ZC	Corn
+ZC.C	Corn Continuation
+ZCH11	Corn {Mar 11}
+ZCH12	Corn {Mar 12}
+ZCK11	Corn {May 11}
+ZCK12	Corn {May 12}
+ZCN11	Corn {Jul 11}
+ZCN12	Corn {Jul 12}
+ZCN13	Corn {Jul 13}
+ZCU11	Corn {Sep 11}
+ZCU12	Corn {Sep 12}
+ZCZ11	Corn {Dec 11}
+ZCZ12	Corn {Dec 12}
+ZCZ13	Corn {Dec 13}
+ZD.C	DJIA (E) Continuation
+ZDH11	DJIA (E) {Mar 11}
+ZDM11	DJIA (E) {Jun 11}
+ZE.C	3-Year T-Note Continuation
+ZEH11	3-Year T-Note {Mar 11}
+ZEM11	3-Year T-Note {Jun 11}
+ZF	5-Year T-Note
+ZF.C	5-Year T-Note Continuation
+ZFH11	5-Year T-Note {Mar 11}
+ZFM11	5-Year T-Note {Jun 11}
+ZK	Ethanol Futures
+ZK.C	Ethanol Futures Continuation
+ZKF12	Ethanol Futures {Jan 12}
+ZKF13	Ethanol Futures {Jan 13}
+ZKG12	Ethanol Futures {Feb 12}
+ZKG13	Ethanol Futures {Feb 13}
+ZKH11	Ethanol Futures {Mar 11}
+ZKH12	Ethanol Futures {Mar 12}
+ZKH13	Ethanol Futures {Mar 13}
+ZKJ11	Ethanol Futures {Apr 11}
+ZKJ12	Ethanol Futures {Apr 12}
+ZKJ13	Ethanol Futures {Apr 13}
+ZKK11	Ethanol Futures {May 11}
+ZKK12	Ethanol Futures {May 12}
+ZKK13	Ethanol Futures {May 13}
+ZKM11	Ethanol Futures {Jun 11}
+ZKM12	Ethanol Futures {Jun 12}
+ZKM13	Ethanol Futures {Jun 13}
+ZKN11	Ethanol Futures {Jul 11}
+ZKN12	Ethanol Futures {Jul 12}
+ZKQ11	Ethanol Futures {Aug 11}
+ZKQ12	Ethanol Futures {Aug 12}
+ZKU11	Ethanol Futures {Sep 11}
+ZKU12	Ethanol Futures {Sep 12}
+ZKV11	Ethanol Futures {Oct 11}
+ZKV12	Ethanol Futures {Oct 12}
+ZKX11	Ethanol Futures {Nov 11}
+ZKX12	Ethanol Futures {Nov 12}
+ZKZ11	Ethanol Futures {Dec 11}
+ZKZ12	Ethanol Futures {Dec 12}
+ZL	Soybean Oil
+ZL.C	Soybean Oil Continuation
+ZLF12	Soybean Oil {Jan 12}
+ZLH11	Soybean Oil {Mar 11}
+ZLH12	Soybean Oil {Mar 12}
+ZLK11	Soybean Oil {May 11}
+ZLK12	Soybean Oil {May 12}
+ZLN11	Soybean Oil {Jul 11}
+ZLN12	Soybean Oil {Jul 12}
+ZLN13	Soybean Oil {Jul 13}
+ZLQ11	Soybean Oil {Aug 11}
+ZLQ12	Soybean Oil {Aug 12}
+ZLU11	Soybean Oil {Sep 11}
+ZLU12	Soybean Oil {Sep 12}
+ZLV11	Soybean Oil {Oct 11}
+ZLV12	Soybean Oil {Oct 12}
+ZLV13	Soybean Oil {Oct 13}
+ZLZ11	Soybean Oil {Dec 11}
+ZLZ12	Soybean Oil {Dec 12}
+ZLZ13	Soybean Oil {Dec 13}
+ZM	Soybean Meal
+ZM.C	Soybean Meal Continuation
+ZMF12	Soybean Meal {Jan 12}
+ZMH11	Soybean Meal {Mar 11}
+ZMH12	Soybean Meal {Mar 12}
+ZMK11	Soybean Meal {May 11}
+ZMK12	Soybean Meal {May 12}
+ZMN11	Soybean Meal {Jul 11}
+ZMN12	Soybean Meal {Jul 12}
+ZMN13	Soybean Meal {Jul 13}
+ZMQ11	Soybean Meal {Aug 11}
+ZMQ12	Soybean Meal {Aug 12}
+ZMU11	Soybean Meal {Sep 11}
+ZMU12	Soybean Meal {Sep 12}
+ZMV11	Soybean Meal {Oct 11}
+ZMV12	Soybean Meal {Oct 12}
+ZMV13	Soybean Meal {Oct 13}
+ZMZ11	Soybean Meal {Dec 11}
+ZMZ12	Soybean Meal {Dec 12}
+ZMZ13	Soybean Meal {Dec 13}
+ZN.C	10-Year T-Note Continuation
+ZNH11	10-Year T-Note {Mar 11}
+ZNH12	10-Year T-Note {Mar 12}
+ZNM11	10-Year T-Note {Jun 11}
+ZNU11	10-Year T-Note {Sep 11}
+ZNZ11	10-Year T-Note {Dec 11}
+ZO	Oats
+ZO.C	Oats Continuation
+ZOH11	Oats {Mar 11}
+ZOH12	Oats {Mar 12}
+ZOK11	Oats {May 11}
+ZOK12	Oats {May 12}
+ZON11	Oats {Jul 11}
+ZON12	Oats {Jul 12}
+ZOU11	Oats {Sep 11}
+ZOU12	Oats {Sep 12}
+ZOZ11	Oats {Dec 11}
+ZQ	30-Day Fed Funds
+ZQ.C	30-Day Fed Funds Continuation
+ZQF12	30-Day Fed Funds {Jan 12}
+ZQG11	30-Day Fed Funds {Feb 11}
+ZQG12	30-Day Fed Funds {Feb 12}
+ZQH11	30-Day Fed Funds {Mar 11}
+ZQH12	30-Day Fed Funds {Mar 12}
+ZQJ11	30-Day Fed Funds {Apr 11}
+ZQJ12	30-Day Fed Funds {Apr 12}
+ZQK11	30-Day Fed Funds {May 11}
+ZQK12	30-Day Fed Funds {May 12}
+ZQM11	30-Day Fed Funds {Jun 11}
+ZQN11	30-Day Fed Funds {Jul 11}
+ZQQ11	30-Day Fed Funds {Aug 11}
+ZQU11	30-Day Fed Funds {Sep 11}
+ZQV11	30-Day Fed Funds {Oct 11}
+ZQX11	30-Day Fed Funds {Nov 11}
+ZQZ11	30-Day Fed Funds {Dec 11}
+ZR.C	Rough Rice Continuation
+ZRF12	Rough Rice {Jan 12}
+ZRH11	Rough Rice {Mar 11}
+ZRK11	Rough Rice {May 11}
+ZRN11	Rough Rice {Jul 11}
+ZS	Soybeans
+ZS.C	Soybeans Continuation
+ZSF12	Soybeans {Jan 12}
+ZSF13	Soybeans {Jan 13}
+ZSH11	Soybeans {Mar 11}
+ZSH12	Soybeans {Mar 12}
+ZSH13	Soybeans {Mar 13}
+ZSK11	Soybeans {May 11}
+ZSK12	Soybeans {May 12}
+ZSK13	Soybeans {May 13}
+ZSN11	Soybeans {Jul 11}
+ZSN12	Soybeans {Jul 12}
+ZSN13	Soybeans {Jul 13}
+ZSN14	Soybeans {Jul 14}
+ZSQ11	Soybeans {Aug 11}
+ZSQ12	Soybeans {Aug 12}
+ZSQ13	Soybeans {Aug 13}
+ZSU11	Soybeans {Sep 11}
+ZSU12	Soybeans {Sep 12}
+ZSU13	Soybeans {Sep 13}
+ZSX11	Soybeans {Nov 11}
+ZSX12	Soybeans {Nov 12}
+ZSX13	Soybeans {Nov 13}
+ZSX14	Soybeans {Nov 14}
+ZT	2-Year T-Note
+ZT.C	2-Year T-Note Continuation
+ZTH11	2-Year T-Note {Mar 11}
+ZTM11	2-Year T-Note {Jun 11}
+ZW	Wheat
+ZW.C	Wheat Continuation
+ZWH11	Wheat {Mar 11}
+ZWH12	Wheat {Mar 12}
+ZWK11	Wheat {May 11}
+ZWK12	Wheat {May 12}
+ZWN11	Wheat {Jul 11}
+ZWN12	Wheat {Jul 12}
+ZWU11	Wheat {Sep 11}
+ZWZ11	Wheat {Dec 11}

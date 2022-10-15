@@ -1,0 +1,1344 @@
+Symbol	Description
+500.SI	Tai Sin Electric Limited
+502.SI	Hsr Global Limited
+504.SI	Klw Holdings Ltd
+505.SI	Asiamedic Limited
+508.SI	Fuji Offset Plates Mfg Ltd
+510.SI	Hiap Seng Engineering Ltd
+519.SI	Top Global Limited
+520.SI	Advanced Systems Automation
+526.SI	Hg Metal Manufacturing Ltd
+528.SI	Second Chance Properties Ltd
+529.SI	Food Junction Holdings Limited
+530.SI	China Titanium Ltd.
+532.SI	Equation Corp Limited
+533.SI	Abr Holdings Limited
+535.SI	Vibropower Corporation Limited
+536.SI	Goldtron Limited
+538.SI	Asj Holdings Ltd
+539.SI	Cph Ltd
+540.SI	Tung Lok Restaurants 2000 Ltd
+541.SI	Craft Print International Ltd
+542.SI	Giken Sakata (s) Limited
+543.SI	Noel Gifts International Ltd
+544.SI	Cse Global Ltd
+545.SI	Vallianz Holdings Limited
+546.SI	Medtecs International Corp Ltd
+547.SI	Nobel Design Holdings Ltd
+550.SI	Elite Ksb Holdings Limited
+552.SI	Qian Hu Corporation Limited
+553.SI	Maveric Ltd.
+554.SI	King Wan Corporation Limited
+557.SI	Viking Offshore And Marine Ltd
+558.SI	Ums Holdings Limited
+559.SI	Falmac Limited
+560.SI	Aztech Group Ltd.
+561.SI	Teckwah Industrial Corp Ltd
+564.SI	Spindex Industries Limited
+565.SI	Shc Capital Limited
+566.SI	See Hup Seng Limited
+567.SI	Colex Holdings Limited
+568.SI	Baker Technology Limited
+569.SI	Vicplas International Ltd
+570.SI	Transit-mixed Concrete Ltd
+571.SI	International Press Softcom
+573.SI	Challenger Technologies Ltd
+574.SI	Tsh Corporation Limited
+575.SI	Asti Holdings Limited
+576.SI	Magnus Energy Group Ltd.
+578.SI	Ks Energy Services Limited
+579.SI	Oceanus Group Limited
+580.SI	Santak Holdings Limited
+581.SI	Ite Electric Co Ltd
+583.SI	Progen Holdings Ltd
+584.SI	Oakwell Engineering Limited
+585.SI	Asian Micro Holdings Ltd
+586.SI	Tmc Education Corporation Ltd
+587.SI	Lereno Bio-chem Ltd.
+588.SI	Health Management Intl Ltd
+589.SI	Sapphire Corporation Limited
+591.SI	Innovalues Limited
+592.SI	China Healthcare Limited
+593.SI	Lee Metal Group Ltd
+594.SI	Sim Siang Choon Limited
+595.SI	Van Der Horst Energy Limited
+596.SI	Thai Village Holdings Ltd
+597.SI	Nel Group Ltd.
+5AB.SI	Trek 2000 Int'l Ltd
+5AC.SI	Nh Ceramics Ltd
+5AE.SI	Pollux Properties Ltd.
+5AI.SI	Sunlight Group Hldg Ltd
+5AJ.SI	E3 Holdings Ltd.
+5AL.SI	Annica Holdings Limited
+5AM.SI	Asiatravel.com Holdings Ltd
+5AN.SI	Unidux Electronics Limited
+5AU.SI	Ap Oil International Limited
+5BA.SI	Vashion Group Ltd.
+5BH.SI	Lantrovision (s) Ltd
+5BI.SI	Carriernet Global Ltd
+5BK.SI	Koda Ltd
+5BL.SI	Kyodo-allied Industries Ltd
+5BM.SI	Mfs Technology Ltd
+5BQ.SI	Swing Media Technology Grp Ltd
+5BS.SI	Pne Micron Holdings Ltd
+5BT.SI	Moya Dayen Limited
+5CB.SI	Darco Water Technologies Ltd
+5CE.SI	Singxpress Ltd.
+5CF.SI	Okp Holdings Limited
+5CH.SI	Dmx Technologies Group Ltd
+5CJ.SI	Chinese Global Investors Grp
+5CN.SI	Sinwa Limited
+5CP.SI	Silverlake Axis Ltd
+5CQ.SI	Technics Oil & Gas Limited
+5CR.SI	Asiatic Group (holdings) Ltd
+5CS.SI	Infinio Group Limited
+5CT.SI	Ecowise Holdings Limited
+5DA.SI	Breadtalk Group Limited
+5DC.SI	Radiance Group Limited
+5DD.SI	Micro-mechanics (holdings) Ltd
+5DE.SI	Ems Energy Limited
+5DL.SI	Koon Holdings Limited
+5DM.SI	Ying Li Intl Real Estate Ltd
+5DN.SI	Ezra Holdings Limited
+5DO.SI	Sakae Holdings Ltd.
+5DP.SI	Heeton Holdings Limited
+5DR.SI	Edmi Limited
+5DS.SI	Megachem Limited
+5DT.SI	Bright Orient (holding) Ltd.
+5DW.SI	Renewable Energy Asia Grp Ltd
+5DX.SI	Metal Component Engg Ltd
+5EB.SI	Cfm Holdings Limited
+5EC.SI	Asiasons Wfg Financial Ltd.
+5EF.SI	Adventus Holdings Limited
+5EG.SI	New Lakeside Holdings Limited
+5EK.SI	Armarda Group Limited
+5EL.SI	Lasseters Intl Holdings Ltd
+5EN.SI	Midas Hldgs Limited
+5ER.SI	Best World International Ltd
+5ET.SI	Asiasons Capital Limited
+5EV.SI	Hosen Group Ltd
+5EW.SI	Pan Asian Water Solutions Ltd
+5EZ.SI	Adampak Limited
+5FA.SI	Jep Holdings Ltd.
+5FD.SI	Swissco Holdings Limited
+5FF.SI	Medi-flex Limited
+5FH.SI	Advance Sct Limited
+5FI.SI	Oriental Food (holdings) Ltd.
+5FJ.SI	Junma Tyre Cord Company Ltd
+5FK.SI	China Fashion Holdings Limited
+5FL.SI	Falcon Energy Group Limited
+5FQ.SI	Select Group Limited
+5FR.SI	Etika International Hldgs Ltd
+5FU.SI	Hartawan Hldgs Ltd
+5FW.SI	Linair Technologies Limited
+5FX.SI	New Wave Holdings Ltd.
+5GB.SI	Asia Water Technology Ltd.
+5GC.SI	Cna Group Ltd.
+5GD.SI	Sunpower Group Ltd.
+5GF.SI	Nico Steel Holdings Limited
+5GI.SI	Interra Resources Limited
+5GJ.SI	Ausgroup Limited
+5GP.SI	Asia Silk Holdings Limited
+5GZ.SI	Aa Group Holdings Ltd.
+5HC.SI	Ntegrator International Ltd
+5HG.SI	Oniontech Limited
+5HH.SI	Hln Technologies Limited
+5HJ.SI	Cityneon Holdings Limited
+5HT.SI	Communication Design Intl Ltd
+5HV.SI	Metax Engineering Corp Limited
+5HW.SI	Scorpio East Holdings Ltd.
+5IA.SI	Advanced Holdings Ltd.
+5IB.SI	Albedo Limited
+5IC.SI	Sing Holdings Limited
+5IE.SI	Lorenzo International Limited
+5IF.SI	Natural Cool Holdings Limited
+5IG.SI	Gallant Venture Ltd.
+5IH.SI	Fastube Limited
+5II.SI	Oriental Century Limited
+5ILW.SI	Baker Technology W110613
+5IM.SI	Gmg Global Ltd
+5JAW.SI	Lereno Bio-chem Ltd W110728
+5JK.SI	Hiap Hoe Limited
+5JL.SI	Time Watch Investments Limited
+5JS.SI	Indofood Agri Resources Ltd.
+5JT.SI	Kinergy Ltd.
+5JY.SI	Hup Soon Global Corp Ltd
+5KH.SI	Travelite Holdings Ltd.
+5KI.SI	Soup Restaurant Group Limited
+5KK.SI	China Yongsheng Limited
+5KT.SI	Fujian Zhenyun Plas Ind Co Ltd
+5KU.SI	Eastern Holdings Ltd
+5KX.SI	The Lexicon Group Limited
+5LE.SI	Sitra Holdings (intl) Limited
+5LU.SI	Rokko Holdings Ltd.
+5LY.SI	Marco Polo Marine Ltd.
+5MC.SI	Beng Kuang Marine Limited
+5MD.SI	Soon Lian Holdings Limited
+5ME.SI	Ezion Holdings Limited
+5ML.SI	Old Chang Kee Ltd.
+5MM.SI	Sky One Holdings Limited
+5MQ.SI	Epicentre Holdings Limited
+5MS.SI	Memstar Technology Ltd.
+5MUW.SI	Vashion Group W130213
+5MZ.SI	Kingsmen Creatives Ltd
+5NAW.SI	Tee International Ltd W110427
+5NDW.SI	Top Global Limited W130612
+5NEW.SI	Natural Cool W110701
+5NF.SI	Mencast Holdings Ltd.
+5NG.SI	Healthway Medical Corp Ltd
+5NH.SI	St. James Holdings Limited
+5NK.SI	Artivision Technologies Ltd.
+5NL.SI	Tritech Group Limited
+5NN.SI	Qualitas Medical Group Limited
+5NV.SI	Chasen Holdings Limited
+5NZW.SI	Infinio Group Limited W111223
+5OC.SI	Koyo International Limited
+5OF.SI	Westminster Travel Limited
+5OI.SI	Japan Foods Holding Ltd.
+5OQ.SI	Teho International Inc Ltd.
+5OR.SI	Heatec Jietong Holdings Ltd.
+5OS.SI	Jlj Holdings Limited
+5OT.SI	Singapore Medical Group Ltd
+5OU.SI	China Environment Ltd.
+5OX.SI	Mary Chia Holdings Limited
+5OY.SI	Latitude Tree Intl Group Ltd.
+5PC.SI	Goodland Group Limited
+5PD.SI	Hengyang Petrochem Log Limited
+5PEW.SI	Ntegrator Intl Ltd W121011
+5PF.SI	Jason Marine Group Limited
+5PI.SI	Plato Capital Limited
+5PL.SI	Sbi Offshore Limited
+5PO.SI	Hiap Tong Corporation Ltd.
+5PP.SI	Hafary Holdings Limited
+5PVW.SI	Viking W130118
+5QAW.SI	Asia Water Tech Ltd W110818
+5QIB.SI	Eunetworks Group Cb130401
+5QMW.SI	Tritech Group Limited W130408
+5QQW.SI	Chasen Holdings W150506
+5QR.SI	Mann Seng Metal Intl Limited
+5QSW.SI	Lereno Bio-chem Ltd W150430
+5QT.SI	China Enersave Ltd
+5QY.SI	Net Pacific Fin Hldgs Ltd
+5QZ.SI	Ccm Group Limited
+5RA.SI	Asia-pacific Strategic Inv Ltd
+5RBW.SI	Asia-pacific Strategic W140516
+5RC.SI	Es Group (holdings) Limited
+5RE.SI	Smartflex Holdings Ltd
+5RF.SI	Friven & Co. Ltd.
+5RHW.SI	Net Pacific Fin Hldgs W150721
+5RIW.SI	Klw Holdings Ltd W120815
+5RJ.SI	Westech Electronics Limited
+5RK.SI	Kreuz Holdings Limited
+5RTW.SI	Old Chang Kee W130906
+5RWW.SI	Top Global Limited W150929
+5SC.SI	Oxley Holdings Limited
+5SEW.SI	China Titanium Ltd W121114
+5SGW.SI	Ntegrator Intl Ltd W131206
+5SMW.SI	Pan Asian Water Solns W130111
+5SNW.SI	Pollux Properties Ltd. W130330
+5SO.SI	Esmart Holdings Limited
+5SPR.SI	Goodland Group Limited R
+5SQR.SI	Goodland Group Limited R100
+5SR.SI	Zhongmin Baihui Retail Grp Ltd
+5SS.SI	Harry's Holdings Ltd.
+5STW.SI	Infinio Group Limited W130125
+5SUW.SI	Esmart Holdings Limitedw160106
+5SV.SI	Esmart Holdings Limited 50
+5SXW.SI	Goodland Group Limited W160217
+5SY.SI	Chew's Group Limited
+5SZR.SI	Asia Water Technology Ltd R
+5TAR.SI	Asia Water Technology Ltd R500
+600.SI	Hyflux Ltd
+A01.SI	China Auto Corporation Ltd.
+A02.SI	Achieva Limited
+A03.SI	Asia Power Corp Ltd
+A04.SI	Asl Marine Holdings Ltd
+A05.SI	Avjennings Limited
+A0G.SI	China Energy Limited
+A0P.SI	Macarthurcook Prop Sec Fund
+A0W.SI	Lyxor Commodities Crb Fund 10
+A10.SI	Aem Holdings Ltd
+A13.SI	Allied Technologies Limited
+A14.SI	Armstrong Industrial Corp Ltd
+A15.SI	Aussino Group Ltd
+A16.SI	Allgreen Properties Ltd
+A17U.SI	Ascendas Real Estate Inv Trust
+A18.SI	Aei Corporation Ltd
+A19.SI	Autron Corporation Limited
+A23.SI	Auric Pacific Group Limited
+A24.SI	Leeden Limited
+A26.SI	Afp Properties Limited
+A27.SI	Mdr Limited
+A30.SI	Aspial Corporation Limited
+A31.SI	Addvalue Technologies Ltd
+A33.SI	Adroit Innovations Limited
+A34.SI	Amara Holdings Ltd
+A35.SI	Abf Spore Bond Index Fund Etf
+A46.SI	Asia Pacific Breweries Ltd
+A48U.SI	Frasers Commercial Trust
+A50.SI	Rowsley Ltd.
+A52.SI	Annaik Limited
+A53.SI	A-sonic Aerospace Limited
+A54.SI	Adv Integrated Mfg Corp Ltd
+A55.SI	Asia Enterprises Holding Ltd
+A58.SI	Asia Environment Holdings Ltd
+A59.SI	Action Asia Limited
+A61.SI	Luye Pharma Group Ltd.
+A68U.SI	Ascott Residence Trust
+A69.SI	Azeus Systems Holdings Ltd.
+A6F.SI	Unionmet (singapore) Limited
+A75.SI	Ace Achieve Infocom Limited
+A78.SI	The Think Environmental Co Ltd
+A7RU.SI	Cityspring Infrastruct Trust
+A7S.SI	Sunvic Chemical Holdings Ltd
+A8J.SI	China Farm Equipment Limited
+A8KW.SI	Compactmetalindustries W120213
+A9A.SI	Lyxor Msci Taiwan Index Fund10
+A9B.SI	Lyxor Hang Seng Index Fund 10
+AD7.SI	China Bearing (singapore) Ltd.
+AD8.SI	Sino Techfibre Limited
+AI1.SI	Texchem-pack Holdings (s) Ltd.
+AJ1.SI	Straits Asia Resources Limited
+AJ2.SI	Ouhua Energy Holdings Limited
+AK3.SI	Swiber Holdings Limited
+AM3.SI	Gems Tv Holdings Limited
+AO9.SI	Lyxor Korea 10
+AP4.SI	Riverstone Holdings Limited
+AS5.SI	Hsu Fu Chi International Ltd
+AU8U.SI	Capitaretail China Trust
+AV5.SI	Chemoil Energy Limited
+AW9U.SI	First Real Estate Inv Trust
+B03.SI	Brc Asia Limited
+B07.SI	Next-gen Satellite Comm Ltd
+B08.SI	British & Malayan Trustees Ltd
+B0I.SI	Foreland Fabrictech Hlds Ltd
+B0Z.SI	China Fishery Group Limited
+B10.SI	Boardroom Limited
+B16.SI	Guocoleisure Limited
+B19.SI	Beyonicstechnology Limited
+B1N.SI	Delong Holdings Limited
+B1ZU.SI	Rickmers Maritime
+B20.SI	Biosensors Int'l Group, Ltd.
+B22.SI	Bio-treat Technology Limited
+B26.SI	Ban Leong Technologies Limited
+B28.SI	Bonvests Holdings Ltd
+B2F.SI	M1 Limited
+B2VW.SI	Eastgate Technology W120514
+B2W.SI	Total Access Comm Pub Co Ltd
+B2X.SI	China Yuanbang Prop Hldgs Ltd
+B32.SI	Bh Global Marine Limited
+B3C.SI	China Print Power Group Ltd
+B49.SI	Bright World Precision Mac Ltd
+B4PW.SI	Upp Holdings W120529
+B58.SI	Banyan Tree Holdings Limited
+B61.SI	Bukit Sembawang Estates Ltd
+B64.SI	Berger International Limited
+B66.SI	Pt Berlian Laju Tanker Tbk
+B69.SI	Broadway Industrial Group Ltd
+B73.SI	Global Investments Limited
+B7K.SI	Sin Ghee Huat Corporation Ltd.
+B9R.SI	China Xlx Fertiliser Ltd.
+B9S.SI	Cosmosteel Holdings Limited
+BN2.SI	Valuetronics Holdings Limited
+BN4.SI	Keppel Corporation Limited
+BR9.SI	China Hongxing Sports Limited
+BS6.SI	Yangzijiang Shipbldg Hldgs Ltd
+BU5U.SI	Aims Amp Cap Industrial Reit
+C02.SI	Compact Metal Industries Ltd
+C03.SI	China Merchants Prop Devtcoltd
+C04.SI	Casa Holdings Limited
+C05.SI	Chemical Industries (f.e.) Ltd
+C06.SI	Csc Holdings Ltd
+C07.SI	Jardine Cycle & Carriage Ltd
+C09.SI	City Developments Limited
+C0Z.SI	China Hongcheng Holdings Ltd
+C10.SI	Chosen Holdings Limited
+C11.SI	Cei Contract Manufacturing Ltd
+C13.SI	Ch Offshore Ltd
+C14.SI	Cwt Limited
+C16.SI	Chinasing Investment Hldg Ltd
+C20.SI	Cerebos Pacific Limited
+C22.SI	China Merchants Hldgs(pacific)
+c29.SI	Chip Eng Seng Corporation Ltd
+C2J.SI	Sunmart Holdings Limited
+C2PU.SI	Parkwaylife Reit
+C31.SI	Capitaland Limited
+C33.SI	Chuan Hup Holdings Limited
+C35.SI	Creative Master Bermuda Ltd
+C36.SI	Cht (holdings) Ltd.
+C37.SI	China International Hldgs Ltd
+C38U.SI	Capitamall Trust
+C3T.SI	Uni-asia Finance Corporation
+C41.SI	Cortina Holdings Limited
+C49.SI	Centillion Env & Recyc Limited
+C4P.SI	Liang Huat Aluminium Ltd
+C50.SI	Cheung Woh Technologies Ltd
+C52.SI	Comfortdelgro Corporation Ltd
+C56.SI	Celestial Nutrifoods Limited
+C59.SI	China Flexible Pack Hldg Ltd
+C60.SI	Amplefield Limited
+C61U.SI	Capitacommercial Trust
+C68.SI	Mirach Energy Limited
+C6L.SI	Singapore Airlines Ltd
+C6U.SI	Singapore Airlines Ltd 200
+C70.SI	City Developments Ltd Nccps
+C71.SI	China Paper Holdings Limited
+C76.SI	Creative Technology Ltd
+C7B.SI	Japan Land Limited
+C86.SI	China Sun Biochem Tech Gp Co.
+C8R.SI	Jiutian Chemical Group Limited
+C92.SI	China Haida Ltd.
+C9Q.SI	Sinostar Pec Holdings Limited
+CB6W.SI	Firstlink Inv Corp Ltd W120614
+CC3.SI	Starhub Ltd
+CH8.SI	China Sunsine Chem Hldgs Ltd.
+CL7.SI	R H Energy Ltd.
+CL8.SI	China Angel Food Limited
+CL9.SI	Financial One Corp.
+CO0.SI	Cmz Holdings Ltd.
+CP7.SI	Wanxiang International Limited
+CT1.SI	Avi-tech Electronics Limited
+CU7.SI	Map Technology Hldgs Limited
+CW4.SI	Lyxor Japan (topix) Fund 10
+CX5.SI	Yong Xin Intl Holdings Ltd.
+CY6U.SI	Ascendas India Trust
+CZ3.SI	Reyphon Agriceutical Limited
+CZ4.SI	Dutech Holdings Limited
+D01.SI	Dairy Farm Int'l Holdings Ltd
+D03.SI	Del Monte Pacific Limited
+D04.SI	Datapulse Technology Limited
+D05.SI	Dbs Group Holdings Ltd
+D07.SI	Spdr Djia Etf Trust
+D08.SI	Devotion Energy Group Limited
+D11.SI	Design Studio Furniture Mfrltd
+D14.SI	Dbsbank S$1.1b6% Ncps
+D1R.SI	Ara Asset Management Limited
+D2S.SI	Sc Global Developments Ltd
+D2U.SI	Cacola Furniture Intl Limited
+D2V.SI	Changtian Plastic & Chem Ltd
+D38.SI	Cdw Holding Limited
+D3W.SI	Sinotel Technologies Ltd.
+D4N.SI	China New Town Devt Co Limited
+D50.SI	China Great Land Holdings Ltd.
+D5IU.SI	Lippo-mapletreeindoretailtrust
+D5N.SI	Z-obee Holdings Limited
+D6U.SI	Dynamic Colours Limited
+D6XW.SI	Firstlink Inv Corp Ltd W121130
+D79.SI	C&g Env Protect Hldgs Ltd
+D8DU.SI	First Ship Lease Trust
+D9UW.SI	Yongnam Holdings Ltd W121214
+DC9.SI	Fuxing China Group Limited
+DK2.SI	Fibrechem Technologies Ncps
+DM0.SI	Psc Corporation Ltd
+DT2.SI	China Oilfield Tec Svcs Grpltd
+DU4.SI	Mermaid Maritime Public Co Ltd
+DZ8U.SI	Saizen Real Estate Inv Trust
+E02.SI	Eu Yan Sang International Ltd
+E04.SI	Eagle Brand Holdings Ltd
+E05.SI	Eastgate Technology Ltd
+E08.SI	Eastern Asia Technology Ltd
+E09.SI	Vgo Corporation Limited
+E13.SI	Ellipsiz Ltd
+E15.SI	Transcu Group Limited
+E16.SI	Elec & Eltek Int Co Ltd
+E17.SI	Excelpoint Technology Ltd
+E18.SI	Ecs Holdings Limited
+E23.SI	Europtronic Group Ltd
+E25.SI	8telecom Intl Holdings Co Ltd
+E27.SI	Eucon Holding Limited
+E28.SI	Frencken Group Limited
+E3B.SI	Wee Hur Holdings Ltd.
+E3S.SI	Centraland Limited
+E5H.SI	Golden Agri-resources Ltd
+E5P.SI	The Hour Glass Limited
+E6A.SI	Yongmao Holdings Limited
+E6D.SI	Raffles Education Corp Limited
+E6E.SI	Sound Global Ltd.
+E6R.SI	Samko Timber Limited
+E8Z.SI	Roxy-pacific Holdings Limited
+E90.SI	China Sky Chem Fibre Co., Ltd.
+E91.SI	Courage Marine Group Limited
+E92.SI	C & O Pharm Tech (hldgs) Ltd
+E94.SI	Lizhong Wheel Group Ltd.
+E9A.SI	Li Heng Chem Fibre Tech Ltd
+E9L.SI	Joyas International Hldgs Ltd
+E9YW.SI	Rbs Zpc Bricifr110223
+EB5.SI	First Resources Limited
+EB7.SI	Ktl Global Limited
+EE6.SI	Mercator Lines (singapore) Ltd
+EG0.SI	Jes International Holdings Ltd
+EH5.SI	United Overseas Australia Ltd
+EP4.SI	China Animal Healthcare Ltd.
+ER0.SI	Ksh Holdings Limited
+ES3.SI	Sti Etf
+F01.SI	Freight Links Express Holdings
+F03.SI	Food Empire Holdings Limited
+F06.SI	Sunmoon Food Company Limited
+F07.SI	Fds Networks Group Ltd
+F10.SI	F J Benjamin Holdings Ltd
+F11.SI	Fung Choi Media Group Limited
+F12.SI	Fibrechem Technologies Limited
+F13.SI	Fu Yu Corporation Ltd
+F17.SI	Guocoland Limited
+F18.SI	Full Apex (holdings) Limited
+F1E.SI	Low Keng Huat (singapore) Ltd
+F1F.SI	Daiwa Ftse Shariah Japan 100
+F1XW.SI	Mer Zpc Taiwan110527
+F20.SI	Federal Int(2000) Ltd
+F22.SI	Fischer Tech Ltd
+F25U.SI	Fortune Real Estate Inv Trust
+F2X.SI	China Taisan Tech Grp Hldgsltd
+F31.SI	Fragrance Group Limited
+F34.SI	Wilmar International Limited
+F3EU.SI	Indiabulls Properties Invtrust
+F3RW.SI	Osim International W110623
+F3V.SI	Sino Construction Limited
+F4B.SI	Ocbc Bk 5.1%ncps 100
+F4I.SI	Combine Will Intl Hldgs Ltd
+F6CW.SI	Viz Branz Limited W110630
+F6D.SI	China Fibretech Ltd.
+F6Z.SI	Heng Long International Ltd.
+F75.SI	Contel Corporation Limited
+F83.SI	Cosco Corporation (s) Ltd
+F86.SI	Cougar Logistics Corpn Ltd
+F99.SI	Fraser And Neave, Limited
+F9D.SI	Boustead Singapore Limited
+F9M.SI	Kencana Agri Limited
+FA0W.SI	Rbs Zpc Farmers110223
+FA4W.SI	Mer Zpc Cwater110331
+FA5W.SI	Mer Zpc Cbrand110331
+FA6W.SI	Mer Zpc Cs-shr110331
+FA7W.SI	Mer Zpc Ch-shr110331
+FC6.SI	Lyxor India Nifty Etf 10
+FM8W.SI	Rbs Zpc Ricienh110228
+FM9W.SI	Rbs Zpc Riciagr110228
+FO7W.SI	Union Steel W110414
+FO8.SI	Eratat Lifestyle Limited
+FP1.SI	Dapai Intl Hldg Co. Ltd.
+FQ7.SI	Jasper Investments Limited
+FQ8.SI	China Sports Intl Limited
+FV2.SI	Hisaka Holdings Ltd.
+G03.SI	Brothers (holdings) Limited
+G05.SI	Goodpack Limited
+G07.SI	Great Eastern Hldgs Ltd
+G08.SI	Gp Batteries Int Ltd
+G09.SI	Gul Technologies Singapore Ltd
+G0I.SI	Nam Lee Pressed Metal Inds Ltd
+G10.SI	Yuexiu Property Co Limited
+G11.SI	Global Tech (hldgs) Limited
+G13.SI	Genting Singapore Plc
+G18.SI	Grp Ltd
+G1K.SI	Lyxor Etf Msci Asia Apex 50 10
+G1M.SI	Lyxor Etf Msci Malaysia 10
+G1N.SI	Lyxor Etf Msci India 10
+G1O.SI	Lyxor Commodities Crbnonenergy
+G20.SI	Gp Industries Limited
+G21.SI	Guangzhao Ind Forest Biogrpltd
+G31.SI	Global Testing Corporation Ltd
+G33.SI	Guthrie Gts Ltd
+G3B.SI	Dbs Singapore Sti Etf
+G41.SI	G. K. Goh Holdings Limited
+G4F.SI	Otto Marine Limited
+G50.SI	Grand Banks Yachts Limited
+G54.SI	China Essence Group Ltd.
+G5X.SI	Anwell Technologies Limited
+G6AW.SI	Nextgen Satellite Comm W111222
+G77.SI	Digiland International Ltd
+G86.SI	China Milk Products Group Ltd
+G8LW.SI	Swing Media Technology W140106
+G92.SI	China Aviation Oil(s) Corp Ltd
+G9QW.SI	Ellipsiz Ltd W120120
+GB4W.SI	Tat Hong Holdings Ltd W130802
+GD2W.SI	China Auto Corp Ltd. W130806
+GG0.SI	Ocbccapcorp(2008) 5.1%ncps 100
+GG7.SI	Hai Leck Holdings Limited
+GH3.SI	Qian Feng Fabric Tech Limited
+GJ8.SI	Dukang Distillers Hldgs Ltd
+GL8.SI	Uob 5.05%ncps 100
+GP3W.SI	Metro Holdings Limited W110922
+GR2W.SI	Second Chance Prop W130927
+GU5.SI	China Kunda Tech Holdings Ltd
+GU9W.SI	Cosco Corp Bnp Ecw110308
+GV3W.SI	Manhattan Resources Ltdw110409
+GY5W.SI	Singapore Exchangebnpecw110228
+GY7W.SI	Ocbc Bk Bnp Ecw110307
+GZ9.SI	Stx Pan Ocean Co., Ltd.
+H02.SI	Haw Par Corp Ltd
+H06.SI	Hor Kew Corporation Limited
+H07.SI	Stamford Land Corporation Ltd
+H12.SI	Hotel Royal Ltd
+H13.SI	Ho Bee Investment Limited
+H15.SI	Hotel Properties Ltd
+H16.SI	Huan Hsin Holdings Ltd
+H17.SI	Hi-p International Limited
+H18.SI	Hotel Grand Central Ltd
+H19.SI	Hwa Hong Corporation Limited
+H1M.SI	Lyxor Etf Eastern Europe 10
+H1N.SI	Lyxor Etf Msci Emerging Mkt 10
+H1O.SI	Lyxoretf Msci Em Latin America
+H1P.SI	Lyxor Etf Msci World 10
+H1Q.SI	Lyxor Etf Nasdaq100 10
+H20.SI	Hoe Leong Corporation Ltd.
+H22.SI	Hong Leong Asia Ltd.
+H23.SI	Eunetworks Group Limited
+H27.SI	Hlh Group Limited
+H28.SI	Hersing Corporation Ltd
+H2PW.SI	Transpac Industrial W120511
+H30.SI	Hong Fok Corporation Ltd
+H34.SI	Hotung Investment Hldgs Ltd
+H3IW.SI	Dbs Mbl Ecw110502
+H3JW.SI	Cosco Corp Mbl Ecw110502
+H49.SI	Pan Pacific Hotels Grp Limited
+H64.SI	Htl Int'l Holdings Limited
+H73.SI	Hupsteel Ltd
+H78.SI	Hongkong Land Holdings Limited
+H7BW.SI	Saizen Reit W120602
+H7YB.SI	Wbl Corporation 2.5%cb140610
+H80.SI	Hongwei Technologies Limited
+HA2W.SI	Uob Bnp Ecw110418
+HA3W.SI	Singtel Bnp Ecw110411
+HC8W.SI	Capitaland Bnp Ecw110613
+HD6.SI	Dbxt S&p 500 Short Etf 10
+HD7.SI	Dbxt Msci Taiwan Etf 10
+HD8.SI	Dbxt Ft China 25 Etf 10
+HD9.SI	Dbxt Ftse Vietnam Etf 10
+HE0.SI	Dbxt S&p Cnx Nifty Etf 10
+HI3B.SI	United Engineers 1% Cb140303
+HJ5W.SI	Singtel Mbl Ecw110404
+HJ6W.SI	Dbs Mbl Ecw110404
+HJ7W.SI	Uob Mbl Ecw110404
+HL6W.SI	Dbs Bnp Ecw111028
+HQ9W.SI	Bukit Sembawang Est Ltdw110408
+HS3W.SI	Singapore Exchangemblecw110404
+HS8W.SI	Ksh Holdings Limited W120402
+i03.SI	Informatics Education Ltd.
+i04.SI	Xpress Holdings Ltd
+i05.SI	Idt Holdings (singapore) Ltd
+i06.SI	Intraco Limited
+i07.SI	Isdn Holdings Limited
+i11.SI	Ipco Int'l Limited
+I12.SI	Ipc Corporation Limited
+i14.SI	Internet Technology Grp Ltd
+i15.SI	Isetan (singapore) Ltd
+I17.SI	Ishares S&p500 Ivv 10
+I19.SI	Ishares Msci Singapore Ews 100
+I21.SI	Ishares Dj Us Tech Iyw 10
+i26.SI	Inno-pacific Holdings Ltd
+I3KW.SI	Compactmetalindustries W120223
+I3L.SI	Passion Holdings Limited
+i49.SI	Ifs Capital Limited
+I4FW.SI	Global Yellow Pages W140910
+I4U.SI	China Gaoxian Fibrefab Hldgltd
+I54.SI	Fabchem China Limited
+I5GW.SI	Rowsley Ltd W120921
+I5H.SI	Great Group Holdings Limited
+I85.SI	Hengxin Technology Ltd.
+I98.SI	Is Msci India 100
+I9GW.SI	Capitaland Bnp Ecw120109
+I9HW.SI	Dbs Bnp Ecw120206
+I9IW.SI	Ocbc Bk Bnp Ecw120305
+I9JW.SI	Singapore Exchangebnpecw120206
+I9KW.SI	Uob Bnp Ecw120116
+I9T.SI	Ziwo Holdings Ltd.
+IH0.SI	Dbxt Euro Stoxx 50 Etf 10
+IH1.SI	Dbxt Msci Asia Ex Japan Etf 10
+IH2.SI	Dbxt Msci Korea Etf 10
+IH3.SI	Dbxt Msci Europe Etf 10
+IH4.SI	Dbxt Usd Money Market Etf 5
+IL4W.SI	Singapore Exchangemblecw110901
+IL5W.SI	Golden Agri-resources Ew120723
+IL6W.SI	Dbs Mbl Ecw111003
+IU3W.SI	Pacific Andes Res Dev W110722
+IW5.SI	Seroja Investments Limited
+IX2.SI	Pec Ltd.
+IX9W.SI	Ks Energy Services Ltd W110805
+J01Z.SI	Jtc S$200m4.826%n121024
+J03.SI	Jadason Enterprises Ltd
+J0M.SI	Dbxt Msci Emerging Mkts Etf 10
+J0N.SI	Dbxt Msci Emg Mkts Asia Etf 10
+J0O.SI	Dbxt Msci Brazil Trn Etf 10
+J0P.SI	Dbxt Msci World Trn Etf 10
+J0Q.SI	Dbxt Msci Pacific Exjap Etf 10
+J0R.SI	Dbxt Msci Russia Cap 25 Etf 10
+J0S.SI	Dbxt Dblci-oy Balanced Etf 5
+J10.SI	Jaya Holdings Ltd
+J11.SI	Jacks International Limited
+J13.SI	Jk Yaming Int'l Hldgs Ltd
+J15.SI	Juken Technology Limited
+J16.SI	Jel Corporation (holdings) Ltd
+J17.SI	Jackspeed Corporation Limited
+J18.SI	China Jishan Holdings Limited
+J19.SI	Jets Technics Intl Hldgs Ltd
+J1KW.SI	Goodpack Limited W121130
+J2T.SI	Hock Lian Seng Holdings Ltd
+J2UW.SI	Genting Sin Mbl Ecw120402
+J36.SI	Jardine Matheson Hldgs Ltd
+J37.SI	Jardine Strategic Hldgs Ltd
+J68W.SI	Guangzhao Ind Forest W110628
+J69U.SI	Frasers Centrepoint Trust
+J6WW.SI	Enviro-hub Holdings Ltdw121229
+J6YW.SI	Okp Holdings Limited W130105
+J74.SI	Pteris Global Limited
+J7SW.SI	Eratat Lifestyle Ltd Ew130112
+J7X.SI	Tiger Airways Holdings Limited
+J85.SI	Cdl Hospitality Trusts
+J8O.SI	Ryobi Kiso Holdings Ltd.
+J91U.SI	Cambridge Industrial Trust
+JA4W.SI	Cosco Corp Mbl Ecw120103
+JA5W.SI	Wilmar Mbl Ecw120103
+JA6W.SI	Dbs Mbl Ecw120103
+JA7W.SI	Capitaland Mbl Ecw120103
+JA8W.SI	Uob Mbl Ecw120103
+JA9.SI	Changjiang Fertilizer Hlgs Ltd
+JB9W.SI	Capitaland Bnp Ecw121005
+JC5.SI	Lyxor Etf Msci Europe 10
+JC6.SI	Lyxor Etf Dow Jones Ia 10
+JC7.SI	Lyxor Etf Russia 10
+JC8W.SI	See Hup Seng Limited W121015
+JK8.SI	United Sse 50 China Etf
+JN1W.SI	Wee Hur Holdings Ltd W121027
+JO8W.SI	Pan Hong Property Groupw121027
+JQ5W.SI	Baker Technology Ltd W121116
+JS5.SI	Sino Grandness Food Ind Gp Ltd
+JS6W.SI	Aztech Group W121123
+JS8.SI	Capitamalls Asia Limited
+JS9W.SI	Hai Leck Holdings W111124
+JW8.SI	Q & M Dental Group (s) Limited
+k01.SI	K1 Ventures Limited
+K03.SI	Khong Guan Flour Milling Ltd
+K04.SI	Kian Ann Engineering Ltd
+K07.SI	Kxd Digital Entertainment Ltd
+K11.SI	Keppel Tele & Tran
+K14.SI	Kingboard Copper Foil Hdgs Ltd
+K17.SI	Keppel Land Limited
+K1Q.SI	Ttj Holdings Limited
+K22.SI	Kian Ho Bearings Ltd
+K29.SI	Karin Technology Hldgs Limited
+K2KW.SI	Sembcorp Marine Mbl Ecw120903
+K2LU.SI	Cache Logistics Trust
+K2M.SI	Debao Property Development Ltd
+K2N.SI	China Minzhong Food Corp Ltd
+K2P.SI	Tiong Seng Holdings Limited
+K2X.SI	Australand Propertygroup
+K3CD.SI	China Eastern Air Adr 10
+K3DD.SI	Sinopec Petrochemical Adr 10
+K3ED.SI	China Telecom Adr 10
+K3FD.SI	Huaneng Power Intl Adr 10
+K3GD.SI	Yanzhou Coal Mining Adr 10
+K3HD.SI	Aluminum Corp Of China Adr 10
+K3ID.SI	China Unicom Hk Ltd Adr 10
+K3JD.SI	Changyou.com Adr 10
+K3KD.SI	Trina Solar Adr 10
+K3LD.SI	Shanda Interactive Ent Adr 10
+K3MD.SI	Netease.com Adr 10
+K3ND.SI	Suntech Power Adr 10
+K3OD.SI	Petrochina Adr 10
+K3PD.SI	Chinamobile Adr 10
+K3QD.SI	Mindray Medical Intl Adr 10
+K3RD.SI	Ctrip.com International Adr 10
+K3SD.SI	Baidu.com Adr 10
+K3TD.SI	China Southern Air Adr 10
+K3UD.SI	Home Inns & Hotels Adr 10
+K50.SI	Kim Eng Holdings Limited
+K6J.SI	Global Palm Resources Hlgs Ltd
+K6K.SI	Dbxt S&p500 Etf 10
+K6S.SI	Prudential Plc
+K6Y.SI	Dbxt Aud Ssa Bonds Etf 5
+K71U.SI	K-reit Asia
+K75.SI	Koh Brothers Group Limited
+K8BW.SI	Cosco Corp Mbl Ecw130103
+K8DW.SI	Hsi 22000 Mbl Ecw120130
+K8EW.SI	Hsi 19000 Mbl Epw120130
+K8HW.SI	Nol Mbl Ecw120102
+K8IW.SI	Kepcorp Mbl Ecw120102
+K8JW.SI	Noble Group Mbl Ecw120102
+K8KW.SI	Dbs Mbl Ecw130103
+K8LW.SI	Ocbc Bk Mbl Ecw120102
+K8MW.SI	Singtel Mbl Ecw120102
+K8NW.SI	Uob Mbl Ecw120102
+K8OW.SI	Yangzijiang Mbl Ecw120102
+KF4.SI	Sin Heng Heavy Machinery Ltd
+KF5.SI	Dbxt Usd Ig Infl Treas Etf 5
+KF6.SI	Dbxt Iboxx Sov Euro Etf 5
+KF7.SI	Dbxt Iboxx Us Treas Etf 5
+KF8.SI	Dbxt Msci Usa Etf 10
+KG6W.SI	Cosco Corp Bnp Ecw110530
+KI3.SI	Hu An Cable Holdings Ltd.
+KJ5.SI	Bbr Holdings (s) Ltd
+KJ7.SI	Dbxt Msci Indonesia Etf 10
+KJ9.SI	Cogent Holdings Limited
+KK0W.SI	Asj Holdings W120221
+KK1W.SI	Juken Technology Ltd W130224
+KR7W.SI	Tee International Ltd W130228
+KT2.SI	Dbxt Iboxx Korea Etf 5
+KT3.SI	Dbxt Stoxx Glob Div 100 Etf 10
+KT4.SI	Dbxt Csi300 Etf 10
+KT7W.SI	Upp Holdings W130301
+KT8U.SI	Frasers Commercial Trust Cppu
+KT9.SI	Qingmei Group Holdings Limited
+KU3.SI	Golden Ocean Group Limited
+KV4.SI	Dbxt Iboxx Singapore Etf 5
+KV5.SI	Dbxt Aud Money Market Etf 5
+KV6.SI	Dbxt Aud Mm Etf Usd 5
+KV7.SI	Dbxt Aud Mm Etf Sgd 5
+KV8.SI	Dbxt Eonia Tr Etf Usd 5
+L02.SI	Manhattan Resources Limited
+L03.SI	Lian Beng Group Ltd
+L05.SI	Lafe Corporation Limited
+L06Z.SI	Lta S$300m4.08%n120521
+L07Z.SI	Lta $500m4.17%n160510
+L08.SI	Lion Asiapac Ltd
+L09.SI	Lung Kee (bermuda) Hldgs Ltd
+L0OW.SI	M Development W130802
+L0QW.SI	Genting Sin Mbl Ecw130603
+L0SW.SI	Capitaland Mbl Ecw130603
+L10.SI	Lht Holdings Limited
+L15.SI	Lindeteves-jacoberg Ltd
+L17.SI	Lion Teck Chiang Ltd
+L18.SI	Hl Global Enterprises Limited
+L19.SI	Lum Chang Holdings Limited
+L1AW.SI	Singapore Exchangemblecw130603
+L1D.SI	Consciencefood Holding Limited
+L1IW.SI	Nikkei225 10000 Db Ecw110314
+L1JW.SI	Nikkei225 8500 Db Epw110314
+L1NW.SI	Riverstone Holdings W130802
+L1SW.SI	Uob Bnp Ecw110429
+L1TW.SI	Ocbc Bk Bnp Ecw110301
+L1UW.SI	Dbs Bnp Ecw110303
+L1VW.SI	Genting Sin Bnp Ecw110429
+L20.SI	Lifebrandz Ltd.
+L22.SI	Lankom Electronics Limited
+L23.SI	Enviro-hub Holdings Ltd
+L24.SI	Lma International N.v.
+L25.SI	Lee Kim Tah Hldgs Limited
+L28.SI	Longcheer Holdings Limited
+L2FW.SI	Sti 3300 Bnp Ecw110330
+L2GW.SI	Sti 2850 Bnp Epw110330
+L2IW.SI	Hsi 22000 Ubs Ecw110330
+L2JW.SI	Hsi 20000 Ubs Epw110330
+L2PW.SI	Genting Sin Mbl Ecw130103
+L34.SI	Luxking Group Holdings Limited
+L38.SI	L.c.development Ltd
+L46.SI	Luzhou Bio-chem Technology Ltd
+L5F.SI	Dbxt Dbcbdjubsci Etf 10
+L5G.SI	Dbxt Dbcbleb Etf 10
+L5I.SI	Abterra Ltd
+L5J.SI	Viz Branz Limited
+L5NW.SI	Dbs Bar Ecw110624
+L5ZW.SI	Singtel Mbl Ecw110303
+L6EW.SI	Keppel Land Mbl Ecw110303
+L6NW.SI	Genting Sin Bnp Ecw110527
+L6OW.SI	Genting Sin Bnp Ecw120427
+L6QW.SI	Ocbc Bk Mbl Ecw110303
+L6SW.SI	Wilmar Mbl Ecw110303
+L6T.SI	Psl Holdings Ltd
+L6WW.SI	Sti 3200 Db Ecw110301
+L7JW.SI	Genting Sin Mbl Ecw110303
+L7KW.SI	Genting Sin Mbl Ecw130104
+L7LW.SI	Midas Mbl Ecw110303
+L7MW.SI	Singapore Exchangemblecw110303
+L7NW.SI	Yangzijiang Mbl Ecw110401
+L7OW.SI	Yangzijiang Mbl Ecw130104
+LF1.SI	Dbxt S&p/asx 200 Etf 10
+LF2.SI	Dbxt Msci Japan Trn Etf 10
+LG2U.SI	Treasury China Trust
+LG6.SI	Dbxt Msci Malaysia Trn Etf 10
+LG7.SI	Dbxt Msci Thailand Trn Etf 10
+LG8.SI	Dbxt Msci India Trn Etf 10
+LG9.SI	Dbxt Msci China Trn Etf 10
+LH4U.SI	K-green Trust
+LI0W.SI	Ultro Technologies Ltd W130613
+LI8W.SI	Genting Sin Bnp Ecw111230
+LJ3.SI	Overseas Union Enterprise Ltd
+LR9W.SI	Best World Intl Ltd W130705
+LS9.SI	Leader Environmental Tech Ltd
+LT1W.SI	Singapore Exchangedbecw110328
+LT2W.SI	Noble Group Db Ecw110425
+LT3W.SI	Kepcorp Db Ecw110221
+M01.SI	Metro Holdings Limited
+M03.SI	Miyoshi Precision Limited
+M04.SI	Mandarin Oriental Intl Ltd
+M05.SI	Mtq Corporation Limited
+M06.SI	Multi-chem Limited
+M09.SI	Spice I2i Limited
+M11.SI	Mfg Integration Technology Ltd
+M14.SI	Innotek Limited
+M15.SI	Matex International Limited
+M1GU.SI	Sabana Shari'ah Compliant Reit
+M1P.SI	Amtek Engineering Ltd
+M1SW.SI	Yanlord Mbl Ecw110503
+M1Y.SI	Transcu Group Limited 333
+M1Z.SI	Tee International Limited
+M22.SI	Lottvision Limited
+M24.SI	Meiban Group Ltd
+M25.SI	Mcl Land Limited
+M26.SI	Memtech International Ltd
+M2AW.SI	Capitaland Mbl Ecw110503
+M2HW.SI	Osim Mbl Ecw110503
+M2IW.SI	Dragon Group Intl W131209
+M2KW.SI	Hsi 24800 Bnp Ecw110629
+M2LW.SI	Hsi 21800 Bnp Epw110629
+M2NW.SI	Dbxcsi300 Db Ecw110829
+M2OW.SI	Sembcorp Marine Db Ecw110801
+M2PW.SI	Noble Group Db Ecw110711
+M2QW.SI	Kepcorp Db Ecw110705
+M2RW.SI	Singapore Exchangedbecw110808
+M2TW.SI	Hsi 23800 Mer Ecw110331
+M2UW.SI	Hsi 23900 Mer Ecw110228
+M2VW.SI	Hsi 24800 Mer Ecw110331
+M2YW.SI	Wilmar Mbl Ecw110601
+M2ZW.SI	Dbs Db Ecw110613
+M30.SI	Meghmani Organics Limited
+M35.SI	Wheelock Properties (s) Ltd
+M3AW.SI	Olam Mbl Ecw110601
+M3BW.SI	Sti 3250 Db Ecw110701
+M3CW.SI	Sti 3100 Db Epw110701
+M3EW.SI	Hsi 24300 Mer Epw110331
+M3FW.SI	Hsi 23500 Mer Epw110228
+M3GW.SI	Hsi 23300 Mer Epw110331
+M3HW.SI	Hsi 22500 Mer Epw110228
+M3IW.SI	Hsi 22300 Mer Epw110331
+M3KW.SI	Genting Sin Bnp Ecw121203
+M3LW.SI	Kepcorp Bnp Ecw120703
+M3MW.SI	Ocbc Bk Bnp Ecw110404
+M3NW.SI	Sembcorp Marine Bnp Ecw120703
+M3OW.SI	Wilmar Bnp Ecw110704
+M3RW.SI	Genting Sin Dbs Ecw110620
+M3SW.SI	Ezra Mbl Ecw110601
+M3TW.SI	Transcu Group Limited W130109
+M3UW.SI	Sti 3150 Bnp Ecw110330
+M3VW.SI	Sti 3200 Bnp Ecw110225
+M3WW.SI	Sti 3300 Bnp Ecw110428
+M3XW.SI	Sti 3600 Bnp Ecw111229
+M3YW.SI	Sti 2800 Bnp Epw111229
+M3ZW.SI	Sti 3000 Bnp Epw110428
+M41.SI	Macquarie Int'l Infra Fund Ltd
+M44U.SI	Mapletree Logistics Trust
+M4AW.SI	Sti 3100 Bnp Epw110330
+M4BW.SI	Sti 3150 Bnp Epw110225
+M4CW.SI	Keppel Land Bnp Ecw110802
+M4DW.SI	Nol Bnp Ecw111102
+M4EW.SI	Singaporeexchangebnpecw110404a
+M4FW.SI	Yangzijiang Bnp Ecw110802
+M4GW.SI	Uob Bnp Ecw110404
+M4HW.SI	Ocbc Bk Bnp Ecw120302
+M4IW.SI	Dbs Bnp Ecw110704
+M4KW.SI	Capitaland Bnp Ecw110302
+M4LW.SI	Indofood Agri Bnp Ecw110602
+M60W.SI	Eastgate Technology W110911
+M62.SI	Cimb Ftse Asean40 100
+M6UW.SI	Capitamalls Asia Bnp Ecw110602
+M6VW.SI	Ezra Bnp Ecw110902
+M6WW.SI	Fraser And Neave Bnp Ecw110802
+M6XW.SI	Genting Sin Bnp Epw110302
+M6YW.SI	Sembcorp Indus Bnp Ecw110704
+M6ZW.SI	Sia Bnp Ecw110602
+M7AW.SI	Biosensors Bnp Ecw110602
+M7DW.SI	Cosco Corp Bnp Ecw120703
+M7EW.SI	Noble Group Bnp Ecw120703
+M7GW.SI	Yangzijiang Bnp Ecw120703
+M7HW.SI	Dbs Mbl Ecw110601
+M7IW.SI	Hsi 23200 Mbl Epw110225
+M7JW.SI	Hsi 23800 Mbl Ecw110225
+M7KW.SI	Kepcorp Mblecw110602
+M7LW.SI	Capitamalls Asia Mbl Ecw110601
+M7MW.SI	Cosco Corp Mbl Ecw110601
+M7NW.SI	Simsci 375 Mbl Epw110228
+M7OW.SI	Simsci 380 Mbl Ecw110228
+M7PW.SI	Uob Mbl Ecw110601
+M7QW.SI	Genting Sin Mbl Ecw110503
+M7RW.SI	Singapore Exchangerbcw110321
+M7SW.SI	Singapore Exchangerbpw110321
+M7TW.SI	Genting Sin Rbecw110321
+M7UW.SI	Genting Sin Rbepw110321
+M7VW.SI	Swiber Mbl Ecw110701
+M7WW.SI	Straits Asia Mblecw110603
+M7XW.SI	Noble Group Mbl Ecw110603
+M7YW.SI	Singapore Exchangemblecw110603
+M7ZW.SI	Capitaland Mbl Ecw110602
+M8AW.SI	Midas Mbl Ecw110701
+M8BW.SI	Nol Mbl Ecw110602
+M8CW.SI	Biosensors Mbl Ecw110602
+M8DW.SI	Wilmar Mbl Ecw110603
+M8EW.SI	Simsci 395 Mbl Ecw110228
+M8FW.SI	Simsci 390 Mbl Epw110228
+M8GW.SI	Hsi 24800 Mbl Ecw110225
+M8HW.SI	Hsi 24200 Mbl Epw110225
+M8J.SI	China Environmental Res Gp Ltd
+M8MW.SI	Wilmar Mbl Ecw130603
+M8NW.SI	Sembcorp Marine Mbl Ecw130603
+M8OW.SI	Nol Mbl Ecw130603
+M8PW.SI	Kepcorp Mbl Ecw130603
+M8QW.SI	Hsi 22200 Mbl Epw110225
+M8RW.SI	Hsi 22800 Mbl Ecw110225
+M8SZ.SI	Capitamallasiatrs$75m1%120121
+M8TZ.SI	Capmallasiatrs$125m2.15%140121
+M8UW.SI	Uob Mbl Ecw110603
+M8VW.SI	Olam Mbl Ecw120601
+M8ZW.SI	Straits Asia Bnpecw111102
+M9BW.SI	Hsi 25200 Mbl Epw110225
+M9DW.SI	Apple Db Ecw110718
+M9EW.SI	Kepcorp Db Ecw110829
+M9F.SI	Xmh Holdings Ltd.
+M9GW.SI	Capitaland Bnp Ecw110902
+M9HW.SI	Noble Group Db Ecw110808
+M9L.SI	Capitaland Limited.es.1102
+M9N.SI	City Developments.es.1102
+M9P.SI	Cosco Corporation (s).es.1102
+M9Q.SI	Dbs Group Holdings Ltd.es.1102
+M9S.SI	Fraser And Neave,.es.1102
+M9T.SI	Genting Sp.es.1102
+M9U.SI	Golden Agri-resources.es.1102
+M9W.SI	Indofood Agri Res.es.1102
+M9Y.SI	Olam International.es.1102
+M9Z.SI	Oversea-chinesebanking.es.1102
+MA4W.SI	Noble Group Mbl Ecw110303
+MA5W.SI	Swiber Mbl Ecw110303
+MA6Z.SI	Sia $300m 2.15%b150930
+MA8W.SI	Hsi 23400 Bnp Ecw110225
+MB5W.SI	Sti 3050 Db Epw110301
+MC0.SI	Global Logistic Prop Limited
+MC2W.SI	Dbs Mbl Ecw110301
+MC3W.SI	Singapore Exchangemblecw110301
+MC7.SI	Yamada Green Resources Limited
+MD4W.SI	Wilmar Mbl Ecw110302
+MD5W.SI	Sembcorp Marine Mbl Ecw110303
+MD6W.SI	Nol Mbl Ecw110303
+MD7W.SI	Dbs Mbl Ecw110303
+ME2W.SI	Sembcorp Marine Bnp Ecw110704
+ME3W.SI	Kepcorp Bnp Ecw110602
+ME6W.SI	Olam Bnp Ecw111003
+ME7W.SI	Cosco Corp Bnp Ecw110801
+ME8U.SI	Mapletree Industrial Trust
+ME9W.SI	Straits Asia Mblecw110303
+MF0W.SI	Singapore Exchangemblecw110302
+MF1W.SI	Hsi 24500 Bnp Ecw110330
+MF3W.SI	Dji 10500 Db Epw110321
+MF4W.SI	Dji 11500 Db Ecw110321
+MF5.SI	Anchun International Hldgs Ltd
+MF6.SI	Mun Siong Engineering Limited
+MF7W.SI	Shanda Adr Mblecw110401
+MF8W.SI	Suntech Adr Mblecw110401
+MF9W.SI	Baidu Adr Mblecw110401
+MG6W.SI	Indoagri Mbl Ecw110401
+MG7W.SI	Keppel Land Mbl Ecw110401
+MG8W.SI	Singapore Exchangemblecw130103
+MN3W.SI	Sti 3400 Db Ecw110503
+MN4W.SI	Sti 3250 Db Epw110503
+MN5.SI	Xinren Aluminum Holdings Ltd
+MN6W.SI	Kepcorp Db Ecw110530
+MN7W.SI	Ocbc Db Ecw110613
+MN8W.SI	Singapore Exchangedbecw110613
+MN9W.SI	Wilmar Db Ecw110606
+MO1W.SI	Hsi 22000 Db Epw110331
+MO2W.SI	Nikkei225 11000 Db Ecw110613
+MO3W.SI	Hsi 26000 Db Ecw110331
+MO4W.SI	Nikkei225 9500 Db Epw110613
+MO5W.SI	Sembcorp Marine Db Ecw110516
+MO6W.SI	Genting Sin Mbl Ecw110401
+MP4W.SI	Mapletree Ind Mbl Ecw110401
+MP5W.SI	Sembcorp Marine Mbl Ecw110401
+MP7W.SI	Kepcorp Mbl Ecw110404
+MP8W.SI	Singapore Exchangemblepw110404
+MQ3W.SI	Hsi 24700 Bar Ecw110428
+MQ4.SI	Bund Center Investment Ltd
+MQ5W.SI	Simsci 350 Mbl Epw110331
+MQ6W.SI	Genting Sin Mbl Ecw110404
+MQ7W.SI	Simsci 400 Mbl Ecw110331
+MR2W.SI	Falcon Energy Group W131102
+MR3W.SI	Biosensors Mbl Ecw110404
+MR4W.SI	Tiger Air Mblecw110404
+MR7.SI	Nordic Group Limited
+MR8.SI	Novo Group Ltd.
+MR9W.SI	Genting Sin Bnp Ecw110503
+MS0W.SI	Singtel Bnp Ecw110801
+MS1W.SI	Wilmar Bnp Ecw110404
+MS4W.SI	Kepcorp Bnp Ecw110404
+MS5W.SI	Singapore Exchangebnpecw110404
+MS6W.SI	Allied Technologies W131102
+MS7.SI	Stx Osv Holdings Limited
+MT1.SI	Dragon Group Intl Limited
+MT2W.SI	Ocbc Bk Mbl Ecw110404
+MT6W.SI	Genting Sin Mbl Epw110401
+MT7.SI	Lyxor Etf Asia Real Estate 10
+MT8W.SI	Noble Group Mbl Ecw110503
+MT9W.SI	Wilmar Mbl Ecw110503
+MU0W.SI	Keppel Land Mbl Ecw110503
+MU7.SI	Dbs S$800m 4.7% Ncps
+MU8W.SI	Cosco Corp Mbl Ecw110503
+MU9W.SI	Nol Mbl Ecw110503
+MV0W.SI	Straits Asia Mblecw110503
+MV1W.SI	Afp Properties Ew151118
+MV4.SI	Mewah International Inc.
+MV5W.SI	Kepcorp Mblecw110503
+MV6W.SI	Sembcorp Marine Mblecw110503
+MV7W.SI	Cosco Corp Mbl Ecw130102
+MV8W.SI	Kepcorp Mbl Ecw130103
+MV9W.SI	Noble Group Mbl Ecw130103
+MW0W.SI	Uob Mbl Ecw130103
+MW5W.SI	Sti 3400 Bnp Ecw110225
+MW8W.SI	Noble Group Bnp Ecw110401
+MW9W.SI	Sembcorp Marine Bnp Ecw110401
+N01.SI	Neratelecommunications Ltd
+N02.SI	Nsl Ltd.
+N03.SI	Neptune Orient Lines Limited
+N08.SI	New Toyo Int Hldgs Ltd
+N14.SI	M Development Ltd.
+N21.SI	Noble Group Limited
+N32.SI	Nippecraft Limited
+N33.SI	Nomura Holdings, Inc
+N37.SI	The Style Merchants Limited
+NA1.SI	Sembcorp Marine Ltd.es.1102
+NA2.SI	Singapore Airlinesltd.es.1102
+NA3.SI	Singapore Exchange.es.1102
+NB1.SI	Straits Asia Resources.es.1102
+NB2.SI	United Overseasbankltd.es.1102
+NB3.SI	Wilmar International.es.1102
+NB5.SI	Yangzijiang Shipbldg.es.1102
+NB7.SI	Keppel Corporation.es.1102
+NB8.SI	Keppel Land Limited.es.1102
+NC1.SI	Noble Group Limited.es.1102
+NC2.SI	Sri Trang Agro-industry Pcl
+NC3W.SI	Joyas International W160125
+NC4W.SI	Oue Ltd Mbl Ecw110701
+NC5W.SI	Hsi 24200 Mbl Ecw110330
+NC6W.SI	Hsi 25200 Mbl Ecw110330
+NC7W.SI	Hsi 24600 Mbl Epw110330
+NC8W.SI	Hsi 23600 Mbl Epw110330
+NC9.SI	Malaysia Smelting Corp Bhd 100
+ND0W.SI	Simsci 390 Mbl Ecw110331
+ND1W.SI	Simsci 375 Mbl Ecw110331
+ND2W.SI	Simsci 385 Mbl Epw110331
+ND3W.SI	Simsci 370 Mbl Epw110331
+ND4W.SI	Dbs Mbl Epw110701
+ND5W.SI	Capitaland Mbl Epw110701
+ND8U.SI	Frasers Commercial Trust
+ND9W.SI	Sembcorp Marine Db Ecw110905
+NE0W.SI	Kepcorp Db Ecw110905
+NE2W.SI	Hsi 24400 Bnp Ecw110428
+NE4W.SI	Hsi 22400 Bnp Epw110530
+NE5W.SI	Hsi 23000 Bnp Epw110428
+NE6U.SI	Frasers Commercial Trust 100
+NE7W.SI	Indoagri Mbl Ecw110701
+NE8W.SI	Hsi 23200 Mbl Ecw110330
+NE9W.SI	Hsi 22600 Mbl Epw110330
+NF0W.SI	Genting Sin Bar Edc110411
+NF1.SI	Sapphire Corporation Limited
+NF2W.SI	Wilmar Mbl Ecw110701
+NF8W.SI	Genting Sin Mbl Ecw110701
+NG1W.SI	Singtel Mbl Ecw110701
+NG2W.SI	Sembcorp Marine Mbl Ecw110701
+NG3W.SI	Ocbc Bk Mbl Ecw110701
+NG4W.SI	Kepcorp Mblecw110701
+NG5W.SI	Capitaland Mbl Ecw110701
+NG6W.SI	Wee Hur Holdings Ltd W140222
+NG7W.SI	Keppel Land Mbl Ecw110701
+NG8W.SI	Osim Mbl Ecw110701
+NG9W.SI	Straits Asia Mblecw110701
+NH0W.SI	Tiger Air Mblecw110701
+NH1W.SI	Yangzijiang Mbl Ecw110701
+NH2W.SI	Dbs Mbl Ecw110701
+NH3W.SI	Hsi 22200 Mbl Ecw110330
+NH4W.SI	Hsi 21600 Mbl Epw110330
+NH5W.SI	Simsci 370 Mbl Ecw110429
+NH6W.SI	Simsci 360 Mbl Epw110429
+NH8W.SI	Kepcorp Bnp Ecw110602a
+NI0W.SI	Sembcorp Marine Bnp Ecw111004
+NI1W.SI	Sti 3100 Db Ecw110801
+NI2W.SI	Sti 2950 Db Epw110801
+NI3.SI	Ue E&c Ltd.
+NI4R.SI	Global Investments Limited R
+NI5R.SI	Global Investments Limitedr100
+NI6W.SI	Olam Mbl Ecw110805
+NI7Z.SI	Capitamalltrust$300m2%130225
+NI8W.SI	Hsi 23800 Mer Ecw110429
+NJ1W.SI	Nikkei225 10500 Db Epw110912
+NJ3W.SI	Nikkei225 11500 Db Ecw110912
+NJ4W.SI	Hsi 23300 Mer Epw110429
+NJ8W.SI	Singapore Exchangedbecw110905
+NJ9W.SI	Sti 3050 Bnp Ecw110428
+NK1W.SI	Sti 3150 Bnp Ecw110629
+NK3W.SI	Sti 3050 Bnp Epw110530
+NK9.SI	City Developments.es.1103
+NL2.SI	Dbs Group Holdings Ltd.es.1103
+NL3.SI	Ezra Holdings.es.1103
+NL4.SI	Fraser And Neave,.es.1103
+NL6.SI	Golden Agri-resources.es.1103
+NL9.SI	Keppel Corporation.es.1103
+NM3.SI	Neptune Orient Lines.es.1103
+NM5.SI	Olam International.es.1103
+NM6.SI	Oversea-chinesebanking.es.1103
+NM9.SI	Singapore Airlinesltd.es.1103
+NN0.SI	Singapore Exchange.es.1103
+NN1.SI	Singaporepresshldgsltd.es.1103
+NN8.SI	Straits Asia Resources.es.1103
+NN9.SI	United Overseasbankltd.es.1103
+NO0.SI	Wilmar International.es.1103
+NO4.SI	Dyna-mac Holdings Ltd.
+NO5W.SI	Singapore Exchangemblecw110803
+NO6W.SI	Hsi 22600 Mbl Ecw110428
+NO7W.SI	Hsi 23600 Mbl Ecw110428
+NO8W.SI	Hsi 22200 Mbl Epw110428
+NO9W.SI	Hsi 23200 Mbl Epw110428
+NP0W.SI	Yanlord Mbl Ecw110803
+NP1W.SI	Sembcorp Marine Mblecw110803
+NP2W.SI	Simsci 355 Mbl Ecw110429
+NP6W.SI	Noble Group Db Ecw110905
+NP8W.SI	Indoagri Mbl Ecw110803
+NP9W.SI	Ezra Mbl Ecw110803
+NQ1W.SI	Nol Mbl Ecw110803
+O02.SI	Overseas & General Limited
+O05.SI	Ocean Sky International Ltd
+O08.SI	Ossia International Ltd
+O10.SI	Orchard Parade Holdings Ltd
+O15.SI	Ocbc Bk 4.2% Ncps
+O16.SI	Ocbc Bk S$500m4.5%ncps 100
+O23.SI	Osim International Ltd
+O30.SI	Ocean Int'l Holdings Limited
+O31.SI	Ocbc Cap 3.93% S$400m Ncps 10
+O32.SI	Olam International Limited
+O39.SI	Oversea-chinese Banking Corp
+O57.SI	Omega Navigation Ent,inc.
+O87.SI	Spdr Gold Shares
+P01.SI	Poh Tiong Choon Logistics Ltd
+P05.SI	People's Food Holdings Limited
+P06.SI	Pca Technology Limited
+P07.SI	Pne Industries Ltd
+P09.SI	Portek International Limited
+P11.SI	Pacific Andes Resources Devltd
+P12.SI	Powermatic Data Systems Ltd
+P13.SI	Penguin International Limited
+P15.SI	Pacific Century Regional Devts
+P19.SI	Pci Ltd
+P22.SI	Pertama Holdings Limited
+P29.SI	Popular Holdings Limited
+P30.SI	United Fiber System Limited
+P31.SI	Pharmesis International Ltd.
+P34.SI	Petra Foods Limited
+P36.SI	Pan Hong Property Group Ltd
+P40U.SI	Starhill Global Reit
+P47.SI	Pacific Healthcare Hldgs Ltd
+P48U.SI	Pacific Shipping Trust
+P52.SI	Pan-united Corporation Ltd
+P58.SI	Lyxor China H 10
+P60.SI	Lyxor Asia 10
+P74.SI	China Kangda Food Company Ltd
+P82.SI	Plastoform Holdings Limited
+Q01.SI	Qaf Ltd
+R01.SI	Raffles Medical Group Ltd
+R07.SI	Rotary Engineering Limited
+R10.SI	Rotol Singapore Limited
+R12.SI	Reyoung Pharm Holdings Limited
+R14.SI	Ramba Energy Limited
+S05.SI	Sim Lian Group Limited
+S07.SI	Shangri-la Asia Limited
+S08.SI	Singapore Post Limited
+S10.SI	Super Group Ltd.
+S13.SI	Sp Corporation Limited
+S14.SI	Sinomem Technology Limited
+S16.SI	Smb United Limited
+S19.SI	Singapore Shipping Corp Ltd
+S20.SI	Straits Trading Co. Ltd
+S21.SI	Genting Hong Kong Limited
+S23.SI	Singapura Finance Ltd
+S24.SI	Stats Chippac Ltd
+S27.SI	Spdr S&p 500 Etf Trust
+S28B.SI	Sengkangmall S$134m8%jb121120
+S29.SI	Stamford Tyres Corporationltd
+S30.SI	Singapore Land Limited
+S35.SI	Sing Investments & Finance Ltd
+S38.SI	Sunray Holdings Limited
+S41.SI	Hong Leong Finance Limited
+S43.SI	Sm Summit Holdings Ltd
+S44.SI	Engro Corporation Limited
+S45U.SI	Singapore Index Fund
+S46.SI	San Teh Limited
+S47.SI	Superior Multi-packaging Ltd
+S48.SI	Superbowl Holdings Limited
+S49.SI	Singapore Reinsurance Cor Ltd
+S51.SI	Sembcorp Marine Ltd
+S53.SI	Smrt Corporation Ltd
+S56.SI	Samudera Shipping Line Ltd
+S57.SI	Surface Mount Tech (hldgs) Ltd
+S58.SI	Sats Ltd.
+S59.SI	Sia Engineering Co Ltd
+S61.SI	Sbs Transit Ltd
+S63.SI	Singapore Tech Engineering Ltd
+S68.SI	Singapore Exchange Limited
+S69.SI	Serial System Ltd
+S71.SI	Sunright Ltd
+S73.SI	Stratech Systems Limited
+S82.SI	Firstlink Inv Corp Ltd
+S85.SI	Straco Corporation Limited
+S91.SI	Chinavision Media Grp Limited
+T03.SI	Tat Hong Holdings Ltd
+T04.SI	Thakral Corporation Ltd
+T06.SI	Tiong Woon Corp Holding Ltd
+T08.SI	Tye Soon Ltd
+T09.SI	Tt International Limited
+T12.SI	Tat Seng Packaging Group Ltd
+T13.SI	Rh Petrogas Limited
+T14.SI	Tianjin Zhong Xin Pharm Group
+T15.SI	Tan Chong Int'l Ltd
+T16.SI	China Dairy Group Ltd
+T18.SI	Tpv Technology Limited
+T19.SI	Transview Holdings Limited
+T20.SI	Scintronix Corporation Ltd.
+T24.SI	Tuan Sing Holdings Limited
+T26.SI	Tsit Wing Intl Holdings Ltd
+T28.SI	Teledata (singapore) Ltd
+T35.SI	Sunningdale Tech Ltd
+T39.SI	Singapore Press Hldgs Ltd
+T41.SI	Telechoice International Ltd
+T42.SI	China Auto Electronics Grp Ltd
+T43.SI	Techcomp (holdings) Limited
+T55.SI	Transpac Industrial Hldgs Ltd
+T57.SI	Shanghai Asia Holdings Limited
+T77.SI	Southern Packaging Group Ltd
+T80.SI	Sinobest Technology Hldgs Ltd.
+T82U.SI	Suntec Real Estate Inv Trust
+U01.SI	United Food Holdings Limited
+U04.SI	United Engineers Ltd Ord
+U05.SI	United Engineers 7.5% Cum Pref
+U06.SI	United Industrial Corp Ltd
+U07.SI	United Intl Securities Ltd
+U09.SI	Upp Holdings Limited
+U10.SI	Uob-kay Hian Holdings Limited
+U11.SI	United Overseas Bank Ltd
+U13.SI	United Overseas Insurance Ltd
+U14.SI	Uol Group Limited
+U16.SI	Ultro Technologies Limited
+U18.SI	Unified Communications Hldgltd
+U19.SI	United Envirotech Ltd
+U77.SI	Sarin Technologies Ltd
+U96.SI	Sembcorp Industries Ltd
+V01.SI	Vicom Ltd
+V03.SI	Venture Corporation Limited
+V69.SI	Union Steel Holdings Limited
+W01.SI	Wbl Corporation Limited
+W05.SI	Wing Tai Hldgs Ltd
+W12.SI	Willas-array Elec (hldgs) Ltd
+W81.SI	Sky China Petroleum Svcs Ltd.
+X04.SI	Sp Ausnet
+X06.SI	Sinopipe Holdings Limited
+X27.SI	Shanghai Turbo Enterprises Ltd
+X64.SI	Star Pharmaceutical Limited
+Y02.SI	Yongnam Holdings Limited
+Y03.SI	Yeo Hiap Seng Ltd
+Y06.SI	Youcan Foods International Ltd
+Y07.SI	Global Yellow Pages Limited
+Y08.SI	Yhi International Limited
+Y34.SI	Sunshine Holdings Limited
+Y35.SI	Sun East Group Limited
+Y45.SI	Singapore Windsor Holdings Ltd
+Y62.SI	Sino-environment Tech Grp Ltd
+Y92.SI	Thai Beverage Public Co Ltd
+Z01.SI	Zagro Asia Limited
+Z02.SI	China Powerplus Limited
+Z04.SI	Zhonghui Holdings Ltd.
+Z25.SI	Yanlord Land Group Limited
+Z59.SI	Yoma Strategic Holdings Ltd
+Z74.SI	Singtel
+Z75.SI	Synear Food Holdings Limited
+Z77.SI	Singtel 10
+Z78.SI	Singtel 100

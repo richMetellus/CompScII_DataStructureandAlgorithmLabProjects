@@ -1,0 +1,2228 @@
+Symbol	Description
+AAB.TO	Aberdeen International Inc
+AAB.WT.TO	Aberdeen Intl Inc
+AAH.TO	Aastra Technologie Com Npv
+AAV.TO	Advantage Energy Income Fd
+AAV.DB.D.TO	Advantage 7.75% Deb
+AAV.DB.G.TO	Advantage Oil 8% Db
+AAV.DB.H.TO	Advantage Oil 5% Db
+ABC.TO	Asia Bio-Chem Group Corp
+ABH.TO	Abitibibowater Inc
+ABK.A.TO	Allbanc Split Corp
+ABK.PR.B.TO	ALLBANC SPLIT CORP
+ABK.WT.TO	Allbanc Split Corp
+ABO.A.TO	Arbor Memorial Services Inc
+ABO.B.TO	Arbor Memorial Cl B
+ABT.TO	Absolute Software Corp
+ABX.TO	Barrick Gold Corp Com Npv
+AC.A.TO	Air Canada Cl A Var Vtg Shs Npv
+AC.B.TO	Air Canada Cl B Vtg Shs Npv
+AC.WT.TO	Air Canada-
+ACC.TO	Amica Mature Lifestyles Inc
+ACD.TO	Accord Finl Corp Com Npv
+ACE.A.TO	Ace Aviation Holdings Inc
+ACE.B.TO	Ace Aviation Hldg Cl'B' Voting
+ACM.A.TO	Astral Media Inc Class'A'Non-Vt
+ACM.B.TO	Astral Media Inc Class'B'Com Np
+ACO.X.TO	Atco Ltd Class I Non-Voting Com
+ACO.Y.TO	Atco Ltd Class Ii Voting Com Np
+ACQ.TO	Autocanada Inc
+AD.TO	Alaris Royalty Corp. [The Co.]
+ADA.TO	Acadian Mining Corp
+ADC.UN.TO	Canadian Advantaged Conv Fd
+ADN.TO	Acadian Timber Corp
+ADW.A.TO	Andrew Peller Ltd Com Npv Class
+ADW.B.TO	Andrew Peller Ltd Com Npv Class
+AEI.TO	Arsenal Energy Inc Com Npv
+AEM.TO	Agnico Eagle Mines Com Npv
+AEM.WT.U.TO	Agnico-Eagle Mines Ltd
+AEN.TO	Antrim Energy Inc
+AER.TO	Aeroplan Income Fd
+AER.PR.A.TO	GROUPE AEROPLAN INC SRS 1
+AEU.UN.TO	Activenergy Income Trust Units
+AEZ.TO	Aeterna Zentaris Com Npv
+AF.TO	Alarmforce Inds Com Npv
+AFN.TO	Ag Growth Income Fd New
+AFN.DB.TO	Ag Growth Intl Inc 7.0% Conv
+AFP.UN.TO	Agf Master Limited Lp Units
+AFU.UN.TO	Acuity Focused Ttl Trust Units
+AG.DB.TO	Arctic Glacier Inc Fd
+AG.UN.TO	Arctic Glacier Inc Trust Units
+AGB.UN.TO	Global Agribusiness Trust Trust
+AGF.B.TO	Agf Management Ltd Class'B'Non-
+AGI.TO	Alamos Gold Inc Com Npv
+AGT.TO	Alliance Grain Traders Inc
+AGU.TO	Agrium Inc Com Npv
+AHD.TO	Arehada Mining Ltd Com Npv
+AHX.TO	Adherex Technologi Com Npv
+AIF.TO	Altus Group Ltd
+AIF.DB.TO	Altus Group Income Fund
+AIG.UN.TO	Acuity Gth & Inc T Trust Units
+AKL.TO	Akela Pharma Inc He Company]
+AKT.A.TO	Akita Drilling Ltd Class'A'N/Vt
+AKT.B.TO	Akita Cl B
+ALA.TO	Altagas Ltd
+ALA.PR.A.TO	Altagas Ltd
+ALB.TO	Allbanc Split Ii Class A Capita
+ALB.PR.A.TO	Allbanc Split Corp II Class A Preferred
+ALC.TO	Algoma Central Cp Com Cad2
+ALG.TO	Allied Gold Ltd [The Co]
+ALS.TO	Altius Minerals Corp
+AM.TO	Automodular Corpor Com Npv
+AMC.TO	Alexis Minerals Com Npv
+AMF.TO	Amorfix Life Scien Com Npv
+AMM.TO	Almaden Minerals Com Npv
+ANO.TO	Anatolia Minerals Com Npv
+ANO.DB.TO	Anatolia Minerals Development Li
+ANS.TO	Ainsworth Lmbr Ltd
+ANS.WT.TO	Ainsworth Lumber Co Ltd Wts 29/
+ANV.TO	Allied Nevada Gold Com Stk Usd0
+ANX.TO	Anaconda Mining In Com Npv
+AOG.UN.TO	Brompton Adv Equal Trust Units
+AOG.WT.TO	BROMPTON ADVTG OIL &     GAS INC
+AP.UN.TO	Allied Props Real Trust Units
+APV.TO	Arise Tech Corp[The Company]
+APV.WT.TO	Arise Technologies Corporation
+APV.WT.A.TO	Arise Tech A Wt J
+APY.TO	Anglo Pacific Group Plc
+AQA.TO	Aquila Resources Com Npv
+AQL.TO	Aeroquest Intl Ltd He Co]
+AQN.TO	Algonquin Pwr & Utilities Corp
+AQN.DB.TO	Algonquin Pwr & Utilities Corp
+AQN.DB.A.TO	Algonquin Pwr 6.35Db
+AQN.DB.B.TO	Algonquin Pwr 7% Deb
+AR.TO	Argonaut Gold Ltd
+AR.WT.TO	Argonaut Gold Ltd Warrants
+ARE.TO	Aecon Group Inc. Com Npv
+ARE.DB.TO	Aecon Group Inc 7% Conv
+ARE.DB.A.TO	Aecon Group 6.25% Db
+ARF.TO	Armtec Infrastructure
+ARF.DB.TO	Armtec Infrastructure Income F
+ARG.TO	Amerigo Resources Com Npv
+ARL.TO	Africo Resources L Com Npv
+ARX.TO	Arc Resources
+ARZ.TO	Aurizon Mines Com Npv
+ASC.TO	Aic Global Financial Split Corp
+ASC.PR.A.TO	AIC Global Financial Pfd A
+ASF.TO	Acuity Small Cap C Com Stk Npv
+ASR.TO	Aspen Group Resources Cp
+ATA.TO	Ats Auto Tooling Com Npv
+ATB.TO	Atrium Innovations Com Npv
+ATD.A.TO	Alimentation Couche-Tard Inc
+ATD.B.TO	Alimentation Couche-Tard Inc
+ATH.TO	Athabasca Oil Sands Corp
+ATN.TO	Atna Resources Com Npv
+ATP.TO	Atlantic Power Cor Com Npv
+ATP.DB.TO	Atlantic Power Corp 6.25% Debn
+ATP.DB.A.TO	Atlantic Pwr 6.25 Db
+ATP.DB.B.TO	Atlantic Pwr 6.25 Db
+ATQ.TO	Adeptron Technolog Com Npv
+AUA.TO	Adanac Molybdenum Com Npv
+AUM.TO	Golden Minerals Co
+AUZ.UN.TO	Australian Banc Cap Secs Tr
+AV.UN.TO	Brompton Advge Vip Incme Fd
+AV.WT.TO	BROMPTON ADVANTAGED VIP INCOME
+AVF.TO	Avenex Energy Corp
+AVK.TO	Avnel Gold Mining Com Npv
+AVL.TO	Avalon Rare Metals
+AVL.WT.TO	Avalon Rare Metals Inc
+AVM.TO	Anvil Mining Ltd Com Npv
+AVP.TO	Avcorp Inds Inc Com Npv
+AVR.TO	Avion Resources Corp
+AW.UN.TO	A&W Revenue Royalt Trust Units
+AX.DB.C.TO	Artis Reit C Deb J
+AX.DB.E.TO	Artis Reit E Deb
+AX.DB.F.TO	Artis Reit F Deb
+AX.UN.TO	Artis Reit
+AXL.TO	Anderson Energy Lt Com Npv
+AXL.DB.TO	Anderson Energy Ltd Deb 7.5%
+AXR.TO	Alexco Resource Co Com Npv
+AXX.TO	Axia Netmedia Corp Com Npv
+AYX.TO	Auryx Gold Corp.
+AZ.TO	Armistice Resource Com Npv
+AZC.TO	Augusta Resource Corp
+AZD.TO	Azure Dynamics Cor Com Npv
+BA.TO	Bell Aliant Inc
+BAA.TO	Banro Corporation Com Npv
+BAA.WT.TO	Banro Corp
+BAB.UN.TO	Build Amer Inv Grade Bond Fund
+BAD.TO	Badger Daylighting Ltd
+BAJ.TO	Baja Mining Corp Com Npv
+BAM.A.TO	Brookfield Asset Mgmt Inc
+BAM.PR.B.TO	Brookfield Asset Management Inc Class A Preference Series 2
+BAM.PR.C.TO	Brookfield Asset Management Inc Class A Preference Series 4
+BAM.PR.E.TO	Brookfield Asset Management Inc Class A Preference Series 8
+BAM.PR.G.TO	Brookfield Asset Management Inc Class A Preference Series 9
+BAM.PR.H.TO	Brookfield Asset Management Inc Class A Preference Series 10
+BAM.PR.I.TO	Brookfield Asset Management Inc Class A Preference Series 11
+BAM.PR.J.TO	Brookfield Asset Management Inc Class A Preference Series 12
+BAM.PR.K.TO	Brookfield Asset Management Inc Class A Preference Series 13
+BAM.PR.M.TO	BROOKFIELD ASST MGMNT INC
+BAM.PR.N.TO	BROOKFIELD ASSET MANAGEMENT
+BAM.PR.O.TO	BROOKFIELD ASSET MANAGEMENT INC
+BAM.PR.P.TO	BROOKFIELD ASSET MGMT INC
+BAM.PR.R.TO	BROOKFIELD ASSET MANAGEMENT INC
+BAM.PR.T.TO	Brookfield Asset Management Inc 835% Preferred due June 30 2051
+BAN.TO	Bannerman Res Ltd He Co]
+BBD.A.TO	Bombardier Inc Class'A'Cnv Com
+BBD.B.TO	Bombardier Inc Class'B'S/Vtg Np
+BBD.PR.B.TO	Bombardier Inc Pfd B
+BBD.PR.C.TO	Bombardier Inc 625% Ser 4 Pfd
+BBD.PR.D.TO	Bombardier Inc Series 3 Pfd
+BBL.A.TO	Brampton Brick Ltd Cl A Sv
+BBO.TO	Big Bank Big Oil Split Corp
+BBO.PR.A.TO	BIG BANK BIG OIL SPLIT CORP. P
+BCB.TO	Cott Corporation Com Npv
+BCD.TO	Diamondcore Ltd
+BCE.TO	Bce Inc Com Npv
+BCE.PR.A.TO	BCE Inc Series A Pfd A
+BCE.PR.B.TO	BCE PR B
+BCE.PR.C.TO	BCE Inc Series A C Pfd C
+BCE.PR.D.TO	BCE INC
+BCE.PR.E.TO	BCE FIRST PFD SERIES AE
+BCE.PR.F.TO	BCE FIRST PFD SERIES AF
+BCE.PR.G.TO	BCE FIRST PFD SERIES AG
+BCE.PR.H.TO	BCE FIRST PFD SERIES AH
+BCE.PR.I.TO	BCE FIRST PFD SERIES AI
+BCE.PR.R.TO	BCE Inc Pfd R
+BCE.PR.S.TO	BCE Inc Pfd S
+BCE.PR.T.TO	BCE INC
+BCE.PR.Y.TO	BCE Inc Pfd Y
+BCE.PR.Z.TO	BCE Inc Pfd Z
+BCI.TO	Benvest New Look Income Fd
+BDI.TO	Black Diamond Income Fund
+BDT.TO	Bird Construction Company Ltd
+BE.TO	Brompton Eqt Split Com Npv Clas
+BE.PR.A.TO	Brompton Equity Split Cp Pfd A
+BEI.UN.TO	Boardwalk R/Est In Trust Units
+BEK.B.TO	Becker Milk Co Ltd Cl B Nv Spec
+BEV.TO	Bennett Envir Inc Com Npv
+BEV.WT.TO	Bennett Environmental Inc Warra
+BIG.A.TO	Big 8 Split Inc Com Npv Cls'A'[
+BIG.PR.B.TO	BIG 8 SPLIT INC CL B PRF SHS SE
+BIG.PR.C.TO	BIG 8 SPLIT INC
+BIM.TO	Baffinland Iron Mines Corp
+BIM.WT.TO	Baffinland Iron Mi C/Wts 31/01/
+BIM.WT.A.TO	Baffinland Iron Wt A
+BIN.TO	Iesi Bfc Ltd
+BIP.UN.TO	Brookfield Infra Partners L.P.
+BIR.TO	Birchcliff Energy Ltd
+BK.TO	Canadian Banc Recovery Corp
+BK.PR.A.TO	CANADIAN BANC RECOVERY CORP
+BKP.TO	C.A. Bancorp Inc Com Npv
+BKX.TO	Bnk Petroleum Inc He Co]
+BLD.TO	Ballard Power Sys Com Npv
+BLS.TO	Boliden Ab Npv [Post Split]
+BLU.TO	Bellus Health Inc Com Npv
+BLX.TO	Boralex Inc
+BLX.DB.TO	Boralex Inc 6.75% Deb
+BLZ.TO	Belzberg Technolog Com Npv
+BMO.TO	Bk Of Montreal Com Npv
+BMO.PR.H.TO	Bank Of Montreal Pfd H
+BMO.PR.J.TO	BANK OF MONTREAL PFD SER 13
+BMO.PR.K.TO	BANK OF MONTREAL
+BMO.PR.L.TO	BANK OF MONTREAL
+BMO.PR.M.TO	BANK OF MONTREAL 5YR CL B S16
+BMO.PR.N.TO	BANK OF MONTREAL NON-CUM 5Y RT
+BMO.PR.O.TO	BANK OF MONTREAL NON CUM 5YR
+BMO.PR.P.TO	BANK OF MONTREAL
+BMO.PR.V.TO	Bank Of Montreal Pfd V
+BNA.PR.B.TO	BNN Split Cp AA Pfd B
+BNA.PR.C.TO	BAM SPLIT CORP CL AA SER3
+BNA.PR.D.TO	BAM SPLIT CORP
+BNA.PR.E.TO	BAM SPLIT CORP PFD
+BNC.TO	Bioniche Life Scie Com Npv
+BND.UN.TO	Investment Grade T Trusts Units
+BNE.TO	Bonterra Energy Ltd
+BNG.TO	Bengal Energy Ltd
+BNK.TO	Bankers Pete Ltd
+BNK.WT.A.TO	Bankers Pete Wt A J
+BNP.TO	Bonavista Energy Corp
+BNS.TO	Bk Of Nova Scotia Com Npv
+BNS.PR.J.TO	Bank Of Nova Scotia Pfd J
+BNS.PR.K.TO	Bank Of Nova Scotia Pfd Srs 13
+BNS.PR.L.TO	BANK OF NOVA SCOTIA NC PFD 14
+BNS.PR.M.TO	THE BANK OF NOVA SCOTIA PREF S
+BNS.PR.N.TO	THE BANK OF NOVA SCOTIA
+BNS.PR.O.TO	BANK NOVA SCOTIA HALIFAX
+BNS.PR.P.TO	BANK OF NOVA SCOTIA PFD SER 18
+BNS.PR.Q.TO	THE BANK OF NOVA SCOTIA
+BNS.PR.R.TO	THE BANK OF NOVIA SCOTIA
+BNS.PR.T.TO	BANK OF NOVA SCOTIA NON CUM PRF
+BNS.PR.X.TO	BANK OF NOVA S
+BNS.PR.Y.TO	BNS NCP-30
+BOS.TO	Airboss Of Amer Cp Com Npv
+BOX.UN.TO	Brookfld Office Prop
+BOY.TO	Boyuan Constr Group Inc
+BOY.DB.A.TO	Boyuan Constr 10% Db
+BPF.UN.TO	Boston Pizza Royal Trust Units
+BPO.TO	Brookfield Propert Com Npv
+BPO.PR.F.TO	Brookfield Props AAA Pfd F
+BPO.PR.H.TO	Brookfield Props AAA Pfd H
+BPO.PR.I.TO	Brookfield Props AAA Pfd I
+BPO.PR.J.TO	Brookfield Props AAA Pfd J
+BPO.PR.K.TO	Brookfield Props AAA Pfd K
+BPO.PR.L.TO	BROOKFIELD PROPERTIES CORP
+BPO.PR.N.TO	BROOKFIIELD PROP CORP SRS N
+BPO.PR.P.TO	BROOKFIELD PROPERTIES CP PFD
+BPO.PR.U.TO	Brookfield Props US$ Pfd G
+BPP.PR.G.TO	BPO Properties Ltd Pfd G
+BPP.PR.J.TO	BPO Properties Ltd Pfd J
+BPP.PR.M.TO	BPO Properties Ltd Pfd M
+BPV.TO	Bridgeport Ventures Inc
+BPV.WT.TO	Bridgeport Ventures Inc Wts
+BPV.WT.A.TO	Bridgeport Ven A Wtj
+BQE.TO	Bioteq Environment Com Npv
+BR.TO	Big Rock Brewery Inc
+BRB.TO	Brick Brewing Com Npv
+BRC.UN.TO	Great Lakes Hydro Income Fund
+BRD.TO	Brigus Gold Corp
+BRD.WT.TO	Brigus Gold Corp Warrants
+BRD.WT.A.TO	Brigus Gld Corp Wt A
+BRE.TO	Brookfield Real Est Svcs Inc
+BRF.PR.A.TO	BROOKFIELD RENEWABLE PWR PFD
+BRK.TO	Brick Ltd
+BRK.DB.TO	Brick Group 12% Deb
+BRK.WT.TO	Brick Group Wt
+BSC.TO	Bns Split Corp Ii Cap Shs Cl 'a
+BSC.PR.B.TO	BNS SPLIT CIRP II PFD
+BSC.WT.TO	Bns Split Corp Ii  Wts
+BSD.PR.A.TO	Brascan Soundvest Split Tr Pfd
+BSD.UN.TO	Brascan Soundvest Capital Units
+BSE.UN.TO	Brookfield Soundvest Equity Fd
+BT.UN.TO	Bonnetts Energy S Trust Units
+BTE.TO	Baytex
+BTO.TO	B2Gold Corp
+BU.TO	Burcon Nutrascience Corp
+BUC.TO	Bucking Horse Energy Inc
+BUI.TO	Buhler Industries Inc
+BWC.TO	Bridgewater Systems Corp
+BWE.TO	Biowest Therapeutics Inc
+BWR.TO	Breakwater Res Inc Com Npv
+BWR.WT.A.TO	Breakwater Resources
+BX.TO	Biox Corp
+BXE.TO	Bellatrix Exp Ltd 7.5% Conv
+BXE.DB.A.TO	Bellatrix 4.75% Deb
+BXI.TO	Bio-Extraction Inc.
+BXS.NT.A.TO	Barclays Bank Nti-10
+BYD.UN.TO	Boyd Group Income Trust Units
+BZA.TO	Amer Bonanza Gold. Com Npv
+CAB.TO	Claymore Advge Canadaian Bond
+CAB.A.TO	Claymore Advtge Canadian Bond
+CAE.TO	Cae Inc Com Npv
+CAI.DB.TO	Canadian Income Management Inc
+CAL.TO	Caledonia Mining C Com Npv
+CAM.TO	Canam Group Inc Com Npv
+CAM.DB.TO	Canam Group Inc 6.25 Debs
+CAR.UN.TO	Canadian Apt Pptys Real Esta
+CAS.TO	Cascades Inc Com Npv
+CAX.TO	Candax Energy Inc Com Npv
+CAZ.TO	Caza Oil & Gas Inc
+CBB.UN.TO	Copernican British Trust Units
+CBD.TO	Claymore Glo Bal Inc
+CBD.A.TO	Claymore Global Ba Advisor Clas
+CBF.UN.TO	Connors Bros Income Fd
+CBN.TO	Claymore Global Ba Common Units
+CBN.A.TO	Claymore Global Ba Advisor Clas
+CBO.TO	Clymore 1-5 Y
+CBO.A.TO	Claymore 1-
+CBQ.TO	Claymore Can Bric Sbi Common Un
+CBQ.A.TO	Claymore Can Bric Sbi Advisor U
+CBR.TO	Claymore Broad Commodity Etf
+CBR.A.TO	Claymore Broad Commodity Etf Ad
+CBU.TO	First Asset Canbanc Split Corp
+CBU.PR.A.TO	FIRST ASSET CANBANC SPLIT CORP
+CBW.TO	Copernican World B Com Npv Clas
+CBW.PR.A.TO	COPERNICAN WORLD BNK SPLITS IN
+CBY.TO	Canada Bread Ltd Com Npv
+CCA.TO	Cogeco Cable Inc
+CCL.A.TO	Ccl Industries Inc 'A'Com Npv
+CCL.B.TO	Ccl Industries Inc 'B'Non-Vtg C
+CCM.TO	Canarc Resource Cp Com Npv
+CCO.TO	Cameco Corp Com Npv
+CCP.UN.TO	Connor Clark & L Unn Prints
+CCS.PR.C.TO	CO-OPERATORS GEN INS CO
+CCS.PR.D.TO	CO-OPERATORS GENERAL INS CO.
+CCZ.TO	Critical
+CDD.UN.TO	Core Canandian Div Sbi Npv
+CDF.UN.TO	Canadian Conver Debenture Fd
+CDG.TO	Candente Gold Corp
+CDH.TO	Corridor Resources Inc
+CDL.A.TO	Corby Distilleries Vtg Npv
+CDL.B.TO	Corby Distilleries Class'B'N/Vt
+CDM.TO	Coeur D'Alene Mine Com Usd1
+CDS.DB.TO	Cadence Energy Inc.
+CDU.TO	Cardero Resource Corp
+CDV.TO	Com Dev Intl Com Npv
+CDW.UN.TO	Canadian Wireless Trust Units
+CDZ.TO	Claymore Cdn Dividend & Income
+CDZ.A.TO	Claymore Cad Divi Sbi Advisor U
+CEE.TO	Centamin Egypt Npv
+CEF.A.TO	Central Fd Of Canada Ltd
+CEF.U.TO	Carfino Inc Fd
+CEK.TO	Caspian Energy Inc Com Npv
+CEK.WT.TO	Caspian Energy Inc
+CET.TO	Cathedral Eng Sv T Trust Npv
+CEU.TO	Canadian Energy Svcs L P
+CEW.TO	Claymore Equal Weight Banc Life
+CEW.A.TO	Banc & Lifeco Trust He Fund]
+CEZ.TO	Calmena Energy Services Inc.
+CF.TO	Canaccord Finl Inc
+CFB.TO	Chieftain Metals Inc  Com
+CFE.UN.TO	Canadian Energy Conv Deb Fd
+CFG.TO	Cluff Gold Plc
+CFN.UN.TO	Carfinco Income Fd Trust Units
+CFP.TO	Canfor Corporation Com Npv
+CFS.TO	Canadian Financial Com Npv Clas
+CFS.PR.A.TO	CANADIAN  FINANCIAL &    UTIL CO
+CFT.TO	Ce Franklin Ltd Com Npv
+CFW.TO	Calfrac Well Servi Com Npv
+CFX.TO	Canfor Pulp Products
+CG.TO	Centerra Gold Inc Com Npv
+CGA.TO	Cga Mining Limited Npv
+CGC.TO	Capital Gold Corp
+CGG.TO	China Gold Int Resources Corp.
+CGI.TO	Cdn General Invest Com Npv
+CGI.PR.B.TO	Canadian General Inv 465% B
+CGI.PR.C.TO	Canadian General Investments 39% Class A Preferred Series 3
+CGL.TO	Claymore Gold Bullion Etf
+CGO.TO	Cogeco Inc
+CGQ.TO	Capital Gains Inco Capital Shs
+CGQ.E.TO	Capital Gains Income Streams Co
+CGR.TO	Claymore Global Rl Est Etf
+CGR.A.TO	Claymore Global Real Estate Etf
+CGX.TO	Cineplex Inc
+CGX.DB.TO	Cineplex Galaxy Incm Fd 6.0% Co
+CHB.TO	Claymore Adv High Yield Bd Etf
+CHB.A.TO	Claymore Adv High Yield Bd Etf
+CHE.DB.TO	Chemtrade Logistics Fd 6.0 Deb
+CHE.UN.TO	Chemtrade Logistic Trust Units
+CHH.TO	Centric Health Corporation
+CHI.TO	Claymore China Etf
+CHI.A.TO	Claymore China Etf Advisor Clas
+CHL.A.TO	Canadian Helicopters Group Inc
+CHL.B.TO	Canadian Helicopters Group Inc
+CHM.TO	Champion Minerals Inc
+CHR.A.TO	Chorus Aviation Inc
+CHR.B.TO	Chorus Aviation Inc
+CHR.DB.TO	Chorus Aviation Inc Deb
+CHW.TO	Chesswood Inc Fd
+CIB.TO	Claymore Inverse 10 Yr Govt Bon
+CIC.TO	Canbanc Income Corp
+CIE.TO	Claymore Intl Fund Common Units
+CIE.A.TO	Claymore Intl Fund Advisor Clas
+CIF.TO	Claymore Global Infrastructure
+CIF.A.TO	Claymore Global Adv Cl
+CIP.UN.TO	Ci Master Ltd Part Limited Part
+CIQ.UN.TO	Canadian High Inc Equity Fd
+CIQ.WT.TO	Canadian High Inc Equity Fd
+CIR.TO	Copernican Intl Fi Com Npv Clas
+CIR.PR.A.TO	COPERNICAN INTL FINL SPLIT C
+CIU.PR.A.TO	CU INC PRD SHR
+CIU.PR.B.TO	CU INC
+CIU.PR.C.TO	CU INC PFD
+CIW.UN.TO	Copernican Wld Fin Trust Units
+CIX.TO	Ci Finl Inc
+CJP.TO	Claymore Japan Fun Common Units
+CJP.A.TO	Claymore Jpn Fund Idx Etf C$ He
+CJR.B.TO	Corus Entertainmnt Class 'B' No
+CJT.TO	Cargojet Inc
+CJT.DB.TO	Cargojet Income Fund 7.5% Cnv S
+CKE.TO	Chinook Energy Inc
+CKI.TO	Clarke Inc Com Npv
+CKI.DB.TO	Clarke Inc 6% Deb
+CKI.DB.A.TO	Clarke Inc. 6% Deb A
+CLC.TO	Cml Healthcare Inc
+CLF.TO	Claymore 1-5 Yr Laddered Gov Bo
+CLF.A.TO	Claymore 1-5 Yr Laddered Gov Bo
+CLK.TO	Clublink Enterprises Ltd
+CLL.TO	Connacher Oil Gas Com Npv
+CLL.DB.A.TO	Connacher Oil And Gas Limited
+CLM.TO	Consld Thmpson Iron Mines Ltd
+CLM.DB.U.TO	Cons Thompson Usdb J
+CLO.TO	Claymore Oil Sands Common Units
+CLO.A.TO	Claymore Oil Sands Sector Etf
+CLQ.TO	Canada Lithium Corp
+CLQ.WT.TO	Canada Lithium Corp Warrants
+CLR.DB.A.TO	Clearwater 7.25% Deb
+CLR.DB.B.TO	Clearwater 10.5% Deb
+CLR.UN.TO	Clearwater Seafood Units Npv
+CLS.TO	Celestica Inc. Sv
+CLT.TO	Celtic Exploration Com Npv
+CLU.TO	Claymore US Funda Sbi Common Un
+CLU.A.TO	Claymore US Funda Sbi Advisor U
+CLU.B.TO	Clymre US Fund Index Etf C$
+CLU.C.TO	Claymore US Fund Index Etfc$
+CM.TO	Canadian Imp Bank Com Npv
+CM.PR.D.TO	Cdn Imperial Bank Srs 26 Pfd
+CM.PR.E.TO	Cdn Imperial Bank Srs 27 Pfd
+CM.PR.G.TO	Cdn Imperial Bank Srs 29 Pfd
+CM.PR.H.TO	CIBC Cl A Pfd Series 30
+CM.PR.I.TO	CANADIAN IMPERIAL BANK OF COMME
+CM.PR.J.TO	CANADIAN IMPERIAL BNK OF COMMR
+CM.PR.K.TO	CDN IMPERIAL BK OF COMMERCE
+CM.PR.L.TO	CANADIAN IMPER
+CM.PR.M.TO	CANADIAN IMPERIAL BANK OF COMM
+CM.PR.P.TO	Cdn Imperial Bank Srs 18 Pfd
+CMG.TO	Computer Modelling Group
+CMH.TO	Carmanah Techs Cor Com Npv
+CMK.TO	Cline Mining Corp Com Npv
+CML.TO	Croflight Minerals Inc
+CMP.UN.TO	Cmp Gold Tr Units
+CMR.TO	Clymre Prem Money Market Etf
+CMT.TO	Compton Petroleum Com Npv
+CMT.WT.TO	Compton Petroleum Corp
+CMW.TO	Claymore S&P/Tsx G Commun Unit
+CMW.A.TO	Claymore S&P/Tsx G Advisor Clas
+CMZ.UN.TO	Compass Income Fun Trust Units
+CNH.TO	Cinch Energy Corp Com Npv
+CNJ.TO	Cangene Corp Com Npv
+CNL.TO	Continental Gold Ltd
+CNL.WT.TO	Continental Gold Ltd Wts
+CNM.UN.TO	Canadian Income Management Trus
+CNM.WT.TO	Canadian Income Management Trus
+CNQ.TO	Cdn Nat Res Com Npv
+CNR.TO	Cdn Natl Railways Com Npv
+CNV.UN.TO	Convertible & Yiel Units
+COA.TO	Coastal Constacts Inc
+COM.TO	Cardiome Pharma Co Com Npv
+COP.TO	Coro Mining Com Npv
+COS.TO	Canadian Oil Sands
+COW.TO	Claymore Global Agriculture
+COW.A.TO	Claymore Global Agriculture
+COX.UN.TO	Coxe Commodity Strategy Fund Cl
+COX.WT.TO	Coxe Commodity Strategy Fund Cl
+CP.TO	Can Pacific Rys Com Npv
+CPA.UN.TO	Capital Power Inc L.P.
+CPD.TO	Claymore S&P/Tsx C Common Unit
+CPD.A.TO	Claymore S&P/Tsx C Advisor Clas
+CPG.TO	Crescent Pt Energy Corp
+CPM.UN.TO	Copernican Intl Pr Trust Unit
+CPN.TO	Carpathian Gold In Com Npv
+CPT.TO	Coalspur Mines Ltd Ord
+CPX.TO	Capital Power Corporation
+CPX.PR.A.TO	CAPITAL POWER CORPORATION
+CQE.TO	Cequence Energy Ltd
+CR.TO	Crew Energy Inc
+CRA.TO	Cresent Gold Ltd
+CRG.TO	Corona Gold Corp Com Npv
+CRJ.TO	Claude Resources Com Npv
+CRJ.WT.TO	Claude Resources Inc. Wts
+CRK.TO	New Crocodile Gold
+CRP.TO	Ceres Global Ag Corp
+CRQ.TO	Claymoretfs Ftse Rafi Canadian
+CRQ.A.TO	Claymore Cnd Fundmntl Indx Etf
+CRR.DB.TO	Crombie Real Estate Invest Trus
+CRR.DB.B.TO	Crombie Reit 6.25 Db
+CRR.DB.C.TO	Crombie Reit 5.75 Db
+CRR.UN.TO	Crombie Real Estate Investment
+CRT.UN.TO	Citadel Smart Fd
+CRW.UN.TO	Cinram International Inc Fd
+CRY.TO	Cryptologic Ltd Ord Npv
+CS.TO	Capstone Mining Corp
+CS.DB.TO	Capstone Mining Corp 5% Debs
+CSA.TO	Comm Solutions Inc Com Npv
+CSB.UN.TO	Canadian Banc Cap Secur Trust
+CSF.TO	Rentcash Inc
+CSH.DB.A.TO	Chartwell Seniors Housing Real E
+CSH.UN.TO	Chartwell Seniors Trust Units
+CSI.TO	Colossus Mineral Inc[The Co.]
+CSI.WT.TO	Colossus Mineral Inc[The Co.]
+CSS.TO	Contrans Group Inc
+CSU.TO	Constellation Software Inc
+CSY.TO	Can-60 Income Corp Non-Voting S
+CTA.TO	Crocotta Energy Inc Com Npv
+CTC.TO	Canadian Tire Corp
+CTC.A.TO	Canadian Tire Corp Ltd Cl A Nv
+CTF.UN.TO	Citadel Income Fund
+CTF.WT.TO	Citadel Income Fund
+CTL.TO	Catalyst Paper Cor Com Npv
+CTU.A.TO	Le Chateau Inc
+CTY.TO	Calian Technologie Com Npv
+CU.TO	Cdn Utilities Class'A'Com Non-V
+CU.PR.A.TO	Canadian Utilities 2nd Pfd W
+CU.PR.B.TO	Canadian Utilities 2nd Pfd X
+CU.X.TO	Cdn Utilities Class'B'Com Npv
+CUF.DB.TO	Cominar Real Estate Investment
+CUF.DB.B.TO	Cominar Real Estate Investment T
+CUF.DB.C.TO	Cominar Real Estate Investment T
+CUF.DB.D.TO	Cominar Reit 6.5% Db
+CUF.DB.E.TO	Cominar Reit 5.75 Db
+CUF.UN.TO	Cominar Real Estat Trust Units
+CUM.TO	Copper Mountain Mining Corp
+CUP.U.TO	Caribbean Utilties 'A'Usd0.05
+CUQ.TO	Churchill Corp Com Npv
+CUQ.DB.TO	The Churchill Corp 6.0 Debs
+CUR.TO	Diagnocure Inc Com Npv
+CUS.DB.TO	Canexus Income Fund
+CUS.DB.A.TO	Canexus Incm 5.75 Db
+CUS.UN.TO	Canexus Income Fd Trust Units
+CVE.TO	Cenovus Energy Inc
+CVG.TO	Clairvest Group Com Npv
+CVI.A.TO	Calvalley Petroleu Com Npv
+CVL.TO	Cervus Equip Corp
+CVT.TO	Cvtech Group Inc Com Npv
+CWA.TO	Coast Whsl Appliances Inc
+CWB.TO	Cdn Western Bank Com Npv
+CWB.PR.A.TO	CANADIAN WESTN BK
+CWB.WT.TO	Canadian Western Bank
+CWF.TO	Canadian World Fund Ltd
+CWG.TO	Craig Wireless Systems Ltd
+CWH.TO	Chartwell Technolo Com Npv
+CWL.TO	Caldwell Partners International
+CWO.TO	Claymore Broad Emerging Mkts
+CWO.A.TO	Claymore Broad Emerging Mkts
+CWT.DB.A.TO	Calloway Real Estate Investment
+CWT.DB.B.TO	Calloway Reit 5.75Db
+CWT.UN.TO	Calloway Real Esta Trust Units
+CWW.TO	Claymore S&P Globa Common Units
+CWW.A.TO	Claymore S& P Globa L Water Et
+CWX.TO	Canwel Bldg Matls Income Fd
+CWX.DB.TO	Canwel Building Materials 5.85
+CX.TO	Cyberplex Inc Com Npv
+CXA.B.TO	Consd Hci Hol
+CXN.TO	Chalice Gold Mines Ltd
+CXS.TO	Counsel Corp Com Npv
+CXX.TO	Corsshair Exp & Mining Corp
+CXY.TO	Cryptologic Exchan Exchangeable
+CYB.TO	Cymbria Corp He Company]
+CYH.TO	Claymore Glbl Mthly Yield Etf
+CYH.A.TO	Claymore Glbl Mthly Yield Etf
+CYM.TO	Cymat Technologies Com Npv
+CZE.TO	C&C Energia Ltd
+CZN.TO	Cdn Zinc Corp Com Npv
+CZP.PR.A.TO	Cpi Prefered Eq Ltd
+CZP.PR.B.TO	Cpi Pref Equity Ltd 7% Prf 31/1
+CZQ.TO	Contl Precious Min Com Npv
+D.DB.TO	Dundee Rl Est Inv Tr 6.5%
+D.DB.A.TO	Dundee Reit 5.7% Deb
+D.DB.B.TO	Dundee Real Estate Investment Tr
+D.UN.TO	Dundee R/Est Inv Trust Units Se
+DA.A.TO	Discovery Air Inc
+DA.DB.TO	Discovery Air Inc 8.75% Deb
+DAA.TO	Pwshrs Db Agriculture Dbl Lng
+DAD.TO	Pwshrs Db Agriculture Dbl Shrt
+DAY.TO	Daylight Energy Ltd
+DAY.DB.C.TO	Daylight Resources Trust
+DAY.DB.D.TO	Daylight 6.25 2014Db
+DC.A.TO	Dundee Corporation 'A'Sub-Vtg N
+DC.DB.TO	Dundee Corp
+DC.PR.A.TO	DUNDEE CORP
+DC.PR.B.TO	DUNDEE CORP CUM 5YR SERIES 2
+DCD.UN.TO	First Asset Divers Trust Cap Re
+DCI.TO	Directcash Payments Inc
+DCM.TO	Dundee Capital Markets Inc
+DD.TO	Digital Dispatch
+DDS.TO	Labopharm Inc Com Npv
+DEE.TO	Delphi Energy Corp Com Npv
+DEJ.TO	Dejour Enterprises Ltd
+DF.TO	Dividend 15 Split Sbi Npv Class
+DF.PR.A.TO	DIVIDEND 15 SPLIT CORP II
+DFE.TO	Day4 Energy Inc He Company]
+DFI.TO	Diamond Fields Int Com Npv
+DFN.TO	Dividend 15 Split Com Cad15 Cl'
+DFN.PR.A.TO	Dividend 15 Split Cp Pfd A
+DG.UN.TO	Global Diversifed Transferable
+DGC.TO	Detour Gold Corpor Com Npv
+DGI.DB.A.TO	Data Group 6.00% Deb
+DGI.UN.TO	Data Group Income Trust Units
+DGJ.TO	Pwshrs Db Gold Dbls Shrt Etn
+DGS.TO	Dividnd Grwth Split Corp
+DGS.PR.A.TO	DIVIDND GROWTH SPLIT CORP
+DGU.TO	Pwrshrs Db Gold Dbl Lng Etn
+DH.TO	Davis + Henderson Corp
+DHX.TO	Dhx Media Ltd
+DII.A.TO	Dorel Industries Inc. Cl A Mv
+DII.B.TO	Dorel Industries Class'B'Sub Vt
+DKI.UN.TO	Deans Knight Income And Growth
+DL.TO	Danier Leather Inc
+DM.TO	Duluth Metals Ltd Com Npv
+DM.U.TO	Duluth Metals Ltd US Funds
+DML.TO	Denison Mines Corp Com Npv
+DML.WT.A.TO	Denison Mines Wt A
+DMM.TO	Dynasty Metals I
+DMN.PR.A.TO	Dominion Citrus Ltd Pfd A
+DNA.TO	Dalradian Resources Inc.
+DNA.WT.TO	Dalradian Resources Inc. Wts
+DNC.TO	Deans Kniight Inc Corp
+DND.TO	Cipher Pharms Inc Com Npv
+DNG.TO	Dynacor Gold Mines Inc Com Npv
+DNK.TO	Dynetek Industries Com Npv
+DNT.TO	Candente Resources Com Npv
+DOE.TO	Powershrs Db Crude Oil Dblshrt
+DOF.UN.TO	First Asset Cdn Dividend Oppty
+DOL.TO	Dollarama Inc Com Npv
+DOM.UN.TO	Dominion Citrus Income Fund
+DPF.UN.TO	Dpf India Opportun Trust Units
+DPM.TO	Dundee Prec Metals Com Npv
+DPM.WT.TO	Dundee Prec Metals C/Wts 29/06/
+DPM.WT.A.TO	Dundee Precious Metals Inc
+DPS.UN.TO	Divdsd Prd Shs Tst Trust Units
+DR.DB.TO	Medical Facilities Corp 7.5%Cnv
+DR.UN.TO	Medical Facilities Inc Part Sec
+DRX.TO	Adf Group Inc
+DS.TO	Dividend Select 15 Corp Com Npv
+DSA.TO	Dalsa Corp Com Npv
+DSG.TO	Descartes Systems Com Npv
+DTX.TO	Dee Three Exploration Ltd
+DW.TO	Dundee Wealth Inc Com Npv
+DW.PR.A.TO	DUNDEE WEALTH MGT PR
+DWI.TO	Dragonwave Inc
+DZR.TO	Diaz Resources Com Npv
+E.TO	Enterprise Oilfiel Com Npv
+EAT.TO	Prime Restaurants Inc
+EBR.TO	Ember Resources In Com Npv
+ECA.TO	Encana Corp Com Npv
+ECG.TO	Envoy Capital Grp Com Npv
+ECI.TO	Enercare Inc
+ECI.DB.TO	Enercare Inc Deb
+ECP.TO	Ecopetrol S.A.
+ECU.TO	Ecu Silver Mining Com Npv
+ECU.WT.TO	Ecu Silver Mining Inc
+EDR.TO	Endeavour Silver C Com Npv
+EDR.WT.TO	Endeavour Silver Corp
+EDV.TO	Endeavour Financial Corp
+EDV.WT.A.TO	Endeavour Financial Corporation
+EE.TO	Exall Energy Corp Com Npv
+EFH.TO	Egi Financial Hold Com Npv
+EFL.TO	Electrovaya Inc Com Npv
+EFR.TO	Energy Fuels Inc Com Npv
+EGL.UN.TO	Eagle Energy Trust Trust Unit
+EGU.TO	Euro Goldfields Com Npv
+EH.TO	Easyhome Ltd Com Npv
+EIF.TO	Exchange Industrial Inc Fd
+EIF.DB.A.TO	Exchange Incm 7.5 Db
+EIF.DB.B.TO	Exchange Incm 6.5 Db
+EIF.DB.C.TO	Exchng Incm 5.75 Deb
+EIF.WT.TO	Exchange Inc Corporation
+EIT.UN.TO	Enervest Divsfd In Trust Units
+EIT.WT.A.TO	Enervest Divers A Wt
+EKO.TO	Noveko Intl Inc
+ELC.TO	Cic Energy Corp
+ELD.TO	Eldorado Gold Corp Com Npv
+ELF.TO	E-L Financial Corp Com Npv
+ELF.PR.F.TO	E-L Financial Cp 1st Pfd F
+ELF.PR.G.TO	E-L FINANCL 4.75 PR2
+ELR.TO	Eastern Platinum Com Npv
+EMA.TO	Emera Inc Com Npv
+EMA.PR.A.TO	Emera Inc
+EMC.TO	Energy Metals Corp
+EMC.WT.TO	Emc Metals Corp. Wts
+EMD.TO	Emed Mining Public Ltd
+EME.TO	Emergis Inc
+EMP.A.TO	Empire Co Class'A'N/Vtg Com Npv
+EMP.PR.B.TO	Empire Company Ltd Srs 2 Pfd B
+ENB.TO	Enbridge Inc Com Npv
+ENB.PR.A.TO	Enbridge Inc 55% Pfd A
+ENF.TO	Enbridge Income Fund Holdings
+ENI.UN.TO	Energy Income Fund
+EOS.UN.TO	Enervest Energy And Oil Sands T
+EPS.TO	Epsilon Energy Ltd
+EQI.TO	Grey Horse Corp
+EQN.TO	Equinox Minerals Com Npv
+EQU.TO	Equal Energy Ltd
+EQU.DB.TO	Equal Energy Ltd 8.0 Debs
+EQU.DB.A.TO	Equal Engy 8.25% Deb
+ER.TO	Eastmain Resources Com Npv
+ERD.TO	Erdene Res Dev
+ERF.TO	Enerplus Corporation
+ES.TO	Energy Split Corp Capital Yield
+ES.PR.B.TO	ENERGY SPLIT CORP INC
+ESI.TO	Ensign Energy Svs Com Npv
+ESL.TO	Enghouse Systems Com Npv
+ESN.TO	Essential Energy Services Ltd
+ESP.TO	Espial Group Inc Com Npv
+ET.TO	Evertz Technologies Ltd
+ETC.TO	Equitable Gp Inc Com Npv
+ETC.PR.A.TO	EQUITABLE GROUP INC
+ETG.TO	Entree Gold Inc
+ETX.TO	Etrion Corp
+EUG.TO	Eurogas Corp Com
+EVG.TO	Evolving Gold Corp
+EVT.TO	Economic Inv Trust Com Npv
+EWP.RT.TO	FIRST ASSET PIPES&    POWER INCO
+EWP.UN.TO	First Asset Pipes Trust Units
+EXE.DB.TO	Extendicare Reit 5.7% Conv Deb
+EXE.DB.A.TO	Extendicare Real Estate Investm
+EXE.UN.TO	Extendicare Real I Trust Units
+EXF.TO	Exfo Electro-Optic Com Npv
+EXN.TO	Excellon Resources Inc
+EXT.TO	Extract Resources Ltd
+FAN.TO	Farallon Resources Com Npv
+FAP.TO	Aberdeen Asia-Paci Com Npv
+FAR.TO	Foraco Internation Com Npv
+FAY.U.TO	First Asset Yld Sr B Units
+FAY.UN.TO	First Asset Yld Oppty Tr Sr A
+FBK.TO	Fibrek Inc.
+FBK.DB.TO	Fibrek Inc. 7% Deb
+FBS.B.TO	5Banc Split Inc Class B Capital
+FBS.PR.B.TO	5BANC SPLIT INC PFD B
+FC.TO	Firm Cap Mortgage Invt Corp
+FC.DB.TO	Firm Capital Mortgage Investmen
+FC.DB.A.TO	Firm Cap Mtg 5.75%Db
+FCC.NT.B.TO	Frontera Coppr 1Antj
+FCO.TO	Formation Capital Com Npv
+FCR.TO	1St Cap Realty Inc Com Npv
+FCR.DB.A.TO	First Capital Cdn Db
+FCR.DB.C.TO	First Capital 6.25Db
+FCR.DB.D.TO	First Capital Realty Inc
+FCS.PR.B.TO	FAIRCOURT SPLIT TRUST 6.25 PCT
+FCS.UN.TO	Faircourt Split Trust
+FEI.TO	Fortress Energy In Com Npv
+FEI.WT.TO	Fortress Energy Inc
+FEI.WT.A.TO	Fortress Engy A Wt J
+FEL.TO	Fairborne Energy Trust
+FEL.DB.TO	Fairborne Energy Trust
+FES.TO	Flint Energy Svs Com Npv
+FFH.TO	Fairfax Finl Hldgs Sub-Vtg Com
+FFH.PR.C.TO	FAIRFAX FINANCIAL HLDG LTD 5YR
+FFH.PR.E.TO	FAIRFAX FINANCIAL HLDG LTD
+FFH.PR.G.TO	FAIRFAX FINANCIAL HLDNGS PREF S
+FFH.PR.I.TO	FAIRFAX FINANCIAL HLDGS PFD
+FFH.U.TO	Fairfax Financial Holdings Limi
+FFI.UN.TO	Flaherty & Crumrin Trust Units
+FFI.WT.TO	FLAHERTY & CRU
+FFL.TO	Ipath US Treasury Flattenr Etn
+FFL.U.TO	Ipath Ustreasflat US
+FFN.TO	Finl 15 Split Ii Com Class'A' N
+FFN.PR.A.TO	Financial 15 Split Cp II Pfd
+FGL.TO	Forzani Group Class'A'Com Npv
+FGX.TO	Faircourt Gold Inc Corp
+FGX.WT.B.TO	Faircourt Gold Wt B
+FGX.WT.C.TO	Faircourt Gold Wt C
+FHM.UN.TO	First Tr/Highland Unit
+FIE.TO	Claymore Cdn Fin Mthly Inc Etf
+FIE.A.TO	Claymore Cndian Fin Mth In Etf
+FIU.TO	First Uranium Corp Com Npv
+FIU.DB.TO	First Uranium Corporation
+FIU.NT.TO	First Uranium Corp Debs 7%
+FM.TO	1St Quantum Minls Com Npv
+FMC.TO	Forbes And Manhattan Coal Corp
+FMD.TO	Futuremed Healthcare Prods Cp
+FN.TO	First National Financial Income
+FN.PR.A.TO	1st Natl Fin Sr 1 Pr
+FNA.UN.TO	1St Natl Alarmcap Units Cls'A'
+FNI.TO	First Nickel Inc Com Npv
+FNV.TO	Franco Nevada Corp Com Npv
+FNV.WT.TO	Franco-Nevada Corp
+FNV.WT.A.TO	Franco-Nevada Wt A
+FOS.TO	Phos
+FP.TO	Fp Newspapers Inc
+FPR.PR.A.TO	FINANCIAL PREFERED SEC CORP
+FR.TO	First Majestic Silver Corp
+FR.WT.B.TO	First Majestic Silver Corp
+FRA.TO	Franconia Minerals Corp
+FRB.TO	Forbes Energy Services Ltd.
+FRC.TO	Canyon Services Group Inc
+FRG.TO	Fronteer Developme Com Npv
+FRO.TO	Frontier Rare Earth Limited Com
+FRO.WT.TO	Frontier Rare Earths Limited
+FRU.TO	Freehold Royalties Inc
+FSS.TO	Front Street Strategic Yield F
+FSS.WT.TO	Front Street Strategic Yield F
+FSV.TO	Firstservice Corp Sub-Vtg Com N
+FSV.DB.U.TO	Firstservice Us6.5Db
+FSV.PR.U.TO	FIRSTSERVICE CORP 7% CUM SER1
+FSY.TO	Forsys Metals Corp Com Npv
+FSZ.TO	Fiera Sceptre Inc
+FT.TO	Fortune Minerals L Com Npv
+FT.WT.A.TO	Fortune Min Wt A J
+FTF.UN.TO	Focused Global Tre Class A Unit
+FTG.TO	Firan Technology G Com Npv
+FTN.TO	Financial 15 Split Corp
+FTN.PR.A.TO	Financial 15 Split Cp Pfd A
+FTP.TO	Fortress Paper Ltd Com Npv Clas
+FTS.TO	Fortis Inc Com Npv
+FTS.PR.C.TO	Fortis Inc 1st Pfd C
+FTS.PR.E.TO	Fortis Inc 1st Pfd E
+FTS.PR.F.TO	FORTIS INC CUM REDMBL PREF SHR
+FTS.PR.G.TO	FORTIS INC 1ST PREF CUM RED SER
+FTS.PR.H.TO	FORTIS INC
+FTT.TO	Finning Intl Inc Com Npv
+FTU.TO	US Finl 15 Split Com Cls'A' Npv
+FTU.PR.A.TO	US Financial 15 Split Cp Pfd
+FVI.TO	Fortuna Silver Mines Inc
+FVL.TO	Freegold Ventures Limited
+FWM.TO	Far West Mining Ltd
+FXA.TO	Afexa Life Sciences Inc Com Npv
+FZP.UN.TO	Fidelity Ptnrsh 96 Limited Part
+G.TO	Goldcorp Inc Com Npv
+G.WT.G.TO	Goldcorp Inc. G Wt
+GAA.TO	Gazit America Inc Com Npv
+GAA.WT.TO	Gazit America Inc Wts
+GAM.TO	Gammon Gold Inc Com Npv
+GAS.TO	Claymore Natural Gas Commodity
+GAT.UN.TO	UBS Total Return Tr
+GBA.TO	Globalbanc Advanta Com Npv Clas
+GBA.PR.A.TO	GLOBALBANC ADVANTAGED 8 SPLIT
+GBG.TO	Great Basin Gold Com Npv
+GBG.DB.TO	Great Basin Gold Ltd 8.0% Conv
+GBI.TO	Global Railway Ind Com Npv
+GBP.UN.TO	Gbl Bk Premium Inc Trust Units
+GBT.A.TO	Bmtc Group Inc Class'A'Sub-Vtg
+GBU.TO	Gabriel Resources Com Npv
+GBV.TO	Groupe Bikini Vill Com Stk Npv
+GC.TO	Great Can Gaming C Com Npv
+GCE.TO	Grande Cache Coal Com Npv
+GCG.TO	Guardian Cap Group Com Npv
+GCG.A.TO	Guardian Cap Group Class'A'Non-
+GCI.A.TO	Canoe Go Canada Income Fd
+GCI.UN.TO	Gateway Casinos Income Fund
+GCL.TO	Colabor Income Fd
+GCL.DB.TO	Colabor Incm Fd 7% Conv Deb
+GCL.DB.A.TO	Colabor Grp 5.7% Deb
+GCM.TO	Gran Colombia Gold
+GCM.WT.TO	Gran Colombia Gold Corp
+GCT.TO	Gvic Communication Com Npv Cl '
+GCT.C.TO	Gvic Communication Com Npv 'Non
+GD.TO	Distinction Group Inc
+GDC.TO	Genesis Land Devel Com Npv
+GDI.TO	General Donlee Canada Inc
+GDI.DB.TO	General Donlee Inc Fd 7% Conv
+GDL.TO	Goodfellow Inc Com Npv
+GDP.UN.TO	Global Dividend Fd Trust Units
+GDS.TO	Gendis Inc Com Npv
+GEN.TO	Genenews Limited Com Npv
+GEO.TO	Geodrill Limited
+GFT.UN.TO	Connor Clark & Lunngbl Fin Fd
+GFV.TO	Global 45 Split Corp Cl A
+GFV.PR.A.TO	Global 45 Split Cp Pfd A
+GGA.TO	Goldgroup Mining Inc
+GGN.TO	Gryphon Gold Corp Com Npv
+GH.TO	Gamehost Income Fd
+GH.DB.TO	Gamehost Income Fund 6.25 Debs
+GIB.A.TO	Cgi Group Inc Cl A Sv
+GII.UN.TO	Global Div Inv Gra 2005-1 Fixed
+GIL.TO	Gildan Activewear Com Npv
+GIX.TO	Geologix Explorations Inc.
+GL.TO	Golden Peaks Res Com Npv
+GLA.U.TO	Global Alumina Cor Com Npv
+GLG.TO	Glamis Gold Ltd
+GLN.TO	Glentel Inc Com Npv
+GLV.A.TO	Glv Inc Class'A'Sub Vtg Npv
+GLV.B.TO	Glv Inc Class 'B' Multiple Vtg
+GLW.TO	Gold Wheaton Gold Corp
+GLW.WT.TO	Gold Wheaton Gold Corp Wrts
+GMC.TO	Geovic Mining Corp
+GMC.WT.TO	Geovic Mining Corp Wts
+GMC.WT.A.TO	Geovic Mining Corp.
+GMF.UN.TO	Gmincome & Growth Fd
+GMF.WT.TO	Gmincome & Growth Fd Wts
+GMM.U.TO	General Motors Company Com
+GMO.TO	General Moly Inc [The Company]
+GMP.TO	Gmp Cap Tr
+GMX.TO	Globex Mining Ente Com Npv
+GND.TO	Gennum Corp Com Npv
+GNE.TO	Call Genie Inc
+GNV.TO	Genivar Inc Fd
+GO.TO	Galleon Energy Inc Com Npv Cl'a
+GOZ.TO	Gold Ore Resources Ltd
+GPD.TO	Golden Predator Royalty&Dev Co
+GPD.WT.TO	Golden Predator Royalty&Dev Co
+GPF.UN.TO	Gold Participation And Income F
+GPR.TO	Great Panther Res Com Npv
+GQM.TO	Golden Queen Mng Com Npv
+GRC.TO	Goldstone Resources Inc
+GRO.TO	Sun Gro Horticulture Inc
+GRZ.TO	Gold Reserve Inc Class'A'Com Np
+GS.TO	Gluskin Sheff + Associates Inc
+GSB.UN.TO	Government Strip Bond Trst
+GSC.TO	Golden Star Res Com Npv
+GSL.TO	Greystar Resources Com Npv
+GSY.TO	Argosy Energy Inc He Co.]
+GTE.TO	Gran Tierra Energy Inc.
+GTH.TO	U.S. Geothermal Inc
+GTU.U.TO	Central Gold Trust
+GTU.UN.TO	Central Gold Trust Trust Units
+GTX.TO	Gran Tierra Exchangeco Inc
+GUR.TO	Global Uranium Fun Com Npv
+GUY.TO	Guyana Goldfields New Com Npv
+GVC.TO	Glacier Media Inc
+GVX.TO	Grand View Gold Inc
+GW.TO	Garda World Sec Co Class 'A' Co
+GWI.TO	Genesis Worlwide I Com Npv
+GWO.TO	Great West Lifeco Com Npv
+GWO.PR.F.TO	Great West Lifeco Inc Pfd F
+GWO.PR.G.TO	Great West Lifeco Inc Pfd G
+GWO.PR.H.TO	Great West Lifeco Inc 485% Non Cumulative First Preferred Series H
+GWO.PR.I.TO	Great-West Lifeco Inc 425% Pfd
+GWO.PR.J.TO	GREAT WEST LIFECO INC
+GWO.PR.L.TO	GREAT-WEST LIFECO INC 5.65%
+GWO.PR.M.TO	GREAT WEST LIFECO INC 5.80% M
+GWO.PR.N.TO	Great-West Lifeco Inc Pfd
+GWR.TO	Gwr Global Water Resources Cp
+GXI.TO	Guestlogix Inc
+HAA.TO	Horizons Alphapro Balanced Etf
+HAB.TO	Horizons Ap Corporate Bond Etf
+HAC.TO	Horizns Alphapro Seasnl Rotat
+HAF.TO	Horizons Alphapro Tact Bd Etf
+HAG.TO	Horizons Alphapro Gartman Fd
+HAH.TO	Horizons Alphapro S&P/Tsx 60
+HAL.TO	Horizons Alphpro Div Etf
+HAP.UN.TO	Horizons Alphapro Inc Plus Fd
+HAR.TO	Harmony Assets Hkd1
+HAV.TO	Horizons Alphapro N. Amer Val
+HAW.TO	Horizons Alphapro N Amer Grwth
+HAX.TO	Horizons Alpha Mnge S&    P/Tsx6
+HAY.UN.TO	Stone Agribusiness Fund Redeem-
+HAZ.TO	Horizons Ap Global Dividend Etf
+HBB.UN.TO	Harvest Banks & Buildings Inc
+HBB.WT.TO	Harvest Banks & Buildings
+HBD.TO	Horizon Betapro Comex Gold Bul
+HBM.TO	Hudbay Minerals In Com Npv
+HBP.TO	Helix Biopharma Co Com Npv
+HBU.TO	Horizons Betpro Comex Gold Bul
+HCF.UN.TO	Harvest Cdn Income And Growth F
+HCF.WT.TO	Harvest Cdn Income And Growth F
+HCG.TO	Home Capital Group Com Npv
+HCH.TO	Canadian Pacific Cp Holders
+HCI.TO	Hartco Income Fd
+HCR.UN.TO	Homburg Canada Reit
+HDD.TO	Horizons Betapro US Dollar Etf
+HDU.TO	Horizons Betapro US Dollar Etf
+HDX.TO	Hosted Data Transa Com Npv
+HE.TO	Hanwei Energy Services Corp
+HED.TO	Horizons B Sp C En Units Class
+HEG.TO	Homeland Enrgy Group Ltd
+HEM.TO	Hemisphere Gps Inc Com Npv
+HEQ.TO	Homeq Corp
+HEU.TO	Horizons B Sp C Bu Units Class
+HEW.TO	Horizons Ap Sp Tsx60 Equal Weig
+HF.TO	Hanfeng Evergreens Com Npv
+HFD.TO	Horizons B Sp C F Units Class A
+HFR.TO	Horizons Alphapro Floating Rat
+HFU.TO	Horizons Betapro S Units Class
+HGD.TO	Horizons Betapro S Units Class
+HGU.TO	Horizons Betapro S Units Class
+HGY.UN.TO	Horizon Gold Yeild Fd
+HIE.TO	Horizons Betapro S& P   /Tsx Cap
+HIF.TO	Horizons Beta Pro S&    P/Tsx Ca
+HIG.TO	Horizons Betapro S& P   /Tsx Glb
+HII.A.TO	Homburg Invest Inc
+HII.B.TO	Homburg Invest Inc
+HIN.TO	Horizons Betapro Nymex Nat Gas
+HIO.TO	Horizons Betapro Nymex Crude
+HIS.TO	Hart Stores Inc Com Npv
+HIT.UN.TO	Fiera High Income Trust
+HIU.TO	Horizons Betapro S&P Inverse
+HIX.TO	Horizons Betapro S& P   /Tsx 60
+HJD.TO	Horizons Betapro Msci Emerging
+HJU.TO	Horizons Betapro Msci Emerging
+HKD.TO	Horizons Bp Comex Copper Bear P
+HKU.TO	Horizons Bp Comex Copper Bull P
+HLF.TO	High Liner Foods Com Npv
+HLF.A.TO	High Liner Foods Inc Non Voting
+HLR.DB.TO	Holloway Lodging Rl Est Deb
+HLR.DB.A.TO	Holloway Lodging Real Estate Inv
+HLR.UN.TO	Holloway Lodging R Trust Units
+HMD.TO	Horizons Betapro S&P Glo Minin
+HMM.A.TO	Hammond Manufacturing Co Ltd
+HMU.TO	Horizons Betapro S&P Tsx Globa
+HNC.TO	Hard Creek Nickel Corp
+HND.TO	Horizons Betapro Natural Gas
+HNL.TO	Horizon North Logi Com Npv
+HNO.TO	Hbp Long Nat Gas Short Crude Sp
+HNT.DB.C.TO	Huntingdon Real Estate Investmen
+HNT.UN.TO	Huntingdon R/Est I Com Npv
+HNU.TO	Horizons Betapro Natural Gas Bu
+HOC.TO	Heritage Oil Corp Com Stk Npv
+HOD.TO	Horizons Betapro Nymex
+HON.TO	Hbp Long Crude Short Nat Gas Sp
+HOU.TO	Horizons Betapro Nymex Crude Oi
+HPR.TO	Horizon Alphapro Pref Shr Etf
+HPS.A.TO	Hammond Power Solutions Inc
+HQD.TO	Horizons Betapro Nasdaq-100
+HQU.TO	Horizons Betapro Nasdaq-100
+HR.DB.TO	H&R Real Estate Investment Trus
+HR.DB.B.TO	H&R Reit 6.75% Deb
+HR.DB.C.TO	H&R Real Estate Investmnt Trst
+HR.DB.D.TO	H&R Reit 6.75% Deb
+HR.UN.TO	H&R Real Estate Invt Tr
+HRG.TO	High River Gold Mines Ltd
+HRX.TO	Heroux-Devtek Inc Com Npv
+HSB.PR.C.TO	HSBC Bank Canada Pfd Srs C
+HSB.PR.D.TO	HSBC Bank Canada Non Cumulative Class 1 Preferred Series D
+HSB.PR.E.TO	HSBC BANC CANADA NON-CUM 5YR
+HSC.UN.TO	Hbank Capital Securites Tr Uts
+HSD.TO	Horizons Betapro S&P 500
+HSE.TO	Husky Energy Inc Com Npv
+HSI.UN.TO	Harvest Sustain Un
+HSL.TO	Hse Integrated Ltd Com Npv
+HSU.TO	Horizons Betapro S&P 500
+HTD.TO	Horizons Betapro US 30 Yr Etf
+HTE.DB.D.TO	Harvest Engy 6.4% Db
+HTE.DB.E.TO	Harvest 7.25%Due2013
+HTE.DB.F.TO	Harvest 7.25%Due2014
+HTE.DB.G.TO	Harvest Energy Trust
+HTU.TO	Horizons Betapro U.S. 30Yr Etf
+HUC.TO	Horizons Betapro Winter Term
+HUG.TO	Horizons Betapro Comex Gold Et
+HUN.TO	Horizons Betapro Winter-Term
+HUV.TO	Horizons Betapro S&P500 VIX
+HUZ.TO	Horizonns Betapro Comex Slvr E
+HVU.TO	Horizons Betapro S&P 500 VIX
+HW.TO	Harry Winston Diamond Corp
+HWD.UN.TO	Hardwoods Distribu Units Npv
+HWO.TO	High Arctic Energy Com Npv
+HXD.TO	Horizons Betap Bea Units Class
+HXS.TO	Horizons Betapro S&P 500 Etf
+HXT.TO	Horizons Bp Sp Tsx60 Index Etf
+HXU.TO	Horizons Betap Bul Units Class
+HYB.UN.TO	Ddj High Yield Fun Trust Units
+HYD.TO	Hyduke Energy Services Inc
+HYG.TO	Hydrogenics Corp Com Npv
+HYM.UN.TO	High Yield & Mtg P Trust Units
+HZD.TO	Horizon Betapro Comx Slvr Br+
+HZU.TO	Horizon Bp Comx Slvr Bul+ Etf
+I.TO	Intellipharmaceutics Intl Inc
+IAG.TO	Indl Alliance Ins Com Npv
+IAG.PR.A.TO	Industrial Alliance Insurance & Financial Services Inc Pfd A
+IAG.PR.C.TO	INDUSTRIAL ALLIANCE INS &     FI
+IAG.PR.E.TO	INDUS ALLIANCE INS &     FIN SER
+IAG.PR.F.TO	INDUSTRIAL ALLIANCE INS & FIN
+IAM.TO	Integr Asset Man[C Com Npv
+IAU.TO	Intrepid Mines Ltd Npv
+IBG.TO	Ibi Group
+IBG.DB.TO	Ibi Income Fnd 7% Db
+IBG.DB.A.TO	Ibi Income 5.75% Db
+IBG.DB.B.TO	Ibi Group 6.00% Deb
+ICE.TO	Canlan Ice Sports Corp
+ICI.TO	Inter-Citic Minera Com Npv
+ICS.TO	Intrinsyc Softward Intl Inc
+IDC.TO	Int'l Datacasting Corp
+IDG.TO	Indigo Books & Mus Com Npv
+IDL.TO	Imaging Dynamics C Com Npv
+IDX.UN.TO	Indexplus Income F Units Com Np
+IE.TO	Ivanhoe Energy Inc Com Npv
+IE.WT.TO	Ivanhoe Energy Inc C/Wts 15/05/
+IFC.TO	Intact Financial Corp
+IFP.A.TO	Intl Forest Prods Class'A'S/Vtg
+IGM.TO	Igm Financial Inc Com Npv
+IGM.PR.B.TO	IGM FINANCIAL INC
+IGT.TO	Ishares Trust Comex Gold Etf US
+III.TO	Imperial Metals Cp Com Npv
+IIP.DB.TO	Interrent Real Est Investment T
+IIP.UN.TO	Interrent Real Est Trust Units
+IM.TO	Imris Inc He Company]
+IMG.TO	Iamgold Corp Com Npv
+IMN.TO	Inmet Mining Corp Com Npv
+IMO.TO	Imperial Oil Com Npv
+IMP.TO	Intermap Technolog Class'A'Com
+IMX.TO	Imax Corp Com Npv
+IMZ.TO	Intl Minerals Corp Com Npv
+IMZ.DB.TO	International Minerals Corp
+INC.UN.TO	Income Finl Trust Trust Units
+INE.TO	Innergex Renewable Energy Inc
+INE.DB.TO	Innergex Renewable Energy 5.75
+INE.PR.A.TO	INNERGEX RENEWABLE ENERGY INC
+INN.DB.B.TO	Innvest Reit 6% Deb
+INN.DB.C.TO	Innvest Real Estate Investment T
+INN.DB.D.TO	Innvest Rl Estate Invmnt Trust
+INN.DB.E.TO	Innvest Reit 6% E Db
+INN.UN.TO	Innvest Real Estat Trust Units
+INQ.TO	Inscape Corp
+INV.TO	International Nickel Ventures C
+IPL.UN.TO	Inter Pipeline Fd Class'A'Ltd P
+IRD.TO	Intl Road Dynamics Com Npv
+IRG.TO	Pdm Royalties Income Fd
+IRG.DB.TO	Pdm Royalties  Income Fund
+IRL.TO	Minera Irl Limited
+ISA.TO	Isotechnika Inc Com Npv
+ISM.TO	Inspiration Mining Com Npv
+ISN.TO	Insignia Energy Ltd
+ISR.TO	Intl Sovereign Ene Com Npv
+ITH.TO	Int'l Tower Hill Mines Ltd
+ITP.TO	Intertape Polymer Com Npv
+IVA.TO	Ivanhoe Australia Ltd
+IVN.TO	Ivanhoe Mines Com Npv
+IVW.TO	Ivernia Inc Com Npv
+JAG.TO	Jaguar Mining Inc Com Npv
+JCT.TO	Jewett-Cameron Tra Com Npv
+JDN.TO	Jayden Resources Inc
+JDU.TO	Jds Uniphase Canad Exchangeable
+JE.TO	Just Energy Group Inc
+JE.DB.TO	Just Energy Income Fund 6.0 Con
+JE.DB.A.TO	Just Energy 6% A Deb
+JEC.TO	Jura Energy Corporation
+JFC.TO	Jaguar Financial Inc He Co]
+JOV.TO	Jovian Capital Corp
+JX.TO	Tsx Venture Index
+K.TO	Kinross Gold Corp Com Npv
+K.WT.B.TO	Kinross Gld 2011Wt B
+K.WT.C.TO	Kinross Gld 2013Wt C
+K.WT.D.TO	Kinross Gold Wt D
+KAT.TO	Katanga Mining Limited
+KAT.NT.TO	Katana Mining Ltd
+KAT.WT.TO	Katanga Mining Ltd C/Wts 20/11/
+KBL.TO	K Bro Linen Inc
+KBR.TO	Kimber Resources Com Npv
+KCL.TO	Potash One Inc
+KDX.TO	Klondex Mines Com Npv
+KEG.UN.TO	The Keg Royalties Units Npv
+KEY.TO	Keyera
+KEY.DB.TO	Keyera Facilities Deb
+KEY.DB.A.TO	Keyera Facilities Income Fund
+KFS.TO	Kingsway Finl Svs Com Npv
+KGI.TO	Kirkland Lake Gold Com Npv
+KGN.TO	Keegan Resources Inc
+KMP.TO	Killam Properties Com Npv
+KMP.DB.A.TO	Killam Ppty 5.65Db J
+KOR.TO	Corvus Gold Inc
+KRI.TO	Khan Resources Inc Com Npv
+KRN.TO	Karnalyte Resources Inc
+KRY.TO	Crystallex Intl Com Npv
+KSP.UN.TO	Kingsway Lkd Retur Prf Lroc Uni
+L.TO	Loblaws Cos Ltd Com Npv
+L.PR.A.TO	LOBLAW CO LTD PFD  SER A
+LAC.TO	Lithium Americas Corp
+LAM.TO	Laramide Resources Ltd
+LAS.A.TO	Lassonde Industries Inc Cl A
+LB.TO	Laurentian Bnk Cda Com Cad1
+LB.PR.D.TO	Laurentian Bank Pfd 9
+LB.PR.E.TO	Laurentian Bank Pfd 10
+LBE.TO	Liberty Mines Inc
+LBS.TO	Life & Banc Split Com Class A N
+LBS.PR.A.TO	LIFE & BANC SPLIT     CORP PRF S
+LCS.TO	Brompton Lifeco Sp Com Npv Clas
+LCS.PR.A.TO	BROMPTON LIFECO SPLIT CORP PRD
+LEG.TO	Legacy Oil + Gas Inc [The Co]
+LEX.TO	Lexam Vg Gold Inc
+LFE.TO	Canadian Life Cos Com Cl'A'
+LFE.PR.A.TO	Canadian Life Companies Split Corp Preferred
+LGT.A.TO	Logistec Corp. Cl A Mv
+LGT.B.TO	Logistec Corp. Cl B Sv
+LIF.UN.TO	Labrador Iron Ore Trust Units
+LII.TO	Logan International Inc
+LIM.TO	Labrador Iron Mines Hlds Ltd
+LIQ.TO	Liquor Stores N.A. Ltd
+LIQ.DB.TO	Liquor Stores Income Fund 6.75%
+LLL.TO	Lululemon Athletic Com Stk Usd0
+LMA.TO	La Mancha Resource Com Npv
+LNF.TO	Leons Furniture Com Npv
+LNR.TO	Linamar Corp Com Npv
+LOR.TO	Lorus Therapeutics New Com Npv
+LPV.UN.TO	Global Strategy Master Lp
+LQW.TO	Liquidation World Com Npv
+LRM.TO	Linear Metals Corp
+LRT.DB.F.TO	Lanesborough Real Estate Investm
+LRT.DB.G.TO	Lanesborough Serg Db
+LRT.NT.A.TO	Lanesborough A Nt J
+LRT.UN.TO	Lanesborough Real Com Npv
+LRT.WT.TO	Lanesborough Reit Warrants
+LRT.WT.A.TO	Lanesborough A Wt J
+LSC.TO	Lifeco Split Corp Cl'A'Capital
+LSC.PR.C.TO	Lifeco Split Cp Pfd C
+LSG.TO	Lake Shore Gold Co Com Npv
+LUN.TO	Lundin Mining Corp Com Npv
+LW.TO	Loring Ward Intl Ltd
+LYD.TO	Lydian Intl Ltd He Company]
+MAA.TO	Magindustries Corp
+MAG.TO	Mag Silver Corp
+MAI.TO	Minera Andes Inc Com Npv
+MAK.TO	Minemakers Limited
+MAL.TO	Magellan Aerospace Com Npv
+MAW.TO	Mawson Resources Ltd
+MB.TO	Mega Brands Inc Com Npv
+MB.NT.TO	Mega Brands Inc 10%
+MB.WT.TO	Mega Brands Inc Wts
+MBA.TO	Cibt Education Group Inc
+MBB.UN.TO	Manulife Brompton Advan Bnd Fd
+MBC.TO	Mbac Fertilizer Corp
+MBN.TO	Middlefield Bancp Com Npv
+MBT.TO	Manitoba Telecom S Com Npv
+MBX.TO	Microbix Biosystem Com Npv
+MCB.TO	Mccoy Corp Com Npv
+MCZ.TO	Mad Catz Interacti Com Npv
+MDA.TO	Macdonald Dettwile Com Npv
+MDF.TO	Mediagrif Interact Com Npv
+MDG.TO	Medicago Inc
+MDI.TO	Major Drilling Inc Com Npv
+MDM.TO	Mineral Deposits Ltd[The Co]
+MDN.TO	Mdn Inc Com Npv
+MDZ.A.TO	Mdc Partners Inc Class'A'Sub Vt
+ME.TO	Moneta Porcupine M Com Cad1
+MEG.TO	Meg Energy Corp.
+MEL.TO	Midway Energy Ltd
+MEQ.TO	Mainstreet Equity Com Npv
+MET.TO	Metalore Resources Com Npv
+MFC.TO	Manulife Finl Corp Com Npv
+MFC.PR.A.TO	Manulife Financial Cp Pfd A
+MFC.PR.B.TO	Manulife Financial Cl A Pfd 2
+MFC.PR.C.TO	Manulife Financial Corp Pfd C
+MFC.PR.D.TO	MANULIFE FINANCIAL CORP PRF NON
+MFC.PR.E.TO	MANULIFE FINANCIAL CORP
+MFI.TO	Maple Leaf Foods Com Npv
+MFL.TO	Minefinders Corp Com Npv
+MFL.WT.TO	Minefinders Corp Ltd
+MFT.M.TO	Manulife Finl Cap Tr Ser A
+MG.TO	Magna International Inc
+MGA.TO	Mega Uranium Ltd Com Npv
+MGA.WT.TO	Mega Uranium Ltd
+MGA.WT.A.TO	Mega Uranium Ltd
+MGA.WT.B.TO	Mega Uranium B Wt J
+MGN.TO	Magnotta Winery Com Npv
+MGO.TO	Migao Corp
+MGT.TO	Mines Mgt Inc Com Usd0.01
+MGT.WT.U.TO	Mines Management Inc
+MGX.TO	Mgm Energy Corp
+MHR.TO	Mcgraw-Hill Ryerson Ltd
+MHY.UN.TO	Marret High Yield Strat Fd
+MIC.TO	Genworth Mi Cda Inc
+MID.UN.TO	Mint Income Fund Trust Units
+MID.WT.TO	Mint Income Fund
+MIG.UN.TO	Marret Inv Grade Bond Fd
+MIM.A.TO	Mi Developments Class'A'Sub-Vtg
+MKP.TO	Mcan Mortgage Corp
+MKX.TO	Mks Inc Com Npv
+MKZ.UN.TO	Mackenzie Master Units Npv
+ML.TO	Mercator Minerals Com Npv
+ML.WT.TO	Mercator Minerals C/Wts 16/02/1
+ML.WT.A.TO	Mercator Minerals Ltd
+MLG.TO	Mines Dynacor Inc
+MLL.TO	Medusa Mining Ltd [The Co.]
+MLP.TO	Front Street Income Fd
+MLP.WT.TO	Front Street Income Fd Wt
+MLX.TO	Marsulex Inc Com Npv
+MM.TO	Mood Media Corporation
+MM.DB.U.TO	Mood Media US Deb J
+MMM.TO	Minco Gold Corp Com Npv
+MMN.UN.TO	Multi-Manager Ltd Partnership I
+MMP.UN.TO	Precious Minerals And Mining Tr
+MMW.TO	Magma Metals Limited Npv
+MMZ.TO	Metalline Mining Company
+MN.TO	March Networks Cor Com Npv
+MNB.TO	Mirabela Nickel Npv
+MND.TO	Mandalay Res Corp
+MND.WT.TO	Mandalay Resources Corp Wts
+MNF.TO	Macquarie Nexgen G Funds Class
+MNR.TO	Mediterranean Res Ltd
+MOL.TO	Moly Mines Limited Npv
+MOZ.TO	Marathon Gold Corp
+MPC.TO	Madison Pacific Pr Class'B'Vtg
+MPC.C.TO	Madison Pacific Properties Inc.
+MPM.TO	Markland Agf Preci Com Npv
+MPT.TO	Macquarie Power And Infrastructur Corp
+MPT.DB.A.TO	Macquarie Pwr 6.5 Db
+MPV.TO	Mountain Prov Diam Com Npv
+MRC.TO	Morguard Corporati Com Npv
+MRD.TO	Melcor Development Com Npv
+MRE.TO	Martinrea Intl Inc Com Npv
+MRI.U.TO	Mercer Intl Inc Com Stk Usd1
+MRL.TO	Medoro Res Ltd
+MRN.TO	Marengo Mining Ltd [The Co.]
+MRS.TO	Medoro Resources Ltd Com
+MRS.WT.TO	Medoro Resources Lts Wts
+MRT.DB.TO	Morgrd Real Est Inv Tr 6.50%
+MRT.UN.TO	Morguard Real Esta Trust Unit
+MRU.A.TO	Metro Inc Cl A Sv
+MSD.TO	Mosaid Technologie Com Npv
+MSI.TO	Mornell Shepell Inc
+MSN.UN.TO	Morguard Sunstone Real Estate I
+MSP.UN.TO	The Canadian Shield Fund
+MSP.WT.TO	The Canadian Shiled Fund
+MSV.TO	Minco Silver Corp Com Npv
+MT.TO	Miranda Technologi Com Npv
+MTA.TO	Matrix Asset Mgmt Inc
+MTL.TO	Mullen Group Income Fd
+MTM.TO	Mitec Telecom Inc Com Npv
+MTY.TO	Mty Food Group Inc
+MUH.A.TO	Mcm Split Share Co Class A Com
+MUH.PR.A.TO	MCM Split Share Cp Pfd A
+MUN.TO	Mundoro Mng Inc
+MWC.TO	Medwell Cap Corp
+MX.TO	Methanex Corp Com Npv
+MXG.TO	Maxim Power Corp Com Npv
+MXY.TO	Magma Energy Corp Com Npv
+MYG.TO	Methylgene Inc Com Npv
+NA.TO	Natl Bk Of Canada Com Npv
+NA.PR.K.TO	National Bank Srs 15 Pfd
+NA.PR.L.TO	National Bank Of Canada Pfd 16
+NA.PR.M.TO	NATIONAL BANK OF CANADA
+NA.PR.N.TO	NATIONAL BANK OF CANADA NON CUM
+NA.PR.O.TO	NATIONAL BK OF CANADA N-CUM 5Y
+NA.PR.P.TO	NAT'L BANK
+NAE.TO	Nal Energy Corp
+NAE.DB.TO	Nal Oil&Gas 6.75% Db
+NAE.DB.A.TO	Nal Oil&Gas 6.25% Db
+NAF.UN.TO	North Amer Finan Cap Sec Tr
+NAL.TO	Newalta Income Fd
+NAL.DB.TO	Newalta Income Fund
+NAS.TO	Northstar Aerospac Com Npv
+NAU.TO	Northland Resources Inc
+NBD.TO	Norbord Inc Com Npv
+NBD.WT.TO	Norbord Inc
+NBF.TO	Nb Split Corp
+NBF.PR.A.TO	NB SPLIT CORP
+NCC.A.TO	Newfoundland Capital Corp Ltd C
+NCU.TO	Nevada Copper Corp Com Npv
+ND.TO	New Dawn Mining Corp[The Co]
+NDM.TO	Northern Dynasty Minerals Ltd
+NDN.TO	Nordion Inc
+NDQ.TO	Novadaq Technologi Com Npv
+NEM.TO	Neo Material Technologies Inc
+NEW.A.TO	Newgrowth Corp Cl'A' Cap Shs Np
+NEW.PR.C.TO	NEWGROWTH CORP
+NEW.WT.TO	Newgrowth Corp Wt
+NFC.TO	Northern Finl Corp Com Npv
+NFI.UN.TO	New Flyer Industri Income Depos
+NG.TO	Novagold Resources Com Npv
+NGD.TO	New Gold Inc Com Npv
+NGD.DB.TO	New Gold Inc 5% Syb Conv Deb
+NGD.NT.TO	New Gold 10% Unsecured D Notes
+NGD.WT.A.TO	New Gold Inc
+NGD.WT.B.TO	New Gold Inc.
+NGD.WT.C.TO	New Gold Inc.
+NGL.TO	Angle Energy Inc He Co.]
+NGL.DB.TO	Angle Energy Inc 5.75% Deb
+NGQ.TO	Canadian Gold Hunter Corp
+NGX.TO	Northgate Minerals Com Npv
+NHC.TO	Northstar Healthcare Inc
+NI.TO	Victory Nickel Inc Com Npv
+NIC.TO	Pure Nickel Inc Com Npv
+NIF.UN.TO	Noranda Income Fun Class'A'Prio
+NII.TO	Norsat Intl Inc Com Npv
+NIO.TO	Niocan Inc Com Npv
+NKO.TO	Niko Resources Com Npv
+NLN.TO	Neulion Inc
+NMC.TO	Newmont Mng Cda Exchangable Shs
+NNE.A.TO	Nemi Northern Energy & Mining I
+NNN.TO	Nimin Energy Corp [The Co.]
+NOA.TO	Nth Amer Energy Pa Com Npv
+NOM.TO	Norsemont Mining I Com Npv
+NOM.WT.TO	Norsemont Mining Inc
+NPC.TO	Allon Therapeutics Com Npv
+NPF.DB.TO	Newport Prtn Incm Fd 7.5% Deb
+NPF.DB.A.TO	Newport Partners Income Fund
+NPF.UN.TO	Newport Partners I Sbi Npv
+NPI.TO	Northland Power Inc
+NPI.DB.TO	Northland Pwr Income Fd 6.50% C
+NPI.DB.A.TO	Northland Pwr6.25 Db
+NPI.PR.A.TO	NORTHLAND PWR INC
+NPR.UN.TO	Northern Ppty Real Trust Units
+NRG.TO	Alter Nrg Corp
+NRI.TO	Nuvo Research Inc
+NSI.PR.D.TO	Nova Scotia Power Inc Pfd D
+NSU.TO	Nevsun Resources Com Npv
+NTA.TO	Noventa Limited Ord
+NTI.TO	Northcore Technologies Inc
+NUS.TO	Nautilus Minerals Com Npv
+NVA.TO	Nuvista Energy Com Npv
+NWF.TO	North West Company Inc
+NWH.UN.TO	Northwest Healthcare Pptys Reit
+NWI.TO	Nuinsco Res Ltd Com Npv
+NXY.TO	Nexen Inc Com Npv
+NXY.PR.U.TO	Nexen Inc 735% Note US$
+OBF.UN.TO	Oleary Brlc Plus Inc And Growth
+OBF.WT.TO	Oleary Brlc Plus Inc And Growth
+OBP.TO	Ondine Biopharma Com Npv
+OCB.UN.TO	Oleary Adv Tact Glob Corp Bnd F
+OCB.WT.TO	Oleary Adv Tact Glob Corp Bnd W
+OCF.TO	Oilsands Canada Co Com Npv
+OCH.UN.TO	O Leary Cdn Income Opportuni
+OCS.UN.TO	Ocp Credit Strgy Fd
+OCX.TO	Onex Corporation Sv
+OCY.UN.TO	O'Leary Canadian Inc Opp Fund
+OCZ.UN.TO	O Leary Canadian Equity Income
+OEX.TO	Orleans Energy Ltd He Co]
+OGC.TO	Oceana Gold Com Npv
+OGD.TO	Orbit Garant Drilling Inc
+OGE.UN.TO	O'Leary Glbl Equ Inc Fd
+OGF.UN.TO	Brompton Equal Wt Units
+OGF.WT.TO	BROMPTON OIL & GA    S INCOME FU
+OHA.UN.TO	O Leary Hard Asset Income Fund
+OIP.TO	Orion Oil & Gas Corp [The Co]
+OLE.TO	Oromin Explorations Ltd
+OMG.TO	Opmedic Group Inc Com Npv
+ONC.TO	Oncolytics Biotech Com Npv
+ONE.TO	01 Communique Lab Com Npv
+ONR.TO	Open Range Energy Com Npv
+OPC.TO	Opti Canada Inc Com Npv
+OPM.TO	Opta Minerals Inc Com Npv
+ORA.TO	Aura Minerals
+ORE.TO	Orezone Gold Corporation
+ORL.TO	Orocobre Limited
+ORV.TO	Orvana Minerals Com Npv
+OSF.UN.TO	Oil Sands Sector Funds
+OSI.TO	Osi Geospatial Inc Com Npv
+OSK.TO	Osisko Mining Corp
+OSL.UN.TO	Ocp Senior Credit Fund
+OSU.TO	Orsu Metals Corp
+OTC.TO	Open Text Co Com Npv
+OTT.UN.TO	Otelco Inc Inc Dep Sec[1 Cl'A'&
+OYM.TO	Olympus Pacific Minerals Inc
+P.TO	Primero Mining Corp
+P.WT.TO	Primero Mining Corp Wts
+PAA.TO	Pan Amer Silver Com Npv
+PAP.A.TO	Paulin H & Co Ltd Cl A
+PBG.TO	Petrobank Energy & Com Npv
+PBH.TO	Premium Brands Income Fund
+PBH.DB.TO	Premium Brands Hldgs Corp 7.0%
+PBH.DB.A.TO	Premium Brand 5.75Db
+PBL.TO	Pollard Banknote Limited
+PBN.TO	Petrobakken Energy Ltd.
+PBU.UN.TO	Precious Metals Bullion Trust
+PBY.UN.TO	Canso Credit Income Fund Units
+PCC.TO	Plutonic Power Cor Com Npv
+PCD.UN.TO	Pathfinder Conv Debenture Fd
+PCE.TO	Pace Oil & Gas Ltd
+PCN.TO	Pacrim Intl Cap Com Npv
+PCU.UN.TO	Premier Canadian Income Fund
+PD.TO	Precision Drilling Corporation
+PDL.TO	Nth Amer Palladium Com Npv
+PDL.WT.B.TO	N.A. Palladium B Wt
+PDN.TO	Paladin Res [Au] Npv
+PDP.TO	Petrolifera Petrol Com Npv
+PDP.WT.TO	Petrolifera Pete Ltd
+PDV.TO	Prime Dividend Cor Com Class A
+PDV.PR.A.TO	Prime Dividend Corp Preferred A
+PEQ.TO	Diversified Privat Com Npv Clas
+PES.TO	Peak Energy Services Ltd
+PEY.TO	Peyto Exploration & Development Corp
+PFB.TO	Pfb Corp Com Npv
+PFN.TO	Pac Nth West Cap C Com Npv
+PFR.UN.TO	Advantaged Pref Share Trust
+PG.TO	Premier Gold Mines Com Npv
+PGD.TO	Peregrine Diamonds Com Npv
+PGF.TO	Pengrowth Energy Corp
+PGM.TO	Peregrine Metals Ltd
+PGM.WT.TO	Peregrine Metals Ltd Wts
+PHD.TO	Phonetime Inc
+PHS.U.TO	Sprott Physical Silver Trust
+PHX.TO	Phx Energy Services Corp
+PHY.U.TO	Sprott Physical Gold Tr Units
+PIC.A.TO	Premium Income Cor Class'A' Com
+PIC.PR.A.TO	Premium Inc Cp Pfd A
+PIH.TO	Pacific Insight El Com Npv
+PIX.TO	Peer 1 Network Ent Inc
+PJC.A.TO	Jean Coutu Group Class'A'Sub Vt
+PKI.TO	Parkland Fuel Corp
+PKI.DB.TO	Parkland Inc Fd 6.5% Srs 1 Con
+PKI.DB.A.TO	Parkland Fuel 5.75Db
+PKL.TO	Pc Gold Inc
+PLB.TO	Paladin Labs Inc Com Npv
+PLI.TO	Prometic Life Sciences Inc
+PLK.TO	Palko Environmental Ltd.
+PLS.TO	Polaris Minerals C Com Npv
+PME.TO	Sentry Select Prim Com Npv Clas
+PMG.TO	Petrominerales Ltd
+PMT.TO	Perpetual Energy Inc
+PMT.DB.C.TO	Paramount Energy Trust
+PMT.DB.D.TO	Paramount 7.25% Deb
+PMT.DB.E.TO	Paramount 7% Deb
+PMU.TO	Pacific Rim Mining Com Npv
+PMZ.DB.TO	Primaris Retail Tr Deb
+PMZ.DB.A.TO	Primaris Retail Real Estate Inve
+PMZ.DB.B.TO	Primaris Reit 6.3%Db
+PMZ.UN.TO	Primaris Retail Re Trust Units
+PNG.TO	Pacific Northn Gas Com Npv
+PNG.PR.A.TO	Pacific Northern Gas 675% Pfd
+PNP.TO	Pinetree Capital L Com Npv
+PNP.WT.TO	Pinetree Capital L C/Wts 16/04/
+PNP.WT.A.TO	Pinetree Capital Ltd
+PNP.WT.B.TO	Pinetree Capital Ltd
+POL.TO	Polo Resources Ord J
+POM.TO	Polymet Mining Cp Com Npv
+POT.TO	Potash Corp Sask Com Npv
+POU.TO	Paramount Resource Com Npv Cls'
+POW.TO	Power Corp Cda
+POW.PR.A.TO	Power Cp Of Canada 56% Pfd A
+POW.PR.B.TO	Power Cp Of Canada 535% Pfd B
+POW.PR.C.TO	Power Cp Of Canada 58% Pfd C
+POW.PR.D.TO	Power Corporation of Canada
+POW.PR.F.TO	Power Cp Of Canada 1St Pfd F
+PPF.UN.TO	Propel Multi Strategy Fd
+PPF.WT.TO	Propel Multi Strategy Fund
+PPL.TO	Pembina Pipeline Corp
+PPL.DB.C.TO	Pembina Pipe 5.75 Db
+PPN.TO	Platmin Limited Com Npv
+PRE.TO	Pacific Rubiales Energy Corp
+PRE.DB.TO	Pacific Rubiales Energy Corp
+PRI.TO	Primary Energy Recycling Corp C
+PRP.TO	Prosep Inc Com Npv
+PRQ.TO	Progress Energy Resources Corp
+PRQ.DB.A.TO	Progress Engy 6.25Db
+PRQ.DB.B.TO	Progress Engy 5.25Db
+PRT.UN.TO	Prt Forest Regener Unit Trust
+PRU.TO	Perseus Mining Ltd [The Co]
+PRW.UN.TO	Petrowest Energy S Sbi Trust Un
+PRX.TO	Protox Therapeutics Inc
+PSD.TO	Pulse Data Inc Class A Com Npv
+PSF.UN.TO	Pref Share Investment Trust
+PSI.TO	Pason System Incor Com Npv
+PSR.TO	Polar Star Mining Corp Com
+PSV.TO	Pure Energy Servic Com Npv
+PSX.TO	Prospex Resources Com Npv
+PTI.TO	Patheon Inc Com Npv Vtg Restric
+PTM.TO	Platinum Grp Metal Com Npv
+PTO.TO	Pareto Corporation Com Npv
+PTQ.TO	Petaquilla Mineral Com Npv
+PTS.TO	Points Internation Com Npv
+PTZ.TO	Pethealth Inc
+PVE.TO	Provident Energy Ltd
+PVE.DB.C.TO	Provident Db 08/2012
+PVE.DB.D.TO	Provident 6.5% Deb D
+PVE.DB.E.TO	Provident 5.75% Db E
+PVG.TO	Pretium Resources Inc
+PWC.TO	Pacific & Western Cr Edit Cor
+PWC.NT.C.TO	Pacifc & Wstrn Notes
+PWC.PR.A.TO	Pacific & Western 70% Pfd
+PWC.PR.B.TO	PACIFIC & WESTERN     CREDIT COR
+PWE.TO	Powertech Uranium Corp
+PWF.TO	Power Finl Corp Com Npv
+PWF.PR.A.TO	Power Financial Cp Pfd A
+PWF.PR.E.TO	Power Financial Cp Pfd D
+PWF.PR.F.TO	Power Financial Cp 525% Pfd E
+PWF.PR.G.TO	Power Financial Cp 590% Pfd F
+PWF.PR.H.TO	Power Financial Cp 575% Pfd H
+PWF.PR.I.TO	Power Financial Cp 6% Pfd I
+PWF.PR.K.TO	Power Financial Corporation
+PWF.PR.L.TO	POWER FINANCIAL CORP
+PWF.PR.M.TO	POWER FINANCIAL CORP
+PWF.PR.O.TO	POWER FINANCIAL CORP [THE CO.]
+PWF.PR.P.TO	Power Financial Corporation
+PWT.TO	Penn West Petroleum Ltd
+PWT.DB.E.TO	Penn West Energy Trust
+PWT.DB.F.TO	Penn West Energy Trust
+PXX.TO	Pearl Exploration & Prod Ltd
+PZA.UN.TO	Pizza Pizza Royalt Trust Units
+PZG.TO	Paramount Gold And Com Stk Usd0
+QBR.A.TO	Quebecor Inc 'A'Mul-Vtg Npv
+QBR.B.TO	Quebecor Inc Class'B'Sub Vtg Np
+QEC.TO	Questerre Energy Com Npv
+QLT.TO	Qlt Inc Com Npv
+QMI.TO	Queenston Mng Inc Com Npv
+QSR.DB.TO	Priszm Incm 6.5% Deb
+QSR.UN.TO	Priszm Income Fund Trust Units
+QUX.TO	Quadra Fnx Mining
+QUX.WT.TO	Quadra Fnx Mining Ltd. Wts
+R.TO	Romarco Minerals Inc.
+RAV.UN.TO	Ravensource Fund Trust Units
+RBA.TO	Ritchie Bros Auctioneers
+RBM.TO	Response Biomedical Corp
+RBN.UN.TO	Blue Ribbon Income Fd
+RBS.TO	R Split III Corp Class 'A' Capi
+RBS.PR.A.TO	R SPLIT III CORP
+RC.TO	Rdm Corporation Com Npv
+RCB.TO	Red Crescent Resources Limited
+RCH.TO	Richelieu Hardware Com Npv
+RCI.A.TO	Rogers Communications Inc. Cl A
+RCI.B.TO	Rogers Communications Inc. Cl B
+RCL.TO	Ridley Inc
+RCM.TO	Ruggedcom Inc. Com Npv
+RDI.TO	Rockwell Diamonds Inc.[The Co]
+RDL.TO	Redline Comm Group Inc
+RE.TO	Rock Energy Inc Com Npv
+REF.UN.TO	Cdn Real Est Inv T Trust Units
+REI.PR.A.TO	RioCan REIT Ser A Pr
+REI.UN.TO	Riocan Real Estate Trust Units
+RET.TO	Reitmans[Canada] Com Npv
+RET.A.TO	Reitmans[Canada] Class'A'Non Vt
+REZ.TO	Redzone Resources Ltd
+RF.A.TO	C.A. Bancorp Canada Fin Corp
+RF.PR.A.TO	C.A.BANCORP CANADA REALTY
+RF.WT.TO	Ca Bancorp Canadian Realty Fina
+RGL.TO	Royal Gold Inc Com Usd0.01
+RGT.TO	Rockgate Capital Corp
+RIB.UN.TO	Ridgewood Canadian Investment
+RIC.TO	Richmont Mines Inc Com Npv
+RIM.TO	Research In Motion Com Npv
+RIN.TO	Longview Capital Partners Inc
+RIT.UN.TO	First Asset Reit Unit
+RKN.TO	Redknee Solutions Inc
+RME.TO	Rocky Mountain Dearlership Inc
+RME.DB.TO	Rocky Mountain Dealership Inc
+RMM.DB.TO	Retrocom Midmarket Real Estate
+RMM.DB.A.TO	Retrocom 6.75% Deb
+RMM.UN.TO	Retrocom Mid Mkt R Units Npv
+RMX.TO	Rubicon Minl Corp Com Npv
+RN.TO	Rio Novo Gold Inc Ord
+RN.WT.TO	Rionovo Gold Inc Wts
+RNK.TO	Rainmaker Enternainment Inc
+RNO.TO	Vector Aerospace C Com Npv
+RNX.TO	Royal Nickel Corp
+RNX.WT.TO	Royal Nickel Corp
+RON.TO	Rona Inc Com Npv
+RPG.TO	Polaris Geothermal Inc
+RPI.UN.TO	Richards Packaging Trust Units
+RRB.UN.TO	Connor Clark & L Trust Units
+RS.TO	Resin Systems Inc Com Npv
+RSC.TO	Strateco Res Inc Com Npv
+RSI.TO	Rogers Sugar Inc
+RSI.DB.B.TO	Rogers Sugar 5.9% Db
+RSI.DB.C.TO	Rogers Sugar 5.7% Db
+RTCM.TO	Tsx Income Trust Index
+RTEN.TO	Tsx Energy Trust Index
+RTG.TO	Ratel Group Limited Com
+RTK.TO	Artek Exploration Ltd
+RTRE.TO	Tsx Reit Index
+RTU.UN.TO	Canadian Res Inc T Trust Units
+RTU.WT.TO	Canadian Resources Income Trust
+RUS.TO	Russel Metals Inc Com Npv
+RUS.DB.TO	Russel Metals Inc 7.75% Conv
+RUT.TO	Rutter Inc Com Npv
+RV.TO	Revolution Resources Corp
+RVM.TO	Revett Minerals In Com Npv
+RVX.TO	Resverlogix Corp Com Npv
+RY.TO	Royal Bk Of Canada Com Npv
+RY.NO.A.TO	Royal Nik225Leos Nt2
+RY.NO.C.TO	Royal Ind-Asianleont
+RY.NO.G.TO	Royal Sp/Tsx60Leo N1
+RY.NO.Q.TO	Royal Bk Msci Eafe 3
+RY.NO.S.TO	Royal Bank Of Canada
+RY.NO.T.TO	Royal Sp/Tsx60Leos 2
+RY.NO.Z.TO	Royal Bank Of Canada
+RY.NT.A.TO	Royal Bk Nik225 Nt 3
+RY.NT.C.TO	Royal Globeleos Nt23
+RY.NT.PR..TO	ROYAL BK PHARMA NT 1
+RY.NT.Q.TO	Ry Bk S&P500 Idxnt 5
+RY.NT.R.TO	Royal Bk S&P60 Nt 2
+RY.NT.U.TO	Royal Glbeleos N18Us
+RY.NT.W.TO	Royal Globeleos Nt17
+RY.PR.A.TO	Royal Bank of Canada Pfd Series AA
+RY.PR.B.TO	RBC NON-CUM FIRST PREFERRED SE
+RY.PR.C.TO	ROYAL BANK OF CDN PREF
+RY.PR.D.TO	ROYAL BK OF CANADA PFD SER AD
+RY.PR.E.TO	ROYAL BANK OF CANADA
+RY.PR.F.TO	ROYAL BANK PR SER AF
+RY.PR.G.TO	ROYAL BANK OF CANADA PFD G
+RY.PR.H.TO	ROYAL BANK OF CANADA
+RY.PR.I.TO	ROYAL BK OF CAN NON-CUM 5YR AJ
+RY.PR.L.TO	ROYAL BANK OF CANADA NON-CUM 5
+RY.PR.N.TO	ROYAL BANK OF CANADA
+RY.PR.P.TO	ROYAL BK OF CANADA N-CUM 5YR
+RY.PR.R.TO	ROYAL BANK OF
+RY.PR.T.TO	ROYAL BANK OF CANADA NON-CUM
+RY.PR.W.TO	Royal Bank Pfd W
+RY.PR.X.TO	Royal Bank Pfd P
+RY.PR.Y.TO	ROYAL BANK OF CANADA
+RYL.TO	Royal Host Inc
+RYL.DB.B.TO	Royal Host 6.00% Deb
+RYL.DB.C.TO	Royal Host 6.25% Deb
+RYL.DB.D.TO	Royal Host Real Estate Investmen
+RYT.NT.PR..TO	RBC CAP TRUCS 2011
+S.TO	Sherritt Intl Corp Com Npv
+SAC.TO	South American Sil Com Npv
+SAG.TO	Sth Amer Gold&Copp Com Npv
+SAM.TO	Starcore Intl Mines Ltd
+SAP.TO	Saputo Inc
+SAS.TO	St Andrew Goldflds Com Npv
+SAU.TO	St. Augustine Gld J
+SBB.TO	Sabina Gold & Silver Corp
+SBC.TO	Brompton Split Ban Com Cad15 Cl
+SBC.PR.A.TO	Brompton Split Banc Corp Preferred A
+SBN.TO	S Split Corporatio Com Npv Clas
+SBN.PR.A.TO	S SPLIT CORP PFD A
+SBR.TO	Silber Bear Resources Inc
+SBS.TO	Sembiosys Genetics Com Npv
+SBT.U.TO	Silver Bullion Trust
+SBT.UN.TO	Silver Bullion Trust
+SC.TO	Shoppers Drug Mart Com Npv
+SCC.TO	Sears Canada Inc Com Npv
+SCI.UN.TO	Sciti Rocs Trust Units
+SCI.WT.TO	Sciti Rocs Trust Wts
+SCL.A.TO	Shawcor Ltd
+SCP.TO	Sprott Resources Corporation Co
+SCR.TO	Score Media Inc
+SCS.TO	Second Wave Petroleum Inc
+SCU.TO	Second Cup Ltd. The
+SDF.UN.TO	Signature Diversified Value Tru
+SDG.UN.TO	Stoneham Drilling Trust Units C
+SDI.TO	Spectral Diagnost Com Npv
+SDY.TO	Strad Energy Services Ltd  Com
+SEA.TO	Seabridge Gold Inc He Co]
+SEC.TO	Senvest Capital Inc
+SES.TO	Saxon Energy Serv Inc.
+SGF.TO	Shore Gold Inc Com Npv
+SGQ.TO	Southgobi Energy Resources Ltd
+SGR.TO	San Gold Corporation
+SGT.UN.TO	Sentry Select Global Index Inco
+SHR.TO	Sure Energy Inc Com Npv
+SIA.UN.TO	Skylon Intl Advant Trust Units
+SII.TO	Sprott Inc
+SIL.TO	Sprott Res Lending Corp
+SIN.UN.TO	Sciti Trust Trust Units
+SIS.TO	Savaria Corp Com Npv
+SIT.UN.TO	Sentry Select Blue Sbi Trust Un
+SJ.TO	Stella Jones Inc Com Npv
+SJR.B.TO	Shaw Communication 'B'Cnv Npv
+SKA.UN.TO	Skylon All Asset Trust Units
+SKG.UN.TO	Skylon Growth & In Non Red Unit
+SKL.TO	Skope Energy Inc Com
+SLE.M.TO	Sun Life Capital Trust
+SLF.TO	Sun Life Finl Inc Com Npv
+SLF.PR.A.TO	Sun Life Financial Inc Pfd A
+SLF.PR.B.TO	Sun Life Financial Pfd 2
+SLF.PR.C.TO	Sun Life Financial Preferred Class A Non-Cumlulative
+SLF.PR.D.TO	SUN LIFE FINANCIAL INC PRF SHR
+SLF.PR.E.TO	SUN LIFE FINANCIALS INC
+SLF.PR.F.TO	SUN LIFE FINANCIAL INC
+SLF.PR.G.TO	SUN LIFE FINANCIAL INC
+SLP.UN.TO	Skylon Gbl Cap Tst Units Npv
+SLR.TO	Solitaro Exploration & Royalty
+SLS.TO	Sl Split Corp
+SLS.PR.A.TO	SL SPLIT CORP
+SLW.TO	Silver Wheaton Cor Com Npv
+SLW.WT.U.TO	Silver Wheaton Corp
+SLX.TO	Genco Resources Ltd Com
+SMA.TO	Smart Technologies Inc.
+SMF.TO	Semafo Inc
+SMX.TO	Smtc Mfg Cp Of Cda Exchangeable
+SNC.TO	Snc-Lavalin Group Com Npv
+SNP.PR.V.TO	SNP SPLIT CORP. PRF CL.B SERI
+SNP.U.TO	Snp Split Corp Com Cap Cl'A'4/6
+SO.TO	Softchoice Corp Com Npv
+SOQ.TO	Sonde Resources Corp
+SOT.PR.A.TO	SPLIT REIT OPPORTUNITY TRUST P
+SOT.UN.TO	Slitreit Opportunity Trust
+SOY.TO	Sunopta Inc Com Npv
+SPB.TO	Superior Plus Income Fd
+SPB.DB.B.TO	Superior Pls 5.75 Db
+SPB.DB.C.TO	Superior Pls 5.85%Db
+SPB.DB.D.TO	Superior Pls 5.75 Db
+SPB.DB.E.TO	Superior+ 5.75 Deb E
+SPB.DB.F.TO	Superior+ 6% Deb F
+SPE.TO	Aztek Energy Ltd
+SPM.TO	Scorpio Mining Crp Com Npv
+SPO.UN.TO	Skylon Gbl Cap Ii Trust Units
+SPZ.TO	Sprott Power Corp
+SQP.TO	Strongco Corporation
+SQZ.TO	Serica Energy Plc
+SRF.TO	Sun-Rype Products Com Npv
+SRQ.DB.TO	Scott's Real Estate Investment T
+SRQ.DB.A.TO	Scott's Reit 2009 Db
+SRQ.UN.TO	Scotts Real Estata Scotts Real
+SRU.TO	Starfield Res Inc Com Npv
+SRV.UN.TO	Sir Royalty Income Trust Units
+SSI.TO	Sterling Shoes Inc.
+SSI.DB.TO	Sterling Shoes Income Fund
+SSO.TO	Silver Std Res Inc Com Npv
+SST.TO	Ipath US Treasury Steepner Etn
+SST.U.TO	Ipath US Treasstp US
+ST.TO	Stonegate Agricom Ltd
+ST.WT.TO	Stonegate Agricom Ltd Wts
+STB.TO	Student Transporta Com Npv
+STB.DB.A.TO	Student Trans 7.5 Db
+STB.DB.B.TO	Student Trans 6.75Db
+STF.UN.TO	Sciti Total Return Trust
+STM.TO	Strathmore Minerals Corp
+STN.TO	Stantec Inc Com Npv
+STP.TO	Southern Pacific Resource Corp
+STP.DB.TO	Southern Pacific Resource Corp
+STQ.TO	Income Streams III Capital Yiel
+STQ.E.TO	Income Streams III Equity Divid
+SU.TO	Suncor Energy Inc
+SUE.TO	Sulliden Explorati Com Npv
+SUM.TO	Solium Capital Inc Com Npv
+SVC.TO	Sandvine Corp Com Npv
+SVM.TO	Silvercorp Metals Inc
+SVR.UN.TO	Claymore Silver Bullion Trust
+SVU.TO	Spur Ventures Com Npv
+SVY.TO	Savanna Energy Ser Com Npv
+SW.TO	Sierra Wireless Inc
+SWH.TO	Sunwah Int'l Ltd.
+SWI.TO	Swisher Hygiene Inc
+SWY.TO	Stornoway Diamond Com Npv
+SXC.TO	Sxc Health Solutio Com Npv
+SXI.TO	Synex Intl Inc
+SXP.TO	Supremex Inc.
+SXT.TO	Sixty Split Corp. Class'A'Capit
+SXT.PR.A.TO	Sixty Split Cp Pfd A
+T.TO	Telus Corporation Com Npv
+T.A.TO	Telus Corporation Nv
+TA.TO	Transalta Corp Mtn Com Npv
+TA.PR.D.TO	TRANSALTA CORPORATION PFD A
+TBE.TO	Twin Butte Energy Com Npv
+TBL.TO	Taiga Building Products Ltd
+TBL.NT.TO	Taiga Building Products Ltd
+TBP.UN.TO	T Boone Pickens Energy Fd
+TBP.WT.TO	T Boone Pickens Energy Fd
+TC.TO	Tucows Inc Com Npv
+TCA.PR.X.TO	Transcan Pipelines Ltd Pfd X
+TCA.PR.Y.TO	Transcan Pipelines Ltd Pfd Y
+TCK.A.TO	Teck Cominco Limited Cl A Mv
+TCK.B.TO	Teck Cominco Limited Cl B Sv
+TCL.A.TO	Transcontinental Inc A
+TCL.B.TO	Transcontinental Inc B
+TCL.PR.D.TO	TRANSCONTINENTAL INC CUM 5YR
+TCM.TO	Thompson Creek Met Com Npv
+TCM.WT.TO	Thompson Creek Met C/Wts 23/10/
+TCN.TO	Tricon Capital Group Inc
+TCP.TO	Trident Performance Corp Class
+TCP.WT.TO	Trident Performance Corp
+TCS.TO	Tecsys Inc Com Npv
+TCT.UN.TO	Top 10 Canadian Fi Funds
+TCW.TO	Trican Well Servic Com Npv
+TCZ.TO	Trident Performance Corp Ii
+TD.TO	Toronto-Dominion Com Npv
+TD.PR.A.TO	TOR-DOM BNK NON-CUM 5YR SER AA
+TD.PR.C.TO	THE TORONTO DOMINION BK NON-CUM
+TD.PR.E.TO	TORONTO DOMINION BK N-CUM 5YR
+TD.PR.G.TO	THE TORO
+TD.PR.I.TO	THE TORONTO-DOMINION BANK
+TD.PR.K.TO	THE TORONTO-DOM BANK NON CUM
+TD.PR.M.TO	Toronto Dominion Bank Pfd M
+TD.PR.N.TO	Toronto Dominion Bank Pfd N
+TD.PR.O.TO	Toronto Dominion Bank Class A First Preferred Series O
+TD.PR.P.TO	THE TORONTO DOMINION BANK
+TD.PR.Q.TO	TORONTO-DOMINION BANK SRS Q
+TD.PR.R.TO	THE TORONTO-DOMINION BANK
+TD.PR.S.TO	THE TORONTO-DOMINION BANK
+TD.PR.Y.TO	THE TORONTO-DOMINION BANK
+TDG.TO	Trinidad Energy Svcs Income
+TDR.TO	Tudor Corp Ltd Com Npv
+TDS.C.TO	Td Split Inc
+TDS.PR.C.TO	TD SPLIT INC PFD
+TEC.TO	Technicoil Corp Com Npv
+TET.TO	Trilogy Energy Tr
+TFI.TO	Transforce Income Fd
+TFI.DB.TO	Transforce Inc 6% Deb
+TGA.UN.TO	Transglobe Apartment Reit
+TGF.UN.TO	Timbercreek Global Real Estate
+TGL.TO	Transglobe Energy Com Npv
+TGO.TO	Terago Inc Com Npv
+TGS.TO	Tiger Resources Ltd [The Co.]
+TGZ.TO	Teranga Gold Corporation
+TH.TO	Theratechnologies Com Npv
+THD.TO	3Rd Cdn Gen It Com Npv
+THI.TO	Tim Hortons Inc
+THO.TO	Tahoe Resources Inc
+THR.TO	Thundermin Res Inc Com Npv
+TI.UN.TO	Terravest Inc Fd Trust Units
+TID.TO	Tuscany Intl Drilling
+TID.WT.TO	Tuscany Intl Drilling Inc Wts
+TIH.TO	Toromont Industrie Com Stk Npv
+TIL.DB.TO	Tree Island Wire Income Fund 10
+TIL.UN.TO	Tree Island Wire Trust Units
+TIM.TO	Timminco Ltd
+TKM.TO	Tekmira Pharmaceut Com Npv
+TKO.TO	Taseko Mines Ltd
+TLB.TO	Occulogix Inc
+TLH.TO	Talison Lithium Ltd  Ord
+TLM.TO	Talisman Energy In Com Npv
+TLN.TO	Thallion Pharma In Com Npv
+TLO.TO	Talon Metals Corp Com Npv
+TMA.TO	Trimac Transportation Ltd
+TMB.TO	Tembec Inc
+TMB.WT.TO	Tembec Inc
+TMC.TO	Tm Bioscience Corp
+TML.TO	Treasury Metals In Com Npv
+TNP.TO	Transatlantic Petroleum Corp Co
+TNX.TO	Tanzanian Royalty Com Npv
+TO.A.TO	Tax Optimized Return Income
+TO.UN.TO	Tax Opitimized Rtn Roc Securiti
+TOOC.TO	Cap Composite Index
+TOR.TO	Prosep Inc
+TOS.TO	Tso3 Inc Com Npv
+TOT.TO	Total Energy Services Inc Com N
+TOT.DB.TO	Total Energy Ser Inc
+TOU.TO	Tourmaline Oil Corp Com
+TPK.TO	Ten Peaks Coffee Co Inc Com
+TPL.TO	Tethys Petroleum L Ord Usd0.10
+TPS.TO	Turbo Power Systems Inc
+TPX.A.TO	Molson Coors Canada Inc
+TPX.B.TO	Molson Coors Canada Inc
+TRE.TO	Sino-Forest Corp Com Npv
+TRF.UN.TO	First Asset Energy & Resource F
+TRH.UN.TO	Triax Diversified Trust Unit
+TRI.TO	Thomson Reuters Corp
+TRI.PR.B.TO	THOMSON REUTERS CORP
+TRP.TO	Transcanada Corp Com Npv
+TRP.PR.A.TO	TRANSCANADA CORP PREF SHR SER1
+TRP.PR.B.TO	TRANSCANADA CORP CUM PFD SER 3
+TRP.PR.C.TO	Transcanada Corporation
+TRY.TO	Troy Resources Nl
+TRZ.A.TO	Transat At Inc
+TRZ.B.TO	Transat At Inc Com Npv Vtg Shs
+TS.B.TO	Torstar Class'B'N/Vtg Com Npv
+TSXC.TO	Tsx Composite Index
+TT.TO	Terra Energy Corp
+TTCD.TO	Tsx Consumer Discretionary Index
+TTCS.TO	Tsx Consumer Staples Index
+TTEN.TO	Tsx Energy Index
+TTFS.TO	Tsx Financial Index
+TTGD.TO	Tsx Gold Index
+TTH.TO	Transition Therape Com Npv
+TTHC.TO	Tsx Health Care Index
+TTIN.TO	Tsx Industrial Index
+TTMN.TO	Tsx Div Metal & Mining Index
+TTMT.TO	Tsx Materials Index
+TTRE.TO	Tsx Real Estate Index
+TTTK.TO	Tsx Info Tech Index
+TTTS.TO	Tsx Telecommunications Index
+TTUT.TO	Tsx Utilities Index
+TV.TO	Treval Resources Corp
+TVA.B.TO	Tva Group Inc Class'B'Com Npv
+TVI.TO	Tvi Pacific Inc Com Npv
+TWF.DB.TO	Timberwest Forest Corp 9% Cnv D
+TWF.UN.TO	Timberwest Forest Units-[1 Com
+TWT.TO	20-20 Technologies Com Npv
+TXBE.TO	S&P/Tsx Equal Wgt
+TXBM.TO	Tsx Global Base Metals Index
+TXCT.TO	S&P/Tsx Clean Tech
+TXDE.TO	S&P/Tsx Equal Wgt
+TXDV.TO	Tsx Cdn Div Aristocrats Index
+TXEC.TO	Tsx Equity Index
+TXEQ.TO	Tsx Equity Index
+TXFO.TO	Tsx Mid-Cap Index
+TXG.TO	Torex Gold Resources Inc
+TXG.WT.TO	Torex Gold Resources Inc Wts
+TXGM.TO	Tsx Global Mining Index
+TXL.TO	Tesla Exploration Ltd
+TXLS.TO	S&P/Tsx 60 130/130
+TXOE.TO	S&P/Tsx Equal Wgt
+TXPR.TO	Tsx Preferred Share Index
+TXSC.TO	Tsx 60 Composite Index
+TXSI.TO	Tsx Shariah Index
+TXSX.TO	Tsx 60 Index
+TXT.PR.A.TO	Top 10 Split Trust Preferred A
+TXT.UN.TO	Top 10 Split Trust Capital Unit
+TXTW.TO	Tsx Small-Cap Index
+TYF.UN.TO	Ia Clarington Aston Hill Tactic
+TYF.WT.TO	Ia Clarington Aston Hill Tact Y
+TZT.TO	Tranzeo Wireless T Com Npv
+U.TO	Uranium Participat Com Npv
+UEX.TO	Uex Corp Com Npv
+UF.UN.TO	Uranium Focused En Unit
+UFS.TO	Domtar Corporation Com Stk Usd0
+UFX.TO	Domtar Canada Pape Exchangeable
+UMG.TO	United Mining Group
+UMJ.TO	Ursa Major Mineral Com Npv
+UNC.TO	Utd Corps-Corp Uni Com Npv
+UNC.PR.B.TO	United Corporations 59 Pfd
+UNC.PR.C.TO	United Corporations 63 Pfd
+UNG.PR.D.TO	Union Gas Ltd Pfd D
+UNS.TO	Uni-Select Inc Com Npv
+UNS.DB.TO	Uni Select Inc Debs
+URB.TO	Urbana Corp Com Npv
+URB.A.TO	Urbana Corp Com Npv Non-Vtg Cla
+URB.WT.B.TO	Urbana Corp. B Wt
+URE.TO	Ur Energy Inc Com Npv
+URZ.TO	Uranerz Energy Cor Com Usd0.001
+URZ.WT.TO	Uranerze Energy Corp
+UST.PR.A.TO	UTILITY SPLIT TRUST
+UST.UN.TO	Utility Split Trus Capital Unit
+UTC.C.TO	Utility Corp Cl C
+UTC.WT.TO	Utility Corp Wts
+UTE.UN.TO	Cdn Util & Tel Fndun
+UUU.TO	Uranium One Inc
+UUU.DB.TO	Uranium One Inc Deb
+UUU.DB.A.TO	Uranium One 7.5 Db J
+UXE.TO	US Gold Canadian A Com Npv [Exc
+UXG.TO	US Gold Corp Com Usd0.10
+UXG.WT.TO	US Gold Corp
+VAA.TO	Vaaldiam Resources Inc
+VCM.TO	Vecima Networks In Com Npv
+VEM.TO	Vena Resources Inc Com Npv
+VEN.TO	Ventana Gold Corp
+VET.TO	Vermilion Energy Tr
+VFF.TO	Village Farms International
+VGQ.TO	Virginia Mines Inc
+VGZ.TO	Vista Gold Corp Com Npv
+VIC.TO	Vicwest Inc
+VIC.DB.TO	Vicwest Income Fd 6% Deb
+VIP.UN.TO	Brompton Vip Income Fd
+VIP.WT.TO	Brompton Vip Income Fd Wts
+VLC.TO	Velocity Minerls Ltd He Co.]
+VLN.TO	Velan Inc
+VNP.TO	5N Plus Inc
+VNR.TO	Gaz Metro Ltd Partnership
+VRO.TO	Vero Energy Inc Com Npv
+VRX.TO	Valeant Pharma Inter Inc
+VSN.TO	Veresen
+VSN.DB.C.TO	Veresen 5.75% Deb
+VT.TO	Viterra Inc
+VTN.TO	Vitran Corp Com Npv
+VTR.TO	Volta Resources Inc
+VXX.TO	Ipath S&P 500 VIX Shrt Etn
+VXX.U.TO	Ipath Sp 500 VIX Short Term Fut
+VXZ.TO	Ipath Sp 500 VIX Mid Term Fut E
+W.PR.H.TO	Westcoast Energy Inc Pfd H
+W.PR.J.TO	Westcoast Energy Inc Pfd J
+WB.TO	Whistler Blackcomb Hldgs Inc
+WCM.A.TO	Wilmington Capital Management I
+WCP.TO	Whitecap Resources Inc
+WCS.A.TO	Westcast Industries Inc Cla
+WDN.TO	Waldron Energy Corp
+WDO.TO	Wesdome Gold Min L Com Npv
+WDO.DB.TO	Wesdome Gold 7% Deb
+WED.TO	Westaim Corp Com Npv
+WEF.TO	Western Forest Pro Com Stk Npv
+WEQ.DB.TO	Westernone Equity Income Fund
+WEQ.DB.B.TO	Wstrnone Eqty 8.5%Db
+WEQ.UN.TO	Westernone Equ Inc Fd
+WES.TO	Western Finl Gp Com Npv
+WES.DB.TO	Western Financial Group Inc
+WES.PR.A.TO	WESTERN FINL GROUP INC
+WES.PR.B.TO	WESTERN FINANCIAL GROUP INC
+WES.PR.C.TO	WESTERN FINANCIAL GROUP INC
+WES.PR.D.TO	WESTERN FINANCIAL GROUP INC PRE
+WEW.TO	Webtech Wireless Com Npv
+WFC.TO	Wall Financial Corp
+WFE.TO	Westfire Energy Ltd
+WFI.TO	Waterfurnace Renewable Energy
+WFI.U.TO	Waterfurance Renewable Energy I
+WFS.TO	World Finl Split Class'A'Com Np
+WFS.PR.A.TO	World Financial Split Cp Pfd
+WFT.TO	West Fraser Timber Com Npv
+WG.TO	Wgi Heavy Minerals Com Npv
+WGR.TO	Witwatersrand Consol Gold
+WIN.TO	Wi-Lan Inc Com Npv
+WIX.TO	Winstar Resources Com Npv
+WJA.TO	Westjet Airlines Com Voting Sha
+WJA.A.TO	Westjet Airlines Ltd
+WJX.TO	Wajax Corp
+WLC.TO	Western Lithium Usa Corrp
+WM.TO	Wallbridge Mining Com Npv
+WN.TO	Weston [George] Com Npv
+WN.PR.A.TO	George Weston Ltd Pfd A
+WN.PR.C.TO	George Weston 52% Preferred Series III
+WN.PR.D.TO	George Weston Ltd
+WN.PR.E.TO	George Weston Ltd
+WNX.TO	Warnex Inc. Com Npv
+WPK.TO	Winpak Com Npv
+WPT.TO	Westport Innovations Inc
+WRK.DB.E.TO	Whiterock Reit 6.3Db
+WRK.DB.F.TO	Whiterock Reit 6% Db
+WRK.DB.G.TO	Whiterock Reit 7% Db
+WRK.UN.TO	Whiterock Real Estate Investmen
+WRN.TO	Western Copper Corp
+WRN.WT.TO	Western Copper Corporation Wt
+WRX.TO	Wireless Matrix Cp Com Npv
+WSA.TO	Western Areas Nl
+WTE.UN.TO	Westshore Terminal Trust Unit
+WTG.TO	White Tiger Gold Com Npv
+WTN.TO	Westn Canadian Coa Com Npv
+WTN.WT.TO	Western Canadian Coal Corp
+WXI.TO	Wex Pharmaceuticals Inc
+WZL.TO	Wenzel Downhole To Com Npv
+X.TO	Tmx Group Inc/Groupe Tmx Inc
+XAL.TO	Alaris Royalty Corp [The Co]
+XBB.TO	Ishares Cdn Scotia Cap Universe
+XBC.TO	Questair Technologies Inc
+XBZ.TO	Ishares Msci Brazil Index Fd
+XCB.TO	Ishares Canada Cdn Scotia Capit
+XCG.TO	Ishares Canada Cdn Dow Jones Se
+XCH.TO	Ishares China Index Fd
+XCR.TO	Ishares Cons Core Ptf Bldr Fd
+XCS.TO	Ishares Cdn S&P/Ts Unit
+XCV.TO	Ishares Canada Cdn Dow Jones Se
+XDC.TO	Xtreme Coil Drilli Com Npv
+XDV.TO	Ishares Cdn Dow Jones Ca Select
+XEG.TO	Ishares Cdn S&P/Tsx Cap Ener
+XEM.TO	Ishrs Cdn Msci Emerg Mrkt Idx
+XEN.TO	Ishares Cdn Jantzi Unit
+XFN.TO	Ishares Cdn S&P/Tsx Capd Fin
+XG.TO	Extorre Gold Mines Ltd
+XGB.TO	Ishares Canada Cdn Scotia Capit
+XGC.TO	Ishares Glbl Completion Ptf
+XGD.TO	Ishares Cdn S&P/Tsx Gbl Gld In
+XGR.TO	Ishrs Gwth Core Ptf Bldr Fd
+XHB.TO	Ishares Dex Hybird Bd Inx Fund
+XHM.A.TO	Star Hedge Managers Corp
+XHY.TO	Ishares U.S. High Yield Bd Fd
+XIC.TO	Ishares Cdn S&P/Tsx Cap Comp
+XID.TO	Ishares S&P Cnx Nifty India Ind
+XIG.TO	Ishares U.S. Ig Corp Bd Index
+XIN.TO	Ishares % Hedged To Cad Dollars
+XIT.TO	Ishares Cdn S&P/Tsx Capped Info
+XIU.TO	Ishares Cdn S&P/Tsx 60 Idx F
+XLA.TO	Ishares S&P Latin Amer 40 Fd
+XLB.TO	Ishares Canada Cdn Scotia Capit
+XMA.TO	Ishares Cdn
+XMC.TO	Xceed Mtg Corp Com Npv
+XMD.TO	Ishares Cdn S&P/Tsx Midcap I
+XMF.A.TO	M Split Corp
+XMF.PR.B.TO	M SPLIT CORP
+XMF.PR.C.TO	M SPLIT CORP PFD CL II
+XMF.WT.A.TO	M Split Corp 2012 Wt
+XPF.TO	Ishares S&P/Tsx No Amer Pfd
+XRB.TO	Ishares Cdn Scotia Cap Real Ret
+XRC.TO	Exeter Resource Corp [The Co]
+XRE.TO	Ishares Cdn S&P/Tsx Capped Reit
+XRG.TO	Xinergy Ltd
+XRG.WT.TO	Xinergy Ltd. Wts
+XSB.TO	Ishares Canada Cdn Scotia Cap S
+XSP.TO	Ishares Cdn S&P 500 Hedged Can
+XSR.TO	Canadian Satellite Radio Hlds I
+XSU.TO	Ishares Cdn Russel Unit
+XTC.TO	Exco Technologies Com Npv
+XTD.TO	Tdb Split Corporat Com Npv
+XTD.PR.A.TO	TDB SPLIT CORP
+XTG.TO	Xtra Gold Resources Corp
+XTG.S.TO	Xtra Gold Resources Corp Com Np
+XTR.TO	Ishares Canada Cdn S&P/Tsx Capp
+XWD.TO	Ishares Cdn Msci World Indx Fd
+XYM.TO	Star Portfolio Corp
+XYM.WT.TO	Star Portfolia Corp Wts
+YCM.TO	Commerce Split Corp Cap Cl
+YCM.PR.A.TO	COMMERCE SPLIT CORP CL I PFD
+YCM.PR.B.TO	COMMERCE SPLIT CORP CL II PFD
+YCM.PR.X.TO	COMMERCE SPLIT CORP PRTY EQTY
+YCM.WT.TO	Commerce Split Corp Wts 2011
+YCM.WT.A.TO	Commerce Splt 2012Wt
+YCM.X.TO	Commerce Split Corp Cl A 2010
+YLD.TO	Split Yield Corp Capital Shares
+YLD.PR.A.TO	Split Yield Cp Pfd A
+YLD.PR.B.TO	Split Yield Cp Pfd B
+YLO.TO	Yellow Pages Income Fd
+YLO.DB.A.TO	Yellow Media 6.25 Db
+YLO.PR.A.TO	YELLOW MEDIA INC
+YLO.PR.B.TO	YELLOW MEDIA INC
+YLO.PR.C.TO	YELLOW MEDIA INC
+YLO.PR.D.TO	YELLOW MEDIA INC
+YM.TO	Ym Biosciences Inc Com Npv
+YNG.TO	Yukon-Nevada Gold Com Npv
+YNG.WT.TO	Yukon Nevada Gold Corp
+YOU.UN.TO	Yield Advantage In Trust Units
+YP.UN.TO	Yieldplus Incom Fd
+YRB.A.TO	Yorbeau Resources Inc Cl A
+YRI.TO	Yamana Gold Inc Com Npv
+ZAG.TO	Bmo Aggregate Bond Index
+ZAR.TO	Zargon Oil & Gas Ltd
+ZAZ.TO	Zazu Metals Corp
+ZAZ.WT.TO	Zazu Metals Corporation Warrant
+ZCA.TO	Bmo Agriculture Commoditie Etf
+ZCB.TO	Bmo Base Metals Commoditie Etf
+ZCE.TO	Bmo Energy Commodties Etf
+ZCH.TO	Bmo China Equity Hedged To Cad
+ZCL.TO	Zcl Composite Inc Com Npv
+ZCM.TO	Bmo Mid Corporate Bond Index
+ZCN.TO	Bmo DJ Canada Titans 60 Indx
+ZCP.TO	Bmo Precious Mteals Commod Etf
+ZCS.TO	Bmo Short Corp Bond Index Eft
+ZDJ.TO	Bmo Dow Jones Diamonds Indx Et
+ZDM.TO	Bmo Intl Equ Hedge To Cad Indx-
+ZEB.TO	Bmo S&P/Tsx Equ Weight Bnk Ind-
+ZEF.TO	Bmo Emer Market Bond
+ZEM.TO	Bmo Emer Mrkt Equ Index Etf
+ZEO.TO	Bmo S&P/Tsx Equ Weight Oil&Gas-
+ZFL.TO	Bmo Long Fed Bond Inx Etf
+ZFM.TO	Bmo Mid Federal Bond Index Etf
+ZFS.TO	Bmo Short Fedl Bond Indx Etf
+ZGI.TO	Bmo Global Ingrastructure Ind
+ZHY.TO	Bmo Hi Yld US Corp Bd Hed - Cad-
+ZID.TO	Bmo India Equity Hedged To Cad
+ZJG.TO	Bmo Junior Gold Index
+ZJN.TO	Bmo Junior Gas Index Etf
+ZJO.TO	Bmo Junior Oil Index Etf
+ZL.TO	Zarlink Semiconduc Com Npv
+ZL.DB.TO	Zarlink Semiconductor Inc
+ZL.PR.A.TO	Zarlink Semiconductor Pfd A
+ZLC.TO	Bmo Long Corporate Bond Index
+ZMI.TO	Bmo Monthly Income Etf
+ZMT.TO	Bmo S&P/Tsx Equ Weight Glbl
+ZNC.TO	Zincore Metals Inc Com Npv
+ZPP.TO	Zongshen Pem Pwr Systems Inc
+ZPS.TO	Bmo Short Prov Bond Indx Etf
+ZQQ.TO	Bmo Nasdaq 100 Equity Hedged
+ZRE.TO	Bmo Equal Weight Reit Inx Etf
+ZRR.TO	Bmo Real Return Bond Inx Etf
+ZUB.TO	Bmo Equal Weight US Bk
+ZUE.TO	Bmo US Equity Index Etf
+ZUH.TO	Bmo Equal US Health Care
+ZUT.TO	Bmo Equal Weight Utilities Ind
+ZWB.TO	Bmo Covered Call Cdn Bks Etf
+ZXA.TO	Bmo 2013 Corp Bd Tgt Mat Etf
+ZXB.TO	Bmo 2015 Corporate Bd Tgt Mat
+ZXC.TO	Bmo 2020 Corp Bd Tgt Mat Etf
+ZXD.TO	Bmo 2025 Corp Bd Tgt Mat Etf

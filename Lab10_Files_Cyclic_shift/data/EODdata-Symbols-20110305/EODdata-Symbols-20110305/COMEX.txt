@@ -1,0 +1,89 @@
+Symbol	Description
+GC	Gold
+GC.C	Gold Continuation
+GCG11	Gold {Feb 11}
+GCG12	Gold {Feb 12}
+GCJ11	Gold {Apr 11}
+GCJ12	Gold {Apr 12}
+GCM11	Gold {Jun 11}
+GCM12	Gold {Jun 12}
+GCM13	Gold {Jun 13}
+GCM14	Gold {Jun 14}
+GCM15	Gold {Jun 15}
+GCQ11	Gold {Aug 11}
+GCV11	Gold {Oct 11}
+GCZ11	Gold {Dec 11}
+GCZ12	Gold {Dec 12}
+GCZ13	Gold {Dec 13}
+GCZ14	Gold {Dec 14}
+HG	High Grade Copper
+HG.C	High Grade Copper Continuation
+HGF12	High Grade Copper {Jan 12}
+HGG11	High Grade Copper {Feb 11}
+HGG12	High Grade Copper {Feb 12}
+HGH11	High Grade Copper {Mar 11}
+HGH12	High Grade Copper {Mar 12}
+HGJ11	High Grade Copper {Apr 11}
+HGJ12	High Grade Copper {Apr 12}
+HGK11	High Grade Copper {May 11}
+HGK12	High Grade Copper {May 12}
+HGM11	High Grade Copper {Jun 11}
+HGN11	High Grade Copper {Jul 11}
+HGN12	High Grade Copper {Jul 12}
+HGQ11	High Grade Copper {Aug 11}
+HGU11	High Grade Copper {Sep 11}
+HGV11	High Grade Copper {Oct 11}
+HGX11	High Grade Copper {Nov 11}
+HGZ11	High Grade Copper {Dec 11}
+QC.C	E-Mini Copper Continuation
+QCF12	E-Mini Copper {Jan 12}
+QCG12	E-Mini Copper {Feb 12}
+QCH11	E-Mini Copper {Mar 11}
+QCH12	E-Mini Copper {Mar 12}
+QCJ11	E-Mini Copper {Apr 11}
+QCJ12	E-Mini Copper {Apr 12}
+QCK11	E-Mini Copper {May 11}
+QCK12	E-Mini Copper {May 12}
+QCM11	E-Mini Copper {Jun 11}
+QCN11	E-Mini Copper {Jul 11}
+QCN12	E-Mini Copper {Jul 12}
+QCQ11	E-Mini Copper {Aug 11}
+QCU11	E-Mini Copper {Sep 11}
+QCV11	E-Mini Copper {Oct 11}
+QCX11	E-Mini Copper {Nov 11}
+QCZ11	E-Mini Copper {Dec 11}
+QI.C	Silver emiNY Continuation
+QIH11	Silver emiNY {Mar 11}
+QIK11	Silver emiNY {May 11}
+QIN11	Silver emiNY {Jul 11}
+QIN12	Silver emiNY {Jul 12}
+QIU11	Silver emiNY {Sep 11}
+QIZ11	Silver emiNY {Dec 11}
+QIZ12	Silver emiNY {Dec 12}
+QO.C	Gold emiNY Continuation
+QOJ11	Gold emiNY {Apr 11}
+QOM11	Gold emiNY {Jun 11}
+QOM12	Gold emiNY {Jun 12}
+QOQ11	Gold emiNY {Aug 11}
+QOV11	Gold emiNY {Oct 11}
+QOZ11	Gold emiNY {Dec 11}
+QOZ12	Gold emiNY {Dec 12}
+SI	Silver
+SI.C	Silver Continuation
+SIF12	Silver {Jan 12}
+SIH11	Silver {Mar 11}
+SIH12	Silver {Mar 12}
+SIK11	Silver {May 11}
+SIN11	Silver {Jul 11}
+SIN12	Silver {Jul 12}
+SIN13	Silver {Jul 13}
+SIN14	Silver {Jul 14}
+SIN15	Silver {Jul 15}
+SIU11	Silver {Sep 11}
+SIZ11	Silver {Dec 11}
+SIZ12	Silver {Dec 12}
+SIZ13	Silver {Dec 13}
+SIZ14	Silver {Dec 14}
+VJ	Gold VIX
+YS.C	E-Mini Silver 1000oz Continuation
+YSN14	E-Mini Silver 1000oz {Jul 14}

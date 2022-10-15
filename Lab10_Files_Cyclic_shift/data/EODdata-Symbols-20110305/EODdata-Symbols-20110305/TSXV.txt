@@ -1,0 +1,2170 @@
+Symbol	Description
+AA.V	Astral Mining Corp
+AA.WT.V	Astral Mining Corporation Wt Ex-
+AAA.V	Allana Resources Inc
+AAC.V	Actus Mineral Corp
+AAG.V	Andean American Mining Corp.
+AAM.V	Atacama Minerals Corp.
+AAN.V	Alexander Nubia International I
+AAR.UN.V	Pure Industrial Re Trust Units
+AAT.V	Ati Airtest Technologies Inc.
+AAU.V	Andeangold Ltd
+AAX.V	Advance Gold Corp
+AB.H.V	Asbestos Corporation Limited
+ABA.V	Abbastar Uranium Corp
+ABB.V	Abitibi Mining Corp.
+ABE.V	Abitex Resouces Inc.
+ABG.V	Amg Bioenergy Resources Holding
+ABI.V	Abcourt Mines Inc.
+ABL.V	Abington Resources Ltd
+ABM.V	Athabasca Minerals Inc
+ABN.V	Cons Abaddon Resources Inc.
+ABP.H.V	Albion Petroleum Ltd.
+ABR.V	Ashburton Ventures Inc
+ABS.V	Abzu Gold Ltd
+ABZ.V	Asiabasemetals Inc
+ACG.V	Anglo Canadian Oil Corp
+ACK.V	Active Growth Capital
+ACL.V	Anthony Clark Intl Brokers Ltd
+ACP.V	Ansell Capital Corp
+ACS.V	Archon Minerals Ltd.
+ACT.V	Active Control Technology Inc
+ADB.V	Admiral Bay Resources Inc.
+ADD.V	Arctic Star Diamond Corp.
+ADE.V	Adex Mining Inc
+ADG.V	Arcus Development Group Inc
+ADI.V	Adriana Resources Inc.
+ADK.V	Diagnos Inc
+ADL.V	Adira Energy Ltd
+ADM.V	Andina Minerals Inc.
+ADM.WT.V	Andina Minerals Inc
+ADR.H.V	Arcland Resources Inc.
+ADT.V	Adroit Resources Inc.
+ADV.V	Alderon Resource Corp
+ADX.V	Advantex Marketing Intl Inc
+AE.A.V	Anterra Energy Inc Cl A
+AEL.V	Amseco Exploration Ltd
+AEX.V	Appleton Exploration Inc
+AFA.V	Afri-Can Marine Minerals Corpor
+AFH.V	Atlas Financial Holdings Inc
+AFM.V	Alphamin Resources Corp.
+AFR.V	African Metals Corp.
+AFS.H.V	Afrasia Mineral Fields Inc.
+AFX.V	Alternative Fuel Systems [2004]
+AGA.V	Argonaut Exploration Inc
+AGC.V	Amarillo Gold Corporation
+AGD.V	Antioquia Gold Inc
+AGE.V	Adventure Gold Inc
+AGG.V	African Gold Group Inc.
+AGL.V	Aguila American Resources Ltd
+AGM.V	Aldridge Minerals Inc.
+AGO.V	Aurcrest Gold Inc
+AGP.V	August Metal Corporation
+AGQ.V	Arian Silver Corporation
+AGR.V	Agritec Systems Inc.
+AGX.V	Amador Gold Corp.
+AHC.V	Artha Resources Corp
+AHF.V	Aston Hill Financial Inc.
+AHG.V	Orior Technologies Inc
+AHR.V	Amarc Resources Ltd.
+AHS.V	Alta Natural Herbs &     Supplem
+AIA.V	Auriga Gold Corp
+AIM.V	Aegis Investment Management
+AIQ.H.V	Atlantis Systems Corp
+AIR.V	Cleanfield Alternative Energy
+AIX.V	Alix Resources Corp.
+AJC.V	American Cons
+AKA.V	Aka Ventures Inc.
+AKH.V	Alaska Hydro Corporation
+AKM.V	Act360 Solutions Ltd.
+AKV.V	Acrex Ventures Ltd.
+AL.PR..V	Alita Resources Ltd
+ALE.V	Alange Energy Corp
+ALF.V	Alpetro Resources Ltd.
+ALH.V	Alhambra Resources Ltd.
+ALL.H.V	International Alliance Res Inc.
+ALN.V	Aldrin Resource Corp
+ALO.V	Alston Ventures Inc
+ALQ.V	Alpha Gold Corp.
+ALR.V	Alder Resources Ltd
+ALT.V	Alturas Minerals Corp
+ALU.V	Anglo Aluminum Corp
+ALW.V	All In West! Capital Corporatio
+ALY.PR..V	Alya Ventures Limited Com Npv
+ALZ.V	Aldershot Resources Ltd.
+AMA.V	Aeromechanical Services Ltd.
+AME.V	Abacus Mining & Exploration Cor
+AMG.V	Argent Mining Corp
+AMH.V	Amanta Resources Ltd.
+AMK.V	American Creek Resources Ltd
+AML.V	Argus Metals Corp
+AMT.V	Amato Exploration Ltd
+AMU.V	Ami Resources Inc.
+AMX.V	AMEX Exploration Inc.
+AMY.V	American Manganese Inc
+AMZ.V	Amazon Mining Holding Plc
+ANA.V	Angus Mining Namibia Inc
+ANB.V	Anglo-Bomarc Mines Ltd. [N.P.L.
+ANC.V	Angoss Software Corp.
+ANF.V	Anfield Nickel Corp
+ANG.V	Altacanada Energy Corp.
+ANI.V	Animas Resources Ltd
+ANL.H.V	Atlantic Industrial Minerals In
+ANQ.V	Allegiance Equity Corp.
+ANR.U.V	American Natural Energy Corp. U
+AOE.V	Access International Education
+AOI.V	Africa Oil Corp
+AOS.V	Alberta Oilsands Inc
+AOT.V	Ascot Resources Ltd.
+AOX.V	Andover Ventures Inc.
+APA.V	Apella Resources Inc
+APC.V	Advanced Proteome Therapeutics
+APD.V	Advanced Primary Minerals Corp
+APE.V	Apogee Minerals Ltd.
+APH.V	Alda Pharmaceuticals Corp.
+APL.V	Appulse Corporation
+APM.V	Amerix Precious Metals Corporat
+APN.V	Altiplano Minerasl Ltd
+APP.V	Appalaches Resources Inc
+APT.V	Almo Capital Corp.
+APZ.V	Aptilon Corporation
+AQ.V	African Queen Mines Ltd
+AQC.V	Aquarius Coatings Inc.
+AQD.V	Komet Manufacturers Inc.
+AQE.V	Aqua-Pure Ventures Inc.
+AQM.V	Apoquindo Minerals Inc.
+AQX.V	Algonquin Oil & Gas Ltd.
+ARD.V	Armada Data Corp
+ARH.V	Altima Resources Ltd.
+ARI.V	Acme Resources Inc
+ARK.V	Archer Petroleum Corp
+ARN.V	Arcan Resources Ltd
+ARQ.V	Anooraq Resources Corp.
+ARR.V	Arco Resources Corp
+ART.V	Acro Energy Technologies Corp [
+ARU.V	Auro Resources Corp
+ARW.V	Aroway Mine
+ASL.V	Ace Security Laminates Cp
+ASM.V	Avino Silver & Gold Mines Ltd.
+ASN.V	Asian Mineral Resources Limited
+ASQ.V	Astorius Resources Ltd
+AST.V	Astur Gold Corp
+ASU.PR..V	Ansue Capital Corp
+ASW.V	Anglo Swiss Resources Inc
+ASX.V	Alberta Star Development Corp.
+AT.H.V	Attwell Captial Inc
+ATC.V	Atac Resources Ltd.
+ATG.V	Atlanta Gold Inc
+ATI.V	Altai Resources Inc
+ATK.V	Atikwa Minerals Corporation
+ATM.V	Atacama Pacific Gold Corp
+ATT.V	Atocha Resources Inc
+ATV.V	Alto Ventures Ltd.
+ATX.V	Argentex Mining Corporation
+AU.V	Aurion Resources Ltd
+AUC.V	Golden China Res Corp
+AUD.V	Audiotech Healthcare Corp. [Tie
+AUG.V	Augen Capital Corp.
+AUN.V	Aurcana Corporation
+AUR.V	African Aura Mining Inc
+AUT.V	Automated Benefits Corp
+AUU.V	Aura Silver Resources Inc
+AUV.V	Augyva Inc. [Ressources Miniere
+AUX.V	Auramex Resource Corp
+AVC.V	American Vanadium Corpc Com
+AVG.V	Avatar Energy Ltd
+AVI.V	Advitech Inc.
+AVS.H.V	Ava Resources Corp
+AVT.V	Avanti M
+AVU.V	Avrupa Minerals Ltd.
+AVW.H.V	Avc Venture Capital Corp Com Np-
+AVX.V	Altair Ventures Incorporated
+AVZ.V	Avala Res Ltd
+AWA.V	Arrowhead Water Products Ltd
+AWI.V	Advent Wireless Inc
+AXD.V	Alexander Mining Plc Ord
+AXE.V	Acceleware Corp
+AXI.V	Advanced Explorations Inc.
+AXM.V	Axmin Inc.
+AXP.V	Accelrate Pwr Sys Inc
+AYA.V	Amaya Gaming Group Inc.
+AZA.V	Argenta Oil & Gas Inc
+AZG.V	Azteca Gold Corp.
+AZI.V	Aztech Innovations Inc
+AZM.V	Azimut Exploration Inc
+AZN.V	Arcturus Ventures Inc.
+AZU.V	Azure Resources Corporation
+AZX.V	Alexandria Minerals Corporation
+AZZ.V	Azcar Tech Inc
+B.V	Bcm Resources Corporation
+BAL.H.V	Balto Resources Ltd
+BAP.V	Beacon Acquisition Partners Inc
+BAR.V	Balmoral Res Ltd
+BAT.V	Batero Gold Corp.
+BBB.V	Brixton Metals Corp
+BBC.PR..V	BLACK BIRCH CAPITAL ACQUISITION
+BBI.V	Blackbird Energy Inc
+BBM.V	Brandenburg Metals Corp
+BBS.V	Black Bull Resources Inc.
+BCG.V	Bcgold Corp
+BCM.V	Bear Creek Mining Corporation
+BCN.V	Bacanora Minerals Ltd
+BCO.V	British Control Oil Fields Limi
+BCS.V	Brea Resources Corp.
+BCU.V	Bell Copper Corporation
+BCY.V	Bcy Resources Inc.
+BEA.V	Belmont Resources Inc
+BEG.PR..V	Beanstalk Capital Inc
+BEL.V	Belvedere Resources Ltd.
+BER.V	Be Resources Inc
+BEY.V	Blacksteel Energy Inc.
+BFD.V	Beaufield Resources Inc. [Resso
+BFS.V	Bfs Entertainment Multimedia Lt
+BGC.V	Brazilian Gold Corp
+BGE.V	Bison Gold Resources Inc
+BGL.V	Bandera Gold Ltd.
+BGM.V	Barkerville Gold Mines Ltd
+BGS.V	Baroyeca Gold And Silver Inc
+BHV.V	Bellhaven Copper & Gold Inc
+BIO.V	Biosign Tech Inc
+BIT.V	Black Isle Resources Corporatio
+BKM.V	Pacific Booker Minerals Inc.
+BKR.V	Berkwood Resources Ltd
+BKT.V	Brookemont Capital Inc
+BLF.V	Capital Blf Inc
+BLG.V	Bear Lake Gold Ltd
+BLK.V	Birch Lake Energy Inc
+BLL.H.V	Ballyliffin Capital Corp
+BLN.V	Blackline Gps Corp
+BLP.V	Bluepoint Data Storage Inc.
+BLR.V	Blackhawk Resource Corp
+BLT.V	Brilliant Mining Corp
+BLV.V	Blackstone Ventures Inc.
+BMC.V	Buchans Minerals Corporation
+BMK.V	Macdonald Mines Exploration Ltd
+BML.V	Barker Minerals Ltd
+BMN.A.V	Beaumont Select Corporation
+BMW.V	Beijing Marvel Cleansing Sup
+BMX.A.V	Bellamont Exploration Ltd Cl A
+BMX.B.V	Bellamont Exploration Ltd Cl B
+BNB.V	Bam Investments Corp
+BNR.V	Brionor Resources Inc
+BNT.V	Blue Note Mining
+BNX.A.V	Bnp Resources Inc Cl A
+BNX.B.V	Bnp Resources Inc Cl B
+BOB.V	Global Hunter Corp.
+BOE.V	Americas Petrogas Inc
+BOG.V	Base Oil & Gas Ltd
+BOL.V	Bold Ventures Inc
+BON.V	Bonaparte Cap Corp
+BOR.V	Border Petroleum Corp
+BOW.V	Bowmore Exploration Ltd.
+BPC.V	Black Panther Mining Corp
+BPM.V	Bralorne Gold Mines Ltd.
+BPU.V	Boss Power Corp.
+BRG.V	Brigadier Gold Limited
+BRL.V	Bearclaw Capital Corp.
+BRM.V	Biorem Inc
+BRN.PR.A.V	BROOKFIELD INVESTMENT CORP
+BRR.V	Britannica Resources Corp
+BRS.V	Bonanza Resources Corporation
+BRU.V	Bolero Resources Corp
+BRX.V	Brixton Energy Corp
+BRY.V	Bri-Chem Corp
+BSH.V	Bayshore Pete Corp
+BSK.V	Blue Sky Uranium Corp
+BSX.V	Belo Sun Mining Corp.
+BTB.DB.V	Btb Real Estate Invst Trust
+BTB.DB.B.V	Btb Real Estate Investment Trust
+BTB.DB.C.V	Btb Real Estate Investment Trust 5.5% Dbsr C 31
+BTB.UN.V	Btb Real Est Inv T Unit Trust
+BTC.V	Benton Resources Corp.
+BTI.V	Bioasis Tech Inc
+BTM.H.V	Bitumen Capital Inc.
+BTR.V	Bonterra Reso
+BTT.V	Bitterroot Resources Ltd.
+BTU.PR..V	BTU CAPITAL CORP
+BTV.V	Soyers Capital Limited
+BTX.V	Biotonix 2010 Inc
+BUK.V	Bridge Resources Corp
+BVA.V	Bravada Gold Corporation
+BVC.PR..V	BROOKLYN VENTURES CORP
+BVG.V	Bravo Venture Group Inc
+BVO.V	Bevo Agro Inc.
+BVR.V	Bolivar Energy Corp
+BVT.V	Bonaventure Enterprises Inc
+BWD.V	Bowood Energy Inc.
+BWN.V	Brownstone Ventures Inc
+BXX.V	Boxxer Gold Corp.
+BYM.V	Baymount Incorporated
+BYN.PR..V	Banyan Coast Capital Corp
+BYU.V	Bayswater Uranium Corp
+BYV.V	Bayfield Ventures Corp
+BZD.V	Brazilian Diamonds Limited [Tie
+BZZ.V	Buzz Telecommunications Service
+C.V	Celeste Copper Corporation [Tie
+CA.V	Caerus Resource Corporation [Ti
+CAA.V	Callinan Mines Limited
+CAD.V	Colonial Coal International Cp
+CAF.V	Canaf Group Inc
+CAJ.V	Canasia Industries Corporation
+CAN.V	Canaco Resources Inc.
+CAU.H.V	China Goldcorp Ltd.
+CAY.V	Cache Exploration Inc
+CBA.V	Champion Bear Resources Ltd.
+CBC.V	Central Resources Corp
+CBE.V	Cabo Drilling Corp.
+CBI.V	Colibri Resource Corporation
+CBJ.V	Cb Gold Inc
+CBS.V	Bard Ventures Ltd.
+CBT.V	Cobalt Coal Corp
+CBV.V	Cobra Venture Corporation
+CBX.V	Cortex Business Solutions Inc.
+CC.V	Cascade Resources Ltd
+CCC.H.V	Chelsea Minerals Corp
+CCD.V	Cascadero Copper Corp
+CCE.V	Commerce Resources Corp.
+CCJ.H.V	Coalcorp Mining Inc
+CCR.V	Cascadia Reso
+CCV.V	Counterpath Corporation
+CCY.V	Catalyst Copper Corp
+CD.V	Cantex Mine Development Corp
+CDA.V	Canuc Resources Corporation [Ti
+CDC.V	Cadillac Ventures Inc
+CDE.V	Challenger Deep Cap Corp
+CDI.V	Canelson Drilling Inc
+CDK.H.V	Cadomin Capital Corp
+CDN.V	Canadream Corporation
+CDO.V	Candorado Operating Company Ltd
+CDQ.V	Challenger Development Corp. [T
+CDR.V	Caldera Resources Inc
+CDX.V	Cassidy Gold Corp
+CE.V	Canada Energy Partners Inc
+CEC.V	Compliance Energy Corporation
+CED.V	Cedar Mountain Exploration Inc
+CEI.PR..V	CARMEN ENERGY INC COM
+CEL.V	Columbus Energy Limited
+CEM.V	Constantine Metal Resources Ltd
+CEN.V	Coastal Energy Company
+CEV.V	Cap-Ex Ventures Ltd
+CEX.V	Contact Exploration Inc.
+CEY.V	Century Energy Ltd
+CFF.V	Conifex Timber Inc
+CFI.V	Canada Fluorspar Inc
+CFL.UN.V	Canadian Equipment Com Npv
+CFM.V	Confederation Minerals Ltd
+CFO.V	Clifton Star Resources Inc.
+CFR.V	Chemaphor Inc
+CFY.V	Changfeng Energy Inc
+CGD.V	Carlin Gold Corporation
+CGE.V	Corex Gold Corporation
+CGN.V	Carbon2Green Corp
+CGP.V	Cornerstone Capital Resources I
+CGT.V	Columbus Gold Corp
+CGW.V	Corazon Gold Corp
+CH.V	China Select Capital Partners C
+CHN.V	China Education Resources Inc.
+CHO.V	China Health Labs & Diagnostic
+CHU.V	Channel Resources Ltd
+CHY.V	Cypress Hills Resource Corp [Ti
+CI.V	Metalquest Minerals Inc
+CIA.H.V	Colossal Resources Corp
+CID.V	Cicada Ventures Ltd.
+CIL.V	Canoel International Energy Ltd
+CIN.V	Canadian Internatl Minerals In
+CIO.V	Central Iron Ore Ltd
+CJC.V	Canda Gas Corp
+CJO.V	Cerro Resources Nl
+CKB.V	Cobre Exploration Corp
+CKC.V	Cricket Resources Inc.
+CKG.V	Chesapeake Gold Corp.
+CKG.WT.V	Chesapeake Gold Corp. Wt 23Feb2
+CKK.V	Cordy Oilfield Services Inc.
+CKO.V	China Coal Corporation
+CKR.V	Yow Capital Corp
+CKV.V	Cvc Cayman Ventures Corp
+CKX.V	Csm Systems Corp
+CLD.V	Cangold Limited
+CLH.V	Coral Gold Resources Ltd
+CLI.V	Clearford Industries Inc.
+CLN.V	Culane Energy Corp.
+CLP.V	Calypso Uranium Corp
+CLZ.V	Canasil Resources Inc.
+CMA.V	Cream Minerals Ltd.
+CMB.V	Cmc Metals Ltd
+CMD.V	Commander Resources Ltd
+CMI.V	C-Com Satellite Systems Inc
+CMJ.V	Colombian Mines Corporation
+CMM.V	Century Mining Corporation
+CMO.V	Cliffmont Resources Ltd.
+CMS.V	Creston Moly Corp
+CMU.V	Comet Industries Ltd.
+CN.V	Condor Resources Inc
+CNA.V	Centram Explorations Ltd
+CNE.V	C
+CNE.DB.V	Canacol Energy Ltd. Debs.
+CNG.V	Canadian Mining Company Inc
+CNI.V	Continental Nickel Limited
+CNO.V	California Nanotechnologies Cor
+CNP.V	Cannon Point Resources Ltd
+CNS.V	Canoro Resources Ltd.
+CNW.V	China Wind Power Intl Corp
+CNY.V	Cancana Resources Corp
+CO.V	Baltic Resources Inc
+COC.V	China Opportunity Inc
+COD.V	Chalice Diamond Corp
+COE.V	Canam Coal Corp
+COF.H.V	Coventree Inc
+COG.V	Cumberland Oil And Gas Ltd
+COR.V	Camino Minerals Corporation
+COT.V	Critical Outcome Technologies I
+COU.V	Cougar Minerals Corp Com
+COV.V	Covalon Technologies Ltd
+CPE.H.V	Capital Pro Egaux Inc
+CPK.H.V	Capstock Financial Inc
+CPL.V	Champlain Resources Inc
+CPO.V	Compass Petroleum Ltd.
+CPS.V	Claim Post Resources Inc
+CPV.V	Copper Creek Ventures Ltd.
+CPY.V	Copper Canyon Resources Ltd
+CQ.V	Cooper Minerals Inc.
+CQM.V	Canadian Quantum Energy Corpora
+CQR.V	Conquest Resources Limited
+CQV.V	Canadian Imperial Venture Corp.
+CQX.V	Cadillac Mining Corporation
+CRB.V	Cariboo Rose Resources Ltd
+CRC.V	Crescent Resources Corp.
+CRD.V	Coronado Resources Ltd.
+CRI.V	Castle Resources Inc.
+CRM.V	Crh Medical Corporation
+CRN.PR..V	CAMISHA RESOURCES CORP
+CRO.V	Canadian Arrow Mines Limited
+CRV.V	Cresval Capital Corp.
+CRX.V	Cytiva Software Inc.
+CSC.V	Columbus Silver Corporation
+CSO.V	Corsa Capital Ltd.
+CSQ.V	Canamex Resources Corp Com
+CST.V	Co2 Solution Inc.
+CT.V	Castillian Resources Corp.
+CTE.V	Centric Energy Corp
+CTG.V	Global Minerals Ltd
+CTH.V	Cannasat Therapeutics Inc.
+CTM.V	Canterra Minerals Corp
+CTN.V	Centurion Minerals Ltd
+CTO.V	Circa Enterprises Inc
+CTR.V	Coltstar Ventures Inc
+CTS.V	Cantronic Systems Inc.
+CTW.V	Catch The Wind Ltd
+CTX.H.V	VIRTUAL CHINA TRAVEL SERVICES C
+CTZ.V	Cencotech Inc.
+CUE.V	Cue Resources Ltd
+CUI.V	Currie Rose Resources Inc.
+CUO.V	Copper One Inc.
+CUT.V	Cortez Gold Corp
+CUU.V	Copper Fox Metals Inc.
+CUV.V	Curis Resources Ltd
+CUZ.H.V	Cadman Resources Inc
+CV.H.V	Chantrell Ventures Corp.
+CVB.V	Compass Gold Corporation
+CVN.V	Cavan Ventures Inc
+CVR.V	Canadian Oil Recovery & Remedia
+CVU.A.V	Seaview Energy Inc Cl A
+CVU.B.V	Seaview Energy Inc Cl B
+CVV.V	Canalaska Uranium Ltd.
+CVX.V	Cordex Ventures Inc
+CW.H.V	Carlaw Capital III Corp.
+CWC.V	Central Alberta Well Services
+CWM.V	C
+CWQ.V	Curlew Lake Resources Inc.
+CWS.H.V	Consolidated Westview Resource
+CWV.V	Crown Point Ventures Ltd
+CWY.V	Conway Resources Inc
+CXB.V	Calibre Mining Corp
+CXD.V	Cadan Resources Corporation [Ti
+CXG.A.V	Clemex Technologies Inc. Cl A
+CXM.V	Carmax Mining Corp Com
+CXO.V	Colorado Resources Ltd Com
+CXP.V	Canadian Phoenix Resources Corp
+CXT.V	Creso Exploration Inc.
+CYD.V	Cayden Resources Inc
+CYF.V	Canyon Creek Food Co Ltd
+CYG.V	Cygam Energy Inc
+CYP.V	Cypress Development Corp.
+CYQ.V	Changyu Medtech Ltd
+CYR.V	Cirrus Energy Corporation
+CYU.V	Columbia Yukon Explorations Inc
+CZ.V	Cassius Ventures Ltd.
+CZH.V	Crazy Horse Resources Inc.
+CZO.V	Ceapro Inc
+CZX.V	Canada Zinc Metals Corp
+CZY.V	Caza Gold Corp Com
+CZY.WT.V	Caza Gold Corp Wts
+DAL.V	Dalmac Energy Inc.
+DAN.V	D'Arianne Resources Inc
+DAP.U.V	Xpel Technologies Corp.
+DAU.V	Desert Gold Ventures
+DBL.V	Darnley Bay Resources Limited
+DBO.A.V	D-Box Technologies Inc.
+DBV.PR..V	Doubleview Capital Corp Com Npv
+DCA.PR..V	DOCA CAPITAL CORP.
+DCY.V	Discovery-Corp Enterprises Inc.
+DDN.V	Diamonds North Resources
+DDX.V	Dundarave Resources Inc.
+DEC.V	Decade Resources Ltd
+DEF.V	Defiance Capital Corp.
+DEI.V	Donnybrook Energy Inc
+DEQ.V	Deq Systems Corp.
+DES.V	Desmarais Energy Corp
+DEX.V	Detector Exploration Ltd.
+DFC.H.V	D Fense Cap Ltd
+DHM.V	Deer Horn Metals Inc
+DIA.V	Big Red Diamond Corporation [Ti
+DIB.V	Dia Bras Exploration Inc.
+DIG.H.V	Digger Resources Inc
+DIL.V	Digifonica International Inc
+DIT.V	Ditem Explorations Inc.
+DIV.V	Diversinet Corp
+DIX.V	Diamond Exploration Inc
+DJI.V	Dajin Resources Corp.
+DKC.PR..V	DRAKO CAP CORP
+DLA.V	Drift Lake Resources Inc
+DLL.V	Deloro Resources Ltd.
+DLV.V	Dolly Varden Resources Inc.
+DMA.V	Diamedica Inc.
+DMI.V	Diamcor Mining Inc
+DNI.V	Dumont Nickel Inc.
+DNX.V	Dynex Power Inc.
+DOD.V	Diamond Frank Exploration Inc
+DOG.V	Blackdog Resources Ltd.
+DOH.V	3P International Energy Corp.
+DON.V	Donner Metals Ltd.
+DOR.V	Dianor Resources Inc.
+DOS.V	Dios Exploration Inc
+DOT.V	Dot Resources Ltd.
+DOX.V	Dorex Minerals Inc
+DPH.V	Duncan Park Holdings Com
+DRI.V	Dorato Resources Inc.
+DRK.V	Derek Oil & Gas Corporation
+DRL.V	Diadem Resources Ltd
+DRU.PR..V	DRUK CAPITAL PARTNERS INC
+DRV.V	Duran Ventures Inc.
+DSM.V	Dacha Strategic Metals Inc
+DSS.V	Cornerstone Capital Res Inc
+DSY.V	Destiny Media Technologies Inc
+DTA.V	Dentonia Resources Ltd.
+DTC.V	Datex Technologies Corporation
+DUN.V	Dundee Mines Ltd
+DUR.V	Delta Uranium Inc
+DVC.H.V	Devin Energy Corporation
+DVN.V	Discovery Ventures Inc
+DVO.PR..V	DENOVO CAP CORP COM NPV
+DVT.V	Divestco Inc Cl A Shs
+DXA.V	Doxa Energy Ltd
+DXE.V	Dualex Energy International Inc
+DXX.V	Dxstorm.Com Inc
+DYA.V	Dynamic Fuel Systems Inc.
+DYG.V	Dynasty Gold Corp.
+DYU.V	Dawson Gold Corp Com
+EAG.V	Eagle Hill Exploration Corp
+EAR.V	Everett Resources Ltd
+EAS.V	East Asia Minerals Corporation
+EBN.V	Epicore Bionetworks Inc.
+EBY.V	Emerald Bay Energy Inc
+EC.V	Ecometals Limited
+ECC.V	Ethos Capital Corp
+ECL.V	Ecl Enviroclean Ventures Ltd
+ECR.V	Cartier Resources Inc
+ECX.V	Eastcoal Inc
+EDE.V	Edge Resources Inc
+EDG.V	Endurance Gold Corporation
+EDU.V	Edleun Group Inc
+EDW.V	Edgewater Exploration Ltd
+EEL.V	Eaglecrest Explorations Ltd.
+EEN.V	Estrella Intl Energy Svcs Ltd
+EER.V	Enterprise Energy Resources Ltd
+EES.H.V	Ecomax Energy Services Ltd
+EEV.V	E-Energy Ventures Inc.
+EFG.V	First Gold Exploration Inc
+EFT.V	Eft Canada Inc
+EGC.H.V	E.G. Capital Inc.
+EGD.V	Energold Drilling Corp.
+EGE.V	Eagle Star Petroleum Corp
+EGM.V	Excel Gold Mining Inc
+EGN.V	Engineering.Com Incorporated [T
+EGT.V	Escape Gold Inc.
+EGZ.V	Energizer Resources Inc
+EIC.V	Eagle I Capital Corporation
+EIL.V	Empire Industries Ltd
+EKD.V	Epic Data International Inc
+EKG.V	Cardiocomm Solutions Inc.
+ELG.V	Elgin Mining Inc
+ELN.V	El Nino Ventures Inc.
+ELO.V	Eloro Resources Ltd.
+ELS.V	El Tigre Silver Corp
+ELT.V	Electra Gold Ltd.
+ELW.V	Elkwater Resources Ltd
+ELY.V	Ely Gold & Minerals Inc
+EM.H.V	Emperor Minerals Ltd Com
+EMB.V	Emberclear Inc
+EMG.V	Emergeo Solutions Worldwide Inc
+EMI.V	Electric Metals Inc.
+EMM.V	Emedia Networks International C
+EMR.V	Emgold Mining Corporation
+EMX.V	Eurasian Minerals Inc.
+ENA.V	Enablence Technologies Inc
+ENG.V	Energulf Resources Inc.
+ENP.V	Enpar Technologies Inc.
+ENS.V	Enseco Energy Services Corp
+ENV.V	Enssolutions Group Inc.
+ENW.V	Enwave Corporation
+EOR.V	Enhanced Oil Resources Inc.
+EOX.V	Euromax Resources Ltd
+EPC.V	Empire Mining Corporation
+EPL.V	Eagle Plains Resources Ltd.
+EPM.V	Empire Capital Corp
+EPO.V	Encanto Potash Corp
+EPT.V	Empower Technologies Corporatio
+EPX.H.V	Eshippers Management Ltd.
+EPZ.V	Esperanza Silver Corporation
+EQT.V	Equitas Resources Corp
+ERC.V	Emeri
+ERG.V	Ergoresearch Ltd.
+ERI.V	Exile Resources Inc
+ERL.H.V	Earl Resources Limited
+ESE.V	Estec Systems Corp.
+ESK.V	Eskay Mining Corp
+ESO.V	Eso Uranium Corp.
+ESR.V	Era Carbon Offsets Ltd
+EST.V	Estrella Gold Corporation
+ESV.V	Esi Environmental Sensors Inc
+ETF.V	Eastfield Resources Ltd.
+ETR.V	Eacom Timber Corporation
+EUK.V	Eureka Resources Inc.
+EUO.V	Eurocontrol Technics Inc.
+EV.V	Erin Ventures Inc
+EVM.V	Evrim Resources Corp
+EVR.V	Everton Resources Inc.
+EW.V	East West Petroleum Corp Com
+EWD.V	Eaglewood Energy Inc
+EWK.V	Earthworks Industries Inc.
+EWS.V	Environmental Waste Internation
+EXA.V	Communications Dvr Inc
+EXC.PR..V	ESSEX ANGEL CAPITAL INC
+EXO.V	Explorator Resources Inc.
+EXQ.H.V	Exchequer Resource Com Npv
+EXS.V	Explor Resources Inc.
+EXU.V	Expedition Mng Inc
+EY.V	Extenway Solutions Inc.
+EYE.A.V	Eyelogic Systems Inc
+EZ.V	Encore Renaissance Resources Co
+FAB.V	Flying A Petroleum Ltd
+FAM.V	Family Memorials Inc
+FAU.V	Fire River Gold Corp.
+FAX.V	Fox Resources Ltd
+FBF.V	Fab Form Industries Ltd
+FBX.V	First Bauxite Corp
+FCV.V	Focus Ventures Ltd
+FDC.V	Forum Uranium Corp.
+FDN.V	Foundation Resources Inc
+FEB.V	First Venture Technologies Corp
+FEC.V	Fairwest Energy Corporation
+FEN.V	Forent Energy Inc
+FEO.V	Oceanic Iron Ore Corp  Com
+FEX.V	Fjordland Exploration Inc
+FFM.V	Formation Fluid Management Inc
+FFP.V	Consolidated Firstfund Capital
+FFX.V	Fairfax Capital Inc
+FGC.V	Frontline Gold Corporation [Tie
+FGE.V	Forest Gate Energy Inc
+FI.V	First Idaho Resources Inc.
+FIS.V	Fission Energy Corp
+FIX.V	Falcon Ventures International I
+FLA.V	Fairmile Goldtech Inc.
+FLK.V	Falkirk Resources Corp
+FLO.PR..V	FLOW ENERGY LTD
+FLT.V	Forcelogix Tech Inc
+FLX.V	Fieldex Exploration Inc.
+FMA.H.V	First Metal Inc  Com
+FMG.V	First Mexican Gold Corp
+FMM.V	Full Metal Minerals Ltd.
+FMR.V	Fairmont Resources Inc
+FMS.V	Focus Metals Inc
+FNC.V	Fancamp Exploration Ltd.
+FNR.V	49 North Resource Fund Inc.
+FO.V	Falcon Oil & Gas Ltd
+FOM.V	Foran Mining Corporation
+FOX.V	Fiber Optic Systems Technology
+FPV.V	First Pursuit Ventures Ltd
+FPX.V	First Point Minerals Corp
+FRD.V	Firebird Capital Partners Inc
+FRI.V	Freeport Resources Inc.
+FRN.V	Feronia Inc
+FRN.WT.V	Feronia Inc New
+FRV.H.V	Frv Media Inc
+FS.V	First Star Resources Inc
+FSH.V	Agrimarine Holdings Inc
+FSI.V	Fsi Energy Services Inc.
+FSN.V	Franchise Services Of North Ame
+FST.V	Fortress Minerals Corp.
+FSW.V	Fireswirl Technologies Inc
+FTE.V	Forterra Environmental Corp
+FTI.V	Fti Foodtech International Inc.
+FTR.V	Firesteel Resources Inc.
+FUL.PR..V	FULLER CAPITAL CORP
+FUT.V	Kidsfutures Inc.
+FV.V	Firestone Ventures Inc.
+FVR.V	Finavera Renewables Inc.
+FWK.V	Liuyang Fireworks Limited
+FXX.H.V	Fmx Ventures Inc.
+FYI.V	Galena Capital Corp
+FYL.V	Finlay Minerals Ltd
+GA.V	Golconda Resources Ltd.
+GAE.V	Greenangel Energy Corp
+GAL.V	Galantas Gold Corporation
+GAP.V	Pharmagap Inc.
+GAR.H.V	Garneau Inc
+GAU.V	Garrison International Ltd.
+GAV.V	Galvanic Applied Sciences Inc
+GAX.V	Galahad Metals Inc
+GAZ.V	Fronsac Ca
+GB.V	Ginger Beef Corporation
+GBB.V	Gold Bullion
+GBK.V	Goldbrook Ventures Inc
+GBN.V	Golden Band Resources Inc.
+GBR.V	Great Bear Resources Ltd
+GCC.V	Golden Cariboo Resources Ltd.
+GCH.H.V	Gtech International Resources L
+GCN.V	Goldcliff Resource Corporation
+GCP.V	Goldminco Corporation
+GCU.V	Gold Canyon Resources Inc.
+GDB.V	Goldbard Capital Corporation
+GDE.A.V	Gc-Global Capital Corp
+GDF.H.V	Goldfarb Corporation The Cl Of
+GDR.V	Golden Dory Resources Corp
+GDV.H.V	Global Development Resources In
+GDW.V	Gold World Resources Inc
+GDX.V	Goldex Resources Corporation
+GE.V	Granville Pacific Capital Corp.
+GEG.V	Ginguro Exploration Inc
+GEL.V	Glass Earth Limited
+GEM.V	Pele Mountain Resources Inc.
+GER.V	Glen Eagle Res Inc
+GET.V	Global Net Entertainment Corp
+GEX.V	Guerrero Exploration Inc
+GFA.V	Golden Fame Resources Corp
+GFK.V	Gfk Resources Inc.
+GFN.V	Gold Finder Explorations Ltd
+GFP.V	Gale Force Petroleum Inc.
+GFS.V	Gasfrac Energy Services Inc
+GGD.V	Gogold Resources Inc.
+GGI.V	Garibaldi Resources Corp.
+GGL.V	Ggl Diamond Corp.
+GGX.V	Global Green Matrix Corp
+GGY.V	Goldeye Explorations Limited
+GHK.V	Gold Hawk Res Inc
+GHR.V	Golden Harp Resources Inc
+GI.V	Gem Intl Resources Inc         F
+GIC.V	Genterra Inc
+GIT.V	Gitennes Exploration Inc
+GKL.V	Global Key Investment Ltd
+GKR.V	Greenock Resources Inc
+GKX.V	Gemini Corporation
+GLB.V	Goldbank Minin
+GLC.V	Gallic Energy Ltd
+GLD.V	Augen Gold Corp
+GLD.WT.V	Augen Gold Corp Wts
+GLK.V	Global Energy Services Ltd.
+GLL.V	Golden Alliance Resources Corp
+GM.V	Geo Minerals Ltd
+GMA.V	Geomega Resources Inc
+GME.V	Geomark Exploration Ltd.
+GMG.V	Gulfside Minerals  Ltd
+GMN.V	Gobimin Inc.
+GMR.V	Gastem Inc.
+GMT.V	Mercator Transport Group Corpor
+GMV.V	Goldmember Minerals Inc
+GNF.S.V	Greenfields Petroleum Corp Com
+GNG.V	Golden Goliath Resources Ltd.
+GNH.V	Golden Hope Mines Limited
+GNO.V	Genoil Inc.
+GNZ.V	Goldnev Resources Inc.
+GOD.V	Goldrush Resources Ltd.
+GOG.V	Golden Tag Resources Ltd.
+GOK.V	Ginsms Inc
+GOM.V	Golden Dawn Minerals Inc
+GOR.V	Goldrea Resources Corp
+GOT.V	Golden Touch Resources Corp
+GPG.V	Grande Portage Resources Ltd.
+GPI.V	Great Pacific International Inc
+GPM.V	Guyana Precious Metals Inc
+GPO.V	Gold Port Resources Ltd.
+GPS.V	Bsm Technologies Inc
+GPW.V	Grand Power Logistics Group Inc
+GQ.V	Great Quest Metals Ltd.
+GQC.V	Goldquest Mining Corp.
+GR.V	Greenlight Resources Inc
+GRA.H.V	Graniz Mondal Inc.
+GRB.PR..V	GREENBRIAR CAPITAL CORP
+GRF.V	Greenfield Financial Group Inc
+GRG.V	Golden Arrow Resources Corporat
+GRI.V	Galore Resources Inc
+GRK.V	Gray Rock Resources Ltd.
+GRN.V	The Griffin Corporation
+GRR.V	Golden Reign Resources Ltd
+GRV.V	Gold Reach Resources Ltd
+GRX.H.V	Golden Triumph Resources Ltd
+GSA.V	Groundstar Resources Limited
+GSH.V	Golden Share Mining Corporation
+GSS.V	Gossan Resources Limited
+GTA.V	Gta Corpfin Capital Inc
+GTC.V	Getty Copper Inc.
+GTO.V	Galena International Resources
+GTT.H.V	Global Tree Techno Com Npv
+GTV.V	Gee-Ten Ventures Inc.
+GUF.V	Gulf & Pacific Equities Corp.
+GUL.V	Gulf Shores Resources Ltd.
+GUN.V	Gunpoint Exploration Ltd Com
+GV.V	Gold Standard Ventures Corp.
+GVG.V	Grenville Gold Corporation
+GVW.H.V	Genview Capital Corp.
+GVY.V	Green Valley Mine Incorporated
+GWA.V	Gowest Amalgamated Resources Lt
+GWC.V	Groupworks Financial Corp
+GWG.V	Great Western Minerals Group Lt
+GWQ.V	Gwr Resources Inc.
+GWY.V	Galway Resources Ltd
+GX.V	Guardian Exploration Inc
+GXG.V	G4G Resources Ltd
+GXM.V	Geodex Minerals Ltd.
+GXR.V	Georox Resources Inc.
+GXS.V	Goldsource Mines Inc.
+GXY.PR..V	Galaxy Capital Corp.
+GYD.V	Grayd Resource Corporation
+GYG.V	Guyana Frontier Mining Corp
+GZD.V	Grizzly Diamonds Ltd.
+GZW.PR..V	SINOGAS WEST INC
+GZZ.V	Golden Valley Mines Ltd.
+H.V	Harmony Gold Corp
+HA.V	Hodgins Auctioneers Inc.
+HAN.H.V	Hansa.Net Global Commerce Inc.
+HAO.V	Habanero Resources Inc.
+HAT.V	Hathor Exploration Limited
+HBE.V	Hornby Bay Min
+HBK.V	Highbank Resources Ltd.
+HBY.V	Hunter Bay Mineral Plc
+HDA.V	Huldra Silver Inc.
+HDG.V	High Desert Gold Corporation [T
+HEI.V	Huntington Exploration Inc
+HEL.V	Hellix Ventures Inc.
+HEO.V	H2O Innovation [2000] Inc
+HFI.V	Hermes Financial Inc
+HFM.PR..V	INTERACTIVE CAPITAL PARTNERS CO
+HGC.V	Hawthorne Gold Corp
+HGO.V	Hawkeye Gold & Diamond Inc
+HGS.V	Hy-Drive Technologies Ltd.
+HHC.V	Halmont Properties Corporation
+HI.V	Highland Resources Inc
+HIM.PR..V	Himalayan Capital Corp
+HJI.V	Helijet International Inc.
+HK.V	Huakan International Mining In
+HLM.V	Houston Lake Mining Inc
+HLO.V	Halo Resources Ltd.
+HMB.V	Humboldt Capital Corporation
+HME.V	Hemisphere Energy Corporation [
+HMG.V	Hana Mining Ltd
+HMI.V	Hinterland Metals Inc
+HML.V	New Hana Copper Mining Ltd
+HMX.V	Hunt Mining Corp
+HOP.V	Telehop Communications Inc.
+HPC.V	Healthpricer Interactive Limite
+HPI.V	Highbury Projects Inc
+HPY.V	Happy Creek Minerals Ltd
+HRC.V	Helio Resource Corp.
+HRL.V	Hansa Resources Limited
+HRM.V	Hudson River Minerals Ltd
+HRT.V	Harte Gold Corp 2]
+HTC.V	Htc Purenergy Inc
+HTL.V	Hamilton Thorne Ltd
+HTR.V	Brass Capital Corp
+HUA.V	Huaxing Machinery Corp
+HUD.V	Hudson Resources Inc.
+HVG.V	Harvest Gold Corp
+HWK.A.V	Hawk Exploration Ltd
+HWK.B.V	Hawk Exploration Ltd. Cl. B
+HYX.V	Hyperion Exploration Corp Com
+IAE.V	Ithaca Energy Inc
+IAX.V	Island Arc Exploration Corporat
+IB.V	International Beryllium Corpora
+IBC.V	International Bethlehem Mining
+IBH.V	Intl Barrier Technology Inc.
+IBI.V	Ibi Corporation
+IBT.V	Ibex Tech Inc
+IC.V	Innovative Composites Intl Inc
+ICG.V	Integra Gold Corp
+ICN.V	Icon Industries Limited
+ICO.V	Ico Therapeutics Inc
+ICP.V	Ic Potash Corp
+ICT.V	Isee3D Inc.
+ICX.V	Ics Copper Systems Ltd
+IDH.H.V	Idg Holdings Inc.
+IDI.V	Indico Resources Ltd.
+IDW.V	Id Watchdog Inc
+IEC.V	Intl Enexco Limited
+IEI.V	Imperial Equities Inc.
+IFR.V	Intl Frontier Resources Corpora
+IFX.A.V	Imaflex Inc. Cl A
+IG.V	Infinito Gold Ltd
+IGC.V	Igc Resources Inc.
+IGD.V	Initgold Mines Ltd
+IGE.V	Innovente Inc
+IGP.V	Imperial Ginseng Products Ltd.
+IGX.V	Intelgenx Technologies Corp
+ILA.V	Ilookabout Corp
+ILI.V	Ili Technologies [2002] Corp.
+IMA.V	I-Minerals Inc.
+IME.V	Indicator Minerals Inc.
+IMI.V	International Millennium Mining
+IMM.V	Immunotec Inc.
+IMT.V	International Montoro Resources
+IMV.V	Immunovaccine Ince
+IN.V	Innovium Media Properties Corp.
+IND.V	China One Corp
+INF.H.V	Infinite Resources Inc
+INL.V	Inlet Resources Ltd
+INM.V	Intl Northair Mines Ltd.
+INR.V	Innovative Properties Inc. [Tie
+INT.V	Intertainment Media Inc
+INX.V	In-Touch Survey Systems Ltd
+IOG.V	Ironhorse Oil & Gas Inc.
+IOT.V	Innovotech Inc.
+IPC.V	Iplayco Corporation Ltd
+IPD.V	Intl Parkside Products Inc.
+IPE.V	Iperceptions Inc
+IPR.V	Inca Pacific Resources Inc.
+IPT.V	Impact Silver Corp.
+IQ.V	Airiq Inc
+IRI.V	Iemr Res Inc
+IRN.V	Iron Creek Capital Inc
+IRO.V	Inter-Rock Minerals Inc.
+IRR.H.V	Inform Resources Corp
+ISC.V	Iroc Energy Services Corp
+ISD.V	Corbal Capital Corp
+ISS.V	Intl Samuel Exploration Corp
+IT.V	Icron Technologies Corporation
+ITA.PR..V	INTERRA EXPLORATION INC. [TIER2
+ITM.V	Intema Solutions Inc
+ITT.V	Intensity Company Inc
+IVI.V	Ivrnet Inc
+IVO.V	Invenio Resources Corp.
+IVT.V	Investus Real Estate Inc
+IVX.V	Inventronics Limited
+IWB.V	Iweb Group Inc.
+IWG.V	Intl Water-Guard Industries Inc
+IWS.V	Innovative Wireline Solutions I
+IXC.U.V	Industrialex Manufacturing Corp
+IXI.V	Indigo Exploration Inc
+IXS.V	Innexus Biotechnology Inc.
+IZN.V	Iberian Minerals Corp
+JAU.V	Jet Gold Corp.
+JAX.V	Jaxon Minerals Inc
+JBR.V	James Bay Resouces Ltd
+JIM.V	Jiminex Inc
+JLR.V	Jiulian Resources Inc.
+JML.V	J.A.G. Mines Ltd.
+JNN.V	Jnr Resources Inc.
+JNX.V	Junex Inc.
+JOE.PR..V	JOMAR CAPITAL CORP
+JOR.V	Jourdan Resources Inc
+JRC.V	Jerico Explorations Inc.
+JRL.PR..V	JAVELINA RESOURCES LTD
+JSP.V	Jasper Mining Corp
+JTC.V	Jemtec Inc
+JTI.V	Jite Technologies Inc
+JTM.V	Jetcom Inc.
+JUB.V	Jubilee Gold Inc.
+JV.PR..V	J5 ACQUISITION CORP [TIER2]
+JVA.V	Asantae Holdings International
+JZR.V	Jazz Resources Inc
+JZZ.PR..V	CLEGHORN MINERALS LTD COM
+KAI.V	Kenai Resources Ltd
+KAM.V	Kaminak Gold Corporation
+KAR.V	Karmin Exploration Inc
+KBG.V	King's Bay Gold Corporation
+KC.A.V	Knightscove Media Corp Sub Vtg
+KC.B.V	Knightscove Media Corp Mul Vtg
+KCT.PR..V	KENSINGTON COURT VENTURES INC C
+KEC.V	Kallisto Energy Corp
+KEN.V	Kenieba Goldfields Ltd.
+KEX.V	Kent Exploration Inc.
+KFG.V	Kfg Resources Ltd.
+KG.V	Klondike Gold Corp.
+KGC.V	Kestrel Gold Inc
+KGH.V	Key Gold Hldgs Inc
+KGL.V	Kilo Goldmines Ltd
+KHA.V	Knighthawk Inc.
+KHT.V	Yankee Hat Minerals Ltd.
+KIA.V	Kria Resources Ltd
+KIV.V	Kivalliq Energy Corporation
+KLG.V	Kalimantan Gold Corporation
+KLH.V	Stellar Biotechnologies Inc
+KLM.V	Kermode Resources Ltd.
+KLS.V	Kelso Technologies Inc.
+KM.V	Kola Mining Corp
+KME.V	Kam And Ronson Media Group Inc
+KMI.V	Killdeer Minerals Inc
+KMK.V	Continental Minerals Corporatio
+KMK.PR.A.V	CONTINENTAL MINERALS CORP PFD
+KNE.V	Kane Biotech Inc.
+KNO.H.V	Cellstop Systems Inc
+KNP.V	Knight Resources Ltd.
+KNX.V	Knick Explor
+KOK.V	Kokanee Minerals Inc
+KPS.V	Capella Resources Ltd
+KRR.V	Kettle River Resources Ltd.
+KRX.V	Copper Ridge Explorations Inc.
+KS.V	Klondike Silver Corp
+KSK.V	Kiska Metals Corporation
+KSM.V	Kingsman Resources Inc
+KTN.V	Kootenay Gold Inc.
+KWA.V	Kingsway Arms Retirement Reside
+KWG.V	Kwg Resources Inc.
+KXM.V	Kobex Minerals Inc
+KYM.V	Kirrin Resources Inc
+KZN.PR..V	Kaizen Capital Corp.
+LA.V	Los Andes Copper Ltd.
+LAQ.V	La Quinta Resources Corporation
+LAT.V	Latin American Minerals Inc.
+LBK.V	Lifebank Cryogenics Corp
+LC.V	Logan Copper Inc
+LCC.V	Lumina Copper Corp
+LCI.PR..V	LYNWOOD CAP INC
+LCN.V	Leisure Canada Inc.
+LCO.V	Lagasco Corp.
+LDI.V	Landdrill Intl Inc
+LDM.V	Lago Dourado Minerals Ltd
+LE.V	Lariat Energy Ltd.
+LEA.V	Leader Energy Services Ltd [Tie
+LEC.V	Lignol Energy Corporation
+LED.V	Crs Electronics Inc
+LEO.V	Lion Energy Corp
+LFD.V	Longford Energy Inc
+LG.V	Lions Gate Energy Inc
+LGC.V	Luna Gold Corp
+LGD.V	Lund Gold Ltd
+LGF.V	Laurentian Goldfields Ltd
+LGL.V	Luiri Gold Limited
+LGM.V	Lions Gate Metals Inc
+LGO.V	Largo Resources Ltd.
+LGR.V	Logan Resources Ltd
+LHC.V	Long Harbour Capital Corp
+LHR.DB.C.V	Lakeview Hotel Real Estate Inves
+LHR.DB.D.V	Lakeview Hotel Real Estate Inves
+LHR.UN.V	Lakeview Hotel Rea Sbi Npv
+LHT.V	Lehman Trikes Inc.
+LI.V	Lithium One Inc
+LIO.V	Lion One Metals Ltd
+LJ.V	Lucky Minerals Inc.
+LK.V	Lakeland Resources Inc
+LKW.V	Lakewood Mining Co. Ltd.
+LKY.V	Lucky Strike Resources Ltd.
+LLC.V	Lorraine Copper Corp
+LM.V	Lingo Media Corp
+LME.V	Laurion Mineral Exploration Inc
+LMG.V	Lincoln Mining Corp
+LMR.V	Lomiko Metals Inc
+LN.V	Loncor Resources Inc.
+LNE.V	Loon Energy Corporation
+LNG.V	Lng Energy Ltd
+LO.V	Lounor Exploration Inc
+LOG.V	Loma Oil & Gas Ltd.
+LOI.V	Longreach Oil And Gas Limited
+LOK.V	Look Communications Inc. Mv
+LOK.A.V	Look Communications Inc. Sv
+LOM.V	Lornex Capital Inc
+LOX.H.V	Lorex Tech Inc
+LOY.V	Loyalist Group Limited
+LPS.V	Legend Power Systems Inc
+LRA.V	Lara Exploration Ltd.
+LRC.V	Lovitt Resources Inc
+LRG.V	Lateegra Gold Corp.
+LRL.V	Luxor Industrial Corp.
+LS.V	Lakeside Steel Inc.
+LSI.V	Lonestar West Inc.
+LSN.V	Life Sciences Institute Inc
+LST.H.V	Landmark Global Financial Corpo
+LTA.H.V	LEETA GOLD CORP
+LTH.V	Lithic Resources Ltd.
+LTK.V	Lyrtech Inc
+LTX.V	Labrador Tech Inc
+LUC.V	Lucara Diamond Corp
+LVH.V	Las Vegas From Home.Com Enterta
+LVL.V	Lynden Energy Corp
+LVN.V	Levon Resources Ltd.
+LWC.V	Leeward Capital Corp
+LWI.PR..V	LW CAPITAL POOL INC.
+LZR.V	Rebecca Capital Inc
+MAC.H.V	Themac Resources Group Limited
+MAD.V	Miranda Gold Corp
+MAE.V	Maritime Resources Corp
+MAH.V	Marksmen Energy Inc
+MAM.V	Manicouagan Minerals Inc.
+MAO.V	Maudore Minerals Ltd
+MAS.V	Masuparia Gold Corporation
+MAT.V	Matamec Explorations Inc.
+MAY.V	Meadow Bay Capital Corporation
+MAZ.H.V	Mazarin Inc Com Npv
+MBG.V	Malbex Resources Inc
+MBI.V	Med Biogene Inc.
+MBR.V	Mbmi Resources Inc.
+MBV.V	Mill Bay Ventures Inc
+MC.V	Mill City Gold Corp.
+MCA.V	Milner Consolidated Silver Mine
+MCG.V	Melco China Resorts [Holding] L
+MCI.V	Mountain Capital Inc
+MCK.V	Manson Creek Resources Ltd.
+MCM.A.V	Matachewan Consolidated Mines L
+MCN.PR..V	METRON CAPITAL CORP
+MCR.V	Macro Enterprises Inc
+MCS.V	Mcchip Resources Inc
+MCU.V	Mega Copper Ltd
+MCV.V	Mcvicar Industries Inc
+MD.V	Midland Exploration Inc
+MDL.V	Medallion Resources Ltd.
+MDR.V	Mansfield Minerals Inc.
+MDU.V	Healthscreen Solutions Incorpor
+MDV.V	Megastar Development Corp.
+MDW.V	Midway Gold Corp
+MDX.V	Medx Health Corp
+MEB.V	Metrobridge Networks Internatio
+MEI.V	Manitok Energy Inc.
+MEK.V	Metals Creek Resources Corp [Ti
+MEN.V	Magnum Energy Inc.
+MER.V	Meritus Minerals Ltd
+MES.V	Marauder Resources East Coast I
+MEX.V	Midlands Minerals Corporation
+MFM.V	Marifil Mines Limited
+MFS.V	Medifocus Inc
+MGC.V	Midasco Capital Corp.
+MGG.V	Minaurum Gold Inc.
+MGP.V	Mega Precious Metals Inc
+MGR.V	Murgor Resources Inc
+MGS.V	Musgrove Minerals Corp
+MHC.H.V	Match Capital Resources Corp
+MHI.V	Mineral Hill Industries Ltd.
+MIB.V	Minaean International Corp.
+MIN.V	Excelsior Mining Corp
+MIO.V	Mindoro Resources Ltd.
+MIR.V	Medmira Inc.
+MIT.V	Mint Technology Corp.
+MIX.V	Micrex Development Corp.
+MJO.V	Mainstream Minerals Corporation
+MJS.V	Majestic Gold Corp.
+MJX.V	Mejescor Resources Inc
+MKA.V	Mkango Resources Ltd
+MKI.V	Medipattern Corporation The
+MKR.V	Melkior Resources Inc
+MKT.V	Marketvision Direct Inc.
+MKU.V	Mukuba Resources Ltd
+MLC.PR..V	MERCURY CAPITAL LIMITED COM
+MLE.V	Module Resource Inc
+MLM.V	Millstream Mines Ltd.
+MMA.V	Midnight Sun Capital Corp
+MMG.PR..V	Kenna Capital Corp
+MMI.V	Messina Minerals Inc.
+MML.V	Menika Mining Ltd.
+MMO.V	Mount Dakota Energy Corp.
+MMR.V	Madison Minerals Inc.
+MMS.V	Macarthur Minerals Limited
+MMT.V	Mart Resources Inc.
+MMV.V	Mineral Mountain Resources Ltd.
+MMY.V	Monument Mining Limited
+MNC.A.V	Multimedia Nova Corporation Cl A Sv
+MNI.V	Mengold Resources Inc.
+MNL.V	Monarch Energy Limited
+MNM.V	Magellan Minerals Ltd
+MNV.V	Mexivada Mining Corp
+MNX.V	Manitex Capital Inc.
+MNZ.V	Metropolitan Minning Inc
+MOA.V	Mountain Lake Resources Inc.
+MOB.UN.V	Gt Cda Med Pptys Real Est Inv
+MOB.WT.V	Gt Cda Med Pptys Real Est Inv
+MOC.V	Morumbi Oil & Gas Inc
+MOK.V	Moss Lake Gold Mines Ltd
+MOM.V	Miraculins Inc.
+MON.V	Montero Mining
+MOO.V	Mooncor Oil & Gas Corp.
+MOR.V	Molycor Gold Corp.
+MP.V	Microplanet Technology Corp.
+MPE.V	Maple Leaf Reforestation Inc.
+MPH.H.V	Medicure Inc
+MPS.V	Mph Ventures Corp.
+MPW.H.V	Mp Western Properties Inc
+MRK.V	Merc International Minerals Inc
+MRO.V	Millrock Resources Inc
+MRP.V	Morgan Media Cap Corp
+MRP.H.V	Mira Resources Corp
+MRR.V	Mrrm Inc.
+MRV.V	Metallum Resources Inc.
+MRX.H.V	Montreux Capital Corp
+MRZ.V	Mirasol Resources Ltd.
+MSA.V	Mesa Uranium Corp
+MSC.V	Meridex Software Corp
+MSQ.V	Mosquito Consolidated Gold Mine
+MTB.V	Mountain Boy Minerals Ltd.
+MTC.V	Metalcorp Limited
+MTO.V	Metanor Resources Inc.
+MTO.WT.V	Metanor Resources Inc Wt Ex 15M
+MTU.V	Manitou Gold Inc
+MTV.V	Multivision Communications Corp
+MTX.V	Metalex Ventures Ltd.
+MU.V	Monster Uranium Corp
+MUM.V	Mustang Minerals Corp.
+MVD.V	Mega View Digital Entertainment
+MVN.V	Madalena Ventures Inc
+MVT.V	Maxtech Ventures Inc.
+MVW.V	Mountainview Energy Ltd.
+MWR.V	Mountain-West Resources Inc
+MWX.V	Lorain Capital Corp
+MXA.V	Monexa Technologies Corp
+MXI.V	Merrex Gold Inc
+MXM.V	Maxim Resources Inc.
+MXR.V	Max Resource Corp.
+MYA.V	Maya Gold & Silver Inc.
+MYM.V	Mayen Minerals Ltd.
+MZO.V	Mazorro Resources Inc
+N.V	Next Gen Metals Inc
+NAA.V	Naina Capital Corp
+NAC.V	North Atlantic Resources Ltd
+NAG.V	North American Gem Inc.
+NAI.V	Northern Abitibi Mng Corp
+NAP.PR..V	NAPLES CAPITAL CORP. [TIER2]
+NAR.V	North Arrow Minerals Inc
+NAT.V	Naturally Advanced Technologies
+NBU.V	Nebu Resources Inc
+NCE.V	Nesscap Energy Inc
+NCG.V	North Country Gold Corp
+NCI.V	Ntg Clarity Networks Inc
+NCM.V	Newcastle Minerals Ltd
+NCO.V	Nuvolt Corporation Inc
+NDG.V	Nevgold Resources Corp.
+NDR.V	New Dimension Resources Ltd.
+NDX.V	Novadx Ventures Corp.
+NE.V	Nextraction Energy Corp.
+NED.V	New Destiny Mining Corporation
+NEE.V	Northern Vertex Capital Inc.
+NEI.V	Netco Energy Inc
+NEO.H.V	Neodym Technologies Inc
+NER.V	Newmac Resources Inc.
+NES.V	Newstrike Cap Inc
+NET.V	Network Exploration Ltd. Cl A
+NEV.V	Nevada Sunrise Gold Corp
+NFD.A.V	Northfield Ca
+NFR.V	Northern Freegold Resources Ltd
+NGE.V	Nevada Exploration Inc
+NGG.V	New Guinea Gold Corporation
+NGH.V	Nightingale Informatix Corporat
+NGM.V	Northern Gold Mining Inc
+NGP.V	Nevada Geothermal Power Inc.
+NHG.V	Northampton Group Inc.
+NHI.V	Natunola Health Biosciences In
+NHR.V	New High Ridge Resources Inc
+NIB.V	Niblack Mineral Development Inc
+NIK.V	Nikos Explorations Ltd.
+NIS.A.V	New Island Resources Inc
+NKA.V	Nanika Resources Inc
+NKL.V	Pacific Coast Nickel Corp
+NKW.V	Naikun Wind Energy Group Inc
+NL.V	Northern Lion Gold Corp
+NLL.V	Nsi Strategic Investments Ltd.
+NLR.V	Nuloch Resources Inc
+NMD.V	Nomad Ventures Inc
+NMG.V	Noble Metal Group Incorporated
+NMI.V	North American Medical Services
+NML.V	New Millennium Capital Corp.
+NMX.V	Neuromedix Inc
+NNA.V	New Nadina Explorations Limited
+NNP.V	Newnorth Projects Ltd.
+NOG.V	Nordic Oil & Gas Ltd.
+NOR.V	North Group Finance Limited
+NOT.V	Noront Resources Ltd.
+NOT.WT.V	Noront Resources Ltd. Wts.
+NOV.V	Novus Gold Corp
+NOW.V	Asia Now Resources Corp.
+NOX.V	Niogold Mining Corp
+NPA.V	Alphinat Inc.
+NQ.V	Northquest Ltd.
+NQ.WT.V	Northquest Ltd. Wt21Dec2014 [Ti
+NQE.V	Nq Exploration Inc
+NR.V	Newstrike Resources Ltd.
+NRC.V	Nmc Resource Corporation
+NRK.V	Northrock Resources Inc
+NRN.V	Northern Shield Resources Inc.
+NRT.PR..V	BIG NORTH CAPITAL INC [TIER2]
+NRV.PR..V	Noravena Capital Corporation
+NRZ.H.V	Norzan Enterprises Ltd
+NS.V	Northern Spirit Resources Inc [
+NSG.V	New Sage Energy Corp
+NSV.V	New Shoshoni Ventures Ltd.
+NSX.V	Nsgold Corporation
+NTB.V	Neptune Technologies & Bioresso
+NTC.V	North American Tungsten Corpora
+NTN.V	Newton Energy
+NTR.V	Northern Tiger Resources Inc
+NTS.V	Nanotech Security Corp
+NUG.V	Nulegacy Gold Corporation Com
+NUX.V	New Pacific Metals Corp.
+NV.V	Cmq Resources Inc.
+NVC.V	Neovasc Inc.
+NVI.V	Novra Technologies Inc.
+NVK.V	Novik Inc
+NVS.V	Novus Energy Inc
+NVT.V	Nortec Ventures Corp.
+NVX.V	Nv Gold Corp
+NW.V	New World Resource Corp.
+NWE.V	New West Energy Services Inc
+NWM.V	Nwm Mining Corp
+NWN.V	Nwest Energy Inc
+NWT.V	Nwt Uranium Corp.
+NWX.V	Newport Exploration Ltd.
+NXG.V	Nexgenrx Inc
+NXI.V	Nxa Inc.
+NXT.V	Natcore Technology Inc
+NXX.V	Nordex Explosives Ltd
+NZZ.V	Nitinat Minerals Corporation [T
+OAK.V	Sheltered Oak Resources Corp
+OAR.V	Oroandes Resources Corp.
+OBI.V	Osta Biotechnologies Inc.
+OBN.V	Otterburn Resources Corporation
+OCE.V	Open Ec Technologies Inc.
+OCN.PR..V	OCEANUS RESOURCES CORP COM
+OCO.V	Oroco Resource Corp
+OCP.V	Ocean Park Ventures Corp
+ODE.V	Odyssey Petroleum Corp.
+ODN.V	Odin Mining And Exploration Ltd
+ODS.V	Odesia Group Inc.
+ODX.V	Odyssey Resources Limited
+OEC.V	Oracle Energy Corp
+OEI.V	Otish Energy Inc
+OGR.V	Oro Gold Resources Ltd.
+OK.V	Orko Silver Corp
+OLV.V	Olivut Resources Ltd.
+OLY.V	Olympia Financial Group Inc
+OM.V	Onemove Technologies Inc
+OMI.V	Uruguay Mineral Exploration In
+OML.V	Omni-Lite Industries Canada Inc
+OMT.V	Omt Inc.
+ONV.V	Oronova Resource Corp
+OOI.V	Oil Optimization Inc
+OOO.V	Otis Capital Corp
+OPA.V	Opal Energy Corp.
+OPG.V	Open Gold Corp
+OPL.V	Opel International Inc
+OPS.V	Opsens Inc
+OPW.V	Opawica Explorations Inc
+OPX.H.V	Outdoorpartner Media Corp
+OR.V	Orocan Resource Corp.
+ORC.B.V	Orca Exploration Group Inc Sr B
+ORI.V	Organic Resources Management
+ORM.V	Oremex Resources Inc.
+ORN.V	Orsa Ventures Corp
+ORO.V	New Oroperu Resources Inc.
+ORR.V	Orofino Minerals Inc
+ORS.V	Orestone Mining Corp
+ORT.A.V	Orbite V.S.P.A. Inc. [Explorati
+OSE.V	Ose Corp
+OVX.H.V	Oculus Ventures Corporation
+OWI.V	One World Investments Inc
+OX.V	Orex Exploration Inc
+OYL.V	Cgx Energy Inc
+OZZ.PR..V	OZCAPITAL VENTURES COM
+PAL.V	Parallel Capital Corp
+PAR.UN.V	Partners Real Estate Invt Tr
+PAS.V	Parta Sustainable Solutions Inc
+PAU.V	Papuan Precious Metals Corp
+PAU.WT.V	Papuan Precious Metals Corp Wts
+PAV.V	Pacific Arc Resources Ltd Com
+PAW.V	Pacific Wildcat Resources Corp
+PBK.PR..V	PEMBROKE CAPITAL CORP
+PBM.V	Pacific Bay Minerals Ltd
+PBX.V	Intl Pbx Ventures Ltd.
+PCA.V	Petrosands Resources Cda Inc
+PCG.H.V	Petrocorp Group Inc
+PCI.V	Perlite Canada Inc.
+PCK.V	Poplar Creek Resource Inc
+PCL.PR..V	PACIFIC LINK CAP INC
+PCM.V	Pacific Comox Resources Ltd.
+PCO.V	Phoenix Canada Oil Company Limi
+PCQ.V	Petrolympic Ltd
+PCS.V	Platinum Communications Corpora
+PCT.V	Prima Colombia Hardwood Inc
+PCV.V	Pacific Cascade Minerals Inc.
+PCY.V	Prophecy Resource Corp
+PDE.V	Palo Duro Energy Inc
+PDG.V	Prpdigy Gold Inc
+PDO.V	Portal Resources Ltd
+PDQ.V	Petrodorado Energy Ltd
+PEA.V	Petrolia Inc.
+PEB.V	Pebble Creek Mining Ltd.
+PED.H.V	Pedro Resources Ltd
+PEH.V	Primeline Energy Holdings Inc.
+PEI.V	Parlay Entertainment Inc
+PEM.V	Premium Exploration Inc
+PEN.V	Pennant Energy Inc.
+PEP.V	Petrostar Petroleum Corporation
+PER.V	Petro-Reef Resources Ltd
+PET.V	Peat Resources Limited
+PEV.V	Pure Energy Visions Corporation
+PEX.V	Pacific Ridge Exploration Ltd.
+PFC.V	Petrofrontier Corp
+PGA.V	Pacgen Biopharmaceuticals Corpo
+PGB.V	Petroglobe Inc.
+PGC.V	Plato Gold Corp
+PGG.V	Polobiology Glbl Group Corp
+PGN.V	Paragon Pharmacies Limited
+PGR.V	Paragon Minerals Corp.
+PGS.V	Paget Minerals Corp
+PGZ.V	Pan Global Resources Inc.
+PHI.V	Philippine Metals Inc
+PHM.V	Patient Home Monitoring Corp
+PHN.V	Phoenix Oilfield Hauling Inc
+PHO.V	Photon Control Inc
+PI.V	Paris Energy Inc
+PIE.V	Primary Petroleum Corporation
+PIT.V	Pitchblack Resources Ltd
+PJT.V	Partner Jet Corp.
+PKC.H.V	Pacific Link Mining Corp.
+PKE.V	Parkland Energy Services Inc [T
+PKM.V	Preo Software Inc.
+PKP.V	Petrokamchatka Plc
+PL.V	Pan American Lithium Corp
+PLC.V	Park Lawn Corporation
+PLE.V	Plexmar Resources Inc.
+PLL.V	Palladon Ventures Ltd.
+PLO.H.V	Paloma Resources Inc.
+PLY.V	Playfair Mining Ltd.
+PLZ.V	Plazacorp Retail Properties Ltd
+PM.V	Prism Medical Ltd.
+PMA.V	Pachamama Resources Ltd.
+PMC.V	Prescient Mining Corp
+PMI.V	Petromanas Energy Inc
+PMI.WT.V	Petromanas Energy Inc Warrants
+PMI.WT.A.V	Petromanas Energy Inc Wt A Ex 28May2012
+PML.V	Panoro Minerals Ltd.
+PMR.V	Prime Meridian Resources Corp
+PMV.V	Pmi Gold Corporation
+PN.V	Photochannel Networks Inc
+PNA.V	Petronova Inc
+PNE.V	Pine Cliff Energy Inc.
+PNN.V	Pennine Petroleum Corporation
+PNO.H.V	Prescient Neuropharma Inc
+PNS.V	Pinestar Gold Inc
+PNX.V	Panthera Exploration Inc.
+POC.V	Pacific Iron Ore Corporation
+POE.V	Pan Orient Energy Corp
+POI.V	Pro-Or Mng Res Inc Cl A
+POP.V	Petro One Energy Corp
+POR.V	Process Capital Corp
+PPC.V	Patriot Petroleum Corp.
+PPE.V	Pacific Paradym Energy Inc
+PPG.V	PGM Ventures Cp
+PPI.V	Passport Metals Inc
+PPM.H.V	Pacific Imperial Mines Inc.
+PPP.V	Parlane Resource Corp
+PPY.A.V	Painted Pony Petroleum Ltd Cl A
+PPY.B.V	Painted Pony Petroleum Ltd Cl B
+PPZ.V	Pacific Topaz Res. Ltd.
+PR.V	Prestige Telecom Inc
+PRB.V	Probe Mines Limited
+PRC.V	Panterra Resources Corp
+PRD.V	Pacific Rodera Energy Inc.
+PRH.V	Pearl River Holdings Ltd.
+PRM.V	Pro Minerals Inc
+PRO.V	Pershimco Resources Inc.
+PRR.V	Prospector Consolidated Resourc
+PRS.H.V	Prism Resources Com Npv
+PRY.V	Pinecrest Energy Inc.
+PRZ.V	Prize Mining Corporation
+PSC.H.V	Precision Enterprises Inc
+PSL.V	Prospero Silver Corp
+PSP.V	Pacific Safety Products Inc.
+PTA.V	Petroamerica Oil Corp
+PTA.WT.V	Petroamerica Oil Corp
+PTA.WT.A.V	Petroamerica Oil Corp Wt A Ex 19Nov2012
+PTE.V	Pioneering Technology Corp
+PTF.V	Pender Growth Fund Vcc Inc.
+PTL.V	Petra Petroleum Inc
+PTR.V	Petromin Resources Ltd.
+PTT.V	Primera Energy Resources Ltd [T
+PTU.V	Purepoint Uranium Group Inc.
+PTV.V	Petro Vista Energy Corp
+PTX.V	Platinex Inc
+PUC.V	Pancontinental Uranium Corporat
+PUM.V	Puma Exploration Inc.
+PUP.V	Petro Uno Resources Ltd
+PUR.V	Pure Technologies Ltd.
+PV.V	Providence Capital Corp
+PVT.UN.V	Proventure Income Trust Units
+PWR.V	Sonnenenergy Corp
+PX.V	Pelangio Exploration Inc
+PXI.V	Planet Exploration Inc.
+PXL.V	Palliser Oil & Gas Corp
+PXM.V	Paramax Resources Ltd
+PXP.V	Pitchstone Exploration Ltd.
+PXR.V	Prominex Resource Corp
+PXT.V	Parex Resources Inc.
+PYC.V	Primary Corp
+PYN.V	Poynt Corporation
+PYT.V	Pyng Medical Corp.
+QEI.V	Quetzal Energy Ltd
+QGR.V	Q Gold Res Ltd
+QHR.V	Qhr Technologies Inc.
+QI.V	Q Investments Ltd.
+QIA.V	Quia Resources Inc
+QIS.V	Quorum Information Technologies
+QIT.PR..V	QUINTO REAL CAPITAL CORPORATION
+QML.V	Queensland Minerals Ltd
+QPT.V	Quest Pharmatech Inc.
+QQ.V	Quizam Media Corporation
+QRE.V	Quantum Rare Earth Dev Corp
+QRM.V	Quest Rare Minerals Ltd
+QRO.V	Quadro Resources Ltd
+QRS.V	Qrs Capital Corp
+QST.V	Questor Technology Inc.
+QTA.V	Quaterra Resources Inc.
+QZM.H.V	Quartz Mountain Re Com Npv
+RA.V	Rare Earth Metals Inc
+RAB.V	Rambler Metals And Mining Plc
+RAM.V	Raremethod Capital Corp
+RAU.H.V	Regency Gold Corp
+RB.V	Russell Breweries Inc
+RBE.V	Rockbridge Energy Inc
+RBG.V	Rebgold Corp
+RBV.V	Ringbolt Ventures Ltd
+RBW.V	Rainbow Resources Inc Com Npv
+RBX.V	Robex Resources Inc.
+RCG.PR..V	RCG CAP INC
+RCK.V	Rock Tech Resources Inc
+RCN.V	Radiant Communications Corp.
+RCR.V	Rockcliff Resources Inc
+RCT.V	Rochester Resources Ltd
+RCZ.V	Rio Cristal Zinc Corp
+RDA.V	Royal Coal Corp
+RDG.V	Ridgemont Iron Ore Corp
+RDK.V	Redhawk Resources Inc.
+RDM.V	Red Mile Capital Corp
+RDN.V	Raydan Manufacturing Inc.
+RDS.V	Radisson Mining Resources Inc.
+RDT.V	Radiant Energy Corporation
+RDU.V	Radius Gold Inc.
+REC.V	Rec Minerals Corp
+RED.V	Redwater Energy Corp Com
+RED.WT.V	Redwater Energy Corp Wts
+REE.V	Reef Resources Ltd
+REG.V	Regulus Resources Inc
+REK.V	Reko International Group Inc
+REL.V	Reliable Energy Ltd
+REM.V	Remstar Resources Ltd.
+REN.V	Renaissance Gold Inc
+REO.V	Reservoir Capital Corp
+RES.V	Rare Element Resources Ltd.
+REV.V	Regent Ventures Ltd.
+REX.V	Orex Minerals Inc.
+RFC.V	Rifco Inc.
+RFD.V	Ipico Inc.
+RG.V	Romios Gold Resources Inc.
+RGC.V	Redstar Gold Corp
+RGD.V	Reunion Gold Corporation
+RGG.V	Ranger Energy Ltd
+RGI.V	Reco International Group Inc.
+RGM.V	Remington Resources Inc
+RGV.V	Rio Grande Mining Corp
+RGX.V	Argex Mining Inc
+RGZ.V	Randsburg International Gold Co
+RHR.V	Redhill Resources Corp
+RIA.V	Ria Resources Corp
+RII.A.V	Richo Investors Inc. Cl A Mv
+RII.B.V	Richco Investors Inc. Cl.B Sv
+RIO.V	Rio Alto Mining Ltd
+RIP.V	Ripper Oil And Gas Inc.
+RIV.V	Riva Gold Corporation Com
+RJX.A.V	Rjk Explorations Ltd. Cl A Sv
+RK.V	Rockhaven Resources Ltd
+RKG.H.V	Roadking Travel Centres Inc.
+RL.V	Rockland Minerals Com Npv
+RLE.V	Ridgeline Energy Services Inc
+RLM.V	Realm Energy International Corp-
+RM.V	Rodinia Minerals Inc.
+RMD.V	Richmond Minerals Inc
+RMG.V	Rainmaker Mining Corp
+RMI.V	Rocmec Mining Inc
+RML.V	Rusoro Mining Ltd
+RML.WT.V	Rusoro Mining Ltd
+RMO.V	Rainy Mountain Royalty Corp
+RMR.V	Rome Resources Ltd.
+RMS.V	Rms Systems Inc
+RMT.V	Raimount Energy Inc
+RNM.V	Road New Media Corporation
+RNZ.V	Ranaz Corporation
+ROF.V	Ring Of Fire Resources Inc.
+ROG.V	Roxgold Inc.
+ROI.V	Route1 Inc.
+ROK.V	Roca Mines Inc.
+ROM.V	Romulus Resources Ltd
+ROR.V	Run Of River Power Inc.
+ROS.V	Roscan Minerals Corp.
+ROX.V	Canstar Resources Inc.
+ROY.H.V	Royce Resources Corp
+ROZ.V	Rodinia Oil Corp
+ROZ.WT.V	Rodinia Oil Corp Wt Ex 28My2010
+RP.V	Realex Properties Corp.
+RPL.V	Rnegade Petroleum Ltd
+RPM.V	Rye Patch Gold Corp
+RPT.V	Rpt Uranium Corp
+RPX.V	Red Pine Exploration Inc
+RR.V	Rainy River Resources Ltd
+RRC.V	Rockridge Capital Corp
+RRE.V	Reg Technologies Inc.
+RRI.V	Riverside Resources Inc
+RRK.V	Red Rock Energy Inc
+RRL.V	Relentless Resources Ltd
+RRM.V	Ross River Minerals Inc
+RRS.V	Rogue Resources Inc
+RSG.V	Searchgold Resources Inc
+RSN.H.V	Polar Resou
+RSV.V	Resolve Ventures Inc
+RSY.V	Rsi International Systems Inc [
+RTR.V	Riata Resources Corp
+RUG.V	Rugby Mining Limited
+RUM.V	Humber Cap Corp
+RUN.V	Running Fox Resource Corp.
+RUP.V	Rupert Resources Ltd.
+RUU.V	Stans Energy Corp
+RVA.V	Reva Resources Corp
+RVC.V	Richfield Ventures Corp
+RVS.V	Riverstone Resources Inc.
+RW.V	Renoworks Software Inc
+RX.V	Biosyent Inc.
+RXE.V	Rx Exploration Inc
+RYA.H.V	Raystar Capital Ltd
+RYE.V	Rhyolite Resources Ltd
+RYG.V	Ryan Gold Corp
+SA.V	Southern Arc Minerals Inc
+SAA.A.V	Solara Exploration Ltd Cl A
+SAE.V	Sable Resources Ltd.
+SAF.V	World Outfitters Corporation Sa
+SAH.V	Sahara Energy Ltd
+SAI.V	Sunshine Agri Tech Inc.
+SAL.V	Salmon River Resources Ltd. [Ti
+SAQ.H.V	Synergy Acquisition Corp
+SAR.V	Saratoga Electronic Solutions I
+SAT.V	Asian Television Network Intern
+SAY.V	Sparta Capital Ltd.
+SB.V	Stratabound Minerals Corp
+SBE.V	Silverbirch Energy Corp Com
+SBK.V	Sherbrook Sbk Sport Corp
+SBL.V	Santa Barbara Resources Limited
+SBM.V	Sirona Biochem Corp
+SBW.V	Strongbow Exploration Inc.
+SBX.V	Sea Breeze Power Corp.
+SCD.V	Samoth Oilfield Inc.
+SCG.V	Selectcore Ltd.
+SCM.V	Sacre-Coeur Minerals Ltd
+SCN.PR..V	STRACHAN RESOURCES LTD
+SD.V	Sidon International Resources C
+SDE.V	Standard Exploration Ltd
+SDN.V	Sedex Mining Corp.
+SDR.V	Stroud Resources Ltd.
+SDS.V	Seair Inc.
+SDW.V	Sofame Technologies Inc
+SDX.V	Sea Dragon Energy Inc
+SED.V	Sun Entertainment Holding Corpo
+SEI.V	Shane Resources Ltd.
+SEK.V	Secova Metals Corp.
+SEM.V	St. Eugene Mining Corp Ltd
+SER.V	Serenic Corporation
+SET.V	Seprotech Systems Inc.
+SEW.V	Seaway Energy Services Inc.
+SF.V	Silver Fields Resources Inc
+SFD.V	Energy Exploration Technologies
+SFF.V	Seafield Resources Ltd
+SFM.V	Santa Fe Metals Corp
+SFR.V	Starfire Minerals Inc.
+SFT.V	Softrock Minerals Ltd
+SFX.V	Silvore Fox Minerals Corp
+SG.V	Sg Spirit Gold Inc
+SGC.V	Sunridge Gold Corp.
+SGE.V	Strategem Capital Corp
+SGI.V	Sagres Energy Inc
+SGM.V	Sutter Gold Mining Inc
+SGN.V	Scorpio Gold Corp
+SGP.V	Sienna Gold Inc.
+SGS.V	Sea Green Capital Corp.
+SGX.V	Sage Gold Inc
+SGY.V	Surge Energy Inc.
+SGZ.V	Sego Resources Inc
+SH.V	Southern Hemisphere Mining Ltd
+SHE.V	Shenul Capital Inc.
+SHG.V	Shield Gold Inc.
+SHH.V	Sonomax Hearing Healthcare Inc.
+SHL.V	Spruce Ridge Resources Ltd.
+SHY.V	Sharon Energy Ltd.
+SIB.V	Sitebrand Inc
+SIG.V	Sila Industrial Group Ltd
+SIO.V	Sensio Technologies Inc
+SIP.V	Sniper Resources Ltd Com
+SIR.V	Serengeti Resources Inc.
+SJR.A.V	Shaw Communications Inc. Cl A P
+SK.V	Skyline Gold Corporation
+SKE.V	Skeena Resources Limited
+SKF.V	Skor Food Group Inc. The
+SKK.V	Strikewell Energy Corp.
+SKN.V	Skana Capital Corp.
+SKO.V	Stream Oil And Gas Ltd
+SKP.V	Strikepoint Gold Inc
+SKW.V	Skywest Energy Corp
+SKY.V	Stikine Gold Corporation
+SKZ.V	Silver Lake Resources Inc
+SLC.V	Serebra Learning Corporation
+SLD.V	Solid Gold Resources Corp
+SLG.V	Sterling Resources Ltd
+SLI.V	St. Elias Mines Ltd.
+SLM.V	Slater Mining Corp
+SLQ.V	Streetlight Intelligence Inc
+SLT.V	Solitaire Minerals Corp.
+SLV.V	Stealth Ventures Ltd.
+SLY.H.V	Shelby Ventures Inc.
+SMB.V	Simba Energy Inc
+SMD.V	Strategic Metals Ltd.
+SME.V	Sama Res Inc
+SMG.V	Sierra Madre Developements Inc
+SMI.V	Saturn Minerals Inc.
+SML.V	Stealth Minerals Limited
+SMN.V	San Marco Resources Inc
+SMV.H.V	Smc Ventures Inc Com Npv Cl'A'
+SMY.V	Search Minerals Inc.
+SMZ.V	Sinchao Metals Corp
+SN.V	Sennen Resources Ltd.
+SNA.V	Star Navigation Systems Group L
+SND.V	Sandstorm Metals And Energy Ltd
+SND.WT.V	Sandstorm Metals & Energy Ltd Wt Ex 23Dec2012
+SNI.PR.A.V	Sonor Investments Ltd Pfd A
+SNM.V	Shamaran Petroleum Corp
+SNO.V	Snowfield Dev Corp
+SNR.V	Senator Minerals Inc.
+SNT.V	Sentinel Rock Oil Inc
+SNV.V	Sonic Technology Solutions Inc
+SOC.V	Sonora Gold & Silver Corp
+SOG.V	Strategic Oil & Gas Ltd.
+SOH.V	Soho Resources Corp.
+SOI.V	Sirios Resources Inc.
+SOL.V	Soltoro Ltd
+SOP.V	Source Exploration Corp
+SOV.V	Soldi Ventures Inc.
+SPA.V	Spanish Mountain Gold Ltd
+SPG.V	Stonepoint Global Brands Inc.
+SPH.H.V	Sphere Resources Inc
+SPI.V	Canadian Spirit Resources Inc.
+SPP.V	Spot Coffee [Canada] Ltd
+SPR.V	Supreme Resources Ltd
+SPS.A.V	Sportscene Group Inc Cl A Mv
+SPW.V	Sparrow Ventures Corp
+SPX.V	Stellar Pacific Ventures Inc.
+SPY.V	Sprylogics International Corp
+SQA.V	Stina Resources Ltd.
+SQD.V	Sqi Diagnostics Inc
+SQI.V	Silver Quest Resources Ltd.
+SRB.V	Solomon Resources Limited
+SRD.V	Strait Gold Corporation
+SRH.V	Stone Resources Limited
+SRI.V	Sparton Resources Inc
+SRL.V	Salazar Resources Limited
+SRM.V	Shear Minerals Ltd
+SRN.V	Suroco Energy Inc.
+SRO.V	Section Rouge Media Inc.
+SRR.V	Statesman Resources Ltd.
+SRW.V	Solid Resources Ltd
+SRX.V	Storm Resources Ltd
+SSA.V	Spectra Inc
+SSC.V	Smartcool Systems Inc.
+SSE.V	Silver Spruce Resources Inc.
+SSG.V	Sigma Industries Inc
+SSL.V	Sandstorm Resources Ltd.
+SSL.WT.V	Sandstorm Resource Ltd
+SSL.WT.A.V	Sandstorm Resources Ltd. Wt A Ex19Oct2015
+SSM.V	Sunset Cove Mining Inc
+SSN.V	Stetson Oil And Gas Ltd
+SSN.PR.A.V	STETSTON OIL & GA    S LTD
+SSP.V	Sandspring Resources Ltd
+SSR.V	Silver Shield Resources Corp
+SSS.V	Stem Cell Therapeutics Corp.
+SSU.V	Silver Sun Resource Corp
+SSV.V	Southern Silver Exploration Cor
+SSZ.V	Ssp Offshore Inc
+STA.V	Sanatana Diamonds Inc
+STC.V	Sangoma Technologies Corporatio
+STG.V	Sustainable Energy Technologies
+STH.V	Stelmine Canada Ltd
+STK.V	Strike Minerals Inc
+STL.V	Solutioninc Technologies Limite
+STS.V	Stoneshield Capital Corp
+STT.V	Semcan Inc
+STX.H.V	Starrex Mining Corp Ltd.
+SUB.V	Sub Capital Inc
+SUI.V	Superior Mining International C
+SUL.V	Sultan Minerals Inc.
+SUP.V	Northern Superior Resources Inc
+SUR.V	Southern Andes Energy Inc
+SUS.V	Isg Capital Co
+SUV.V	Star Uranium Corp
+SVA.V	Sernova Corp.
+SVG.V	Silver Grail Resources Ltd.
+SVI.V	Storagevault Canada Inc
+SVL.V	Silvercrest Mines Inc.
+SVS.V	Solarvest Bioenergy Inc
+SVT.V	Savant Explorations Ltd
+SVX.V	Sino Vanadium Inc
+SWD.V	Sunward Resources Ltd
+SWN.V	Selwyn Resources Ltd
+SWR.V	Swift Resources Inc
+SWX.V	Shear Wind Inc.
+SXG.V	Samex Mining Corp.
+SXL.V	Slam Exploration Ltd
+SXN.V	Saxon Oil Company Ltd
+SXR.V	SGX Resources Inc
+SYD.V	Synodon Inc.
+SYH.V	Skyharbour Resources Ltd.
+SYI.V	Silvermet Inc
+SYL.V	Symax Lift [Holding] Co. Ltd. [
+SYN.V	Synchronica Plc
+SYR.H.V	Sky Ridge Resources Ltd
+SYS.V	Sona Resources Corp
+SYZ.V	Sylogist Ltd.
+SZZ.H.V	Sereno Capital Corporation
+TAB.U.V	Touchstone Exploration Inc.
+TAE.V	Transamerican Energy Inc
+TAK.V	Taku Gold Corp
+TAM.V	Tamerlane Ventures Inc.
+TAO.V	Tag Oil Ltd.
+TAO.WT.V	Tag Oil Ltd Wts
+TAS.V	Terra Ventures Inc.
+TAT.V	Tatmar Ventures Inc.
+TAU.V	Tintinagold Resources Inc
+TAW.V	Tawsho Mining Inc
+TBD.V	Thunderbird Energy Corporation
+TBG.V	Terrabiogen Technologies Inc
+TBR.V	Timberline Resources Corporatio
+TBZ.V	Tonbridge Power Inc.
+TCB.V	Tribune Minerals Corp
+TCC.V	Tarsis Capital Corp
+TCF.V	Infinity Alliance Ventures Inc
+TCR.V	Torch River Resources Ltd.
+TDC.V	Tyhee Development Corp.
+TDR.H.V	Tudor Corporation Ltd
+TDW.V	Touchdown Capital Inc
+TEA.V	Tearlach Resources Limited
+TEG.H.V	Allyn Resources Inc
+TEN.V	Terraco Gold Corp.
+TER.V	Terrex Energy Inc
+TEX.A.V	Texalta Petroleum Ltd. Cl A
+TFA.A.V	Trafina Energy Ltd. Cl A
+TFR.V	Terra Firma Resources Inc.
+TGC.V	Terra Nova Minerals Inc.
+TGE.V	Tg World Energy Corp.
+TGK.V	Trio Gold Corp
+TGR.V	Tiger International Resources I
+TGX.V	True North Gems Inc.
+THC.V	Thelon Capital Ltd
+THG.V	Threegold Resources Inc
+THH.V	Theia Resources Ltd
+THM.V	Thunder Mountain Gold Inc
+THX.V	Thor Exploration Ltd Npl
+TIA.V	Triangle Industries Ltd.
+TIC.V	Titanium Corporation Inc.
+TII.V	Terra Firma Capital Corporation
+TIP.V	Tyner Resources Ltd
+TIX.V	Tiex Inc.
+TJ.V	Tad Mineral Exploration Inc
+TJT.V	Trijet Mining Corp
+TK.V	Tinka Resources Limited
+TKK.V	Takara Resources Inc
+TLA.V	Titan Logix Corp
+TLL.H.V	Tilting Cap Corporation Com Npv
+TLR.V	Teslin River Resources Corp
+TLT.V	Theralase Technologies Inc
+TM.V	Tumi Resources Limited
+TMD.V	Titan Medical Inc
+TMD.WT.V	Tital Medical Inc Wts
+TME.V	Temex Resources Corp.
+TMG.V	Thermal Energy International In
+TMM.V	Timmins Gold Corp.
+TMN.V	Truecontext Mobile Sol Corp
+TMP.PR..V	TRIUMPH VENTURES CORP.
+TMT.H.V	T M T Res Inc
+TNA.V	Evergreen Gaming Corporation
+TNC.V	Tio Networks Corp
+TNG.V	Transgaming Inc
+TNM.V	Trillium North Minerals Ltd
+TNO.V	Terreno Resources Corp
+TNR.V	Tnr Gold Corp.
+TOC.A.V	Torquay Oil Corp Class A
+TOC.B.V	Torquay Oil Corp Class B
+TOE.V	Tri Origin Exploration Ltd.
+TOL.V	Trioil Resources Ltd
+TPA.H.V	Tapango Resources Ltd
+TPI.V	Tenth Power Tech Corp
+TPN.V	Taipan Resources Inc
+TPO.V	Triangle Petroleum Corporation
+TQE.V	Torque Energy Inc.
+TQY.V	Tanqueray Resources Ltd
+TR.DB.A.V	Temple Real Estate Investment Tr
+TR.DB.B.V	Temple Real Estate Investment Tr
+TR.DB.S.V	Temple Real Estate Investment Tr
+TR.UN.V	Temple Real Estate Com Npv
+TRA.V	Teras Resources Inc.
+TRB.V	Tribute Resources Inc
+TRC.V	Teryl Resources Corp.
+TRG.V	Trigen Resources Inc
+TRM.V	Trueclaim Exploration Inc
+TRN.V	Trincan Capital Corp
+TRO.V	Taranis Resources Inc.
+TRR.V	Trelawney Resources Inc
+TRS.V	Tres-Or Resources Ltd.
+TRT.V	Trinorth Capital Inc
+TRU.V	Trius Investments Inc
+TRX.WT.V	Terrane Metals Corp. Wt Ex 21Ju
+TRX.WT.A.V	Terrane Metals Corp Wt A Ex 16Ap
+TSD.V	Tsodilo Resources Limited
+TSG.V	Tristar Gold Inc.
+TSM.V	Tasman Metals Ltd
+TSP.V	Titan Star Properties Inc
+TSQ.V	Tosca Mining Corp
+TSU.V	Transeuro Energy Corp.
+TTA.V	Titan Trading Analytics Inc.
+TTI.V	Transglobe Internet And Telecom
+TTQ.V	Ttm Resources Inc.
+TTS.V	Tintina Mines Ltd
+TTT.V	Times Telecominc
+TTZ.V	Total Telcom Inc.
+TU.V	Tigris Uranium Corp
+TUE.V	Titan Uranium Inc.
+TUF.V	Honey Badger Exploration Inc
+TUO.V	Teuton Resources Corp.
+TUS.V	Tuscany Energy Ltd
+TVC.V	Tournigan Energy Ltd
+TVE.V	Tamarack Valley Energy Ltd
+TVL.V	Traverse Energy Ltd
+TVN.V	Troon Ventures Ltd
+TVR.V	Tri-River Ventures Inc
+TWD.V	Trade Winds Ventures Inc
+TWO.V	Twoco Petroleums Ltd.
+TWR.V	Tower Energy Ltd.
+TWY.PR..V	Twyford Ventures Inc.
+TXR.V	Terrax Minerals Inc
+TXS.V	Texada Software Inc
+TXX.V	Tirex Resources Ltd
+TYE.V	Troymet Exploration Corp
+TYP.V	Typhoon Explor
+TZM.V	Tanzania Minerals Corp Com
+UAV.V	Universal Wing Technologies Inc
+UAX.V	Athabasca Uranium Inc.
+UBN.V	Urban Communications Inc.
+UBR.V	Uranium Bay Resources Inc
+UBS.V	Unique Broadband Systems Inc.
+UC.V	Uc Resources Ltd.
+UCC.V	Upper Canada Gold Corp
+UCM.V	Tech Solutions Capital Corp
+UCU.V	Ucore Uranium Inc
+UFC.V	Urbanfund Corp.
+UGD.V	Unigold Inc.
+UHO.V	United Hunter Oil And Gas Corp
+ULI.V	Ulstra Lithium Inc
+ULU.V	Ultra Uranium Corp
+UNR.V	Uranium North Resources Corp
+UNX.V	Universal Power Corp
+URA.V	Anglo-Canadian Uranium Corp.
+URC.V	Uracan Resources Ltd
+URO.V	Urodynamix Technologies Ltd.
+URP.V	United Reef Limited
+URS.V	Urastar Energy Inc
+URX.V	Unitech Energy Resources Inc
+US.V	Usa Video Interactive Crp
+USA.V	U. S. Silver Corporation
+USA.WT.V	U.S. Silver Corp
+USS.V	Uniserve Communications Corpora
+UTY.V	Unity Energy Corp.
+UUC.V	United Uranium Corp
+UVI.V	Unilens Vision Inc
+UVN.V	Uravan Minerals Inc.
+UVR.V	Strategic Resources Inc
+UWE.V	U3O8 Corp.
+UZZ.V	United Protection Security Grou
+V.V	Valucap Investments Inc.
+VAE.V	Virginia Energy Resources Inc [
+VAL.V	Valgold Resources Ltd.
+VAN.V	Vangold Resources Ltd.
+VAV.V	Venga Aerospace Systems Inc.
+VAX.V	Vantex Resources Ltd
+VCA.V	Invicta Energy Corp
+VCI.V	Vitreous Glass Inc.
+VCV.V	Vatic Ventures Corp
+VDO.V	Nevado Venture Cap Corp
+VDR.V	Vendome Capital Ii Corp
+VEL.V	Vanoil Energy Ltd.
+VER.V	Vecta Energy Corporation
+VFI.PR..V	VERDANT FINANCIAL PARTNERS I IN
+VFX.V	Virtutone Networks Inc
+VGC.V	Viking Gold Exploration Inc.
+VGD.V	Visible Gold Mines Inc
+VGL.V	Vigil Health Solutions Inc.
+VGM.V	Virgin Metals Inc
+VGN.V	Greencastle Resources Ltd.
+VHB.V	Victhom Human Bionics Inc
+VHV.V	Valley High Ventures Ltd.
+VIO.V	Vior Inc. [Societe D'Exploratio
+VIT.V	Victoria Gold Corp
+VLE.V	Valeura Energy Inc.
+VLR.H.V	Valor Ventures Inc
+VMS.V	Vms Ventures Inc.
+VMY.H.V	Voice Mobility Intl Inc
+VOL.V	Volcanic Capital Corp
+VPI.V	Vitality Products Inc.
+VPO.H.V	Valparaiso Energy Inc
+VPR.V	Viper Gold Ltd
+VPT.V	Ventripoint Diagnostics Ltd
+VPY.V	Versapay Corp
+VQS.V	Viq Solutions Inc.
+VR.V	Victory Resources Corporation
+VRD.V	Viridis Energy Inc
+VRI.H.V	Vr Interactive Corp
+VRS.V	Verisante Technology Inc
+VRW.V	Vrx Worldwide Inc
+VRZ.V	Veraz Petroleum Ltd
+VSI.V	Vendtek Systems Inc
+VSR.V	Vanstar Mining Resources Inc [T
+VST.V	Vast Exploration Inc.
+VST.WT.V	Vast Exploration Inc. Wt5Jun11
+VTI.V	Valdor Technology International
+VTT.V	Vendetta Mining Corp Com Npv
+VU.V	Virtual Universe Corporation
+VUL.V	Vulcan Minerals Inc
+VUR.V	Verbina Resources Inc
+VV.V	Versatile Systems Inc
+VVC.V	Vvc Exploration Corporation
+VVI.V	Valencia Ventues Inc
+VVL.PR..V	VLM VENTURES LTD [TIER2]
+VYC.PR..V	VANITY CAPITAL INC
+VZX.V	Vuzix Corp
+VZX.WT.V	Vuzix Corp
+WAF.V	Wavefire.Com Inc
+WAN.V	Wanted Technologies Corporation
+WAR.V	War Eagle Mining Co. Inc.
+WAT.V	Waterloo Resources Ltd
+WBE.V	Westbond Enterprises Corporatio
+WCB.V	Wcb Resources Ltd
+WCT.V	Wood Composite Technologies Inc
+WCU.V	Westcan Uranium Corp.
+WCX.V	Williams Creek Explorations Lim
+WDG.V	99 Capital Corporation
+WEB.V	Westbridge Energy Corp
+WEE.V	Wavefront Energy And Environmen
+WEL.V	Wildcat Exploration Ltd.
+WEN.V	Warrior Energy N.V.
+WER.V	Weststar Resources Corp
+WEX.V	Win-Eldrich Mines Limited
+WF.PR..V	WEIFEI CAPITAL INC  COM
+WFG.V	Waterfront Capital Corporation
+WGF.V	Wescan Goldfields Inc.
+WGX.H.V	Whistler Gold Exploration Inc.
+WHC.V	Work Horse Cap & Strategic Acq
+WHY.V	West High Yield [W.H.Y.] Resour
+WIL.PR..V	WILTON RESOURCES INC
+WKM.V	West Kirkland Mining Inc
+WLV.V	Wolverine Minerals Corp
+WML.V	Wealth Minerals Ltd.
+WMR.V	Westminster Resources Ltd
+WMT.V	West Mountain Cap Corp
+WND.V	Western Wind Energy Corp
+WOD.PR..V	WODEN VENTURE CAPITAL CORP
+WOF.V	Woulfe Mining Corp
+WON.PR..V	HARVEST ONE CAPITAL INC. [TIER2
+WOO.V	Woodruff Capital Management Inc
+WP.V	Western Pacific Trust Company
+WPC.V	World Famous Pizza Company Ltd
+WPP.V	Western Plains Petroleum Ltd [T
+WPQ.V	Wpc Resources Inc
+WPR.V	White Pine Resources Inc
+WPX.V	Western Potash Corp
+WRA.V	Windarra Minerals Ltd
+WRG.V	Western Energy Services Corp
+WRI.V	Waseco Resources Inc
+WRP.V	Western Pacific Resources Corp
+WRS.H.V	Woodrose Corporation
+WRY.V	Western Troy Cap Res Inc
+WS.V	Wildcat Silver Corp
+WSC.V	West Street Capital Corp.
+WSE.V	Wellstar Energy Corp
+WSG.V	Wesgold Minerals Inc Com
+WSR.V	Windstorm Resources Inc.
+WST.V	Westridge Resources Inc
+WSX.V	Wild Stream Exploration Inc. [T
+WTA.A.V	Winalta Inc. Cl A
+WTC.V	White Tiger Mining Corp
+WTR.V	Westcore Energy Ltd
+WU.V	White Canyon Uranium Limited
+WUC.V	Western Uranium Corporation
+WUF.V	Darford Intl Inc
+WV.H.V	Windamere Ventures Ltd
+WVR.V	Wind River Energy Corp
+WX.V	Wrangler West Energy Corp. [Tie
+WYM.V	Waymar Resources Ltd.
+WZR.V	Westernzagros Resources Ltd
+XAG.V	Xtierra Inc
+XCP.V	Coopers Park Corporation
+XCT.V	Cell-Loc Location Technologies
+XDM.V	Xentel Dm Incorporated
+XDS.V	Xianburg Data Systems Canada Corporation
+XE.V	Xemplar Energy Corp.
+XEA.H.V	Axea Capital Corp
+XEL.V	Xcite Energy Limited
+XI.V	Exclamation Investments Corpora
+XL.V	Xxl Energy Corp
+XME.V	Xmet Inc
+XOP.V	Canadian Overseas Petroleum Lim
+XOP.R.V	Canadian Overseass Pete Ltd
+XPL.V	Canadian Energy Exploration Inc
+XRM.V	Xrm Global Inc.
+XSC.UN.V	Xs Cargo Income Fund
+XT.V	X-Terra Resources Corporation
+XX.V	Avante Logixx Inc
+XYL.V	Chudleigh Ventures Inc
+YCC.V	Yaletown Capital Corp
+YEL.V	Macusani Yellowcake Inc.
+YGR.V	Yangarra Resources Ltd
+YL.V	Yalian Steel Corporation
+YLL.V	Yale Resources Ltd.
+YMI.V	Yellowhead Mining Inc
+YO.V	Yoho Resources Inc.
+YOO.V	Yangaroo Inc
+YTC.PR..V	YUNTONE CAPITAL CORP
+YVI.PR..V	YORKTON VENTURES INC COM NPV
+Z.V	Stronghold Met
+ZAO.V	Zaio Corporation
+ZAP.H.V	ZZZ Capital Corp
+ZC.V	Zimtu Capital Corp
+ZCC.V	Zena Mining Corp
+ZED.V	Zedi Inc
+ZEN.V	Zenyatta Ventures Ltd
+ZEX.V	Zodiac Exploration Inc
+ZGG.V	Z-Gold Exploration Inc
+ZIM.V	Zinco Mining Corp.
+ZIP.H.V	Ziplocal Inc Com Npv
+ZKL.V	China Keli Electric Company Ltd
+ZMD.V	Zoommed Inc.
+ZMR.H.V	Zaruma Res Inc
+ZMS.V	Zecotek Medical Systems Inc.
+ZN.V	Zinccorp Resources Inc
+ZNN.V	Zenn Motor Company Inc.
+ZNR.V	Zone Resources Inc
+ZTE.V	Ztest Electronics Inc
+ZUM.V	Zoomermedia Limited
+ZUN.V	Zungui Haixi Corp

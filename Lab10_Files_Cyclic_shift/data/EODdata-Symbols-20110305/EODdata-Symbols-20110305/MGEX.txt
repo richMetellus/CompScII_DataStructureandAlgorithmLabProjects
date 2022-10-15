@@ -1,0 +1,27 @@
+Symbol	Description
+DW	Spring Wheat {Dec 05}
+IC	NCI National Corn
+ICG11	NCI National Corn {Feb 11}
+ICH11	NCI National Corn {Mar 11}
+IH	HRWI Hard Red
+IHG11	HRWI Hard Red {Feb 11}
+IHH11	HRWI Hard Red {Mar 11}
+IP	HRSI Hard Red Spring
+IPG11	HRSI Hard Red Spring {Feb 11}
+IPH11	HRSI Hard Red Spring {Mar 11}
+IS	NSI National Soybean
+ISG11	NSI National Soybean {Feb 11}
+ISH11	NSI National Soybean {Mar 11}
+IW	SRWI Soft Red Wheat
+IWG11	SRWI Soft Red Wheat {Feb 11}
+IWH11	SRWI Soft Red Wheat {Mar 11}
+MW	Spring Wheat
+MW.C	Spring Wheat Continuation
+MWH11	Spring Wheat {Mar 11}
+MWH12	Spring Wheat {Mar 12}
+MWK11	Spring Wheat {May 11}
+MWK12	Spring Wheat {May 12}
+MWN11	Spring Wheat {Jul 11}
+MWU11	Spring Wheat {Sep 11}
+MWZ11	Spring Wheat {Dec 11}
+NW	Spring Wheat {Dec 06}

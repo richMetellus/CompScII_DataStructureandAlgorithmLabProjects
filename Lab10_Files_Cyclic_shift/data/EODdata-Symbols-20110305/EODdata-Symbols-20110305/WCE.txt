@@ -1,0 +1,22 @@
+Symbol	Description
+AB	Western Barley
+AB.C	Western Barley Continuation
+ABH11	Western Barley {Mar 11}
+ABH12	Western Barley {Mar 12}
+ABK11	Western Barley {May 11}
+ABK12	Western Barley {May 12}
+ABN11	Western Barley {Jul 11}
+ABN12	Western Barley {Jul 12}
+ABV11	Western Barley {Oct 11}
+ABZ11	Western Barley {Dec 11}
+RS	Canola
+RS.C	Canola Continuation
+RSF12	Canola {Jan 12}
+RSH11	Canola {Mar 11}
+RSH12	Canola {Mar 12}
+RSK11	Canola {May 11}
+RSK12	Canola {May 12}
+RSN11	Canola {Jul 11}
+RSN12	Canola {Jul 12}
+RSX11	Canola {Nov 11}
+WW	Feed Wheat

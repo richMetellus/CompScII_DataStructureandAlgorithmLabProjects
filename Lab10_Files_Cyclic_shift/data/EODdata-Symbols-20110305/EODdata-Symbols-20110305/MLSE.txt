@@ -1,0 +1,128 @@
+Symbol	Description
+ACE.MI	Acea Spa
+ACO.MI	Acotel Group
+ACSM.MI	Acsm Spa
+ADMI.MI	Milano
+AEDI.MI	Aedes
+AEG.MI	Acegas
+AMP.MI	Amplifon Spa
+ASR.MI	A.s. Roma
+AST.MI	Astaldi Spa
+BCNT.MI	Basicnet
+BE.MI	Beghelli Spa
+BFFI.MI	Ferraresi
+BMPS.MI	B M Paschi Siena
+BNG.MI	Benetton Group
+BNSI.MI	Beni Stabili
+BPSI.MI	Banca Di Sondrio
+BRBI.MI	Brembo
+BRUI.MI	Brioschi
+BSS.MI	Biesse
+BTGI.MI	Bastogi
+BULG.MI	Bulgari
+BZU.MI	Buzzi Unicem Spa
+CAD.MI	Cad It
+CAI.MI	Cairo Comunication
+CAMI.MI	Camfin
+CARR.MI	Carraro
+CASS.MI	Cattolica Ass
+CBGI.MI	Cr Bergamasco
+CDC.MI	Cdc Point Spa
+CED.MI	Caltagirone Edit
+CEMI.MI	Cementir
+CHL.MI	Chl
+CIRX.MI	Cir-comp
+CLE.MI	Class Editori
+CLT.MI	Cent Latte Torin
+CMB.MI	Cembre
+COFI.MI	Cofide
+CPR.MI	Davide Campari
+CRA.MI	Cr Artigiano
+CRE.MI	Crespi Spa
+CRGI.MI	Banca Carige
+CSP.MI	Csp Int Calze
+DA.MI	Dada
+DAL.MI	Datalogic
+DANI.MI	Danieli
+DESI.MI	Bc Desio Brianza
+DIB.MI	Digital Bros
+DLG.MI	De'longhi
+DMA.MI	Dmail
+EDII.MI	Monrif Spa
+ELN.MI	El En
+EM.MI	Emak Spa
+EMBI.MI	Credito Emiliano
+EMII.MI	Banca Emilia
+ENEI.MI	Enel
+ENG.MI	Engineer Inform
+ENI.MI	Eni
+ERG.MI	Erg
+ESPI.MI	L'espresso
+FDA.MI	Fidia
+FIA.MI	Fiat
+FNMI.MI	Ferr Nord Milano
+GASI.MI	Generali
+GE.MI	Gefran Spa
+GEMI.MI	Gemina
+GEWI.MI	Gewiss
+GRF.MI	Granitifiandre
+IF.MI	Banca Ifis
+IGV.MI	I Grandi Viaggi
+IMAI.MI	Ima
+IMSI.MI	Immsi
+IP.MI	Interpump
+ISP.MI	Intesa Sanpaolo SpA
+ITAI.MI	Italcementi
+ITMI.MI	Italmobiliare
+ITW.MI	It Way Spa
+JUVE.MI	Juventus Fc
+LDO.MI	La Doria
+LUX.MI	Luxottica
+MCL.MI	Marcolin
+MDBI.MI	Mediobanca
+MED.MI	Mediolanum
+MFBI.MI	Montefibre
+MNDI.MI	Mondadori
+MS.MI	Mediaset
+MTTI.MI	Mittel
+MTV.MI	Mondo Tv
+OLI.MI	Olidata Spa
+PCRE.MI	Pirelli&c Real E
+PCVI.MI	Cred Valtellines
+PECI.MI	Pirelli Ec
+PEL.MI	Bca Erturi-lazio
+PMII.MI	Banca Milano
+PNNI.MI	Pininfarina
+POLI.MI	Poligrafici Edt
+PRAI.MI	Premafin
+PRII.MI	Prima Industrie
+PRNI.MI	Premuda
+PRO.MI	Bca Profilo
+PRT.MI	Esprinet
+PSF.MI	Poligraf.s.faust
+RATI.MI	Ratti
+RDM.MI	Reno De Medici
+REY.MI	Reply
+RIC.MI	Gr Cer Ricchetti
+RN.MI	Risan Napoli
+SAB.MI	Sabaf S.p.a
+SARIn.MI	Bk Sardegna Stk N
+SGFI.MI	Sogefi
+SIFI.MI	Finmeccanica
+SNA.MI	Snai Ord Spa
+SOL.MI	Sol Spa
+SPMI.MI	Saipem
+SRG.MI	Snam Rete Gas
+STEP.MI	Stefanel
+STM.MI	Stmicroelec NV
+TEKI.MI	Intek Spa
+TENR.MI	Tenaris SA
+TFI.MI	Trevi-fin Indust
+TIS.MI	Tiscali
+TOD.MI	Tod's
+TXTS.MI	Txt E-solutions
+UCG.MI	Unicredit
+UNPI.MI	Unipol
+VIAI.MI	Vianini Lavori
+VITI.MI	Vittoria
+ZUCI.MI	Zucchi

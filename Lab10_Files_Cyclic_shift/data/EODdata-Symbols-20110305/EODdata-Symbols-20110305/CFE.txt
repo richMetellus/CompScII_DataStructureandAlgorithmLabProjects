@@ -1,0 +1,14 @@
+Symbol	Description
+TB	S&P 500 12M Variance Continuation
+V1	S&P 500 12M Variance Continuation
+V2	S&P 500 12M Variance Continuation
+V3	S&P 500 12M Variance Continuation
+VI	CBOE S&P 500 VIX
+VI.C	CBOE S&P 500 VIX Continuation
+VIG11	CBOE S&P 500 VIX {Feb 11}
+VIH11	CBOE S&P 500 VIX {Mar 11}
+VIJ11	CBOE S&P 500 VIX {Apr 11}
+VO.C	S&P 500 12M Variance Continuation
+VOH11	S&P 500 12M Variance {Mar 11}
+W1	Crude Oil VIX
+W3	Euro FX VIX

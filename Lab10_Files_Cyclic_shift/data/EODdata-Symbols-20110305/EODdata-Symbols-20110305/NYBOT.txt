@@ -1,0 +1,195 @@
+Symbol	Description
+AR	Aussie/New Zealand
+ARH11	Aussie/New Zealand {Mar 11}
+AS	Aussie/Canadian
+ASH11	Aussie/Canadian {Mar 11}
+AU	Australian Dollar
+AUH11	Australian Dollar {Mar 11}
+BK	Brazilian Real
+CC	Cocoa
+CC.C	Cocoa Continuation
+CCH11	Cocoa {Mar 11}
+CCH12	Cocoa {Mar 12}
+CCK11	Cocoa {May 11}
+CCK12	Cocoa {May 12}
+CCN11	Cocoa {Jul 11}
+CCU11	Cocoa {Sep 11}
+CCZ11	Cocoa {Dec 11}
+CI	CRB CCI Index
+CIG11	CRB CCI Index {Feb 11}
+CIQ11	CRB CCI Index {Aug 11}
+CR	CRB Futures Index
+CRH11	CRB Futures Index {Mar 11}
+CRM11	CRB Futures Index {Jun 11}
+CT	Cotton #2
+CT.C	Cotton #2 Continuation
+CTH11	Cotton #2 {Mar 11}
+CTH12	Cotton #2 {Mar 12}
+CTH13	Cotton #2 {Mar 13}
+CTK11	Cotton #2 {May 11}
+CTK12	Cotton #2 {May 12}
+CTK13	Cotton #2 {May 13}
+CTN11	Cotton #2 {Jul 11}
+CTN12	Cotton #2 {Jul 12}
+CTV11	Cotton #2 {Oct 11}
+CTV12	Cotton #2 {Oct 12}
+CTZ11	Cotton #2 {Dec 11}
+CTZ12	Cotton #2 {Dec 12}
+DX	U.S. Dollar Index
+DXH11	U.S. Dollar Index {Mar 11}
+EJ	Euro/Yen
+EJH11	Euro/Yen {Mar 11}
+EK	Krone/Krona
+EKH11	Krone/Krona {Mar 11}
+EP	Euro/Canadian
+EPH11	Euro/Canadian {Mar 11}
+EQ	Euro/Australian
+EQH11	Euro/Australian {Mar 11}
+EU	Euro Futures
+EUH11	Euro Futures {Mar 11}
+EX	Euro Index
+EXH11	Euro Index {Mar 11}
+GB	Pound/Euro
+GBH11	Pound/Euro {Mar 11}
+GN	Pound/New Zealand
+GNH11	Pound/New Zealand {Mar 11}
+GY	Euro/Forint
+GYH11	Euro/Forint {Mar 11}
+GZ	Euro/Koruna
+GZH11	Euro/Koruna {Mar 11}
+HY	Canadian/Yen
+HYH11	Canadian/Yen {Mar 11}
+KC	Coffee
+KC.C	Coffee Continuation
+KCH11	Coffee {Mar 11}
+KCH12	Coffee {Mar 12}
+KCH13	Coffee {Mar 13}
+KCK11	Coffee {May 11}
+KCK12	Coffee {May 12}
+KCK13	Coffee {May 13}
+KCN11	Coffee {Jul 11}
+KCN12	Coffee {Jul 12}
+KCU11	Coffee {Sep 11}
+KCU12	Coffee {Sep 12}
+KCZ11	Coffee {Dec 11}
+KCZ12	Coffee {Dec 12}
+KJ	Krona/Yen
+KJH11	Krona/Yen {Mar 11}
+KU	Dollar/Krona
+KUH11	Dollar/Krona {Mar 11}
+KY	Krone/Yen
+KYH11	Krone/Yen {Mar 11}
+NS	Dollar/Krone
+NSH11	Dollar/Krone {Mar 11}
+OJ.C	Orange Juice Continuation
+OJF12	Orange Juice {Jan 12}
+OJF13	Orange Juice {Jan 13}
+OJH11	Orange Juice {Mar 11}
+OJH12	Orange Juice {Mar 12}
+OJH13	Orange Juice {Mar 13}
+OJK11	Orange Juice {May 11}
+OJK12	Orange Juice {May 12}
+OJK13	Orange Juice {May 13}
+OJN11	Orange Juice {Jul 11}
+OJN12	Orange Juice {Jul 12}
+OJU11	Orange Juice {Sep 11}
+OJU12	Orange Juice {Sep 12}
+OJX11	Orange Juice {Nov 11}
+OJX12	Orange Juice {Nov 12}
+OL	Euro/Krone
+OLH11	Euro/Krone {Mar 11}
+OR	Dollar/Rand
+ORH11	Dollar/Rand {Mar 11}
+PK	Pound/Krone
+PKH11	Pound/Krone {Mar 11}
+PS	Pound/Krona
+PSH11	Pound/Krona {Mar 11}
+PV	Pound/Australian
+PVH11	Pound/Australian {Mar 11}
+PW	Pound/Canadian
+PWH11	Pound/Canadian {Mar 11}
+PX	Pound/Rand
+PXH11	Pound/Rand {Mar 11}
+PY	Euro/Rand
+PYH11	Euro/Rand {Mar 11}
+QQ	CRB Total Return
+QX	CRB NonEnergy Excess
+QZ	CRB NonEnergy Total
+RG	Russell 2000 Growth
+RI	Russell 1000 Mini
+RIH11	Russell 1000 Mini {Mar 11}
+RIM11	Russell 1000 Mini {Jun 11}
+RIU11	Russell 1000 Mini {Sep 11}
+RIZ11	Russell 1000 Mini {Dec 11}
+RJ	Russell 2000 Mini
+RJH11	Russell 2000 Mini {Mar 11}
+RJM11	Russell 2000 Mini {Jun 11}
+RJU11	Russell 2000 Mini {Sep 11}
+RJZ11	Russell 2000 Mini {Dec 11}
+RK	Euro/Krona
+RKH11	Euro/Krona {Mar 11}
+RKM11	Euro/Krona {Jun 11}
+RKU11	Euro/Krona {Sep 11}
+RKZ11	Euro/Krona {Dec 11}
+RN	Russell 2500
+RV	Russell 2000 Value
+RX	Russell 1000
+RZ	Euro/Swiss
+RZH11	Euro/Swiss {Mar 11}
+RZM11	Euro/Swiss {Jun 11}
+RZU11	Euro/Swiss {Sep 11}
+RZZ11	Euro/Swiss {Dec 11}
+SB	Sugar #11
+SB.C	Sugar #11 Continuation
+SBH11	Sugar #11 {Mar 11}
+SBH12	Sugar #11 {Mar 12}
+SBH13	Sugar #11 {Mar 13}
+SBK11	Sugar #11 {May 11}
+SBK12	Sugar #11 {May 12}
+SBK13	Sugar #11 {May 13}
+SBN11	Sugar #11 {Jul 11}
+SBN12	Sugar #11 {Jul 12}
+SBV11	Sugar #11 {Oct 11}
+SBV12	Sugar #11 {Oct 12}
+SD.C	Sugar #16 Continuation
+SDF12	Sugar #16 {Jan 12}
+SDH11	Sugar #16 {Mar 11}
+SDH12	Sugar #16 {Mar 12}
+SDK11	Sugar #16 {May 11}
+SDK12	Sugar #16 {May 12}
+SDN11	Sugar #16 {Jul 11}
+SDU11	Sugar #16 {Sep 11}
+SDX11	Sugar #16 {Nov 11}
+SS	Pound/Swiss
+SSH11	Pound/Swiss {Mar 11}
+SY	Pound/Yen
+SYH11	Pound/Yen {Mar 11}
+TH	Russell 3000
+TO	Russell 2000
+UY	Dollar/Forint
+UYH11	Dollar/Forint {Mar 11}
+UZ	Dollar/Koruna
+UZH11	Dollar/Koruna {Mar 11}
+VU	Russell 1000 Growth
+VUH11	Russell 1000 Growth {Mar 11}
+VV	Russell 1000 Value
+VVH11	Russell 1000 Value {Mar 11}
+YA	Aussie/Yen
+YAH11	Aussie/Yen {Mar 11}
+YD	Dollar/Canadian
+YDH11	Dollar/Canadian {Mar 11}
+YF	Dollar/Swiss
+YFH11	Dollar/Swiss {Mar 11}
+YP	Pound/Dollar
+YPH11	Pound/Dollar {Mar 11}
+YV	NYSE Composite
+YVH11	NYSE Composite {Mar 11}
+YVM11	NYSE Composite {Jun 11}
+YY	Dollar/Yen
+YYH11	Dollar/Yen {Mar 11}
+ZJ	New Zealand/Yen
+ZJH11	New Zealand/Yen {Mar 11}
+ZX	New Zealand Dollar
+ZXH11	New Zealand Dollar {Mar 11}
+ZY	Swiss/Yen
+ZYH11	Swiss/Yen {Mar 11}

@@ -1,0 +1,6 @@
+build/*
+*/code/*/build/*
+*/code/build/*
+!build/build.xml
+*.zip
+desktop.ini

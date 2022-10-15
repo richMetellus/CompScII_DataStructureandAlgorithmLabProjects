@@ -1,0 +1,1440 @@
+Symbol	Description
+A6	Australian Dollar
+A6.C	Australian Dollar Continuation
+A6H11	Australian Dollar {Mar 11}
+A6H12	Australian Dollar {Mar 12}
+A6M11	Australian Dollar {Jun 11}
+A6M12	Australian Dollar {Jun 12}
+A6U11	Australian Dollar {Sep 11}
+A6Z11	Australian Dollar {Dec 11}
+AD	Australian Dollar(P)
+AD.C	Australian Dollar(P) Continuation
+ADH11	Australian Dollar(P) {Mar 11}
+ADH12	Australian Dollar(P) {Mar 12}
+ADM11	Australian Dollar(P) {Jun 11}
+ADM12	Australian Dollar(P) {Jun 12}
+ADU11	Australian Dollar(P) {Sep 11}
+ADZ11	Australian Dollar(P) {Dec 11}
+B6	British Pound
+B6.C	British Pound Continuation
+B6H11	British Pound {Mar 11}
+B6H12	British Pound {Mar 12}
+B6M11	British Pound {Jun 11}
+B6M12	British Pound {Jun 12}
+B6U11	British Pound {Sep 11}
+B6Z11	British Pound {Dec 11}
+BC	S&P GSCI {Oct 09}
+BD.C	Butter Cash-Settled Continuation
+BDF11	Butter Cash-Settled {Jan 11}
+BDF12	Butter Cash-Settled {Jan 12}
+BDG11	Butter Cash-Settled {Feb 11}
+BDG12	Butter Cash-Settled {Feb 12}
+BDH11	Butter Cash-Settled {Mar 11}
+BDH12	Butter Cash-Settled {Mar 12}
+BDJ11	Butter Cash-Settled {Apr 11}
+BDJ12	Butter Cash-Settled {Apr 12}
+BDK11	Butter Cash-Settled {May 11}
+BDK12	Butter Cash-Settled {May 12}
+BDM11	Butter Cash-Settled {Jun 11}
+BDM12	Butter Cash-Settled {Jun 12}
+BDN11	Butter Cash-Settled {Jul 11}
+BDN12	Butter Cash-Settled {Jul 12}
+BDQ11	Butter Cash-Settled {Aug 11}
+BDQ12	Butter Cash-Settled {Aug 12}
+BDU11	Butter Cash-Settled {Sep 11}
+BDU12	Butter Cash-Settled {Sep 12}
+BDV11	Butter Cash-Settled {Oct 11}
+BDV12	Butter Cash-Settled {Oct 12}
+BDX11	Butter Cash-Settled {Nov 11}
+BDX12	Butter Cash-Settled {Nov 12}
+BDZ11	Butter Cash-Settled {Dec 11}
+BI	S&P Consumer Discret
+BJ.C	Cheese Cash-Settled Continuation
+BJF11	Cheese Cash-Settled {Jan 11}
+BJF12	Cheese Cash-Settled {Jan 12}
+BJG11	Cheese Cash-Settled {Feb 11}
+BJG12	Cheese Cash-Settled {Feb 12}
+BJH11	Cheese Cash-Settled {Mar 11}
+BJH12	Cheese Cash-Settled {Mar 12}
+BJJ11	Cheese Cash-Settled {Apr 11}
+BJJ12	Cheese Cash-Settled {Apr 12}
+BJK11	Cheese Cash-Settled {May 11}
+BJK12	Cheese Cash-Settled {May 12}
+BJM11	Cheese Cash-Settled {Jun 11}
+BJM12	Cheese Cash-Settled {Jun 12}
+BJN11	Cheese Cash-Settled {Jul 11}
+BJN12	Cheese Cash-Settled {Jul 12}
+BJQ11	Cheese Cash-Settled {Aug 11}
+BJQ12	Cheese Cash-Settled {Aug 12}
+BJU11	Cheese Cash-Settled {Sep 11}
+BJU12	Cheese Cash-Settled {Sep 12}
+BJV11	Cheese Cash-Settled {Oct 11}
+BJV12	Cheese Cash-Settled {Oct 12}
+BJX11	Cheese Cash-Settled {Nov 11}
+BJX12	Cheese Cash-Settled {Nov 12}
+BJZ11	Cheese Cash-Settled {Dec 11}
+BL	S&P Consumer Staples
+BM	S&P Energy
+BN	S&P Financial
+BP	British Pound (P)
+BP.C	British Pound (P) Continuation
+BPH11	British Pound (P) {Mar 11}
+BPH12	British Pound (P) {Mar 12}
+BPM11	British Pound (P) {Jun 11}
+BPM12	British Pound (P) {Jun 12}
+BPU11	British Pound (P) {Sep 11}
+BPZ11	British Pound (P) {Dec 11}
+BR	Brazilian Real (P)
+BR.C	Brazilian Real (P) Continuation
+BRH11	Brazilian Real (P) {Mar 11}
+BRJ11	Brazilian Real (P) {Apr 11}
+BRK11	Brazilian Real (P) {May 11}
+BRM11	Brazilian Real (P) {Jun 11}
+BRN11	Brazilian Real (P) {Jul 11}
+BRQ11	Brazilian Real (P) {Aug 11}
+BRU11	Brazilian Real (P) {Sep 11}
+BRV11	Brazilian Real (P) {Oct 11}
+BRX11	Brazilian Real (P) {Nov 11}
+BRZ11	Brazilian Real (P) {Dec 11}
+BS	S&P Health Care
+C0	S&P GS Natural GasER
+C1	Milk Grade Extra
+C2	Milk Grade A
+C3	Cheese Barrels
+C4	Cheese Blocks
+C5	Butter Grade AA
+C7.C	Eurozone HICP Continuation
+C7F12	Eurozone HICP {Jan 12}
+C7G11	Eurozone HICP {Feb 11}
+C7H11	Eurozone HICP {Mar 11}
+C7J11	Eurozone HICP {Apr 11}
+C7K11	Eurozone HICP {May 11}
+C7M11	Eurozone HICP {Jun 11}
+C7N11	Eurozone HICP {Jul 11}
+C7Q11	Eurozone HICP {Aug 11}
+C7U11	Eurozone HICP {Sep 11}
+C7V11	Eurozone HICP {Oct 11}
+C7X11	Eurozone HICP {Nov 11}
+CD	Canadian Dollar (P)
+CD.C	Canadian Dollar (P) Continuation
+CDH11	Canadian Dollar (P) {Mar 11}
+CDH12	Canadian Dollar (P) {Mar 12}
+CDM11	Canadian Dollar (P) {Jun 11}
+CDM12	Canadian Dollar (P) {Jun 12}
+CDU11	Canadian Dollar (P) {Sep 11}
+CDZ11	Canadian Dollar (P) {Dec 11}
+CU.C	Crude Palm Oil Continuation
+CUF12	Crude Palm Oil {Jan 12}
+CUF13	Crude Palm Oil {Jan 13}
+CUH12	Crude Palm Oil {Mar 12}
+CUJ11	Crude Palm Oil {Apr 11}
+CUK11	Crude Palm Oil {May 11}
+CUK12	Crude Palm Oil {May 12}
+CUN11	Crude Palm Oil {Jul 11}
+CUN12	Crude Palm Oil {Jul 12}
+CUU11	Crude Palm Oil {Sep 11}
+CUU12	Crude Palm Oil {Sep 12}
+CUX11	Crude Palm Oil {Nov 11}
+CUX12	Crude Palm Oil {Nov 12}
+CZ	CME$INDEX
+CZ.C	CME$INDEX Continuation
+CZH11	CME$INDEX {Mar 11}
+CZH12	CME$INDEX {Mar 12}
+CZM11	CME$INDEX {Jun 11}
+CZM12	CME$INDEX {Jun 12}
+CZU11	CME$INDEX {Sep 11}
+CZZ11	CME$INDEX {Dec 11}
+D6	Canadian Dollar
+D6.C	Canadian Dollar Continuation
+D6H11	Canadian Dollar {Mar 11}
+D6H12	Canadian Dollar {Mar 12}
+D6M11	Canadian Dollar {Jun 11}
+D6M12	Canadian Dollar {Jun 12}
+D6U11	Canadian Dollar {Sep 11}
+D6Z11	Canadian Dollar {Dec 11}
+DA	Class III Milk (P)
+DA.C	Class III Milk (P) Continuation
+DAF11	Class III Milk (P) {Jan 11}
+DAF12	Class III Milk (P) {Jan 12}
+DAG11	Class III Milk (P) {Feb 11}
+DAG12	Class III Milk (P) {Feb 12}
+DAH11	Class III Milk (P) {Mar 11}
+DAH12	Class III Milk (P) {Mar 12}
+DAJ11	Class III Milk (P) {Apr 11}
+DAJ12	Class III Milk (P) {Apr 12}
+DAK11	Class III Milk (P) {May 11}
+DAK12	Class III Milk (P) {May 12}
+DAM11	Class III Milk (P) {Jun 11}
+DAM12	Class III Milk (P) {Jun 12}
+DAN11	Class III Milk (P) {Jul 11}
+DAN12	Class III Milk (P) {Jul 12}
+DAQ11	Class III Milk (P) {Aug 11}
+DAQ12	Class III Milk (P) {Aug 12}
+DAU11	Class III Milk (P) {Sep 11}
+DAU12	Class III Milk (P) {Sep 12}
+DAV11	Class III Milk (P) {Oct 11}
+DAV12	Class III Milk (P) {Oct 12}
+DAX11	Class III Milk (P) {Nov 11}
+DAX12	Class III Milk (P) {Nov 12}
+DAZ11	Class III Milk (P) {Dec 11}
+DB	Butter
+DF.C	Nonfat Dry Milk Continuation
+DFF11	Nonfat Dry Milk {Jan 11}
+DFF12	Nonfat Dry Milk {Jan 12}
+DFG11	Nonfat Dry Milk {Feb 11}
+DFG12	Nonfat Dry Milk {Feb 12}
+DFH11	Nonfat Dry Milk {Mar 11}
+DFH12	Nonfat Dry Milk {Mar 12}
+DFJ11	Nonfat Dry Milk {Apr 11}
+DFJ12	Nonfat Dry Milk {Apr 12}
+DFK11	Nonfat Dry Milk {May 11}
+DFK12	Nonfat Dry Milk {May 12}
+DFM11	Nonfat Dry Milk {Jun 11}
+DFM12	Nonfat Dry Milk {Jun 12}
+DFN11	Nonfat Dry Milk {Jul 11}
+DFN12	Nonfat Dry Milk {Jul 12}
+DFQ11	Nonfat Dry Milk {Aug 11}
+DFQ12	Nonfat Dry Milk {Aug 12}
+DFU11	Nonfat Dry Milk {Sep 11}
+DFU12	Nonfat Dry Milk {Sep 12}
+DFV11	Nonfat Dry Milk {Oct 11}
+DFV12	Nonfat Dry Milk {Oct 12}
+DFX11	Nonfat Dry Milk {Nov 11}
+DFX12	Nonfat Dry Milk {Nov 12}
+DFZ11	Nonfat Dry Milk {Dec 11}
+DG.C	Dry Whey Continuation
+DGF11	Dry Whey {Jan 11}
+DGF12	Dry Whey {Jan 12}
+DGG11	Dry Whey {Feb 11}
+DGG12	Dry Whey {Feb 12}
+DGH11	Dry Whey {Mar 11}
+DGH12	Dry Whey {Mar 12}
+DGJ11	Dry Whey {Apr 11}
+DGJ12	Dry Whey {Apr 12}
+DGK11	Dry Whey {May 11}
+DGK12	Dry Whey {May 12}
+DGM11	Dry Whey {Jun 11}
+DGM12	Dry Whey {Jun 12}
+DGN11	Dry Whey {Jul 11}
+DGN12	Dry Whey {Jul 12}
+DGQ11	Dry Whey {Aug 11}
+DGQ12	Dry Whey {Aug 12}
+DGU11	Dry Whey {Sep 11}
+DGU12	Dry Whey {Sep 12}
+DGV11	Dry Whey {Oct 11}
+DGV12	Dry Whey {Oct 12}
+DGX11	Dry Whey {Nov 11}
+DGX12	Dry Whey {Nov 12}
+DGZ11	Dry Whey {Dec 11}
+DK	Class IV Milk
+DK.C	Class IV Milk Continuation
+DKF11	Class IV Milk {Jan 11}
+DKF12	Class IV Milk {Jan 12}
+DKG11	Class IV Milk {Feb 11}
+DKG12	Class IV Milk {Feb 12}
+DKH11	Class IV Milk {Mar 11}
+DKH12	Class IV Milk {Mar 12}
+DKJ11	Class IV Milk {Apr 11}
+DKJ12	Class IV Milk {Apr 12}
+DKK11	Class IV Milk {May 11}
+DKK12	Class IV Milk {May 12}
+DKM11	Class IV Milk {Jun 11}
+DKM12	Class IV Milk {Jun 12}
+DKN11	Class IV Milk {Jul 11}
+DKN12	Class IV Milk {Jul 12}
+DKQ11	Class IV Milk {Aug 11}
+DKQ12	Class IV Milk {Aug 12}
+DKU11	Class IV Milk {Sep 11}
+DKU12	Class IV Milk {Sep 12}
+DKV11	Class IV Milk {Oct 11}
+DKV12	Class IV Milk {Oct 12}
+DKX11	Class IV Milk {Nov 11}
+DKX12	Class IV Milk {Nov 12}
+DKZ11	Class IV Milk {Dec 11}
+DL.C	Class III Milk Continuation
+DLF11	Class III Milk {Jan 11}
+DLF12	Class III Milk {Jan 12}
+DLG11	Class III Milk {Feb 11}
+DLG12	Class III Milk {Feb 12}
+DLH11	Class III Milk {Mar 11}
+DLH12	Class III Milk {Mar 12}
+DLJ11	Class III Milk {Apr 11}
+DLJ12	Class III Milk {Apr 12}
+DLK11	Class III Milk {May 11}
+DLK12	Class III Milk {May 12}
+DLM11	Class III Milk {Jun 11}
+DLM12	Class III Milk {Jun 12}
+DLN11	Class III Milk {Jul 11}
+DLN12	Class III Milk {Jul 12}
+DLQ11	Class III Milk {Aug 11}
+DLQ12	Class III Milk {Aug 12}
+DLU11	Class III Milk {Sep 11}
+DLU12	Class III Milk {Sep 12}
+DLV11	Class III Milk {Oct 11}
+DLV12	Class III Milk {Oct 12}
+DLX11	Class III Milk {Nov 11}
+DLX12	Class III Milk {Nov 12}
+DLZ11	Class III Milk {Dec 11}
+E4	Turkish Lira
+E4.C	Turkish Lira Continuation
+E4H11	Turkish Lira {Mar 11}
+E4H12	Turkish Lira {Mar 12}
+E4M11	Turkish Lira {Jun 11}
+E4U11	Turkish Lira {Sep 11}
+E4Z11	Turkish Lira {Dec 11}
+E5	Euro/Turkish Lira
+E5.C	Euro/Turkish Lira Continuation
+E5H11	Euro/Turkish Lira {Mar 11}
+E5H12	Euro/Turkish Lira {Mar 12}
+E5M11	Euro/Turkish Lira {Jun 11}
+E5U11	Euro/Turkish Lira {Sep 11}
+E5Z11	Euro/Turkish Lira {Dec 11}
+E6	Euro FX
+E6.C	Euro FX Continuation
+E6H11	Euro FX {Mar 11}
+E6H12	Euro FX {Mar 12}
+E6M11	Euro FX {Jun 11}
+E6M12	Euro FX {Jun 12}
+E6U11	Euro FX {Sep 11}
+E6Z11	Euro FX {Dec 11}
+E7	E-Mini Euro FX
+E7.C	E-Mini Euro FX Continuation
+E7H11	E-Mini Euro FX {Mar 11}
+EA	E-Mini MSCI EAFE
+EA.C	E-Mini MSCI EAFE Continuation
+EAH11	E-Mini MSCI EAFE {Mar 11}
+EAM11	E-Mini MSCI EAFE {Jun 11}
+EB.C	E-Mini Eurodollar Continuation
+EBG11	E-Mini Eurodollar {Feb 11}
+EBH09	E-Mini Eurodollar {Mar 09}
+EBH10	E-Mini Eurodollar {Mar 10}
+EBH11	E-Mini Eurodollar {Mar 11}
+EBH12	E-Mini Eurodollar {Mar 12}
+EBH13	E-Mini Eurodollar {Mar 13}
+EBH14	E-Mini Eurodollar {Mar 14}
+EBH15	E-Mini Eurodollar {Mar 15}
+EBH16	E-Mini Eurodollar {Mar 16}
+EBH17	E-Mini Eurodollar {Mar 17}
+EBH18	E-Mini Eurodollar {Mar 18}
+EBH19	E-Mini Eurodollar {Mar 19}
+EBH20	E-Mini Eurodollar {Mar 20}
+EBJ11	E-Mini Eurodollar {Apr 11}
+EBK11	E-Mini Eurodollar {May 11}
+EBM09	E-Mini Eurodollar {Jun 09}
+EBM10	E-Mini Eurodollar {Jun 10}
+EBM11	E-Mini Eurodollar {Jun 11}
+EBM12	E-Mini Eurodollar {Jun 12}
+EBM13	E-Mini Eurodollar {Jun 13}
+EBM14	E-Mini Eurodollar {Jun 14}
+EBM15	E-Mini Eurodollar {Jun 15}
+EBM16	E-Mini Eurodollar {Jun 16}
+EBM17	E-Mini Eurodollar {Jun 17}
+EBM18	E-Mini Eurodollar {Jun 18}
+EBM19	E-Mini Eurodollar {Jun 19}
+EBM20	E-Mini Eurodollar {Jun 20}
+EBU09	E-Mini Eurodollar {Sep 09}
+EBU10	E-Mini Eurodollar {Sep 10}
+EBU11	E-Mini Eurodollar {Sep 11}
+EBU12	E-Mini Eurodollar {Sep 12}
+EBU13	E-Mini Eurodollar {Sep 13}
+EBU14	E-Mini Eurodollar {Sep 14}
+EBU15	E-Mini Eurodollar {Sep 15}
+EBU16	E-Mini Eurodollar {Sep 16}
+EBU17	E-Mini Eurodollar {Sep 17}
+EBU18	E-Mini Eurodollar {Sep 18}
+EBU19	E-Mini Eurodollar {Sep 19}
+EBU20	E-Mini Eurodollar {Sep 20}
+EBZ09	E-Mini Eurodollar {Dec 09}
+EBZ10	E-Mini Eurodollar {Dec 10}
+EBZ11	E-Mini Eurodollar {Dec 11}
+EBZ12	E-Mini Eurodollar {Dec 12}
+EBZ13	E-Mini Eurodollar {Dec 13}
+EBZ14	E-Mini Eurodollar {Dec 14}
+EBZ15	E-Mini Eurodollar {Dec 15}
+EBZ16	E-Mini Eurodollar {Dec 16}
+EBZ17	E-Mini Eurodollar {Dec 17}
+EBZ18	E-Mini Eurodollar {Dec 18}
+EBZ19	E-Mini Eurodollar {Dec 19}
+EBZ20	E-Mini Eurodollar {Dec 20}
+EC	Euro FX (P)
+EC.C	Euro FX (P) Continuation
+ECH11	Euro FX (P) {Mar 11}
+ECH12	Euro FX (P) {Mar 12}
+ECM11	Euro FX (P) {Jun 11}
+ECM12	Euro FX (P) {Jun 12}
+ECU11	Euro FX (P) {Sep 11}
+ECZ11	Euro FX (P) {Dec 11}
+ED	Eurodollar (P)
+ED.C	Eurodollar (P) Continuation
+EDG11	Eurodollar (P) {Feb 11}
+EDH09	Eurodollar (P) {Mar 09}
+EDH10	Eurodollar (P) {Mar 10}
+EDH11	Eurodollar (P) {Mar 11}
+EDH12	Eurodollar (P) {Mar 12}
+EDH13	Eurodollar (P) {Mar 13}
+EDH14	Eurodollar (P) {Mar 14}
+EDH15	Eurodollar (P) {Mar 15}
+EDH16	Eurodollar (P) {Mar 16}
+EDH17	Eurodollar (P) {Mar 17}
+EDH18	Eurodollar (P) {Mar 18}
+EDH19	Eurodollar (P) {Mar 19}
+EDH20	Eurodollar (P) {Mar 20}
+EDJ11	Eurodollar (P) {Apr 11}
+EDK11	Eurodollar (P) {May 11}
+EDM09	Eurodollar (P) {Jun 09}
+EDM10	Eurodollar (P) {Jun 10}
+EDM11	Eurodollar (P) {Jun 11}
+EDM12	Eurodollar (P) {Jun 12}
+EDM13	Eurodollar (P) {Jun 13}
+EDM14	Eurodollar (P) {Jun 14}
+EDM15	Eurodollar (P) {Jun 15}
+EDM16	Eurodollar (P) {Jun 16}
+EDM17	Eurodollar (P) {Jun 17}
+EDM18	Eurodollar (P) {Jun 18}
+EDM19	Eurodollar (P) {Jun 19}
+EDM20	Eurodollar (P) {Jun 20}
+EDU09	Eurodollar (P) {Sep 09}
+EDU10	Eurodollar (P) {Sep 10}
+EDU11	Eurodollar (P) {Sep 11}
+EDU12	Eurodollar (P) {Sep 12}
+EDU13	Eurodollar (P) {Sep 13}
+EDU14	Eurodollar (P) {Sep 14}
+EDU15	Eurodollar (P) {Sep 15}
+EDU16	Eurodollar (P) {Sep 16}
+EDU17	Eurodollar (P) {Sep 17}
+EDU18	Eurodollar (P) {Sep 18}
+EDU19	Eurodollar (P) {Sep 19}
+EDU20	Eurodollar (P) {Sep 20}
+EDZ09	Eurodollar (P) {Dec 09}
+EDZ10	Eurodollar (P) {Dec 10}
+EDZ11	Eurodollar (P) {Dec 11}
+EDZ12	Eurodollar (P) {Dec 12}
+EDZ13	Eurodollar (P) {Dec 13}
+EDZ14	Eurodollar (P) {Dec 14}
+EDZ15	Eurodollar (P) {Dec 15}
+EDZ16	Eurodollar (P) {Dec 16}
+EDZ17	Eurodollar (P) {Dec 17}
+EDZ18	Eurodollar (P) {Dec 18}
+EDZ19	Eurodollar (P) {Dec 19}
+EDZ20	Eurodollar (P) {Dec 20}
+EM	1-Month Libor (P)
+EM.C	1-Month Libor (P) Continuation
+EMG11	1-Month Libor (P) {Feb 11}
+EMH11	1-Month Libor (P) {Mar 11}
+EMJ11	1-Month Libor (P) {Apr 11}
+EMK11	1-Month Libor (P) {May 11}
+EMM11	1-Month Libor (P) {Jun 11}
+EMN11	1-Month Libor (P) {Jul 11}
+EMQ11	1-Month Libor (P) {Aug 11}
+EMU11	1-Month Libor (P) {Sep 11}
+EMV11	1-Month Libor (P) {Oct 11}
+EMX11	1-Month Libor (P) {Nov 11}
+EO.C	E-Mini S&P 500 EUR Continuation
+EOH11	E-Mini S&P 500 EUR {Mar 11}
+EOM11	E-Mini S&P 500 EUR {Jun 11}
+EOU11	E-Mini S&P 500 EUR {Sep 11}
+EOZ11	E-Mini S&P 500 EUR {Dec 11}
+ER	E-Mini MSCI EMI
+ER.C	E-Mini MSCI EMI Continuation
+ERH11	E-Mini MSCI EMI {Mar 11}
+ERM11	E-Mini MSCI EMI {Jun 11}
+ES	E-Mini S&P 500
+ES.C	E-Mini S&P 500 Continuation
+ESH11	E-Mini S&P 500 {Mar 11}
+ESH12	E-Mini S&P 500 {Mar 12}
+ESM11	E-Mini S&P 500 {Jun 11}
+ESU11	E-Mini S&P 500 {Sep 11}
+ESZ11	E-Mini S&P 500 {Dec 11}
+EW	E-Mini S&P Midcap
+EW.C	E-Mini S&P Midcap Continuation
+EWH11	E-Mini S&P Midcap {Mar 11}
+EWH12	E-Mini S&P Midcap {Mar 12}
+EWM11	E-Mini S&P Midcap {Jun 11}
+EWU11	E-Mini S&P Midcap {Sep 11}
+EWZ11	E-Mini S&P Midcap {Dec 11}
+EY	EuroYen Tibor (P)
+EY.C	EuroYen Tibor (P) Continuation
+EYH11	EuroYen Tibor (P) {Mar 11}
+EYH12	EuroYen Tibor (P) {Mar 12}
+EYH13	EuroYen Tibor (P) {Mar 13}
+EYH14	EuroYen Tibor (P) {Mar 14}
+EYH15	EuroYen Tibor (P) {Mar 15}
+EYM11	EuroYen Tibor (P) {Jun 11}
+EYM12	EuroYen Tibor (P) {Jun 12}
+EYM13	EuroYen Tibor (P) {Jun 13}
+EYM14	EuroYen Tibor (P) {Jun 14}
+EYM15	EuroYen Tibor (P) {Jun 15}
+EYU11	EuroYen Tibor (P) {Sep 11}
+EYU12	EuroYen Tibor (P) {Sep 12}
+EYU13	EuroYen Tibor (P) {Sep 13}
+EYU14	EuroYen Tibor (P) {Sep 14}
+EYU15	EuroYen Tibor (P) {Sep 15}
+EYZ11	EuroYen Tibor (P) {Dec 11}
+EYZ12	EuroYen Tibor (P) {Dec 12}
+EYZ13	EuroYen Tibor (P) {Dec 13}
+EYZ14	EuroYen Tibor (P) {Dec 14}
+EYZ15	EuroYen Tibor (P) {Dec 15}
+FC	Feeder Cattle (P)
+FC.C	Feeder Cattle (P) Continuation
+FCH11	Feeder Cattle (P) {Mar 11}
+FCJ11	Feeder Cattle (P) {Apr 11}
+FCK11	Feeder Cattle (P) {May 11}
+FCQ11	Feeder Cattle (P) {Aug 11}
+FCU11	Feeder Cattle (P) {Sep 11}
+FCV11	Feeder Cattle (P) {Oct 11}
+FCX11	Feeder Cattle (P) {Nov 11}
+FD.C	3-Month (OIS) Swaps Continuation
+FDH11	3-Month (OIS) Swaps {Mar 11}
+FDH12	3-Month (OIS) Swaps {Mar 12}
+FDM11	3-Month (OIS) Swaps {Jun 11}
+FDM12	3-Month (OIS) Swaps {Jun 12}
+FDU11	3-Month (OIS) Swaps {Sep 11}
+FDU12	3-Month (OIS) Swaps {Sep 12}
+FDZ11	3-Month (OIS) Swaps {Dec 11}
+G7	S&P GS Excess Index
+G7.C	S&P GS Excess Index Continuation
+G7H11	S&P GS Excess Index {Mar 11}
+G7H14	S&P GS Excess Index {Mar 14}
+GD	S&P GSCI
+GD.C	S&P GSCI Continuation
+GDG11	S&P GSCI {Feb 11}
+GDJ11	S&P GSCI {Apr 11}
+GDK11	S&P GSCI {May 11}
+GE	Eurodollar
+GE.C	Eurodollar Continuation
+GEG11	Eurodollar {Feb 11}
+GEH09	Eurodollar {Mar 09}
+GEH10	Eurodollar {Mar 10}
+GEH11	Eurodollar {Mar 11}
+GEH12	Eurodollar {Mar 12}
+GEH13	Eurodollar {Mar 13}
+GEH14	Eurodollar {Mar 14}
+GEH15	Eurodollar {Mar 15}
+GEH16	Eurodollar {Mar 16}
+GEH17	Eurodollar {Mar 17}
+GEH18	Eurodollar {Mar 18}
+GEH19	Eurodollar {Mar 19}
+GEH20	Eurodollar {Mar 20}
+GEJ11	Eurodollar {Apr 11}
+GEK11	Eurodollar {May 11}
+GEM09	Eurodollar {Jun 09}
+GEM10	Eurodollar {Jun 10}
+GEM11	Eurodollar {Jun 11}
+GEM12	Eurodollar {Jun 12}
+GEM13	Eurodollar {Jun 13}
+GEM14	Eurodollar {Jun 14}
+GEM15	Eurodollar {Jun 15}
+GEM16	Eurodollar {Jun 16}
+GEM17	Eurodollar {Jun 17}
+GEM18	Eurodollar {Jun 18}
+GEM19	Eurodollar {Jun 19}
+GEM20	Eurodollar {Jun 20}
+GEU09	Eurodollar {Sep 09}
+GEU10	Eurodollar {Sep 10}
+GEU11	Eurodollar {Sep 11}
+GEU12	Eurodollar {Sep 12}
+GEU13	Eurodollar {Sep 13}
+GEU14	Eurodollar {Sep 14}
+GEU15	Eurodollar {Sep 15}
+GEU16	Eurodollar {Sep 16}
+GEU17	Eurodollar {Sep 17}
+GEU18	Eurodollar {Sep 18}
+GEU19	Eurodollar {Sep 19}
+GEU20	Eurodollar {Sep 20}
+GEZ09	Eurodollar {Dec 09}
+GEZ10	Eurodollar {Dec 10}
+GEZ11	Eurodollar {Dec 11}
+GEZ12	Eurodollar {Dec 12}
+GEZ13	Eurodollar {Dec 13}
+GEZ14	Eurodollar {Dec 14}
+GEZ15	Eurodollar {Dec 15}
+GEZ16	Eurodollar {Dec 16}
+GEZ17	Eurodollar {Dec 17}
+GEZ18	Eurodollar {Dec 18}
+GEZ19	Eurodollar {Dec 19}
+GEZ20	Eurodollar {Dec 20}
+GF	Feeder Cattle
+GF.C	Feeder Cattle Continuation
+GFH11	Feeder Cattle {Mar 11}
+GFJ11	Feeder Cattle {Apr 11}
+GFK11	Feeder Cattle {May 11}
+GFQ11	Feeder Cattle {Aug 11}
+GFU11	Feeder Cattle {Sep 11}
+GFV11	Feeder Cattle {Oct 11}
+GFX11	Feeder Cattle {Nov 11}
+GH.C	1-Month Libor Continuation
+GHG11	1-Month Libor {Feb 11}
+GHH11	1-Month Libor {Mar 11}
+GHJ11	1-Month Libor {Apr 11}
+GHK11	1-Month Libor {May 11}
+GHM11	1-Month Libor {Jun 11}
+GHN11	1-Month Libor {Jul 11}
+GHQ11	1-Month Libor {Aug 11}
+GHU11	1-Month Libor {Sep 11}
+GHV11	1-Month Libor {Oct 11}
+GHX11	1-Month Libor {Nov 11}
+GHZ11	1-Month Libor {Dec 11}
+GI	S&P GSCI (P)
+GI.C	S&P GSCI (P) Continuation
+GIG11	S&P GSCI (P) {Feb 11}
+GIJ11	S&P GSCI (P) {Apr 11}
+GJ.C	EuroYen Tibor Continuation
+GJH11	EuroYen Tibor {Mar 11}
+GJH12	EuroYen Tibor {Mar 12}
+GJH13	EuroYen Tibor {Mar 13}
+GJH14	EuroYen Tibor {Mar 14}
+GJH15	EuroYen Tibor {Mar 15}
+GJM11	EuroYen Tibor {Jun 11}
+GJM12	EuroYen Tibor {Jun 12}
+GJM13	EuroYen Tibor {Jun 13}
+GJM14	EuroYen Tibor {Jun 14}
+GJM15	EuroYen Tibor {Jun 15}
+GJU11	EuroYen Tibor {Sep 11}
+GJU12	EuroYen Tibor {Sep 12}
+GJU13	EuroYen Tibor {Sep 13}
+GJU14	EuroYen Tibor {Sep 14}
+GJU15	EuroYen Tibor {Sep 15}
+GJZ11	EuroYen Tibor {Dec 11}
+GJZ12	EuroYen Tibor {Dec 12}
+GJZ13	EuroYen Tibor {Dec 13}
+GJZ14	EuroYen Tibor {Dec 14}
+GJZ15	EuroYen Tibor {Dec 15}
+HE	Lean Hogs
+HE.C	Lean Hogs Continuation
+HEG11	Lean Hogs {Feb 11}
+HEG12	Lean Hogs {Feb 12}
+HEJ11	Lean Hogs {Apr 11}
+HEJ12	Lean Hogs {Apr 12}
+HEK11	Lean Hogs {May 11}
+HEM11	Lean Hogs {Jun 11}
+HEN11	Lean Hogs {Jul 11}
+HEQ11	Lean Hogs {Aug 11}
+HEV11	Lean Hogs {Oct 11}
+HEZ11	Lean Hogs {Dec 11}
+I0	HPI Boston
+I0.C	HPI Boston Continuation
+I0G11	HPI Boston {Feb 11}
+I0G12	HPI Boston {Feb 12}
+I0K11	HPI Boston {May 11}
+I0K12	HPI Boston {May 12}
+I0K13	HPI Boston {May 13}
+I0Q11	HPI Boston {Aug 11}
+I0X11	HPI Boston {Nov 11}
+I0X12	HPI Boston {Nov 12}
+I0X13	HPI Boston {Nov 13}
+I0X14	HPI Boston {Nov 14}
+I0X15	HPI Boston {Nov 15}
+I1	HPI Chicago
+I1.C	HPI Chicago Continuation
+I1G11	HPI Chicago {Feb 11}
+I1G12	HPI Chicago {Feb 12}
+I1K11	HPI Chicago {May 11}
+I1K12	HPI Chicago {May 12}
+I1K13	HPI Chicago {May 13}
+I1Q11	HPI Chicago {Aug 11}
+I1X11	HPI Chicago {Nov 11}
+I1X12	HPI Chicago {Nov 12}
+I1X13	HPI Chicago {Nov 13}
+I1X14	HPI Chicago {Nov 14}
+I1X15	HPI Chicago {Nov 15}
+I2	HPI Denver
+I2.C	HPI Denver Continuation
+I2G11	HPI Denver {Feb 11}
+I2G12	HPI Denver {Feb 12}
+I2K11	HPI Denver {May 11}
+I2K12	HPI Denver {May 12}
+I2K13	HPI Denver {May 13}
+I2Q11	HPI Denver {Aug 11}
+I2X11	HPI Denver {Nov 11}
+I2X12	HPI Denver {Nov 12}
+I2X13	HPI Denver {Nov 13}
+I2X14	HPI Denver {Nov 14}
+I2X15	HPI Denver {Nov 15}
+I3	HPI Las Vegas
+I3.C	HPI Las Vegas Continuation
+I3G11	HPI Las Vegas {Feb 11}
+I3G12	HPI Las Vegas {Feb 12}
+I3K11	HPI Las Vegas {May 11}
+I3K12	HPI Las Vegas {May 12}
+I3K13	HPI Las Vegas {May 13}
+I3Q11	HPI Las Vegas {Aug 11}
+I3X11	HPI Las Vegas {Nov 11}
+I3X12	HPI Las Vegas {Nov 12}
+I3X13	HPI Las Vegas {Nov 13}
+I3X14	HPI Las Vegas {Nov 14}
+I3X15	HPI Las Vegas {Nov 15}
+I4	HPI Los Angeles
+I4.C	HPI Los Angeles Continuation
+I4G11	HPI Los Angeles {Feb 11}
+I4G12	HPI Los Angeles {Feb 12}
+I4K11	HPI Los Angeles {May 11}
+I4K12	HPI Los Angeles {May 12}
+I4K13	HPI Los Angeles {May 13}
+I4Q11	HPI Los Angeles {Aug 11}
+I4X11	HPI Los Angeles {Nov 11}
+I4X12	HPI Los Angeles {Nov 12}
+I4X13	HPI Los Angeles {Nov 13}
+I4X14	HPI Los Angeles {Nov 14}
+I4X15	HPI Los Angeles {Nov 15}
+I5	HPI Miami
+I5.C	HPI Miami Continuation
+I5G11	HPI Miami {Feb 11}
+I5G12	HPI Miami {Feb 12}
+I5K11	HPI Miami {May 11}
+I5K12	HPI Miami {May 12}
+I5K13	HPI Miami {May 13}
+I5Q11	HPI Miami {Aug 11}
+I5X11	HPI Miami {Nov 11}
+I5X12	HPI Miami {Nov 12}
+I5X13	HPI Miami {Nov 13}
+I5X14	HPI Miami {Nov 14}
+I5X15	HPI Miami {Nov 15}
+I6	HPI New York
+I6.C	HPI New York Continuation
+I6G11	HPI New York {Feb 11}
+I6G12	HPI New York {Feb 12}
+I6K11	HPI New York {May 11}
+I6K12	HPI New York {May 12}
+I6K13	HPI New York {May 13}
+I6Q11	HPI New York {Aug 11}
+I6X11	HPI New York {Nov 11}
+I6X12	HPI New York {Nov 12}
+I6X13	HPI New York {Nov 13}
+I6X14	HPI New York {Nov 14}
+I6X15	HPI New York {Nov 15}
+I7	HPI San Diego
+I7.C	HPI San Diego Continuation
+I7G11	HPI San Diego {Feb 11}
+I7G12	HPI San Diego {Feb 12}
+I7K11	HPI San Diego {May 11}
+I7K12	HPI San Diego {May 12}
+I7K13	HPI San Diego {May 13}
+I7Q11	HPI San Diego {Aug 11}
+I7X11	HPI San Diego {Nov 11}
+I7X12	HPI San Diego {Nov 12}
+I7X13	HPI San Diego {Nov 13}
+I7X14	HPI San Diego {Nov 14}
+I7X15	HPI San Diego {Nov 15}
+I8	HPI San Francisco
+I8.C	HPI San Francisco Continuation
+I8G11	HPI San Francisco {Feb 11}
+I8G12	HPI San Francisco {Feb 12}
+I8K11	HPI San Francisco {May 11}
+I8K12	HPI San Francisco {May 12}
+I8K13	HPI San Francisco {May 13}
+I8Q11	HPI San Francisco {Aug 11}
+I8X11	HPI San Francisco {Nov 11}
+I8X12	HPI San Francisco {Nov 12}
+I8X13	HPI San Francisco {Nov 13}
+I8X14	HPI San Francisco {Nov 14}
+I8X15	HPI San Francisco {Nov 15}
+I9	HPI Washington DC
+I9.C	HPI Washington DC Continuation
+I9G11	HPI Washington DC {Feb 11}
+I9G12	HPI Washington DC {Feb 12}
+I9K11	HPI Washington DC {May 11}
+I9K12	HPI Washington DC {May 12}
+I9K13	HPI Washington DC {May 13}
+I9Q11	HPI Washington DC {Aug 11}
+I9X11	HPI Washington DC {Nov 11}
+I9X12	HPI Washington DC {Nov 12}
+I9X13	HPI Washington DC {Nov 13}
+I9X14	HPI Washington DC {Nov 14}
+I9X15	HPI Washington DC {Nov 15}
+IZ.C	Int. Skimmed Milk Continuation
+IZF12	Int. Skimmed Milk {Jan 12}
+IZG11	Int. Skimmed Milk {Feb 11}
+IZG12	Int. Skimmed Milk {Feb 12}
+IZH11	Int. Skimmed Milk {Mar 11}
+IZH12	Int. Skimmed Milk {Mar 12}
+IZJ11	Int. Skimmed Milk {Apr 11}
+IZJ12	Int. Skimmed Milk {Apr 12}
+IZK11	Int. Skimmed Milk {May 11}
+IZK12	Int. Skimmed Milk {May 12}
+IZM11	Int. Skimmed Milk {Jun 11}
+IZM12	Int. Skimmed Milk {Jun 12}
+IZN11	Int. Skimmed Milk {Jul 11}
+IZN12	Int. Skimmed Milk {Jul 12}
+IZQ11	Int. Skimmed Milk {Aug 11}
+IZQ12	Int. Skimmed Milk {Aug 12}
+IZU11	Int. Skimmed Milk {Sep 11}
+IZU12	Int. Skimmed Milk {Sep 12}
+IZV11	Int. Skimmed Milk {Oct 11}
+IZV12	Int. Skimmed Milk {Oct 12}
+IZX11	Int. Skimmed Milk {Nov 11}
+IZX12	Int. Skimmed Milk {Nov 12}
+IZZ11	Int. Skimmed Milk {Dec 11}
+J0	HPI Composite Index
+J0.C	HPI Composite Index Continuation
+J0G11	HPI Composite Index {Feb 11}
+J0G12	HPI Composite Index {Feb 12}
+J0K11	HPI Composite Index {May 11}
+J0K12	HPI Composite Index {May 12}
+J0K13	HPI Composite Index {May 13}
+J0Q11	HPI Composite Index {Aug 11}
+J0X11	HPI Composite Index {Nov 11}
+J0X12	HPI Composite Index {Nov 12}
+J0X13	HPI Composite Index {Nov 13}
+J0X14	HPI Composite Index {Nov 14}
+J0X15	HPI Composite Index {Nov 15}
+J6	Japanese Yen
+J6.C	Japanese Yen Continuation
+J6H11	Japanese Yen {Mar 11}
+J6H12	Japanese Yen {Mar 12}
+J6M11	Japanese Yen {Jun 11}
+J6M12	Japanese Yen {Jun 12}
+J6U11	Japanese Yen {Sep 11}
+J6Z11	Japanese Yen {Dec 11}
+J7	E-Mini Japanese Yen
+J7.C	E-Mini Japanese Yen Continuation
+J7H11	E-Mini Japanese Yen {Mar 11}
+JA	S&P Materials
+JB	Japanese Bond
+JE	S&P Utilities
+JG	S&P Industrial
+JY	Japanese Yen (P)
+JY.C	Japanese Yen (P) Continuation
+JYH11	Japanese Yen (P) {Mar 11}
+JYH12	Japanese Yen (P) {Mar 12}
+JYM11	Japanese Yen (P) {Jun 11}
+JYM12	Japanese Yen (P) {Jun 12}
+JYU11	Japanese Yen (P) {Sep 11}
+JYZ11	Japanese Yen (P) {Dec 11}
+KZ.C	Korean Won Continuation
+KZF12	Korean Won {Jan 12}
+KZG11	Korean Won {Feb 11}
+KZG12	Korean Won {Feb 12}
+KZH11	Korean Won {Mar 11}
+KZH12	Korean Won {Mar 12}
+KZJ11	Korean Won {Apr 11}
+KZK11	Korean Won {May 11}
+KZM11	Korean Won {Jun 11}
+KZM12	Korean Won {Jun 12}
+KZN11	Korean Won {Jul 11}
+KZQ11	Korean Won {Aug 11}
+KZU11	Korean Won {Sep 11}
+KZU12	Korean Won {Sep 12}
+KZV11	Korean Won {Oct 11}
+KZX11	Korean Won {Nov 11}
+KZZ11	Korean Won {Dec 11}
+L6	Brazilian Real
+L6.C	Brazilian Real Continuation
+L6H11	Brazilian Real {Mar 11}
+L6J11	Brazilian Real {Apr 11}
+L6K11	Brazilian Real {May 11}
+L6M11	Brazilian Real {Jun 11}
+L6N11	Brazilian Real {Jul 11}
+L6Q11	Brazilian Real {Aug 11}
+L6U11	Brazilian Real {Sep 11}
+L6V11	Brazilian Real {Oct 11}
+L6X11	Brazilian Real {Nov 11}
+L6Z11	Brazilian Real {Dec 11}
+LB	Lumber (P)
+LB.C	Lumber (P) Continuation
+LBF12	Lumber (P) {Jan 12}
+LBH11	Lumber (P) {Mar 11}
+LBK11	Lumber (P) {May 11}
+LBN11	Lumber (P) {Jul 11}
+LBU11	Lumber (P) {Sep 11}
+LBX11	Lumber (P) {Nov 11}
+LC	Live Cattle (P)
+LC.C	Live Cattle (P) Continuation
+LCG11	Live Cattle (P) {Feb 11}
+LCG12	Live Cattle (P) {Feb 12}
+LCJ11	Live Cattle (P) {Apr 11}
+LCJ12	Live Cattle (P) {Apr 12}
+LCM11	Live Cattle (P) {Jun 11}
+LCQ11	Live Cattle (P) {Aug 11}
+LCV11	Live Cattle (P) {Oct 11}
+LCZ11	Live Cattle (P) {Dec 11}
+LD.C	Lehman Aggregate Continuation
+LDH11	Lehman Aggregate {Mar 11}
+LDM11	Lehman Aggregate {Jun 11}
+LDU11	Lehman Aggregate {Sep 11}
+LE	Live Cattle
+LE.C	Live Cattle Continuation
+LEG11	Live Cattle {Feb 11}
+LEG12	Live Cattle {Feb 12}
+LEJ11	Live Cattle {Apr 11}
+LEJ12	Live Cattle {Apr 12}
+LEM11	Live Cattle {Jun 11}
+LEM12	Live Cattle {Jun 12}
+LEQ11	Live Cattle {Aug 11}
+LEV11	Live Cattle {Oct 11}
+LEZ11	Live Cattle {Dec 11}
+LH	Lean Hogs (P)
+LH.C	Lean Hogs (P) Continuation
+LHG11	Lean Hogs (P) {Feb 11}
+LHG12	Lean Hogs (P) {Feb 12}
+LHJ11	Lean Hogs (P) {Apr 11}
+LHJ12	Lean Hogs (P) {Apr 12}
+LHK11	Lean Hogs (P) {May 11}
+LHK12	Lean Hogs (P) {May 12}
+LHM11	Lean Hogs (P) {Jun 11}
+LHM12	Lean Hogs (P) {Jun 12}
+LHN11	Lean Hogs (P) {Jul 11}
+LHQ11	Lean Hogs (P) {Aug 11}
+LHV11	Lean Hogs (P) {Oct 11}
+LHZ11	Lean Hogs (P) {Dec 11}
+LP.C	Hardwood Pulp Continuation
+LPF12	Hardwood Pulp {Jan 12}
+LPG11	Hardwood Pulp {Feb 11}
+LPG12	Hardwood Pulp {Feb 12}
+LPH11	Hardwood Pulp {Mar 11}
+LPH12	Hardwood Pulp {Mar 12}
+LPJ11	Hardwood Pulp {Apr 11}
+LPJ12	Hardwood Pulp {Apr 12}
+LPK11	Hardwood Pulp {May 11}
+LPK12	Hardwood Pulp {May 12}
+LPM11	Hardwood Pulp {Jun 11}
+LPM12	Hardwood Pulp {Jun 12}
+LPN11	Hardwood Pulp {Jul 11}
+LPN12	Hardwood Pulp {Jul 12}
+LPQ11	Hardwood Pulp {Aug 11}
+LPQ12	Hardwood Pulp {Aug 12}
+LPU11	Hardwood Pulp {Sep 11}
+LPU12	Hardwood Pulp {Sep 12}
+LPV11	Hardwood Pulp {Oct 11}
+LPV12	Hardwood Pulp {Oct 12}
+LPX11	Hardwood Pulp {Nov 11}
+LPX12	Hardwood Pulp {Nov 12}
+LPZ11	Hardwood Pulp {Dec 11}
+LS	Lumber
+LS.C	Lumber Continuation
+LSF12	Lumber {Jan 12}
+LSH11	Lumber {Mar 11}
+LSK11	Lumber {May 11}
+LSN11	Lumber {Jul 11}
+LSU11	Lumber {Sep 11}
+LSX11	Lumber {Nov 11}
+M6	Mexican Peso
+M6.C	Mexican Peso Continuation
+M6F12	Mexican Peso {Jan 12}
+M6G11	Mexican Peso {Feb 11}
+M6H11	Mexican Peso {Mar 11}
+M6H12	Mexican Peso {Mar 12}
+M6J11	Mexican Peso {Apr 11}
+M6K11	Mexican Peso {May 11}
+M6M11	Mexican Peso {Jun 11}
+M6M12	Mexican Peso {Jun 12}
+M6N11	Mexican Peso {Jul 11}
+M6Q11	Mexican Peso {Aug 11}
+M6U11	Mexican Peso {Sep 11}
+M6V11	Mexican Peso {Oct 11}
+M6X11	Mexican Peso {Nov 11}
+M6Z11	Mexican Peso {Dec 11}
+MD	S&P Midcap 400
+MD.C	S&P Midcap 400 Continuation
+MDH11	S&P Midcap 400 {Mar 11}
+MDM11	S&P Midcap 400 {Jun 11}
+MDU11	S&P Midcap 400 {Sep 11}
+MDZ11	S&P Midcap 400 {Dec 11}
+MQ	Mexican Peso (P)
+MQ.C	Mexican Peso (P) Continuation
+MQF12	Mexican Peso (P) {Jan 12}
+MQG11	Mexican Peso (P) {Feb 11}
+MQH11	Mexican Peso (P) {Mar 11}
+MQH12	Mexican Peso (P) {Mar 12}
+MQJ11	Mexican Peso (P) {Apr 11}
+MQK11	Mexican Peso (P) {May 11}
+MQM11	Mexican Peso (P) {Jun 11}
+MQM12	Mexican Peso (P) {Jun 12}
+MQN11	Mexican Peso (P) {Jul 11}
+MQQ11	Mexican Peso (P) {Aug 11}
+MQU11	Mexican Peso (P) {Sep 11}
+MQV11	Mexican Peso (P) {Oct 11}
+MQX11	Mexican Peso (P) {Nov 11}
+MQZ11	Mexican Peso (P) {Dec 11}
+N6	New Zealand Dollar
+N6.C	New Zealand Dollar Continuation
+N6H11	New Zealand Dollar {Mar 11}
+N6H12	New Zealand Dollar {Mar 12}
+N6M11	New Zealand Dollar {Jun 11}
+N6M12	New Zealand Dollar {Jun 12}
+N6U11	New Zealand Dollar {Sep 11}
+N6Z11	New Zealand Dollar {Dec 11}
+NA	E-Mini CNX Nifty
+NA.C	E-Mini CNX Nifty Continuation
+NAG11	E-Mini CNX Nifty {Feb 11}
+NAH11	E-Mini CNX Nifty {Mar 11}
+NAM11	E-Mini CNX Nifty {Jun 11}
+NAU11	E-Mini CNX Nifty {Sep 11}
+NB	E-Mini Nasdaq Bio
+NB.C	E-Mini Nasdaq Bio Continuation
+NBH11	E-Mini Nasdaq Bio {Mar 11}
+NC	E-Mini Nasdaq Comp
+NC.C	E-Mini Nasdaq Comp Continuation
+NCH11	E-Mini Nasdaq Comp {Mar 11}
+ND	Nasdaq 100
+ND.C	Nasdaq 100 Continuation
+NDH11	Nasdaq 100 {Mar 11}
+NDH12	Nasdaq 100 {Mar 12}
+NDM11	Nasdaq 100 {Jun 11}
+NDU11	Nasdaq 100 {Sep 11}
+NDZ11	Nasdaq 100 {Dec 11}
+NE	New Zealand Doll.(P)
+NE.C	New Zealand Doll.(P) Continuation
+NEH11	New Zealand Doll.(P) {Mar 11}
+NEH12	New Zealand Doll.(P) {Mar 12}
+NEM11	New Zealand Doll.(P) {Jun 11}
+NEM12	New Zealand Doll.(P) {Jun 12}
+NEU11	New Zealand Doll.(P) {Sep 11}
+NEZ11	New Zealand Doll.(P) {Dec 11}
+NK	Nikkei 225 (P)
+NK.C	Nikkei 225 (P) Continuation
+NKH11	Nikkei 225 (P) {Mar 11}
+NKM11	Nikkei 225 (P) {Jun 11}
+NKU11	Nikkei 225 (P) {Sep 11}
+NKZ11	Nikkei 225 (P) {Dec 11}
+NL.C	Nikkei 225 Yen Continuation
+NLG11	Nikkei 225 Yen {Feb 11}
+NLH11	Nikkei 225 Yen {Mar 11}
+NLH12	Nikkei 225 Yen {Mar 12}
+NLH13	Nikkei 225 Yen {Mar 13}
+NLJ11	Nikkei 225 Yen {Apr 11}
+NLM11	Nikkei 225 Yen {Jun 11}
+NLM12	Nikkei 225 Yen {Jun 12}
+NLM13	Nikkei 225 Yen {Jun 13}
+NLU11	Nikkei 225 Yen {Sep 11}
+NLU12	Nikkei 225 Yen {Sep 12}
+NLU13	Nikkei 225 Yen {Sep 13}
+NLZ11	Nikkei 225 Yen {Dec 11}
+NLZ12	Nikkei 225 Yen {Dec 12}
+NLZ13	Nikkei 225 Yen {Dec 13}
+NM.C	E-Micro CNX Nifty Continuation
+NMG11	E-Micro CNX Nifty {Feb 11}
+NMH11	E-Micro CNX Nifty {Mar 11}
+NMM11	E-Micro CNX Nifty {Jun 11}
+NMU11	E-Micro CNX Nifty {Sep 11}
+NQ	E-Mini Nasdaq 100
+NQ.C	E-Mini Nasdaq 100 Continuation
+NQH11	E-Mini Nasdaq 100 {Mar 11}
+NQM11	E-Mini Nasdaq 100 {Jun 11}
+NQU11	E-Mini Nasdaq 100 {Sep 11}
+NQZ11	E-Mini Nasdaq 100 {Dec 11}
+NR	Norwegian Krone
+NR.C	Norwegian Krone Continuation
+NRH11	Norwegian Krone {Mar 11}
+NRH12	Norwegian Krone {Mar 12}
+NRM11	Norwegian Krone {Jun 11}
+NRM12	Norwegian Krone {Jun 12}
+NRU11	Norwegian Krone {Sep 11}
+NRZ11	Norwegian Krone {Dec 11}
+NY.C	Nikkei 225 Continuation
+NYH11	Nikkei 225 {Mar 11}
+NYM11	Nikkei 225 {Jun 11}
+NYU11	Nikkei 225 {Sep 11}
+OE	S&P 100 OEX
+OP	S&P 1000
+PB	Pork Bellies (P)
+PB.C	Pork Bellies (P) Continuation
+PBG11	Pork Bellies (P) {Feb 11}
+PBH11	Pork Bellies (P) {Mar 11}
+PBK11	Pork Bellies (P) {May 11}
+PBN11	Pork Bellies (P) {Jul 11}
+PBQ11	Pork Bellies (P) {Aug 11}
+PC	E-Mini S&P Smallcap
+PC.C	E-Mini S&P Smallcap Continuation
+PCH11	E-Mini S&P Smallcap {Mar 11}
+PCM11	E-Mini S&P Smallcap {Jun 11}
+PCU11	E-Mini S&P Smallcap {Sep 11}
+PCZ11	E-Mini S&P Smallcap {Dec 11}
+PD	Pork Bellies
+PD.C	Pork Bellies Continuation
+PDG11	Pork Bellies {Feb 11}
+PDH11	Pork Bellies {Mar 11}
+PDK11	Pork Bellies {May 11}
+PDN11	Pork Bellies {Jul 11}
+PDQ11	Pork Bellies {Aug 11}
+PE	Energy SCPTR
+PF	Financial SCPTR
+PF.C	Financial SCPTR Continuation
+PFH11	Financial SCPTR {Mar 11}
+PH	S&P Smallcap 600
+PH.C	S&P Smallcap 600 Continuation
+PHH11	S&P Smallcap 600 {Mar 11}
+PHM11	S&P Smallcap 600 {Jun 11}
+PHU11	S&P Smallcap 600 {Sep 11}
+PHZ11	S&P Smallcap 600 {Dec 11}
+PI	PIMCO StockPLUS
+PI.C	PIMCO StockPLUS Continuation
+PIV11	PIMCO StockPLUS {Oct 11}
+PT	Technology SCPTR
+PT.C	Technology SCPTR Continuation
+PTH11	Technology SCPTR {Mar 11}
+QR.C	Renminbi/Yen Continuation
+QRG11	Renminbi/Yen {Feb 11}
+QRG12	Renminbi/Yen {Feb 12}
+QRH11	Renminbi/Yen {Mar 11}
+QRH12	Renminbi/Yen {Mar 12}
+QRJ11	Renminbi/Yen {Apr 11}
+QRK11	Renminbi/Yen {May 11}
+QRM11	Renminbi/Yen {Jun 11}
+QRM12	Renminbi/Yen {Jun 12}
+QRN11	Renminbi/Yen {Jul 11}
+QRQ11	Renminbi/Yen {Aug 11}
+QRU11	Renminbi/Yen {Sep 11}
+QRU12	Renminbi/Yen {Sep 12}
+QRV11	Renminbi/Yen {Oct 11}
+QRX11	Renminbi/Yen {Nov 11}
+QRZ11	Renminbi/Yen {Dec 11}
+QT.C	Chinese Renminbi Continuation
+QTG11	Chinese Renminbi {Feb 11}
+QTG12	Chinese Renminbi {Feb 12}
+QTH11	Chinese Renminbi {Mar 11}
+QTH12	Chinese Renminbi {Mar 12}
+QTJ11	Chinese Renminbi {Apr 11}
+QTK11	Chinese Renminbi {May 11}
+QTM11	Chinese Renminbi {Jun 11}
+QTM12	Chinese Renminbi {Jun 12}
+QTN11	Chinese Renminbi {Jul 11}
+QTQ11	Chinese Renminbi {Aug 11}
+QTU11	Chinese Renminbi {Sep 11}
+QTU12	Chinese Renminbi {Sep 12}
+QTV11	Chinese Renminbi {Oct 11}
+QTX11	Chinese Renminbi {Nov 11}
+QTZ11	Chinese Renminbi {Dec 11}
+QV.C	Renminbi/Euro Continuation
+QVG11	Renminbi/Euro {Feb 11}
+QVG12	Renminbi/Euro {Feb 12}
+QVH11	Renminbi/Euro {Mar 11}
+QVH12	Renminbi/Euro {Mar 12}
+QVJ11	Renminbi/Euro {Apr 11}
+QVK11	Renminbi/Euro {May 11}
+QVM11	Renminbi/Euro {Jun 11}
+QVM12	Renminbi/Euro {Jun 12}
+QVN11	Renminbi/Euro {Jul 11}
+QVQ11	Renminbi/Euro {Aug 11}
+QVU11	Renminbi/Euro {Sep 11}
+QVU12	Renminbi/Euro {Sep 12}
+QVV11	Renminbi/Euro {Oct 11}
+QVX11	Renminbi/Euro {Nov 11}
+QVZ11	Renminbi/Euro {Dec 11}
+R6	Russian Ruble
+R6.C	Russian Ruble Continuation
+R6H11	Russian Ruble {Mar 11}
+R6H12	Russian Ruble {Mar 12}
+R6H13	Russian Ruble {Mar 13}
+R6H14	Russian Ruble {Mar 14}
+R6H15	Russian Ruble {Mar 15}
+R6M11	Russian Ruble {Jun 11}
+R6M12	Russian Ruble {Jun 12}
+R6M13	Russian Ruble {Jun 13}
+R6M14	Russian Ruble {Jun 14}
+R6M15	Russian Ruble {Jun 15}
+R6U11	Russian Ruble {Sep 11}
+R6U12	Russian Ruble {Sep 12}
+R6U13	Russian Ruble {Sep 13}
+R6U14	Russian Ruble {Sep 14}
+R6U15	Russian Ruble {Sep 15}
+R6Z11	Russian Ruble {Dec 11}
+R6Z12	Russian Ruble {Dec 12}
+R6Z13	Russian Ruble {Dec 13}
+R6Z14	Russian Ruble {Dec 14}
+RA	South African Rand(P
+RA.C	South African Rand(P Continuation
+RAF12	South African Rand(P {Jan 12}
+RAG11	South African Rand(P {Feb 11}
+RAH11	South African Rand(P {Mar 11}
+RAH12	South African Rand(P {Mar 12}
+RAJ11	South African Rand(P {Apr 11}
+RAK11	South African Rand(P {May 11}
+RAM11	South African Rand(P {Jun 11}
+RAM12	South African Rand(P {Jun 12}
+RAN11	South African Rand(P {Jul 11}
+RAQ11	South African Rand(P {Aug 11}
+RAU11	South African Rand(P {Sep 11}
+RAV11	South African Rand(P {Oct 11}
+RAX11	South African Rand(P {Nov 11}
+RAZ11	South African Rand(P {Dec 11}
+RF	Euro/Swiss
+RF.C	Euro/Swiss Continuation
+RFH11	Euro/Swiss {Mar 11}
+RFH12	Euro/Swiss {Mar 12}
+RFM11	Euro/Swiss {Jun 11}
+RFM12	Euro/Swiss {Jun 12}
+RFU11	Euro/Swiss {Sep 11}
+RFZ11	Euro/Swiss {Dec 11}
+RP	Euro/Pound
+RP.C	Euro/Pound Continuation
+RPH11	Euro/Pound {Mar 11}
+RPH12	Euro/Pound {Mar 12}
+RPM11	Euro/Pound {Jun 11}
+RPM12	Euro/Pound {Jun 12}
+RPU11	Euro/Pound {Sep 11}
+RPZ11	Euro/Pound {Dec 11}
+RU	Russian Ruble (P)
+RU.C	Russian Ruble (P) Continuation
+RUH11	Russian Ruble (P) {Mar 11}
+RUH12	Russian Ruble (P) {Mar 12}
+RUH13	Russian Ruble (P) {Mar 13}
+RUH14	Russian Ruble (P) {Mar 14}
+RUH15	Russian Ruble (P) {Mar 15}
+RUM11	Russian Ruble (P) {Jun 11}
+RUM12	Russian Ruble (P) {Jun 12}
+RUM13	Russian Ruble (P) {Jun 13}
+RUM14	Russian Ruble (P) {Jun 14}
+RUM15	Russian Ruble (P) {Jun 15}
+RUU11	Russian Ruble (P) {Sep 11}
+RUU12	Russian Ruble (P) {Sep 12}
+RUU13	Russian Ruble (P) {Sep 13}
+RUU14	Russian Ruble (P) {Sep 14}
+RUU15	Russian Ruble (P) {Sep 15}
+RUZ11	Russian Ruble (P) {Dec 11}
+RUZ12	Russian Ruble (P) {Dec 12}
+RUZ13	Russian Ruble (P) {Dec 13}
+RUZ14	Russian Ruble (P) {Dec 14}
+RY	Euro/Yen
+RY.C	Euro/Yen Continuation
+RYH11	Euro/Yen {Mar 11}
+RYH12	Euro/Yen {Mar 12}
+RYM11	Euro/Yen {Jun 11}
+RYM12	Euro/Yen {Jun 12}
+RYU11	Euro/Yen {Sep 11}
+RYZ11	Euro/Yen {Dec 11}
+S6	Swiss Franc
+S6.C	Swiss Franc Continuation
+S6H11	Swiss Franc {Mar 11}
+S6H12	Swiss Franc {Mar 12}
+S6M11	Swiss Franc {Jun 11}
+S6M12	Swiss Franc {Jun 12}
+S6U11	Swiss Franc {Sep 11}
+S6Z11	Swiss Franc {Dec 11}
+SF	Swiss Franc (P)
+SF.C	Swiss Franc (P) Continuation
+SFH11	Swiss Franc (P) {Mar 11}
+SFH12	Swiss Franc (P) {Mar 12}
+SFM11	Swiss Franc (P) {Jun 11}
+SFM12	Swiss Franc (P) {Jun 12}
+SFU11	Swiss Franc (P) {Sep 11}
+SFZ11	Swiss Franc (P) {Dec 11}
+SG	S&P 500/Barra Growth
+SG.C	S&P 500/Barra Growth Continuation
+SGH11	S&P 500/Barra Growth {Mar 11}
+SGM11	S&P 500/Barra Growth {Jun 11}
+SK	Swedish Krona
+SK.C	Swedish Krona Continuation
+SKH11	Swedish Krona {Mar 11}
+SKH12	Swedish Krona {Mar 12}
+SKM11	Swedish Krona {Jun 11}
+SKM12	Swedish Krona {Jun 12}
+SKU11	Swedish Krona {Sep 11}
+SKZ11	Swedish Krona {Dec 11}
+SO	E-Mini S&P Asia 50
+SP	S&P 500 Index
+SP.C	S&P 500 Index Continuation
+SPH11	S&P 500 Index {Mar 11}
+SPH12	S&P 500 Index {Mar 12}
+SPM11	S&P 500 Index {Jun 11}
+SPM12	S&P 500 Index {Jun 12}
+SPU11	S&P 500 Index {Sep 11}
+SPU12	S&P 500 Index {Sep 12}
+SPZ11	S&P 500 Index {Dec 11}
+SPZ12	S&P 500 Index {Dec 12}
+SPZ13	S&P 500 Index {Dec 13}
+SPZ14	S&P 500 Index {Dec 14}
+SPZ15	S&P 500 Index {Dec 15}
+SU	S&P 500/Barra Value
+SU.C	S&P 500/Barra Value Continuation
+SUH11	S&P 500/Barra Value {Mar 11}
+SUM11	S&P 500/Barra Value {Jun 11}
+T6	South African Rand
+T6.C	South African Rand Continuation
+T6F12	South African Rand {Jan 12}
+T6G11	South African Rand {Feb 11}
+T6H11	South African Rand {Mar 11}
+T6H12	South African Rand {Mar 12}
+T6J11	South African Rand {Apr 11}
+T6K11	South African Rand {May 11}
+T6M11	South African Rand {Jun 11}
+T6M12	South African Rand {Jun 12}
+T6N11	South African Rand {Jul 11}
+T6Q11	South African Rand {Aug 11}
+T6U11	South African Rand {Sep 11}
+T6U12	South African Rand {Sep 12}
+T6V11	South African Rand {Oct 11}
+T6X11	South African Rand {Nov 11}
+T6Z11	South African Rand {Dec 11}
+TB	3-Month T-Bill
+TB.C	3-Month T-Bill Continuation
+TBG11	3-Month T-Bill {Feb 11}
+TBH11	3-Month T-Bill {Mar 11}
+TBJ11	3-Month T-Bill {Apr 11}
+TBM11	3-Month T-Bill {Jun 11}
+TBU11	3-Month T-Bill {Sep 11}
+TBZ11	3-Month T-Bill {Dec 11}
+UA	Euro/Krona
+UA.C	Euro/Krona Continuation
+UAH11	Euro/Krona {Mar 11}
+UAH12	Euro/Krona {Mar 12}
+UAM11	Euro/Krona {Jun 11}
+UAM12	Euro/Krona {Jun 12}
+UAU11	Euro/Krona {Sep 11}
+UAZ11	Euro/Krona {Dec 11}
+UB	Euro/Krone
+UB.C	Euro/Krone Continuation
+UBH11	Euro/Krone {Mar 11}
+UBH12	Euro/Krone {Mar 12}
+UBM11	Euro/Krone {Jun 11}
+UBM12	Euro/Krone {Jun 12}
+UBU11	Euro/Krone {Sep 11}
+UBZ11	Euro/Krone {Dec 11}
+UC	Euro/Australian
+UC.C	Euro/Australian Continuation
+UCH11	Euro/Australian {Mar 11}
+UCH12	Euro/Australian {Mar 12}
+UCM11	Euro/Australian {Jun 11}
+UCM12	Euro/Australian {Jun 12}
+UCU11	Euro/Australian {Sep 11}
+UCZ11	Euro/Australian {Dec 11}
+UE	Euro/Canadian
+UE.C	Euro/Canadian Continuation
+UEH11	Euro/Canadian {Mar 11}
+UEH12	Euro/Canadian {Mar 12}
+UEM11	Euro/Canadian {Jun 11}
+UEM12	Euro/Canadian {Jun 12}
+UEU11	Euro/Canadian {Sep 11}
+UEZ11	Euro/Canadian {Dec 11}
+UF	Canadian/Yen
+UF.C	Canadian/Yen Continuation
+UFH11	Canadian/Yen {Mar 11}
+UFH12	Canadian/Yen {Mar 12}
+UFM11	Canadian/Yen {Jun 11}
+UFM12	Canadian/Yen {Jun 12}
+UFU11	Canadian/Yen {Sep 11}
+UFZ11	Canadian/Yen {Dec 11}
+UG	Australian/Canadian
+UG.C	Australian/Canadian Continuation
+UGH11	Australian/Canadian {Mar 11}
+UGH12	Australian/Canadian {Mar 12}
+UGM11	Australian/Canadian {Jun 11}
+UGM12	Australian/Canadian {Jun 12}
+UGU11	Australian/Canadian {Sep 11}
+UGZ11	Australian/Canadian {Dec 11}
+UI	Australian/N.Zealand
+UI.C	Australian/N.Zealand Continuation
+UIH11	Australian/N.Zealand {Mar 11}
+UIH12	Australian/N.Zealand {Mar 12}
+UIM11	Australian/N.Zealand {Jun 11}
+UIU11	Australian/N.Zealand {Sep 11}
+UIZ11	Australian/N.Zealand {Dec 11}
+UK	Australian/Yen
+UK.C	Australian/Yen Continuation
+UKH11	Australian/Yen {Mar 11}
+UKH12	Australian/Yen {Mar 12}
+UKM11	Australian/Yen {Jun 11}
+UKM12	Australian/Yen {Jun 12}
+UKU11	Australian/Yen {Sep 11}
+UKZ11	Australian/Yen {Dec 11}
+UN	British/Swiss Franc
+UN.C	British/Swiss Franc Continuation
+UNH11	British/Swiss Franc {Mar 11}
+UNH12	British/Swiss Franc {Mar 12}
+UNM11	British/Swiss Franc {Jun 11}
+UNM12	British/Swiss Franc {Jun 12}
+UNU11	British/Swiss Franc {Sep 11}
+UNZ11	British/Swiss Franc {Dec 11}
+UP	Swiss Franc/Yen
+UP.C	Swiss Franc/Yen Continuation
+UPH11	Swiss Franc/Yen {Mar 11}
+UPH12	Swiss Franc/Yen {Mar 12}
+UPM11	Swiss Franc/Yen {Jun 11}
+UPM12	Swiss Franc/Yen {Jun 12}
+UPU11	Swiss Franc/Yen {Sep 11}
+UPZ11	Swiss Franc/Yen {Dec 11}
+UR	British/Yen
+UR.C	British/Yen Continuation
+URH11	British/Yen {Mar 11}
+URH12	British/Yen {Mar 12}
+URM11	British/Yen {Jun 11}
+URM12	British/Yen {Jun 12}
+URU11	British/Yen {Sep 11}
+URZ11	British/Yen {Dec 11}
+WC.C	Czech Koruna Continuation
+WCH11	Czech Koruna {Mar 11}
+WCH12	Czech Koruna {Mar 12}
+WCM11	Czech Koruna {Jun 11}
+WCM12	Czech Koruna {Jun 12}
+WCU11	Czech Koruna {Sep 11}
+WCZ11	Czech Koruna {Dec 11}
+WE.C	Euro/Czech Koruna Continuation
+WEH11	Euro/Czech Koruna {Mar 11}
+WEH12	Euro/Czech Koruna {Mar 12}
+WEM11	Euro/Czech Koruna {Jun 11}
+WEM12	Euro/Czech Koruna {Jun 12}
+WEU11	Euro/Czech Koruna {Sep 11}
+WEZ11	Euro/Czech Koruna {Dec 11}
+WH	Hungarian Forint
+WH.C	Hungarian Forint Continuation
+WHH11	Hungarian Forint {Mar 11}
+WHH12	Hungarian Forint {Mar 12}
+WHM11	Hungarian Forint {Jun 11}
+WHM12	Hungarian Forint {Jun 12}
+WHU11	Hungarian Forint {Sep 11}
+WHZ11	Hungarian Forint {Dec 11}
+WM.C	E-Micro JPY/USD Continuation
+WMH11	E-Micro JPY/USD {Mar 11}
+WMM11	E-Micro JPY/USD {Jun 11}
+WP	Polish Zloty
+WP.C	Polish Zloty Continuation
+WPH11	Polish Zloty {Mar 11}
+WPH12	Polish Zloty {Mar 12}
+WPM11	Polish Zloty {Jun 11}
+WPM12	Polish Zloty {Jun 12}
+WPU11	Polish Zloty {Sep 11}
+WPZ11	Polish Zloty {Dec 11}
+WU	Euro/Hungary Forint
+WU.C	Euro/Hungary Forint Continuation
+WUH11	Euro/Hungary Forint {Mar 11}
+WUH12	Euro/Hungary Forint {Mar 12}
+WUM11	Euro/Hungary Forint {Jun 11}
+WUM12	Euro/Hungary Forint {Jun 12}
+WUU11	Euro/Hungary Forint {Sep 11}
+WUZ11	Euro/Hungary Forint {Dec 11}
+WY	Israeli Shekel
+WY.C	Israeli Shekel Continuation
+WYH11	Israeli Shekel {Mar 11}
+WYH12	Israeli Shekel {Mar 12}
+WYM11	Israeli Shekel {Jun 11}
+WYM12	Israeli Shekel {Jun 12}
+WYU11	Israeli Shekel {Sep 11}
+WYZ11	Israeli Shekel {Dec 11}
+WZ	Euro/Polish Zloty
+WZ.C	Euro/Polish Zloty Continuation
+WZH11	Euro/Polish Zloty {Mar 11}
+WZH12	Euro/Polish Zloty {Mar 12}
+WZM11	Euro/Polish Zloty {Jun 11}
+WZM12	Euro/Polish Zloty {Jun 12}
+WZU11	Euro/Polish Zloty {Sep 11}
+WZZ11	Euro/Polish Zloty {Dec 11}
+X1	NYSE Tick
+X2	NYSE Trin
+XP.C	Softwood Pulp Continuation
+XPF12	Softwood Pulp {Jan 12}
+XPG11	Softwood Pulp {Feb 11}
+XPG12	Softwood Pulp {Feb 12}
+XPH11	Softwood Pulp {Mar 11}
+XPH12	Softwood Pulp {Mar 12}
+XPJ11	Softwood Pulp {Apr 11}
+XPJ12	Softwood Pulp {Apr 12}
+XPK11	Softwood Pulp {May 11}
+XPK12	Softwood Pulp {May 12}
+XPM11	Softwood Pulp {Jun 11}
+XPM12	Softwood Pulp {Jun 12}
+XPN11	Softwood Pulp {Jul 11}
+XPN12	Softwood Pulp {Jul 12}
+XPQ11	Softwood Pulp {Aug 11}
+XPQ12	Softwood Pulp {Aug 12}
+XPU11	Softwood Pulp {Sep 11}
+XPU12	Softwood Pulp {Sep 12}
+XPV11	Softwood Pulp {Oct 11}
+XPV12	Softwood Pulp {Oct 12}
+XPX11	Softwood Pulp {Nov 11}
+XPX12	Softwood Pulp {Nov 12}
+XPZ11	Softwood Pulp {Dec 11}
+XY	BXY TRAKRS
+XY.C	BXY TRAKRS Continuation
+XYJ11	BXY TRAKRS {Apr 11}
+XZ	PIMCO TRAKRS
+XZ.C	PIMCO TRAKRS Continuation
+XZM11	PIMCO TRAKRS {Jun 11}

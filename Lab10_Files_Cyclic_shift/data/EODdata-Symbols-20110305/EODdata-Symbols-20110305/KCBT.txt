@@ -1,0 +1,23 @@
+Symbol	Description
+KE	KCBT Red Wheat
+KE.C	KCBT Red Wheat Continuation
+KEH11	KCBT Red Wheat {Mar 11}
+KEH12	KCBT Red Wheat {Mar 12}
+KEK11	KCBT Red Wheat {May 11}
+KEK12	KCBT Red Wheat {May 12}
+KEN11	KCBT Red Wheat {Jul 11}
+KEN12	KCBT Red Wheat {Jul 12}
+KEU11	KCBT Red Wheat {Sep 11}
+KEZ11	KCBT Red Wheat {Dec 11}
+KW	KCBT Red Wheat (P)
+KW.C	KCBT Red Wheat (P) Continuation
+KWH11	KCBT Red Wheat (P) {Mar 11}
+KWH12	KCBT Red Wheat (P) {Mar 12}
+KWK11	KCBT Red Wheat (P) {May 11}
+KWK12	KCBT Red Wheat (P) {May 12}
+KWN11	KCBT Red Wheat (P) {Jul 11}
+KWN12	KCBT Red Wheat (P) {Jul 12}
+KWU11	KCBT Red Wheat (P) {Sep 11}
+KWZ11	KCBT Red Wheat (P) {Dec 11}
+MV	Value Line Index
+V9	Value Line Index {Dec 99}

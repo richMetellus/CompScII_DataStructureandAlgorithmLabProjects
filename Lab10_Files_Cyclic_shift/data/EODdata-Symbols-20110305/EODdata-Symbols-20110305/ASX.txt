@@ -1,0 +1,2761 @@
+Symbol	Description
+AAC.AX	Australian Agricultural Company Ltd
+AAD.AX	Ardent Leisure Group
+AAE.AX	Australian Ethanol Ltd
+AAG.AX	Aragon Resources Ltd
+AAI.AX	Alcoa Inc (USA CUFS)
+AAJ.AX	Aruma Resources Limited
+AAK.AX	AAK
+AAKO.AX	Australia China Holdings Limited
+AAL.AX	Apac Coal Ltd
+AAM.AX	A1 Minerals Ltd
+AAO.AX	Australasia Gold Ltd
+AAOO.AX	AAOO
+AAQ.AX	Australis Aquaculture Ltd
+AAR.AX	Anglo Australian Resources NL
+AAS.AX	Asian Pacific Ltd
+AAT.AX	Autron Corporation Ltd
+AAU.AX	Adcorp Australia Ltd
+AAX.AX	Ausenco Ltd
+AAY.AX	Aacl Holdings Limited
+AAZPB.AX	AAZ
+ABC.AX	Adelaide Brighton Ltd
+ABN.AX	Adeffective Limited
+ABP.AX	Abacus Property Group
+ABQ.AX	Allied Brands Ltd
+ABU.AX	ABM Resources NL
+ABV.AX	Advanced Braking Technology Ltd
+ABW.AX	Aurora Buy Write Income Trust
+ABY.AX	Aditya Birla Minerals Ltd
+ABZ.AX	Australian Bauxite Limited
+ACB.AX	A-Cap Resources Ltd
+ACE.AX	Advanced Engine Components Ltd
+ACG.AX	Atcor Medical Holdings Ltd
+ACK.AX	Austock Group Ltd
+ACL.AX	Alchemia Ltd
+ACR.AX	Acrux Ltd
+ACS.AX	Accent Resources NL
+ACU.AX	Avantogen Ltd
+ACW.AX	Actinogen Ltd
+ACWO.AX	Actinogen Ltd
+ACWOA.AX	Actinogen Limited
+ACZ.AX	Atticus Resources Ltd
+ACZO.AX	Atticus Resources Ltd
+ADA.AX	Adacel Technologies Ltd
+ADD.AX	Adavale Resources Ltd
+ADE.AX	Australian Diamond Explrtn t/over ASH
+ADN.AX	Adelaide Resources Ltd
+ADO.AX	
+ADQ.AX	ADG Global Supply Ltd
+ADQO.AX	Adg Global Supply Limited.
+ADU.AX	Adamus Resources Ltd
+ADX.AX	Audax Resources Ltd
+ADXO.AX	ADXO
+ADY.AX	Admiralty Resources NL
+AEA.AX	Altera Capital Ltd
+AEAO.AX	Altera Resources Limited
+AEB.AX	Algae.tec Limited
+AED.AX	AED Oil Ltd
+AEE.AX	Aura Energy Ltd
+AEF.AX	Australian Ethical Investments Ltd
+AEI.AX	Aeris Technologies Ltd
+AEJ.AX	Alinta Energy Group
+AEK.AX	Anatolia Energy Limited
+AEM.AX	Artist & Entertainment Group Ltd
+AEO.AX	Austereo Group Ltd
+AES.AX	Advanced Energy Systems Ltd
+AEU.AX	Australian Education Trust
+AEX.AX	Acclaim Exploration NL
+AEXCD.AX	Acclaim Exploration NL
+AEZ.AX	APN UKA European Retail Trust
+AFA.AX	ASF Group Ltd
+AFI.AX	Australian Foundation Invest Ltd
+AFR.AX	African Energy Resources (Guernsey) Ltd
+AFT.AX	AFT Corporation Ltd
+AFV.AX	Aurora Funds Limited
+AGD.AX	Austral Gold Ltd
+AGE.AX	Alligator Energy Limited
+AGF.AX	AMP Capital China Growth Fund
+AGG.AX	Anglogold Ashanti Ltd (Sth Afr CUFS)
+AGI.AX	Ainsworth Game Technology Ltd
+AGIG.AX	AGIG
+AGJ.AX	Agricultural Land Trust
+AGK.AX	AGL Energy
+AGKKZE.AX	AGL Energy
+AGKKZQ.AX	AGL Energy
+AGKKZR.AX	Agl Energy Limited
+AGO.AX	Atlas Gold Ltd
+AGR.AX	Aguia Resources Limited
+AGS.AX	Alliance Resources Ltd
+AGU.AX	Aurium Resources Ltd
+AGUOA.AX	Aurium Resources Limited
+AGV.AX	Australian Gold Investments Ltd
+AGX.AX	Agenix Ltd
+AGXO.AX	Agenix Ltd
+AGY.AX	Argosy Minerals Inc (CUFS)
+AHC.AX	AHC Ltd
+AHD.AX	Amalgamated Holdings Ltd
+AHE.AX	Automotive Holdings Group Ltd
+AHN.AX	Athena Resources Ltd
+AHNOA.AX	Athena Resources Limited
+AHR.AX	Anchor Resources Ltd
+AIA.AX	Auckland International Airport Ltd
+AIB.AX	Aurora Infrastructure Buy Write Income Trust
+AIE.AX	A.I. Ltd
+AIG.AX	Air Cruising Australia Ltd
+AII.AX	ABRA Mining Ltd
+AIO.AX	Asciano Group
+AIQ.AX	Alternative Investment Trust
+AIR.AX	Astivita Renewables Limited
+AIV.AX	Activex Ltd
+AIW.AX	Australian-american Mining Corporation
+AIWO.AX	Australian-american Mining Corporation Nl
+AIX.AX	Australian Infrastructure Group
+AIY.AX	Authorised Investment Fund Ltd
+AIYO.AX	Authorised Investment Fund Limited
+AIZ.AX	Air New Zealand Ltd
+AJA.AX	Astro Japan Property Trust
+AJJ.AX	Asian Centre For Liver Diseases And Transplantation Limited
+AJL.AX	AJ Lucas Group Ltd
+AJM.AX	Altura Mining Limited
+AJMOA.AX	Altura Mining Limited
+AJO.AX	Armstrong Jones Office Fund
+AJX.AX	Alexium International Group Limited
+AKA.AX	Australia Minerals And Mining Group Ltd
+AKAO.AX	Australia Minerals And Mining Group Ltd
+AKF.AX	
+AKG.AX	AKG
+AKI.AX	AKI
+AKIOA.AX	AKIOA
+AKK.AX	Austin Exporation Ltd
+AKKO.AX	Austin Exploration Limited
+AKM.AX	Aspire Mining Limited
+AKP.AX	Audio Pixels Holdings Limited
+AKR.AX	AKR
+AKS.AX	Australian Masters Corporate Bond Fund No 1 Limited
+AKT.AX	Australian Masters Corporate Bond Fund No 2 Limited
+AKU.AX	Australian Masters Corporate Bond Fund No 3 Limited
+AKW.AX	Arturus Capital Limited
+ALB.AX	Albidon Ltd
+ALD.AX	Allied Gold Ltd
+ALF.AX	Australian Leaders Fund Ltd
+ALG.AX	Applied Learning Ltd t/over
+ALGO.AX	Alamar Resources Limited
+ALK.AX	Alkane Exploration Ltd
+ALL.AX	Aristocrat Leisure Ltd
+ALR.AX	Aberdeen Leaders Ltd
+ALS.AX	Alesco Corporation Ltd
+ALT.AX	Analytica Ltd
+ALU.AX	Altium Ltd
+ALY.AX	Alchemy Resources Ltd
+ALZ.AX	Australand Property Group
+AMA.AX	Allomak Ltd
+AMB.AX	Ambition Group Ltd
+AMC.AX	Amcor Ltd
+AMCTMC.AX	Amcor Limited
+AMH.AX	AMCIL Ltd
+AMM.AX	Amcom Telecommunications Ltd
+AMO.AX	Ambertech Ltd
+AMP.AX	AMP Ltd
+AMPKZH.AX	AMP Ltd
+AMPKZI.AX	AMP Ltd
+AMPKZR.AX	Amp Limited
+AMPKZZ.AX	Amp Limited
+AMT.AX	Advanced Surgical Design & Manufacture Ltd
+AMU.AX	Amadeus Energy Ltd
+AMX.AX	Ampella Mining Ltd
+ANG.AX	Austin Engineering Ltd
+ANM.AX	Australian Magnesium Corporation Ltd
+ANN.AX	Ansell Ltd
+ANO.AX	Advanced Nanotechnology Ltd
+ANP.AX	Antisense Therapeutics Ltd
+ANPO.AX	ANPO
+ANQ.AX	Anaeco Ltd
+ANQOA.AX	Anaeco Ltd
+ANW.AX	Ausnico Limited
+ANZ.AX	Australia & NZ Banking Group Ltd
+ANZKZL.AX	Australia & NZ Banking Group Ltd
+ANZKZM.AX	Australia & NZ Banking Group Ltd
+ANZKZN.AX	Australia And New Zealand Banking Group Limited
+ANZKZT.AX	Australia & NZ Banking Group Ltd
+ANZKZX.AX	Australia And New Zealand Banking Group Limited
+ANZMMI.AX	Australia & NZ Banking Group Ltd
+ANZPA.AX	ANZ Bank Perf
+ANZPB.AX	Australia & NZ Banking Group Ltd
+ANZTMA.AX	Australia And New Zealand Banking Group Limited
+ANZTMC.AX	Australia And New Zealand Banking Group Limited
+ANZUMA.AX	Australia And New Zealand Banking Group Limited
+ANZUMB.AX	Australia And New Zealand Banking Group Limited
+AOA.AX	
+AOC.AX	Australian Oil Company Ltd
+AOCOA.AX	Australian Oil Company Limited
+AOD.AX	Aurora Sandringham Dividend Income Trust
+AOH.AX	Altona Mining Limited
+AOK.AX	Austex Oil Ltd
+AOKO.AX	Austex Oil Limited
+AOM.AX	Australia Oriental Minerals NL
+AON.AX	Apollo Minerals Ltd
+AONO.AX	Apollo Minerals Ltd
+AOP.AX	Apollo Life Sciences Ltd
+APA.AX	Australian Pipeline Trust
+APB.AX	Arafura Pearls Holdings Ltd
+APBO.AX	Arafura Pearls Holdings Limited
+APD.AX	APN Property Group Ltd
+APE.AX	AP Eagers Holdings Ltd
+APG.AX	Austpac Gold Resources NL
+APH.AX	Ascent Pharmahealth Ltd
+API.AX	Australian Pharmaceutical Ind Ltd
+APK.AX	Australian Power & Gas Company Ltd
+APN.AX	APN News & Media Ltd
+APP.AX	APA Financial Services Ltd
+APZ.AX	Aspen Group
+AQA.AX	Aquila Resources Ltd
+AQC.AX	Australian Pacific Coal Limited
+AQD.AX	AusQuest Ltd
+AQF.AX	Australian Governance Masters Index Fund Limited
+AQG.AX	Anatolia Minerals Development Limited
+AQP.AX	Aquarius Platinum Ltd (Bermuda)
+AQQ.AX	Aphrodite Gold Limited
+AQQO.AX	Aphrodite Gold Limited
+AQR.AX	Aussie Q Resources Ltd
+ARA.AX	Ariadne Australia Ltd
+ARD.AX	Argent Minerials Lts
+ARDO.AX	Argent Minerials Lts
+ARE.AX	Argonaut Resources NL
+ARG.AX	Argo Investments Ltd
+ARH.AX	Australasian Resources Ltd
+ARJ.AX	Ark Fund Ltd
+ARM.AX	Aurora Minerals Ltd
+ARO.AX	Astro Diamond Mines NL
+AROOB.AX	Macquarie Goodman Group
+ARP.AX	ARB Corporation Ltd
+ARR.AX	Arasor International Ltd
+ARU.AX	Arafura Resources NL
+ARV.AX	Artemis Resources Ltd
+ARVOB.AX	Artemis Resources Limited
+ARW.AX	Australian Renewable Fuels Ltd
+ARWO.AX	Australian Renewable Fuels Limited
+ARX.AX	Austindo Resources Corporation NL
+ARXO.AX	Austindo Resources Corporation NL
+ASB.AX	Austal Ltd
+ASL.AX	Ausdrill Ltd
+ASP.AX	Aspermont Ltd
+ASQ.AX	Asset Loans Ltd
+ASR.AX	Australian Rural Group Ltd
+ASU.AX	Alpha Technologies Corporation Ltd
+ASW.AX	Advanced Share Registry Ltd
+ASX.AX	Australian Stock Exchange Ltd
+ASXKZI.AX	Australian Stock Exchange Ltd
+ASXMMI.AX	Australian Stock Exchange Ltd
+ASXUMD.AX	Asx Limited
+ASXUMQ.AX	Asx Limited
+ASZ.AX	ASG Group Ltd
+ATH.AX	Atech Holdings Ltd
+ATI.AX	Atlantic Ltd
+ATIO.AX	Atlantic Ltd
+ATJ.AX	Automative Technology Group Ltd
+ATJO.AX	Automotive Technology Group Limited
+ATJOA.AX	Automotive Technology Group Limited
+ATM.AX	Aneka Tambang (Persero) Tbk (Indo)
+ATN.AX	Ashburton Minerals Ltd
+ATP.AX	Atlas Pacific Ltd
+ATQ.AX	Atomic Resouorces Ltd
+ATQO.AX	Atomic Resouorces Ltd
+ATR.AX	Astron Ltd
+ATV.AX	Atlantic Gold NL
+ATVCD.AX	Atlantic Gold NL
+ATW.AX	ATOS Wellness Ltd
+AUB.AX	Austbrokers Holdings Ltd
+AUC.AX	Ausgold Limited
+AUCO.AX	Ausgold Limited
+AUF.AX	Asian Masters Fund Ltd
+AUI.AX	Australian United Investment Ltd
+AUJ.AX	Augustus Minerals Ltd
+AUK.AX	Augur Resources Ltd
+AUN.AX	Austar United Communications Ltd
+AUP.AX	Aurora Property Income Trust
+AUQ.AX	Alara Uranium Ltd
+AUT.AX	Aurora Oil & Gas Ltd
+AUV.AX	Australis Mining Corporation Ltd
+AUZ.AX	Australian Mines Ltd
+AVA.AX	Aviva Corporation Ltd
+AVB.AX	Avanco Resources Ltd
+AVBOB.AX	Avanco Resources Ltd
+AVD.AX	Advance Energy Ltd
+AVDG.AX	Advance Energy Limited
+AVDOA.AX	Advance Energy Limited
+AVG.AX	Australian Vintage Ltd t/over by SWS
+AVH.AX	Avita Medical Ltd
+AVI.AX	Avalon Minerials Ltd
+AVJ.AX	AV Jennings Homes Ltd
+AVM.AX	Anvil Mining Ltd (Canada CUFS)
+AVO.AX	Avoca Resources Ltd
+AVQ.AX	Axiom Mining Ltd
+AVS.AX	Avastra Ltd
+AVX.AX	Avexa Ltd
+AVY.AX	Avenue Resources Limited
+AVZ.AX	Avonlea Minerals Ltd
+AWC.AX	Alumina Ltd
+AWCKZA.AX	Alumina Limited
+AWCKZB.AX	Alumina Limited
+AWE.AX	Australian Worldwide Exploration Ltd
+AXA.AX	AXA Asia Pacific Holdings Ltd
+AXAKZE.AX	AXA Asia Pacific Holdings Ltd
+AXC.AX	AXG Mining Ltd
+AXE.AX	Archer Exploration Ltd
+AXI.AX	Axiom Properties Ltd
+AXM.AX	Apex Minerals NL
+AXMO.AX	Apex Minerals Nl
+AXMR.AX	Apex Minerals Nl
+AXT.AX	Argo Exploration Ltd
+AXZ.AX	AMEX Resources Ltd
+AYA.AX	Attila Resources Limited
+AYF.AX	Australian Enhanced Income Fund
+AYG.AX	AYG
+AYN.AX	Alcyone Resources Ltd
+AYNOB.AX	Alcyone Resources Ltd
+AYR.AX	Alloy Resources Ltd
+AYT.AX	Adelaide Managed Funds Asset Trust
+AYX.AX	Austofix Group Ltd
+AZC.AX	Australian Zircon NL
+AZCCA.AX	Australian Zircon NL
+AZF.AX	The Australian Social Infrastructure Fund
+AZG.AX	Allmine Group Limited
+AZH.AX	Azimuth Resources Limited
+AZM.AX	Azumah Resources Ltd
+AZO.AX	Apollo Gas Limited
+AZS.AX	Azure Minerals Ltd
+AZT.AX	Aston Resources Limited
+AZU.AX	Azurn International Limited
+AZX.AX	Auzex Resources Ltd
+AZXOA.AX	Auzex Resources Limited
+AZZ.AX	Antares Energy Ltd
+AZZG.AX	Antares Energy Ltd
+BAA.AX	Bailey Minerals Nl
+BAO.AX	Brookfield Australian Opportunities Fund
+BAR.AX	Barra Resources ltd
+BAS.AX	Bass Strait Oil Company Ltd
+BAU.AX	Bauxite Resources Ltd
+BBG.AX	Billabong International Ltd
+BBL.AX	Brisbane Broncos Ltd
+BBX.AX	BBX Holdings Ltd
+BCC.AX	Buccaneer Energy Ltd
+BCCO.AX	Buccaneer Energy Limited
+BCD.AX	Beaconsfield Gold NL
+BCI.AX	BC Iron Ltd
+BCN.AX	Beacon Minerals Ltd
+BCO.AX	Bcd Resources (operations) Nl
+BCOCC.AX	Bcd Resources (operations) Nl
+BCS.AX	Brisconnections Unit Trusts
+BDI.AX	Blina Diamonds NL
+BDM.AX	Biodiem Ltd
+BDMO.AX	Biodiem Limited
+BDR.AX	Beadell Resources Ltd
+BEC.AX	Becton Property Group Ltd
+BECG.AX	Becton Property Group Ltd
+BEL.AX	Bentley International Ltd
+BEN.AX	Bendigo Bank Ltd
+BENPA.AX	Bendigo Bank Ltd
+BENPB.AX	Bendigo Bank Ltd
+BENPC.AX	Bendigo Bank Ltd
+BER.AX	Berklee Ltd
+BFE.AX	BLack Fire Energy Ltd
+BFG.AX	Bell Financial Group Ltd
+BGD.AX	Boulder Steel Ltd
+BGDO.AX	Boulder Steel Ltd
+BGG.AX	Blackgold International Holdings Limited
+BGL.AX	Bigair Group Ltd
+BHP.AX	BHP Billiton Ltd
+BHPKZB.AX	BHP Billiton Ltd
+BHPKZC.AX	BHP Billiton Ltd
+BHPKZD.AX	BHP Billiton Ltd
+BHPKZE.AX	Bhp Billiton Limited
+BHPKZJ.AX	Bhp Billiton Limited
+BHPKZP.AX	BHP Billiton Ltd
+BHPKZQ.AX	Bhp Billiton Limited
+BHPKZR.AX	Bhp Billiton Limited
+BHPMMH.AX	BHP Billiton Ltd
+BHPMMI.AX	BHP Billiton Ltd
+BIC.AX	Biron Capital Ltd
+BIS.AX	
+BIT.AX	Biotron Ltd
+BITO.AX	Biotron Limited
+BIV.AX	Blue Capital Limited
+BKI.AX	Brickworks Investment Company Ltd
+BKL.AX	Blackmores Laboratories Ltd
+BKM.AX	BKM Management Ltd
+BKN.AX	Bradken Ltd
+BKP.AX	Baraka Petroleum Ltd
+BKW.AX	Brickworks Ltd
+BKY.AX	Berkeley Resources Ltd
+BKYO.AX	BKYO
+BLD.AX	Boral Ltd
+BLDKZR.AX	Boral Limited.
+BLG.AX	Blugass Ltd
+BLK.AX	Blackham Resources Ltd
+BLKO.AX	BLKO
+BLR.AX	Black Range Minerals Ltd
+BLRO.AX	BLRO
+BLT.AX	Benitec Ltd
+BLTO.AX	BLTO
+BLTOA.AX	Benitec Ltd
+BLY.AX	Boart Longyear Ltd
+BLYTMC.AX	Boart Longyear Limited
+BLZ.AX	Blaze International Ltd
+BMG.AX	Brazilian Metals Group Limited.
+BML.AX	Bank of Melbourne merger WBC
+BMLO.AX	Botswana Metals Limited
+BMN.AX	Bannerman Resources Ltd
+BMY.AX	Brumby Resources Ltd
+BMYOA.AX	Brumby Resources Limited
+BMZ.AX	Black Mountain Resources Limited
+BNC.AX	Bioniche Life Sciences Inc.
+BND.AX	Bandanna Energy Ltd
+BNE.AX	Bone Medical Ltd
+BNO.AX	Bionomics Ltd
+BNR.AX	Bulletin Resources Limited
+BNT.AX	Bounty Industries Ltd
+BNTO.AX	BNTO
+BNV.AX	Brand New Vintage Ltd
+BOC.AX	Bougainville Copper Ltd (PNG)
+BOD.AX	bioMD Ltd
+BODOA.AX	Biomd Limited
+BOE.AX	Boss Energy Ltd
+BOL.AX	Boom Logistics Ltd
+BOM.AX	Bondi Mining Ltd
+BOQ.AX	Bank of Queensland Ltd
+BOQPC.AX	Bank of Queensland Ltd
+BOW.AX	Bow Energy Ltd
+BPACB.AX	Brookfield Prime Property Fund
+BPG.AX	Byte Power Group Ltd
+BPH.AX	BioPharmica Ltd
+BPHO.AX	BPHO
+BPK.AX	Bremer Park Ltd
+BPL.AX	Broken Hill Prospecting Limited
+BPLOA.AX	Broken Hill Prospecting Limited
+BPO.AX	BioProspect Ltd
+BPOO.AX	BPOO
+BPT.AX	Beach Petroleum Ltd
+BRC.AX	Brain Resource Company Ltd (The)
+BRD.AX	Black Ridge Mining Ltd
+BRG.AX	Breville Group Ltd
+BRM.AX	Brockman Resources Ltd
+BRO.AX	BroadTel Communications Ltd
+BRU.AX	Buru Energy Ltd
+BRW.AX	Breakaway Resources Ltd
+BSA.AX	Broadcast Services Australia Ltd
+BSE.AX	BSE
+BSI.AX	Beyond Sportswear International Ltd
+BSL.AX	BlueScope Steel Ltd
+BSLKZS.AX	Bluescope Steel Limited
+BSM.AX	Bass Metals Ltd
+BSN.AX	Bisan Ltd
+BSR.AX	Bassari Resources Ltd
+BSRO.AX	Bassari Resources Limited
+BTA.AX	Biota Holdings Ltd
+BTC.AX	BioTech Capital Ltd
+BTN.AX	Brighton Mining Group Limited
+BTR.AX	Blackthorn Resources Ltd
+BTT.AX	BT Investment Management Ltd
+BTU.AX	Bathurst Resources Ltd
+BUG.AX	Buderim Ginger Ltd
+BUL.AX	Blue Energy Ltd
+BUR.AX	Burleson Energy Ltd
+BUROA.AX	Burleson Energy Limited
+BUT.AX	BUT
+BUTO.AX	Bright Star Resources Limited
+BUX.AX	Buxton Resources Ltd
+BUXO.AX	Buxton Resources Limited
+BUY.AX	Bounty Oil & Gas NL
+BVA.AX	Bravura Solutions Ltd
+BWD.AX	BWD
+BWN.AX	Bowen Energy Ltd
+BWP.AX	Bunnings Warehouse Property Trust
+BXB.AX	Brambles Ltd
+BXBKZG.AX	Brambles Ltd
+BXBKZP.AX	Brambles Ltd
+BXBKZR.AX	Brambles Ltd
+BXBMMI.AX	Brambles Ltd
+BYI.AX	Beyond International Ltd
+BYL.AX	Brierty Ltd
+BYR.AX	Burey Gold Ltd
+BYRO.AX	BYRO
+BZL.AX	Braziron Limited
+CAA.AX	Capral Aluminium Ltd
+CAB.AX	Cabcharge Australia Ltd
+CAF.AX	Centrepoint Alliance Ltd
+CAH.AX	Catalpa Resources Ltd
+CAHOB.AX	Catalpa Resources Ltd
+CAJ.AX	Capitol Health Ltd
+CAJO.AX	Capitol Health Limited
+CAM.AX	Clime Capital Ltd
+CAMPA.AX	Clime Capital Ltd
+CAP.AX	Carpentaria Exploration Ltd
+CAQ.AX	Cell Aquaculture Ltd
+CAS.AX	Crusader Holdings NL
+CAV.AX	Carnavale Resources Ltd
+CAVO.AX	Carnavale Resources Ltd
+CAY.AX	Canyon Resources Ltd
+CAZ.AX	Cazaly Resources Ltd
+CAZO.AX	CAZO
+CBA.AX	Commonwealth Bank Ltd
+CBAKZA.AX	Commonwealth Bank Of Australia.
+CBAKZK.AX	Commonwealth Bank Ltd
+CBAKZO.AX	Commonwealth Bank Ltd
+CBAKZR.AX	Commonwealth Bank Of Australia.
+CBAMMH.AX	Commonwealth Bank Ltd
+CBAMMI.AX	Commonwealth Bank Ltd
+CBAPA.AX	CBAPA
+CBAPB.AX	Commonwealth Bank Ltd
+CBAUMA.AX	Commonwealth Bank Of Australia.
+CBAUMR.AX	Commonwealth Bank Of Australia.
+CBB.AX	Cordlife Ltd
+CBD.AX	CBD Energy Ltd
+CBP.AX	Carbon Polymers Limited
+CBS.AX	Cabral Resources Limited
+CBX.AX	CBX
+CBZ.AX	Cbio Limited
+CCC.AX	Continental Coal Limited
+CCCO.AX	Continental Coal Limited
+CCD.AX	Caledon Resources PLC
+CCF.AX	Carbon Conscious Ltd
+CCK.AX	CCK Financial Solutions Ltd
+CCL.AX	Coca-Cola Amatil Ltd
+CCLKZA.AX	Coca-Cola Amatil Ltd
+CCLMMI.AX	Coca-Cola Amatil Ltd
+CCP.AX	Credit Corp Group Ltd
+CCQ.AX	Contango Capital Partners Ltd
+CCU.AX	Cobar Consolidated Resources Ltd
+CCV.AX	Cash Converters International Ltd
+CCY.AX	China Century Capital Ltd
+CCYG.AX	China Century Capital Ltd
+CDA.AX	Codan Ltd
+CDB.AX	Condor Blanco Mines Limited
+CDD.AX	Cardno Ltd
+CDG.AX	Cleveland Mining Company Limited
+CDH.AX	Chongherr Investments Ltd
+CDI.AX	Challenger Diversified Property Group
+CDL.AX	Canada Land Ltd (HK)
+CDM.AX	Cadence Capital Ltd
+CDP.AX	Carindale Property Trust
+CDT.AX	Castle Minerals Ltd
+CDU.AX	CuDeco Ltd
+CDY.AX	Cellmid Limited
+CEG.AX	CEC Group Ltd
+CEL.AX	CEL
+CELO.AX	CELO
+CEO.AX	C Ltd
+CEOO.AX	CEOO
+CER.AX	Centro Retail Group
+CES.AX	Coal Fe Resources Ltd
+CEU.AX	ConnectEast Group (CEUCA)
+CFE.AX	Cape Lambert Iron Ore Ltd
+CFR.AX	Cluff Resources Pacific NL
+CFROB.AX	Cluff Resources Pacific Nl
+CFU.AX	Ceramic Fuel Cells Ltd
+CFX.AX	CFS Retail Property Trust
+CGF.AX	Challenger Financial Services Group
+CGI.AX	Consolidated Global Investments Ltd
+CGM.AX	Cougar Metals NL
+CGO.AX	CPT Global Ltd
+CGR.AX	Careers Multilist Limited
+CGS.AX	Cogstate Ltd
+CGT.AX	Castlemaine Goldfields Ltd
+CGV.AX	Clean Global Energy Limited
+CGX.AX	Central Asia Gold Ltd
+CHC.AX	Charter Hall Group
+CHF.AX	Charter Pacific Corporation Ltd
+CHM.AX	Chameleon Mining NL
+CHN.AX	Chalice Gold Mines Ltd
+CHP.AX	Chapmans Ltd
+CHR.AX	Chalmers Ltd
+CHZ.AX	Chesser Resources Ltd
+CIF.AX	Challenger Infrastructure Fund
+CIG.AX	Caspian Oil & Gas Ltd
+CII.AX	CI Resources Ltd
+CIL.AX	Centrebet International Ltd
+CIN.AX	Carlton Investments Ltd
+CINPA.AX	Carlton Investments PA
+CIR.AX	Circadian Technologies Ltd
+CIW.AX	Clime Investment Management Ltd
+CIX.AX	Calliden Group Ltd
+CJO.AX	CJO
+CJT.AX	CVC Trinity Property Fund
+CKA.AX	Cokal Limited
+CKAO.AX	Cokal Limited
+CKK.AX	Coretrack Ltd
+CKKOA.AX	Coretrack Limited
+CKL.AX	Colorpak Ltd
+CKP.AX	Cheviot Kirribilly Vineyard Property Group
+CLH.AX	Collection House Ltd
+CLO.AX	Clough Ltd
+CLQ.AX	Clean Teq Holdings Ltd
+CLR.AX	Carabella Resources Limited
+CLS.AX	Celsius House Trust merger with MOF
+CLT.AX	Cellnet Group Ltd
+CLU.AX	Cloncurry Metals Ltd
+CLV.AX	Clover Corporation Ltd
+CLX.AX	CTI Logistics Ltd
+CLY.AX	Clancy Exploration Ltd
+CLYO.AX	Clancy Exploration Limited
+CMC.AX	China Magnesium Corporation Limited
+CMG.AX	Commonwealth Installment Receipts Trst
+CMI.AX	CMI Ltd
+CMIPC.AX	CMI Ltd
+CMJ.AX	Consolidated Media Holdings Ltd
+CMJKZC.AX	Consolidated Media Holdings Ltd
+CMP.AX	Compumedics Ltd
+CMQ.AX	Chemeq Ltd
+CMR.AX	Compass Resources NL
+CMV.AX	CMA Corporation Ltd
+CMW.AX	Cromwell Corporation Ltd
+CMY.AX	Capital Mining Ltd
+CMYOA.AX	Capital Mining Limited
+CNA.AX	Coal & Allied Industries Ltd
+CNB.AX	Canberra Investment Corporation Ltd
+CNC.AX	Consolidated Capital Investments Ltd
+CND.AX	Candle Australia Ltd
+CNH.AX	China Steel Australia Ltd
+CNK.AX	Condor Nickel Ltd
+CNL.AX	CNL
+CNLCA.AX	CNLCA
+CNLO.AX	CNLO
+CNN.AX	Cardia Technologies Ltd
+CNNO.AX	Cardia Technologies Ltd
+CNP.AX	Centro Properties Group
+CNR.AX	Coonawarra Australia Property Trust
+CNS.AX	Centius Gold Limited
+CNX.AX	Carbon Energy Ltd
+COE.AX	Cooper Energy Ltd
+COF.AX	Coffey International Ltd
+COH.AX	Cochlear Ltd
+COHKZB.AX	Cochlear Ltd
+COI.AX	Comet Ridge Ltd
+COJ.AX	COJ
+COK.AX	Cockatoo Coal Ltd
+COM.AX	ComOps Ltd
+COO.AX	Cosmos Ltd
+COU.AX	Count Financial Ltd
+COY.AX	Coppermoly Ltd
+COYO.AX	Coppermoly Ltd
+COYOA.AX	Coppermoly Limited
+COZ.AX	CO2 Group Ltd
+COZO.AX	COZO
+CPA.AX	Commonwealth Property Office Fund
+CPB.AX	Campbell Brothers Ltd
+CPI.AX	CPI Group Ltd
+CPK.AX	CP1 Ltd
+CPL.AX	Coalspur Mines Limited
+CPLO.AX	Coalspur Mines Limited
+CPN.AX	Carpathian Resources Ltd
+CPS.AX	Computronics Holdings Ltd
+CPU.AX	Computershare Ltd
+CPUKZB.AX	Computershare Ltd
+CPZ.AX	Car Parking Technologies Limited
+CQO.AX	Charter Hall Office Reit
+CQR.AX	Charter Hall Retail Reit
+CQT.AX	Conquest Mining Ltd
+CRB.AX	Carbine Resources Ltd
+CRBO.AX	Carbine Resources Limited
+CRC.AX	Corttona Resources Ltd
+CRCO.AX	CRCO
+CRE.AX	Crescent Gold Ltd
+CRG.AX	Crane Group Ltd
+CRJ.AX	Copper Range Ltd
+CRJO.AX	CRJO
+CRK.AX	Carrick Gold Ltd
+CRL.AX	Comet Resources Ltd
+CRM.AX	Carbon Minerals NL (CRMCA)
+CRZ.AX	Carsales.com Limited
+CSD.AX	Consolidated Tin Mines Ltd
+CSDO.AX	Consolidated Tin Mines Ltd
+CSE.AX	Copper Strike Ltd
+CSJ.AX	Credit Suisse GP100 - Australia Trust
+CSL.AX	CSL Ltd
+CSLKZG.AX	CSL Ltd
+CSLKZH.AX	CSL Ltd
+CSLKZI.AX	Csl Limited
+CSLKZQ.AX	CSL Ltd
+CSLKZV.AX	CSL Ltd
+CSLMMI.AX	CSL Ltd
+CSR.AX	CSR Ltd
+CSRKZA.AX	Csr Limited
+CSRKZP.AX	Csr Limited
+CSS.AX	Clean Seas Tuna Ltd
+CST.AX	Cellestis Ltd
+CSU.AX	Credit Suisse PL100
+CSV.AX	CSG Ltd
+CSW.AX	Credit Suisse PL100
+CTD.AX	Corporate Travel Management Limited
+CTE.AX	Cryosite Ltd
+CTM.AX	Centaurus Metals Limited
+CTN.AX	Contango Microcap Ltd
+CTO.AX	Citigold Corporation Ltd
+CTP.AX	Central Petroleum Ltd
+CTPO.AX	Central Petroleum Limited
+CTX.AX	Caltex Australia Ltd
+CTXKZF.AX	Caltex Australia Ltd
+CTY.AX	Country Road Ltd
+CUE.AX	Cue Energy Resources Ltd
+CUL.AX	Cullen Resources Ltd
+CUP.AX	Countplus Limited
+CUS.AX	Customers Ltd
+CUU.AX	Callabonna Uranium Ltd
+CUV.AX	Clinuvel Pharmaceuticals Ltd
+CUX.AX	Crossland Uranium Mines Ltd
+CUY.AX	Curnamona Energy Ltd
+CUYO.AX	Curnamona Energy Limited
+CVA.AX	Clever Communictaions Australia Ltd
+CVC.AX	CVC Ltd
+CVE.AX	Cove Resources Limited
+CVEO.AX	Cove Resources Limited
+CVG.AX	Convergent Minerals Ltd
+CVGO.AX	CVGO
+CVGOA.AX	Convergent Minerals Limited
+CVN.AX	Carnarvon Petroleum Ltd
+CVR.AX	Central Asia Resources Ltd
+CVS.AX	Cervantes Seafood Ltd
+CVW.AX	Clearview Wealth Limited
+CVY.AX	Coventry Resources Limited
+CWE.AX	Carnegie Wave Energy Limited
+CWG.AX	Central West Gold NL
+CWK.AX	Coalworks Ltd
+CWN.AX	Crown Ltd
+CWNKZG.AX	Crown Ltd
+CWNKZI.AX	Crown Limited
+CWP.AX	Cedar Woods Properties Ltd
+CWT.AX	Challenger Beston Wine Trust
+CXD.AX	Cathrx Ltd
+CXH.AX	Compass Hotel Group
+CXM.AX	Centrex Mentals Ltd
+CXN.AX	ConnXion Ltd
+CXO.AX	Core Exploration Limited
+CXS.AX	ChemGenex Pharmaceuticals Ltd
+CXSOA.AX	ChemGenex Pharmaceuticals Ltd
+CXUO.AX	Cauldron Energy Limited
+CXY.AX	Cougar Energy Ltd
+CYA.AX	Century Australia Investments Ltd
+CYC.AX	Cyclopharm Ltd
+CYG.AX	Coventry Group Ltd
+CYL.AX	Catalyst Metals Ltd
+CYS.AX	Chrysalis Resources Ltd
+CYSO.AX	Chrysalis Resources Ltd
+CYU.AX	China Yunnan Copper Australia Ltd
+CZA.AX	Coal of Africa
+CZD.AX	Calzada Limited
+CZN.AX	Corazon Mining Limited
+CZNO.AX	Corazon Mining Limited
+CZR.AX	Coziron Resources Ltd
+DAU.AX	Dampier Gold Limited
+DCG.AX	Decmil Group Limited
+DDD.AX	3D Resources Ltd
+DDF.AX	Deutsche Diversified Trust mrger DRT
+DDR.AX	Dicker Data Limited
+DDT.AX	DataDot Technology Ltd
+DEG.AX	De Grey Mining Ltd
+DGH.AX	Desane Group Holdings Ltd
+DGI.AX	Digislide Holdings Limited
+DGO.AX	Drummond Gold Ltd
+DGR.AX	D'Aguilar Gold Ltd
+DGX.AX	Diploma Group Ltd
+DIG.AX	Digital Performance Group Ltd
+DIT.AX	Deutsche Industrial Trust
+DJS.AX	David Jones Ltd
+DJSKZP.AX	David Jones Limited
+DJW.AX	Djerriwarth Investments Ltd
+DJXKZA.AX	Djia Mini E-cbot
+DJXKZR.AX	Djia Mini E-cbot
+DKN.AX	DKN Financial Group Ltd
+DLC.AX	DLC
+DLCO.AX	DLCO
+DLE.AX	DLE
+DLS.AX	Drillsearch Energy Ltd
+DLX.AX	Duluxgroup Limited
+DMA.AX	Dynasty Metals Australia Ltd
+DMG.AX	Dragon Gold Mountain Ltd
+DML.AX	Discovery Metals Ltd
+DMN.AX	Datamotion Asia Pacific Limited
+DMNOA.AX	Datamotion Asia Pacific Limited
+DMNOC.AX	Datamotion Asia Pacific Limited
+DMP.AX	Domino's Pizza Australia NZ Ltd
+DMX.AX	Dolomatrix International Ltd
+DMY.AX	Dromana Estate Ltd
+DOM.AX	Dominion Mining Ltd
+DON.AX	DiamonEx Ltd
+DOT.AX	Deutsche Office Trust
+DOW.AX	Downer EDI Ltd
+DRA.AX	Dragon Mining NL
+DRK.AX	Drake Resources Ltd
+DRM.AX	Doray Minerals Limited
+DRX.AX	Diatreme Resources Ltd
+DSB.AX	Delta Sbd Limited
+DSF.AX	Deep Sea Fisheries Ltd
+DSFO.AX	Dsf International Holdings Limited
+DSN.AX	Desert Energy Ltd
+DSQ.AX	Datasquirt Ltd
+DTE.AX	Dart Energy Limited
+DTG.AX	Daton Group Australia Ltd
+DTL.AX	Data#3 Ltd
+DTM.AX	Dart Mining NL
+DTMO.AX	DTMO
+DUE.AX	Diversified Utility & Energy Trusts
+DUI.AX	Diversified United Investment Ltd
+DUL.AX	Dulhunty Power Ltd
+DUO.AX	Dourado Resources Limited
+DUOO.AX	Dourado Resources Limited
+DVA.AX	
+DVN.AX	Devine Ltd
+DWS.AX	DWS Advanced Business Solutions Ltd
+DXRPA.AX	DXR
+DXS.AX	Dexus Property Group
+DYE.AX	Dyesol Ltd
+DYL.AX	Deep Yellow Ltd
+EAF.AX	East Africa Resources Limited
+EAL.AX	Elders Australia Lt t/over by FCL
+EAR.AX	Echo Resources Ltd
+EAU.AX	Eldorado Gold Corporation
+EBG.AX	Eumundi Group Ltd
+EBT.AX	Ebet Ltd
+ECM.AX	East Coast Minerals NL
+ECQ.AX	ECQ
+ECQO.AX	Eco Quest Limited
+ECS.AX	ECSI Ltd
+EDE.AX	Eden Energy Ltd
+EDM.AX	Eldore Mining Corporation Ltd
+EDMOA.AX	Eldore Mining Corporation Limited
+EDS.AX	Every Day Mine Services Ltd
+EDT.AX	Edt Retail Trust
+EER.AX	East Energy Resources Ltd
+EFE.AX	Eastern Iron Ltd
+EFG.AX	
+EFT.AX	Eftel Ltd
+EGH.AX	Eureka Group Holdings Limited
+EGL.AX	Environmental Group Ltd (The)
+EGN.AX	EGN
+EGO.AX	Empire Oil & Gas NL
+EHL.AX	Emeco Holdings Ltd
+EHR.AX	Earth Heat Resources Ltd
+EIM.AX	El Corporation Limited
+EIO.AX	Energio Limited
+EIOO.AX	Energio Limited
+EKA.AX	Eureka Mines Ltd
+ELD.AX	ELD
+ELDPA.AX	ELD
+ELI.AX	Emerging Leaders Investment Ltd (ELIS)
+ELK.AX	ELK Petroleum Ltd
+ELM.AX	Elemental Minerals Ltd
+ELMO.AX	Elemental Minerals Limited
+ELT.AX	Elementos Limited
+ELX.AX	Ellex Medical Lasers Ltd
+EMA.AX	Emerging Markets Company Ltd
+EMAO.AX	Energy And Minerals Australia Limited
+EMB.AX	Embelton Ltd
+EME.AX	Energy Metals Ltd
+EMG.AX	Emergent Resources Ltd
+EMM.AX	Electrometals Technologies Ltd
+EMMO.AX	EMMO
+EMR.AX	Emerald Oil & Gas NL
+EMRO.AX	Emerald Oil & Gas Nl
+EMS.AX	Eastland Medical Systems Ltd
+EMSO.AX	EMSO
+EMSOB.AX	Eastland Medical Systems Ltd
+EMU.AX	EMU Nickel NL
+EMX.AX	Energia Minerals Limited
+ENB.AX	Eneabba Gas Ltd
+ENBOB.AX	Eneabba Gas Limited
+ENBOC.AX	Eneabba Gas Limited
+ENE.AX	Energy Developments Ltd
+ENG.AX	Engin Ltd
+ENK.AX	European Nickel Plc
+ENL.AX	Eagle Nickel Ltd
+ENLO.AX	Eagle Nickel Ltd
+ENLOA.AX	Eagle Nickel Limited
+ENR.AX	Encounter Resources Ltd
+ENT.AX	
+ENTO.AX	Enterprise Metals Limited
+ENV.AX	Envestra Ltd
+ENY.AX	Aii S&p/asx 200 Energy
+EOC.AX	Endocoal Limited
+EOL.AX	Energy One Ltd
+EOS.AX	Electro Optic Systems Holdings Ltd
+EPC.AX	Epic Resources Limited
+EPD.AX	Empired Ltd
+EPG.AX	European Gas Ltd
+EPL.AX	Eyecare Partners Ltd
+EPW.AX	Erm Power Limited
+EPX.AX	
+EPY.AX	E-Pay Asia Ltd
+EQF.AX	Equities & Freeholds Ltd
+EQN.AX	Equinox Minerals Ltd (Canada CHESS)
+EQNKZA.AX	Equinox Minerals Limited
+EQNKZB.AX	Equinox Minerals Limited
+EQT.AX	Equity Trustees Ltd
+EQX.AX	Eqitx Ltd
+ERA.AX	Energy Resources of Australia Ltd
+ERH.AX	Eromanga Hydrocarbons NL
+ERHOA.AX	Eromanga Hydrocarbons Nl
+ERJ.AX	Enerji Ltd
+ERJO.AX	Enerji Ltd
+ERL.AX	Empire Resources Ltd
+ERM.AX	Emmerson Resources Ltd
+ERN.AX	Erongo Energy Ltd
+ERNO.AX	ERNO
+ERO.AX	Eromanga Uranium Ltd
+ESG.AX	Eastern Star Gas Ltd
+ESI.AX	Environmental Solutions Internationl
+ESIO.AX	Environmental Solutions Internationl
+ESM.AX	Esperance Minerals Nl
+ESN.AX	Entellect Solutions Ltd
+ESS.AX	Essa Australia Ltd
+ESV.AX	eServGlobal Ltd
+ESW.AX	Emerson Stewart Group Ltd
+ETE.AX	Entek Energy Ltd
+ETH.AX	Ethan Minerals Limited
+ETPMAG.AX	ETFS Physical Silver
+ETPMPD.AX	ETP
+ETPMPM.AX	ETFS Physical PM Basket
+ETPMPT.AX	ETP
+EUG.AX	Eurogold Ltd
+EUL.AX	Eclipse Uranium Limited
+EVE.AX	Energy Ventures Ltd
+EVG.AX	Envirogold Ltd
+EVGO.AX	Envirogold Limited
+EVM.AX	EnviroMission Ltd
+EVZ.AX	Envirozel Ltd
+EWC.AX	Energy World Corporation Ltd
+EXA.AX	Excela Limited
+EXE.AX	Exoma Energy Ltd
+EXEO.AX	Exoma Energy Ltd Option
+EXEOA.AX	Exoma Energy Limited
+EXG.AX	Excelsior Gold Limited
+EXM.AX	Excalibur Mining Corporation Ltd
+EXMOA.AX	Excalibur Mining Corporation Ltd
+EXR.AX	Elixir Petroleum Ltd
+EXS.AX	Exco Resources NL
+EXT.AX	Extract Resources Ltd
+EYE.AX	Eagle Eye Metals Ltd
+EZE.AX	Ezenet Ltd
+EZL.AX	Euroz Ltd
+EZLO.AX	Euroz Ltd
+FAC.AX	Facilitate Digital Holdings Ltd
+FAN.AX	Fantastic Holdings Ltd
+FAR.AX	First Australian Resources Ltd
+FARGA.AX	First Australian Resources Ltd
+FAS.AX	Fairstar Resources Ltd
+FASOA.AX	Fairstar Resources Limited
+FBU.AX	Fletcher Building Ltd
+FCN.AX	Falcon Minerals Ltd
+FCR.AX	Ferrum Crescent Limited
+FCRO.AX	Ferrum Crescent Limited
+FCS.AX	
+FEL.AX	Fe Limited
+FER.AX	Fermiscan Holdings Ltd
+FFF.AX	First Folio Ltd
+FFI.AX	FFI Holdings Ltd
+FGE.AX	Forge Group Ltd
+FGI.AX	Flat Glass Industries Ltd
+FGL.AX	Foster's Group Ltd
+FGLKZD.AX	Foster's Group Ltd
+FGLKZE.AX	Foster's Group Ltd
+FIN.AX	Aii S&p/asx 200 Financials
+FIS.AX	Fission Energy Ltd
+FISO.AX	Fission Energy Ltd
+FIX.AX	Aii S&p/asx 200 Financial-x-a-reit
+FKP.AX	FKP Property Group
+FLK.AX	Folkestone Ltd
+FLR.AX	Frankland River Olive Company Ltd
+FLS.AX	FLS
+FLT.AX	Flight Centre Ltd
+FMG.AX	Fortescue Metals Group Ltd
+FMGKZB.AX	Fortescue Metals Group Ltd
+FMGTMC.AX	Fortescue Metals Group Ltd
+FMJ.AX	Fortis Mining Limited
+FML.AX	Focus Minerals Ltd
+FMS.AX	Flinders Mines Ltd
+FND.AX	Finders Resources Ltd
+FNP.AX	Freedom Nutritional Products Ltd
+FNT.AX	Frontier Resources Ltd
+FPA.AX	Fisher & Paykel Appliances Holdings
+FPG.AX	Forest Place Group Ltd
+FPH.AX	Fisher & Paykel Healthcare Corp Ltd
+FPS.AX	Fiducian Portfolio Services Ltd
+FRE.AX	Freshtel Holdings Ltd
+FRG.AX	Forge Resources Limited
+FRGO.AX	Forge Resources Limited
+FRI.AX	Finbar International Ltd
+FRM.AX	Farm Pride Foods Ltd
+FRR.AX	Frigrite Ltd
+FRS.AX	Ferraus Ltd
+FRSN.AX	Ferraus Limited
+FRY.AX	Fitzroy Resources Limited
+FSA.AX	FSA Group Ltd
+FSE.AX	Firestone Energy Ltd
+FTE.AX	
+FUN.AX	Funtastic Ltd
+FUT.AX	Future Corporation Australia Ltd
+FWA.AX	Farmworks Australia Limited
+FWD.AX	Fleetwood Corporation Ltd
+FWL.AX	Ferrowest Ltd
+FWLOA.AX	Ferrowest Limited
+FXEKZA.AX	Currency Warrant Aud/eur
+FXEKZP.AX	Currency Warrant Aud/eur
+FXEKZQ.AX	Currency Warrant Aud/eur
+FXJ.AX	Fairfax (John) Holdings Ltd
+FXJPB.AX	Fairfax Media Warrant
+FXL.AX	Flexigroup Ltd
+FXPKZA.AX	Currency Warrant Aud/gbp
+FXPKZP.AX	Currency Warrant Aud/gbp
+FXR.AX	Fox Resources Ltd
+FXROA.AX	FXROA
+FXUKZA.AX	Currency Warrant Aus/usd.
+FXUKZB.AX	Currency Warrant Aus/usd.
+FXUKZS.AX	Currency Warrant Aus/usd.
+FXUKZT.AX	Currency Warrant Aus/usd.
+FXYKZA.AX	Currency Warrant Aud/jpy
+FYI.AX	FYI
+FYIO.AX	Fyi Resources Limited
+GAP.AX	Gale Pacific Ltd
+GBA.AX	Grandbridge Ltd
+GBE.AX	Globe Uranium Ltd
+GBG.AX	Gindalbie Metals Ltd
+GBI.AX	Genera Biosystems Ltd
+GBM.AX	Greater Bendigo Mines Ltd
+GBMOA.AX	Greater Bendigo Gold Mines Limited
+GBP.AX	Global Petroleum Ltd
+GBT.AX	GBST Holdings Ltd
+GBX.AX	GB Energy Ltd
+GBXO.AX	GB Energy Ltd
+GBXOA.AX	Gb Energy Limited
+GBZ.AX	GBM Resources Ltd
+GBZOA.AX	Gbm Resources Limited
+GCG.AX	Greencap Ltd
+GCL.AX	Gloucester Coal Ltd
+GCN.AX	GoConnect Ltd
+GCR.AX	Golden Cross Resources Ltd
+GCRO.AX	GCRO
+GCS.AX	Global Construction Services Ltd
+GCY.AX	Gascoyne Resources Limited
+GDA.AX	Gondwana Resources Ltd
+GDAOB.AX	Gondwana Resources Ltd
+GDN.AX	Golden State Resources Ltd
+GDO.AX	GDO
+GDOO.AX	GDO
+GDY.AX	Geodynamics Ltd
+GDYO.AX	Geodynamics Ltd
+GED.AX	Golden Deeps Ltd
+GEM.AX	G8 Education Limited
+GEN.AX	Genesis Research & Devlpmnt Corp Ltd
+GER.AX	Greenearth Energy Ltd
+GES.AX	Genesis Resources Limited
+GFF.AX	Goodman Fielder Ltd
+GFL.AX	Global Masters Fund Ltd
+GGE.AX	Grand Gulf Energy Ltd
+GGG.AX	Gold Company Ltd
+GGGO.AX	Gold Company Ltd
+GGH.AX	Global Gold Holdings Ltd
+GGP.AX	Golden Gate Petroleum Ltd
+GGPO.AX	Golden Gate Petroleum Ltd
+GGX.AX	Gas2Grid Ltd
+GHT.AX	Geothermal Resources Ltd
+GIA.AX	Giaconda Ltd
+GIP.AX	Gippsland Ltd
+GIR.AX	Giralia Resources NL
+GJT.AX	Galileo Japan Trust
+GLA.AX	Gladiator Resources Ltd
+GLB.AX	Globe International Ltd
+GLE.AX	GLG Corp Ltd
+GLF.AX	Gulf Resources Ltd
+GLFO.AX	Gulf Resources Ltd
+GLFOB.AX	Gulf Resources Limited
+GLG.AX	Gerard Lighting Group Limited
+GLH.AX	Global Health Ltd
+GLL.AX	Galilee Energy Limited
+GLM.AX	Gulf Mines
+GLMO.AX	Gulf Mines
+GLN.AX	Gleneagle Gold Ltd
+GLY.AX	Glory Resources Limited
+GMD.AX	Genesis Minerals Ltd
+GME.AX	GME Resources Ltd
+GMG.AX	Goodman Group
+GMI.AX	Global Mining Investments Ltd
+GML.AX	Gateway Mining NL
+GMM.AX	General Mining Corporation Limited
+GMPPA.AX	GMP
+GMR.AX	Golden Rim Resoures Ltd
+GMX.AX	Goldminex Resources Ltd
+GNC.AX	GrainCorp Ltd
+GNI.AX	Global Nickel Investments Ltd
+GNICA.AX	Global Nickel Investments Nl
+GNIOA.AX	Global Nickel Investments Limited
+GNM.AX	Gujarat NRE Minerals Ltd
+GNS.AX	Gunns Ltd
+GNSPA.AX	Gunns Ltd
+GNV.AX	Green Invest Ltd
+GOA.AX	Gold Aura Ltd
+GOAOA.AX	Gold Aura Ltd
+GOLD.AX	Gold Bullion Ltd
+GOR.AX	Gold Road Resources Limited
+GORO.AX	Gold Road Resources Limited
+GOT.AX	Groote Resources Limited
+GOW.AX	Gowing Bros Ltd
+GOZ.AX	Growthpoint Properties Australia
+GPG.AX	Guinness Peat Grp Plc (UK non-CHESS)
+GPM.AX	Geo Property Group
+GPP.AX	Greenpower Energy Ltd
+GPR.AX	Geopacific Resources NL
+GPT.AX	General Property Trust
+GRB.AX	Gage Road Brewing Co Ltd
+GRF.AX	
+GRG.AX	Grg International Ltd
+GRGO.AX	Grg International Ltd
+GRK.AX	Green Rock Energy Ltd
+GRM.AX	Global Resources Corporation Limited
+GRP.AX	Great Pacific Capital Ltd
+GRR.AX	Grange Resources Ltd
+GRV.AX	Greenvale Mining NL
+GRVCA.AX	Macquarie Goodman Group
+GRVO.AX	Greenvale Mining NL
+GRY.AX	Gryphon Minerals Ltd
+GSC.AX	Global Geoscience Ltd
+GSCO.AX	Global Geoscience Ltd
+GSE.AX	Goldsearch Ltd
+GSF.AX	Global Seafood Australia Ltd
+GTE.AX	Great Western Exploration Ltd
+GTEO.AX	Great Western Exploration Ltd
+GTG.AX	Genetic Technologies Ltd
+GTR.AX	GTI Resources Ltd
+GUD.AX	GUD Holdings Ltd
+GUF.AX	Guildford Coal Limited
+GUL.AX	Gullewa Ltd
+GUN.AX	Gunson Resources Ltd
+GWA.AX	Gwa Group Limited.
+GWR.AX	Golden West Resources Ltd
+GXL.AX	Greenross Ltd
+GXY.AX	Galaxy Resources Ltd
+GZL.AX	Gazal Corporation Ltd
+HAO.AX	Haoma Mining NL
+HAR.AX	Haranga Resources Limited
+HAV.AX	Havilah Resources NL
+HAVO.AX	Havilah Resources NL
+HAW.AX	Hawthorn Resources Ltd
+HAWO.AX	Hawthorn Resources Ltd
+HAWOB.AX	Hawthorn Resources Ltd
+HAZ.AX	Hazelwood
+HCG.AX	Helicon Group Ltd
+HCH.AX	Hot Chili Limited
+HCT.AX	Holista Colltech Limited
+HCXKZA.AX	H-shares Idx Futures
+HDF.AX	Hastings Diversified Utilities Fund
+HDG.AX	Hodges Resources Ltd
+HDI.AX	HDI
+HEA.AX	Health Corporation Ltd
+HEAO.AX	Health Corporation Ltd
+HEG.AX	Hill End Gold Ltd
+HEGO.AX	Hill End Gold Limited
+HEM.AX	Hemisphere Resources Ltd
+HFA.AX	HFA Holdings Ltd
+HGG.AX	Henderson Group Plc
+HGL.AX	Hudson Investment Group Ltd
+HGO.AX	Hillgrove Resources Ltd
+HHL.AX	Hunter Hall International Ltd
+HHM.AX	Hampton Hill Mining NL
+HHV.AX	Hunter Hall Global Value Ltd
+HHY.AX	Hastings High Yield Fund
+HIG.AX	Highlands Pacific Ltd (PNG)
+HII.AX	Hire Intelligence International Ltd
+HIL.AX	Hills Industries Ltd
+HIN.AX	
+HIP.AX	Hyperion Flagship Investments Ltd
+HIT.AX	Hitech Group Australia Ltd
+HJB.AX	Hamilton James & Bruce Group Ltd
+HLNG.AX	Healthscope Notes Limited
+HLS.AX	Hillcrest Litigation Services Ltd
+HLX.AX	Helix Resources Ltd
+HMC.AX	Hydromet Corporation Ltd
+HNG.AX	HGL Ltd
+HNR.AX	Hannans Reward NL
+HOG.AX	Hawkley Oil And Gas Limited
+HOM.AX	Homeloans Ltd
+HOR.AX	Horseshoe Metals Limited
+HORO.AX	Horseshoe Metals Limited
+HRL.AX	Hot Rock
+HRR.AX	Heron Resources Ltd
+HRS.AX	Hudson Resources Ltd
+HSK.AX	Heemskirk Consolidated Ltd
+HSKG.AX	Heemskirk Consolidated Ltd
+HSN.AX	Hansen Technologies Ltd
+HST.AX	Hastie Group Ltd
+HSXKZA.AX	Hang Seng Idx Futures
+HTA.AX	Hutchison Telecommunications (Aust)
+HTI.AX	Hydrotech International Ltd
+HTM.AX	Heritage Gold NZ Ltd
+HTX.AX	Healthlinx Ltd
+HTXO.AX	Healthlinx Limited
+HTXOA.AX	Healthlinx Limited
+HUM.AX	Humanis Group Limited
+HUMO.AX	Humanis Group Limited
+HUN.AX	Hunnu Coal Limited
+HVN.AX	Harvey Norman Holdings Ltd
+HWE.AX	Henry Walker Eltin Group Ltd
+HXL.AX	Hexima Ltd
+HYO.AX	Hyro Ltd
+HZL.AX	Healthzone Ltd
+HZN.AX	Horizon Oil Ltd
+IAA.AX	
+IAG.AX	Insurance Australia Group Ltd
+IAGKZF.AX	Insurance Australia Group Ltd
+IAGKZG.AX	Insurance Australia Group Limited
+IAGPA.AX	IAGPA
+IANG.AX	IANG
+IAT.AX	Iatia Ltd
+IAU.AX	Intrepid Mines Ltd
+IAW.AX	Integrated Legal Holdings Ltd
+IBC.AX	Ironbark Capital Ltd
+IBG.AX	Ironbark Gold Ltd
+IBK.AX	
+ICH.AX	InfoChoice Ltd
+ICL.AX	International Coal Holdings Limited
+ICN.AX	Icon Energy Ltd
+ICP.AX	Internationl Concert Attractions Ltd
+ICS.AX	ICSGlobal Ltd
+IDC.AX	Indochine Mining Limited
+IDD.AX	Aii S&p/asx 200 Industrials
+IDE.AX	Ideas International Ltd
+IDG.AX	Indago Resources Ltd
+IDGOA.AX	Indago Resources Ltd
+IDL.AX	Industrea Ltd
+IDM.AX	Industrial Minerals Corporation Ltd
+IDO.AX	Indo Mines Ltd
+IDT.AX	Institute of Drug Technology Aust
+IEF.AX	ING Real Estate Entertainment Fund
+IEM.AX	iShares MSCI Emerging Markets
+IEQ.AX	International Equities Corp Ltd
+IEU.AX	iShares S&P Europe 350
+IFE.AX	Ironclad Mining Ltd
+IFL.AX	IOOF Holdings Ltd
+IFM.AX	Infomedia Ltd
+IFN.AX	IFN
+IFS.AX	Ifs Construction Services Ltd
+IFSO.AX	Ifs Construction Services Ltd
+IFZ.AX	Infratil Limited
+IGO.AX	Independence Group NL
+IGR.AX	Integra Mining Ltd
+IGS.AX	International Goldfields Limited...
+IGX.AX	IGDX Holdings Ltd
+IHD.AX	Ishares S&p/asx High Dividend
+IHF.AX	ING Real Estate Healthcare Fund
+IHK.AX	iShares MSCI Hong Kong
+IIF.AX	ING Industrial Fund
+III.AX	Icon Resources Ltd
+IIN.AX	iiNet Ltd
+IJH.AX	iShares S&P Midcap 400
+IJP.AX	iShares MSCI Japan
+IJR.AX	iShares S&P Smallcap 600
+IKO.AX	iShares MSCI South Korea
+ILC.AX	Ishares S&p/asx 20
+ILF.AX	Ing Real Estate Community Living Fund
+ILU.AX	Iluka Resources Ltd
+IMA.AX	Image Resources NL
+IMC.AX	
+IMD.AX	Imdex Ltd
+IMF.AX	IMF (Australia) Ltd
+IMFG.AX	Imf (australia) Ltd
+IMI.AX	IM Medical Ltd
+IMP.AX	Imperial One Ltd
+IMU.AX	Imugene Ltd
+INE.AX	India Equities Fund Ltd
+INL.AX	Intec Ltd
+INP.AX	Innamincka Petroleum Ltd
+INQ.AX	Investorfirst Limited
+INT.AX	Intermoco Ltd
+IOF.AX	ING Office Fund
+IOG.AX	Incremental Oil And Gas Limited
+IOH.AX	Iron Ore Holdings Ltd
+IOHO.AX	Iron Ore Holdings Ltd
+ION.AX	ION Ltd
+IOO.AX	iShares S&P Global 100
+IOZ.AX	Ishares Msci Australia 200
+IPA.AX	Indigo Pacific Ltd
+IPC.AX	Imperial Pacific Limited
+IPD.AX	Impedimed Ltd
+IPDO.AX	Impedimed Ltd
+IPE.AX	ING Private Equity Access Ltd
+IPL.AX	Incitec Pivot Ltd
+IPLTMA.AX	Incitec Pivot Limited
+IPP.AX	IPGA Ltd
+IPR.AX	Ipernica Ltd
+IPT.AX	Impact Minerals Ltd
+IPX.AX	Intrapower Ltd
+IRC.AX	Intermin Resources Ltd
+IRCO.AX	Intermin Resources Limited
+IRD.AX	Iron Road Ltd
+IRE.AX	IRESS Market Technology Ltd
+IRG.AX	
+IRI.AX	Integrated Research Ltd
+IRL.AX	India Resources Ltd
+IRM.AX	Iron Mountain Mining Ltd
+IRMO.AX	Iron Mountain Mining Ltd
+IRN.AX	Indophil Resources NL
+IRU.AX	iShares Russell 2000
+ISF.AX	Isoft Group Ltd
+ISG.AX	iShares MSCI Singapore
+ISH.AX	Ishine International Resources Limited
+ISK.AX	Island Sky Australia Ltd
+ISKO.AX	Island Sky Australia Limited
+ISL.AX	ISL
+ISO.AX	Ishares S&p/asx Small Ordinaries
+ISS.AX	ISS Group Ltd
+ITC.AX	Impress Ventures Ltd
+ITD.AX	ITL Ltd
+ITR.AX	ITR
+ITS.AX	Interstaff Recruitment Ltd
+ITT.AX	Internet Resources Ltd
+ITW.AX	iShares MSCI Taiwan
+IUL.AX	Image Un Ltd
+IVA.AX	Ivanhoe Australia Ltd
+IVAO.AX	Ivanhoe Australia Limited
+IVC.AX	InvoCare Ltd
+IVE.AX	iShares MSCI Eafe
+IVG.AX	Invictus Gold Limited
+IVGO.AX	Invictus Gold Limited
+IVGOA.AX	Invictus Gold Limited
+IVR.AX	IVR
+IVT.AX	Inventis Ltd
+IVV.AX	iShares S&P 500
+IXI.AX	
+IXJ.AX	IXJ
+IXP.AX	IXP
+IXR.AX	IMX Resoures NL
+IZZ.AX	iShares FTSE Xinhua China
+JAG.AX	Jaguar Minerals Ltd
+JAL.AX	Jameson Resources Ltd
+JAT.AX	
+JBH.AX	JB Hi-Fi Ltd
+JBHKZA.AX	Jb Hi-fi Limited
+JBHKZQ.AX	Jb Hi-fi Limited
+JET.AX	Jetset Travelworld Ltd
+JHX.AX	James Hardie Industries NV (CUFS)
+JHXKZP.AX	James Hardie Industries Se
+JIN.AX	JIN
+JKA.AX	Jacka Resources Limited
+JKAO.AX	Jacka Resources Limited
+JMB.AX	Jumbuck Entertainment Ltd
+JML.AX	Jabiru Metals Ltd
+JMS.AX	Jupiter Mines Ltd
+JPR.AX	Jupiter Energy Ltd
+JRL.AX	Jindalee Resources Ltd
+JRV.AX	Jervois Mining Ltd
+JVG.AX	JV Global Ltd
+JYC.AX	Joyce Corporation Ltd
+KAM.AX	K2 Asset Management Holdings Ltd
+KAR.AX	Karoon Gas Australia Ltd
+KAS.AX	Kasbah Resources Ltd
+KAT.AX	Katana Capital Ltd
+KBC.AX	Keybridge Capital Ltd
+KBL.AX	Kimberley Metals Limited
+KCN.AX	Kingsgate Consolidated Ltd
+KCNTMA.AX	Kingsgate Consolidated Limited.
+KCNTMC.AX	Kingsgate Consolidated Limited.
+KDR.AX	Kidman Resources Limited
+KDRO.AX	Kidman Resources Limited
+KEN.AX	Kuth Energy Ltd
+KEY.AX	Key Petroleum Ltd
+KEYO.AX	Key Petroleum Limited
+KGD.AX	Kula Gold Limited
+KGL.AX	Kentor Gold Ltd
+KIK.AX	Kairiki Energy Ltd
+KIKRA.AX	Kairiki Energy Limited
+KIS.AX	King Island Scheelite Ltd
+KKT.AX	Konekt Ltd
+KMD.AX	Kathmandu Holdings Limited
+KME.AX	Kip McGrath Education Centres
+KNH.AX	Koon Holdings Ltd
+KNL.AX	Kagera Nickel Limited
+KOG.AX	Kilgore Oil & Gas Ltd
+KOGO.AX	Kilgore Oil & Gas Limited
+KOR.AX	Korab Resources Ltd
+KOV.AX	Korvest Ltd
+KRB.AX	Krucible Metals Ltd
+KRL.AX	Kintore Resources Limited
+KRM.AX	Kingsrose Mining Ltd
+KRMO.AX	Kingsrose Mining Ltd
+KRS.AX	Kresta Holdings Ltd
+KSC.AX	K&S Corporation Ltd
+KSO.AX	King Solomon Mines Ltd
+KSX.AX	Karmelsonix Ltd
+KSXO.AX	Karmelsonix Ltd
+KTE.AX	K2 Energy Ltd
+KTL.AX	KTL Technologies Ltd
+KZL.AX	Kagara Zinc Ltd
+LAS.AX	Lasseters Corporation Ltd
+LAT.AX	Latin Gold Ltd
+LAU.AX	Lindsay Australia Ltd
+LBL.AX	Laserbond Ltd
+LBT.AX	Labtech Systems Ltd
+LBTO.AX	Labtech Systems Ltd
+LBTOA.AX	Labtech Systems Ltd
+LBY.AX	Liberty Gold NL
+LBYO.AX	LBYO
+LCE.AX	London City Equities Ltd
+LCM.AX	Logicamms Ltd
+LCR.AX	Laconia Resources Limited
+LCT.AX	Living Cell Technologies Ltd
+LCY.AX	Legacy Iron Ore Ltd
+LCYO.AX	Legacy Iron Ore Ltd
+LCYOA.AX	Legacy Iron Ore Limited
+LCYOB.AX	Legacy Iron Ore Limited
+LDW.AX	Ludowici Ltd
+LEG.AX	Legend Mining Ltd
+LEI.AX	Leighton Holdings Ltd
+LEIKZH.AX	Leighton Holdings Ltd
+LEIKZI.AX	Leighton Holdings Ltd
+LEIKZJ.AX	Leighton Holdings Limited
+LEIKZK.AX	Leighton Holdings Limited
+LEIKZP.AX	Leighton Holdings Limited
+LEIKZQ.AX	Leighton Holdings Limited
+LEITMA.AX	Leighton Holdings Limited
+LEITMC.AX	Leighton Holdings Limited
+LEP.AX	ALE Property Group
+LER.AX	LER
+LGD.AX	Legend Corporation Ltd
+LGM.AX	Luiri Gold Limited
+LGO.AX	Longreach Oil Ltd
+LIC.AX	Lifestyles Communities Ltd
+LIN.AX	Lindian Resources Ltd
+LINOA.AX	Lindian Resources Limited
+LIO.AX	Lion Energy Ltd
+LIOO.AX	Lion Energy Ltd
+LKE.AX	Lake Resources NL
+LKO.AX	Lakes Oil NL
+LLA.AX	Living & Leisure Auctralia Group
+LLC.AX	Lend Lease Corporation Ltd
+LLCKZL.AX	Lend Lease Group
+LLCKZP.AX	Lend Lease Corporation Ltd
+LLCKZQ.AX	Lend Lease Corporation Ltd
+LLCMMI.AX	Lend Lease Corporation Ltd
+LLCTMC.AX	Lend Lease Group
+LMC.AX	Lemarne Corporation Ltd
+LME.AX	L&m Energy Limited
+LMG.AX	Latrobe Magnesium Ltd
+LML.AX	Lincoln Minerals Ltd
+LMW.AX	LandMark White Ltd
+LNC.AX	Linc Energy Ltd
+LNG.AX	Liquefied Natural Gas Ltd
+LOD.AX	Lodestone Exploration Ltd
+LOM.AX	Lonrho Mining Ltd
+LOMO.AX	Lonrho Mining Ltd
+LRC.AX	Laguna Resources Nl
+LRF.AX	LinQ resources Fund
+LRG.AX	Longreach Group Ltd
+LRL.AX	Leyshon Resources Ltd
+LRS.AX	Latin Resources Limited
+LRSO.AX	Latin Resources Limited
+LSA.AX	Lachlan Star Ltd
+LSBHA.AX	LSB
+LSBHB.AX	LSB
+LSBHF.AX	LSB
+LSL.AX	Luminus Systems Ltd
+LSN.AX	Lawson Gold Limited
+LSR.AX	Lodestar Minerals Ltd
+LTR.AX	Liontown Resources Ltd
+LWB.AX	Little World Beverages Ltd
+LYC.AX	Lynas Corporation Ltd
+LYL.AX	Lycopodium Ltd
+MAB.AX	Mamba Minerals Ltd
+MABOA.AX	Mamba Minerals Limited
+MAC.AX	Macro Corporation Ltd
+MAD.AX	Maverick Drilling And Exploration Limited
+MAE.AX	Marion Energy Ltd
+MAEO.AX	MAEO
+MAEOA.AX	Marion Energy Limited
+MAH.AX	Macmahon Holdings Ltd
+MAK.AX	Minemarkers
+MAM.AX	Aii S&p/asx 300 Metals & Mining
+MAN.AX	Magna Mining Ltd
+MANCA.AX	Magna Mining Ltd
+MAP.AX	Macquarie Airports
+MAQ.AX	Macquarie Telecom Group Ltd
+MAR.AX	Malachite Resources NL
+MAS.AX	Mesa Minerals Limited
+MAT.AX	Matine Ltd t/over
+MAU.AX	Magnetic Resources NL
+MAUCA.AX	Magnetic Resources Nl
+MBA.AX	Mobileactive Ltd
+MBD.AX	Marbletrend Group Ltd
+MBK.AX	Metal Bank Limited
+MBN.AX	Mirabela Nickel Ltd
+MBO.AX	Mobilarm Limited
+MBT.AX	Mission Biofuels Ltd
+MCC.AX	Macarthur Coal Ltd
+MCCKZA.AX	Macarthur Coal Limited
+MCCKZB.AX	Macarthur Coal Limited
+MCE.AX	Matrix Composites & Engineering Limited
+MCH.AX	Murchison Holdings Ltd
+MCL.AX	M2M Corporation Ltd
+MCO.AX	Mount Conqueror Minerals NL
+MCP.AX	McPhersons Ltd
+MCR.AX	Mincor Resources NL
+MCX.AX	Mariner Corporation Limited
+MDA.AX	Modena Resources Ltd
+MDAOA.AX	Modena Resources Limited
+MDG.AX	Mt Dimer Gold Mines
+MDI.AX	Middle Island Resources Limited
+MDL.AX	Mineral Deposits Ltd
+MDO.AX	Mindoro Resources Limited
+MDS.AX	Midas Resources Ltd
+MDSOB.AX	Midas Resources Ltd
+MDSOC.AX	Midas Resources Limited
+MDV.AX	MediVac Ltd
+MDX.AX	Mindax Ltd
+MDXO.AX	MDXO
+MEF.AX	MEF
+MEG.AX	MCM Entertainment Group Ltd
+MEI.AX	Meteoric Resources NL
+MEICA.AX	Meteoric Resources NL
+MEL.AX	Metgasco Ltd
+MEO.AX	Methanol Australia Ltd
+MEP.AX	Minotaur Exploration Ltd
+MES.AX	Mesbon China Nylon Ltd
+MET.AX	Memtec Ltd t/over
+MEU.AX	Maramota Energy Ltd
+MEY.AX	Marenica Energy Ltd
+MFC.AX	Metals Finance Corp
+MFF.AX	Magellan Flagship Fund Ltd
+MFG.AX	Magellan Financial Group
+MFGOB.AX	Magellan Financial Group
+MFGOC.AX	Magellan Financial Group
+MGI.AX	Macquarie Goodman Ind Trust merge MGQ
+MGK.AX	Magnesium International Ltd
+MGKOA.AX	Magnesium International Ltd
+MGM.AX	Macquarie Goodman Management merge MGQ
+MGN.AX	Magellan Petroleum Corporation
+MGO.AX	Marengo Mining Ltd
+MGR.AX	Mirvac Group
+MGU.AX	Magnum Gold NL
+MGX.AX	Mount Gibson Iron Ltd
+MGXTMC.AX	Mount Gibson Iron Limited
+MGY.AX	Mercury Brands Ltd
+MGZ.AX	Medigard Ltd
+MHC.AX	Manhattan Corporation Limited
+MHI.AX	Merchant House International Ltd
+MHL.AX	M Health Ltd
+MHLO.AX	M Health Ltd
+MHM.AX	Macquarie Harbour Mining Ltd
+MHMO.AX	Macquarie Harbour Mining Ltd
+MII.AX	MII
+MIIO.AX	MII
+MIK.AX	Mikoh Corporation Ltd
+MIN.AX	Mineral Resources Ltd
+MIO.AX	Miclyn Express Offshore Limited
+MIR.AX	Mirrabooka Investments Ltd
+MIX.AX	Mirvac Industrial Trust Unit
+MKB.AX	MKB
+MKBO.AX	Moko.mobi Limited
+MKE.AX	Mako Energy Limited
+MKO.AX	Metaliko Resources Limited
+MLA.AX	Medical Australia Limited
+MLAO.AX	Medical Australia Limited
+MLB.AX	Melbourne IT Ltd
+MLC.AX	Mothercare Australia Limited
+MLD.AX	Maca Limited
+MLI.AX	Mintails Ltd
+MLM.AX	Metallica Minerals Ltd
+MLS.AX	Metals Australia Ltd
+MLT.AX	Milton Corporation Ltd
+MLX.AX	Metals X Ltd
+MML.AX	Medusa Mining Ltd
+MMR.AX	Mec Resources Ltd
+MMRO.AX	Mec Resources Ltd
+MMS.AX	McMillan Shakespeare Ltd
+MMW.AX	Magma Metals Limited.
+MMX.AX	Murchison Metals Ltd
+MMZ.AX	Mooter Media Ltd
+MNB.AX	Minbos Resources Limited
+MNC.AX	Metminco Ltd
+MNCO.AX	Metminco Ltd
+MND.AX	Monadelphous Group Ltd
+MNF.AX	My Net Fone Ltd
+MNM.AX	Mantle Mining Corporation Ltd
+MNW.AX	Mint Wireless Ltd
+MNY.AX	Money3 Corporation Ltd
+MNZ.AX	Mnet Group Limited.
+MOC.AX	Mortgage Choice Ltd
+MOD.AX	Medical Corporation Australasia Ltd
+MOG.AX	Moby Oil & Gas Ltd
+MOL.AX	Moly Mines Ltd
+MOO.AX	Monto Minerals Ltd
+MOT.AX	Motopia Limited
+MOTOA.AX	Motopia Limited
+MOV.AX	Moore Australasia (holdings) Limited
+MOX.AX	Monax Mining Ltd
+MOXO.AX	Monax Mining Limited
+MOY.AX	Millennium Minerals Ltd
+MOYOA.AX	Millennium Minerals Limited
+MOYRA.AX	Millennium Minerals Limited
+MOZ.AX	Mozambi Coal Limited
+MPD.AX	Millepede International Ltd
+MPDO.AX	MPDO
+MPJ.AX	Mining Projects Group Ltd
+MPJOA.AX	Mining Projects Group Limited
+MPO.AX	Molopo Australia Ltd
+MPS.AX	MacarthurCook Property Securities Fund
+MQA.AX	Macquarie Atlas Roads Group
+MQCPA.AX	MQC
+MQG.AX	Macquarie Group Ltd
+MQGKZB.AX	Macquarie Group Ltd
+MQGKZD.AX	Macquarie Group Ltd
+MQGKZE.AX	Macquarie Group Limited
+MQGKZR.AX	Macquarie Group Ltd
+MQGKZT.AX	Macquarie Group Limited
+MQGKZU.AX	Macquarie Group Limited
+MRC.AX	Mineral Commodities Ltd
+MRCO.AX	MRC 18JUN07 0.30
+MRE.AX	Minara Resources Ltd
+MRM.AX	Mermaid Marine Australia Ltd
+MRN.AX	Macquarie Radio Network Ltd
+MRP.AX	Macphersons Reward Gold Limited
+MRU.AX	Mantrares
+MRX.AX	Matrix Metals Ltd
+MRY.AX	Monteray Group Ltd
+MSB.AX	Mesoblast Ltd
+MSC.AX	Minerals Corporation Ltd
+MSF.AX	Maryborough Sugar Factory Ltd
+MSI.AX	Multistack International Ltd
+MSR.AX	Manas Resources Ltd
+MSRO.AX	Manas Resources Limited
+MST.AX	Metal Storm Ltd
+MSTG.AX	Metal Storm Ltd
+MSTGA.AX	Metal Storm Limited
+MSTO.AX	Metal Storm Ltd
+MTB.AX	Mount Burgess Mining NL
+MTD.AX	Metroland Australia Ltd
+MTE.AX	Metrocoal Limited
+MTH.AX	Mithril Resources Ltd
+MTHO.AX	Mithril Resources Limited
+MTI.AX	Montec International Ltd
+MTN.AX	Marathon Resources Ltd
+MTS.AX	Metcash Ltd
+MTU.AX	M2 Telecommunications Group Ltd
+MUE.AX	Multiplex European Property Fund
+MUI.AX	MUI
+MUM.AX	Mount Magnet South NL
+MUN.AX	Mundo Minerals Ltd
+MUT.AX	Multi Channel Solutions Ltd
+MUX.AX	Mungana Goldmines Limited
+MVP.AX	Medical Developments International
+MWG.AX	Macquarie Winton Global Opportunities Trust
+MWN.AX	Midwinter Resoures NL
+MWNOA.AX	Midwinter Resources Nl
+MWR.AX	MGM Wireless Ltd
+MWS.AX	MDS News Ltd
+MXI.AX	MaxiTRA Industries Ltd
+MXQ.AX	
+MXR.AX	Maximus Resources Ltd
+MXUPA.AX	MXU
+MYA.AX	My Atm Holdings Limited
+MYE.AX	Mastermyne Group Limited
+MYG.AX	Mutiny Gold Ltd
+MYGO.AX	Mutiny Gold Limited
+MYGOA.AX	Mutiny Gold Limited
+MYN.AX	Mayan Iron Corporation Limited
+MYNO.AX	Mayan Iron Corporation Limited
+MYR.AX	Myer Holdings Limited
+MYS.AX	Mystate Limited
+MYX.AX	MYX
+MZI.AX	Matilda Zircon Limited
+MZM.AX	Montezuma Mining Company Ltd
+MZMO.AX	Montezuma Mining Company Ltd
+NAB.AX	National Australia Bank Ltd
+NABKZL.AX	National Australia Bank Ltd
+NABKZM.AX	National Australia Bank Ltd
+NABKZP.AX	National Australia Bank Ltd
+NABKZR.AX	National Australia Bank Limited
+NABKZS.AX	National Australia Bank Ltd
+NABMMH.AX	National Australia Bank Ltd
+NABMMI.AX	National Australia Bank Ltd
+NABTMA.AX	National Australia Bank Limited
+NABTMC.AX	National Australia Bank Limited
+NAD.AX	North Australian Diamonds Ltd
+NAE.AX	New Age Exploration Ltd
+NAEO.AX	New Age Exploration Limited
+NAG.AX	
+NAL.AX	Norwood Abbey Ltd
+NAM.AX	Namoi Cotton Co-operative Ltd
+NAN.AX	Nanosonics Ltd
+NAV.AX	Navigator Resources Ltd
+NAVO.AX	NAVO
+NBL.AX	Noni B Ltd
+NBS.AX	Nexbis Limited
+NCI.AX	National Can Industries Ltd
+NCK.AX	Nick Scali Ltd
+NCM.AX	Newcrest Mining Ltd
+NCMKZF.AX	Newcrest Mining Ltd
+NCMKZG.AX	Newcrest Mining Ltd
+NCMKZH.AX	Newcrest Mining Limited
+NCMKZY.AX	Newcrest Mining Limited
+NCMKZZ.AX	Newcrest Mining Limited
+NCMTMA.AX	Newcrest Mining Limited
+NCMTMB.AX	Newcrest Mining Limited
+NCMTMC.AX	Newcrest Mining Limited
+NCMTMD.AX	Newcrest Mining Limited
+NCO.AX	NCO
+NCR.AX	Nucoal Resources Nl
+NDL.AX	Neurodiscovery Ltd
+NDO.AX	Nido Petroleum Ltd
+NDXKZA.AX	Nasdaq 100 E-mini
+NEC.AX	Northern Energy Corporation Ltd
+NEN.AX	Neon Energy Limited
+NEU.AX	Neuren Pharmaceuticals Ltd
+NFE.AX	Northern Iron Ltd
+NFK.AX	Norfolk Group Ltd
+NFNG.AX	NFNG
+NGE.AX	New Guinea Energy Ltd
+NGF.AX	Norton Gold Fields Ltd
+NGX.AX	Norseman Gold Plc
+NHC.AX	New Hope Corporation Ltd
+NHF.AX	Nib Holdings Ltd
+NHH.AX	Newhaven Hotels Ltd
+NHO.AX	New Horizon Minerals Ltd
+NHR.AX	National Hire Group Ltd
+NIO.AX	Nicklelore Ltd
+NKP.AX	Nkwe Platinum Ltd
+NKPO.AX	Nkwe Platinum Limited
+NKXKZA.AX	Nikkei 225 (ose)
+NKXKZP.AX	Nikkei 225 (ose)
+NLG.AX	National Leisure & Gaming Ltd
+NME.AX	Nex Metals Exploration Ltd
+NMEO.AX	Nex Metals Exploration Ltd
+NMG.AX	Noble Mineral Resources Ltd
+NMGO.AX	Noble Mineral Resources Limited
+NMGOA.AX	Noble Mineral Resources Limited
+NMI.AX	Northern Mining Ltd
+NMIO.AX	Northern Mining Limited
+NMIOB.AX	Northern Mining Ltd
+NMR.AX	Nimrodel Resources Ltd
+NMROA.AX	Nimrodel Resources Limited
+NMS.AX	Neptune Marine Services Ltd
+NOC.AX	Northern Crest Investments Ltd
+NOD.AX	Noman Building Solutions Ltd
+NOE.AX	Novarise Renewable Resources International Limited
+NPX.AX	Nuplex Industries Ltd
+NRL.AX	Newland Resources Ltd
+NRT.AX	Novogen Ltd
+NRU.AX	Newera Uranium Ltd
+NSE.AX	New Standard Energy Ltd
+NSL.AX	L Health Ltd
+NSP.AX	Nusep Ltd
+NSPO.AX	Nusep Ltd
+NST.AX	Northern Star Resources Ltd
+NSX.AX	X Ltd
+NTC.AX	Netcomm Ltd
+NTR.AX	Nt Resources Limited
+NTRO.AX	Nt Resources Limited
+NTU.AX	Northen Uranium Ltd
+NTUOA.AX	Northern Uranium Limited
+NTUOB.AX	Northern Uranium Limited
+NUF.AX	NuFarm Ltd
+NUP.AX	Nupower Resources Ltd
+NVT.AX	Navitas Ltd
+NWE.AX	Norwest Energy NL
+NWEO.AX	Norwest Energy Nl
+NWH.AX	NRW Holdings Ltd
+NWR.AX	Northwest Resources Ltd
+NWS.AX	News Corporation
+NWSKZI.AX	News Corporation
+NWSKZJ.AX	News Corporation
+NWSKZT.AX	News Corporation
+NWSLV.AX	NEWS CORP-PREFD
+NWSMMI.AX	News Corporation
+NWSTMB.AX	News Corporation
+NWT.AX	Newsat
+NXS.AX	Nexus Energy Ltd
+NXT.AX	Nextdc Limited
+NYO.AX	Nyota Minerals Limited
+NZO.AX	New Zealand Oil & Gas Ltd
+OAK.AX	Oaks Hotels & Resorts Ltd
+OBJ.AX	OBJ Ltd
+OBL.AX	Oil Basins Ltd
+OBLOA.AX	Oil Basins Ltd
+OBLOB.AX	Oil Basins Limited
+OCE.AX	Ocean Capital Ltd
+OCL.AX	Objective Corporation Ltd
+OCP.AX	Oceania Capital Partners Limited
+ODG.AX	Odyssey Gaming Ltd
+ODN.AX	Odin Energy Ltd
+ODNO.AX	Odin Energy Ltd
+ODY.AX	Odyssey Energy Ltd
+ODYO.AX	Odyssey Energy Limited
+OEC.AX	Orbital Corporation Ltd
+OEL.AX	Ottoman Energy Ltd
+OEQ.AX	Orion Equities Ltd
+OEX.AX	Oilex NL
+OFG.AX	Over Fifty Group Ltd
+OGC.AX	Oceanagold Corporation
+OGL.AX	Overseas & General Ltd (Malay CUFS)
+OHL.AX	Omnitech Holdings Ltd
+OIL.AX	Optiscan Imaging Ltd
+OIP.AX	Orion Petroleum Ltd
+OKJ.AX	Oakajee Corporation Ltd
+OKL.AX	Oakland Resources Limited
+OKN.AX	Oakton Ltd
+OKU.AX	Oklo Uranium Ltd
+OLE.AX	Olea Australis Ltd
+OLH.AX	Oldfields Holdings Ltd
+OMH.AX	OM Holdings Ltd
+OMI.AX	Occupational & Medical Innovatns Ltd
+OMX.AX	Ormil Energy Limited
+ONC.AX	Oncard International Ltd
+ONQ.AX	On Q Group Ltd
+ONT.AX	1300 Smiles Ltd
+OOH.AX	Oohmedia Group Ltd
+ORC.AX	Orchid Capital Ltd
+ORCOA.AX	Orchid Capital Ltd
+ORD.AX	Ord River Resources Ltd
+ORE.AX	Orocobre Ltd
+ORG.AX	Origin Energy Ltd
+ORGKZC.AX	Origin Energy Ltd
+ORGKZD.AX	Origin Energy Limited
+ORGKZP.AX	Origin Energy Limited
+ORH.AX	Orient Resource Holdings Ltd
+ORI.AX	Orica Ltd
+ORIKZI.AX	Orica Ltd
+ORIKZJ.AX	Orica Ltd
+ORIPB.AX	Orica Ltd
+ORL.AX	OrotonGroup Ltd
+ORM.AX	Orion Metals Limited
+ORMO.AX	Orion Metals Limited
+ORN.AX	ORN
+ORO.AX	Oroya Mining Ltd
+OROOA.AX	Oroya Mining Ltd
+ORS.AX	Octagonal Resources Limited
+ORX.AX	Orrex Resources Ltd
+OSH.AX	Oil Search Ltd (PNG)
+OSHKZD.AX	Oil Search Ltd (PNG)
+OSHKZE.AX	Oil Search Ltd (PNG)
+OSHKZF.AX	Oil Search Limited
+OSHKZR.AX	Oil Search Ltd (PNG)
+OST.AX	Onesteel Ltd
+OSTTMA.AX	Onesteel Limited
+OSTTMC.AX	Onesteel Limited
+OTI.AX	Oriental Technologies Investment Ltd
+OUM.AX	OUM
+OVR.AX	Overland Resources Ltd
+OXX.AX	Octanex N.l.
+OXXCA.AX	Octanex N.l.
+OYM.AX	Olympus Pacific Minerals Inc
+OZB.AX	Oz Brewing Ltd
+OZBO.AX	Oz Brewing Ltd
+OZG.AX	Ozgrowth Ltd
+OZL.AX	OZ Minerals
+OZLTMC.AX	Oz Minerals Limited
+PAA.AX	PharmAust Ltd
+PAAO.AX	Pharmaust Limited
+PAB.AX	Patrys Ltd
+PAG.AX	Primeag Australia Ltd
+PAN.AX	Panoramic Resources Ltd
+PAX.AX	Panax Geothermal Ltd
+PAXO.AX	Panax Geothermal Limited
+PAY.AX	Payce Consolidated Ltd
+PBD.AX	Port Bouvard Ltd
+PBG.AX	Pacific Brands Ltd
+PBP.AX	Probiotec Ltd
+PBT.AX	Prana Biotechnology Ltd
+PCAPA.AX	PCA
+PCC.AX	Probiomics Ltd
+PCL.AX	Pancontinental Oil & Gas NL
+PCP.AX	Paramount Mining Corporation Ltd
+PDI.AX	Predictive Discovery Limited
+PDM.AX	Paradigm Gold Ltd
+PDN.AX	Paladin Resources Ltd
+PDNKZI.AX	Paladin Resources Ltd
+PDZ.AX	Prairie Downs Metals Ltd
+PEA.AX	Pacific Energy Ltd
+PEH.AX	Pacific Environment Ltd
+PEK.AX	Peak Resources Ltd
+PEL.AX	Pelican Resources Ltd
+PEM.AX	Perilya Ltd
+PEN.AX	Peninsula Minerals Ltd
+PENOA.AX	Peninsula Minerals Limited
+PENOC.AX	Peninsula Minerals Limited
+PET.AX	Peters MacGregor Investments Ltd
+PEX.AX	Peel Exploration Ltd
+PFG.AX	Prime Financial Group Ltd
+PFL.AX	Patties Foods Ltd
+PFM.AX	Pacific Mining Ltd
+PGA.AX	Photon Group Ltd
+PGC.AX	Paragon Care Ltd
+PGCOA.AX	Paragon Care Ltd
+PGL.AX	Progen Industries Ltd
+PGM.AX	Platina Resources Ltd
+PGMO.AX	Platina Resources Limited
+PGS.AX	Planet Gas Ltd
+PHA.AX	Public Holdings (Australia) Ltd
+PHG.AX	Pulse Health Ltd
+PHI.AX	Phileo Australia Ltd
+PHK.AX	Phoslock Water Solutions Ltd
+PHL.AX	Pearl Healthcare Ltd
+PHW.AX	Prince Hill Wines Ltd
+PIE.AX	PieNetworks Ltd
+PIH.AX	Prime Infrastructure Group.
+PIM.AX	Prime Minerals Ltd
+PIO.AX	Pioneer Nickel Ltd
+PIR.AX	Papillon Resources Limited
+PIROA.AX	Papillon Resources Limited
+PLA.AX	Platinum Australia Ltd
+PLB.AX	Plan B Group Holdings Ltd
+PLD.AX	Portland Orthopaedics Ltd
+PLS.AX	Pilbara Minerals Limited
+PLV.AX	Pluton Resources Ltd
+PMC.AX	Platinum Capital Ltd
+PME.AX	Pro Medicus Ltd
+PMGOLD.AX	PMGOLD
+PMP.AX	PMP Ltd
+PMQ.AX	Planet Metals Limited
+PMV.AX	Premier Investments Ltd
+PMX.AX	Palamedia Ltd
+PNA.AX	Pan Australian Resources Ltd
+PNE.AX	Paynes Find Gold Limited
+PNEO.AX	Paynes Find Gold Limited
+PNN.AX	PeppinNini Minerals Ltd
+PNO.AX	PharmaNet Group Ltd
+PNOO.AX	PNOO
+PNR.AX	Pacific Niugini Minerals Ltd
+PNW.AX	Pacific Star Network Ltd
+PNX.AX	Phoenix Copper Ltd
+POH.AX	Phosphagenics Ltd
+POS.AX	Poseidon Nickel Ltd
+POSOA.AX	Poseidon Nickel Ltd
+POZ.AX	Phosphate Auctralia Ltd
+PPC.AX	Peet & Company Ltd
+PPG.AX	Pro-Pac Packaging Ltd
+PPK.AX	Plaspak Group Ltd
+PPN.AX	Planet Platinum Ltd
+PPP.AX	Pan Pacific Petroleum NL
+PPS.AX	Praemium Ltd
+PPT.AX	Perpetual Trustees Australia Ltd
+PPX.AX	PaperlinX Ltd
+PPY.AX	Papyrus Australia Ltd
+PRA.AX	Promesa Limited
+PRAO.AX	Promesa Limited
+PRC.AX	Pike River Coal Ltd
+PRCO.AX	Pike River Coal Ltd
+PRE.AX	Pacrim Energy Ltd (PNG)
+PREO.AX	Pacrim Energy Limited
+PRG.AX	Programmed Maintenance Services Ltd
+PRO.AX	Prophecy International Holdings Ltd
+PRP.AX	Prime Credit Property Trust
+PRR.AX	Prima Biomed Ltd
+PRRO.AX	PRRO
+PRT.AX	Prime Television Ltd
+PRU.AX	Perseus Mining Ltd
+PRV.AX	Premium Investors Ltd
+PRW.AX	Proto Resources & Investments Ltd
+PRWO.AX	Proto Resources & Investments Ltd
+PRWOA.AX	Proto Resources & Investments Ltd
+PRWOB.AX	Proto Resources & Investments Ltd
+PRY.AX	Primary Healthcare Ltd
+PSA.AX	Petsec Energy Ltd
+PSF.AX	Pacific Ore Ltd
+PSFO.AX	Pacific Ore Limited
+PSH.AX	Penrise Soda Holdings Ltd
+PSP.AX	Prosperity Resources Ltd
+PSY.AX	PSY
+PTB.AX	PTB Group Ltd
+PTM.AX	Platinum Asset Management Ltd
+PTN.AX	Prime Retirement & Aged Care Property Trust
+PTO.AX	Photo Me Australia Ltd
+PTOO.AX	Photo Me Australia Ltd
+PTR.AX	Petratherm Ltd
+PTS.AX	Platsearch NL
+PUN.AX	Pegasus Metals Ltd
+PVA.AX	Psivia Corp
+PVE.AX	Po Valley Energy Ltd
+PVM.AX	Pmi Gold Corporation
+PWR.AX	Powerlan Ltd
+PWW.AX	Power Resources Ltd
+PWWO.AX	Power Resources Limited
+PXG.AX	Phoenix Gold Limited
+PXGO.AX	Phoenix Gold Limited
+PXGOA.AX	Phoenix Gold Limited
+PXR.AX	Palace Resources Ltd
+PXRO.AX	Palace Resources Ltd
+PXROA.AX	Palace Resources Limited
+PXS.AX	Pharmaxis Ltd
+PXUPA.AX	PXU
+PYC.AX	Phylogica Ltd
+PYCO.AX	Phylogica Limited
+PYM.AX	Pryme Oil & Gas Ltd
+PZC.AX	Pan Asia Corporation Limited
+QAN.AX	Qantas Airways Ltd
+QANKZI.AX	Qantas Airways Ltd
+QANKZL.AX	Qantas Airways Limited
+QANKZM.AX	Qantas Airways Limited
+QANKZP.AX	Qantas Airways Limited
+QANTMC.AX	Qantas Airways Limited
+QBE.AX	QBE Insurance Group Ltd
+QBEKZF.AX	QBE Insurance Group Ltd
+QBEKZK.AX	QBE Insurance Group Ltd
+QBEKZN.AX	Qbe Insurance Group Limited
+QBEKZR.AX	QBE Insurance Group Ltd
+QBEKZS.AX	QBE Insurance Group Ltd
+QBEMMH.AX	QBE Insurance Group Ltd
+QBEMMI.AX	QBE Insurance Group Ltd
+QBL.AX	Queensland Bauxite Limited
+QFN.AX	Betashares S&p/asx 200 Financials Sector Etf (synthetic)
+QFX.AX	Quickflix Ltd
+QHL.AX	Quickstep Holdings Ltd
+QMG.AX	Quay Magnesium Ltd
+QML.AX	QMastor Ltd
+QMN.AX	QMN
+QMNO.AX	Queensland Mining Corporation Limited
+QNA.AX	QNA
+QNL.AX	
+QPN.AX	
+QPNO.AX	Quest Petroleum Nl
+QRE.AX	Betashares S&p/asx 200 Resources Sector Etf (synthetic)
+QRN.AX	Qr National Limited
+QRNKZA.AX	Qr National Limited
+QRNKZP.AX	Qr National Limited
+QRX.AX	QRX Pharama Ltd
+QSS.AX	Questus Ltd
+QST.AX	Quest Investments Ltd
+QTG.AX	QTG
+QTGOA.AX	QTGOA
+QTI.AX	Queensland Trustees & Investment Ltd
+QTM.AX	Quantum Energy Ltd
+QUB.AX	Qube Logistics
+QUE.AX	Queste Communications Ltd
+QUR.AX	Quantum Resources Ltd
+QUROA.AX	Quantum Resources Ltd
+QUROB.AX	Quantum Resources Ltd
+QXQ.AX	Q Ltd
+RAD.AX	Radar Iron Limited
+RAF.AX	Raffles Capital Limited
+RAI.AX	Raisama Limited
+RAU.AX	Republic Gold Ltd
+RAUOA.AX	Republic Gold Limited
+RAW.AX	Rawson Resources Ltd
+RBR.AX	Rubicon Resources Ltd
+RBV.AX	RBV
+RBX.AX	Resources Base Ltd
+RBXO.AX	Resource Base Limited
+RCG.AX	Retail Cube Ltd
+RCI.AX	Rocklands Richfield PCI Ltd
+RCM.AX	Reclaim Industries Ltd
+RCO.AX	Royalco Resources Ltd
+RCP.AX	Redbank Copper Limited
+RCR.AX	RCR Tomlinson Ltd
+RCT.AX	Reef Casino Trust
+RCU.AX	RCU
+RCY.AX	Rivercity Motorway Group
+RDF.AX	Redflex Holdings Ltd
+RDH.AX	Redhill Education Limited
+RDM.AX	Red Metal Ltd
+RDR.AX	Reed Resources Ltd
+RDS.AX	Redstone Resources Ltd
+RDV.AX	Russell High Dividend Australian Shares Etf
+REA.AX	realestate.com.au Ltd
+RED.AX	Red 5 Ltd
+REF.AX	Reverse Corp Ltd
+REH.AX	Reece Australia Ltd
+RER.AX	Regal Resources Ltd
+REROB.AX	Regal Resources Ltd
+RES.AX	Resource Generation Ltd
+REX.AX	Regional Express Holdings Ltd
+REY.AX	Rey Resources Ltd
+REZ.AX	Resources & Energy Group Limited
+RFE.AX	Red Fork Energy Ltd
+RFG.AX	Retail Food Group Ltd
+RFL.AX	Rubik Financial Ltd
+RFT.AX	Rectifier Technologies Ltd
+RFX.AX	Redflow Limited
+RGM.AX	Rgm Media Limited
+RGP.AX	Refresh Group Ltd
+RHC.AX	Ramsay Health Care Ltd
+RHCPA.AX	Ramsay Health Care Ltd
+RHD.AX	Ross Human Directions Ltd
+RHE.AX	Rheochem PLC
+RHG.AX	Rams Home Loans Group Ltd
+RHI.AX	Red Hill Iron Ltd
+RHL.AX	Ruralco Holdings Ltd
+RHM.AX	Richmond Mining
+RHT.AX	Resonance Health Ltd
+RIA.AX	Rialto Energy Ltd
+RIAO.AX	Rialto Energy Ltd
+RIC.AX	Ridley Corporation Ltd
+RIE.AX	Riedel Resources Limited
+RIG.AX	Rongtai International Group Holdings Limited
+RIM.AX	Rimfire Pacific Mining NL
+RIMO.AX	RIMO
+RIO.AX	Rio Tinto Ltd
+RIOKZC.AX	Rio Tinto Ltd
+RIOKZE.AX	Rio Tinto Limited
+RIOKZF.AX	Rio Tinto Limited
+RIOKZG.AX	Rio Tinto Limited
+RIOKZH.AX	Rio Tinto Limited
+RIOKZR.AX	Rio Tinto Limited
+RIOKZS.AX	Rio Tinto Limited
+RIOTMD.AX	Rio Tinto Limited
+RIS.AX	Richfield International Ltd
+RIV.AX	Riversdale Mining Ltd
+RKN.AX	Reckon Ltd
+RLA.AX	Redisland Australia Ltd
+RLC.AX	Revere Mining
+RLG.AX	Rcl Group
+RMC.AX	RIMCapital Ltd
+RMD.AX	ResMed Inc (USA CUFS)
+RMDKZD.AX	ResMed Inc (USA CUFS)
+RMG.AX	RMG Ltd
+RMI.AX	Resource Mining Corporation Ltd
+RMIO.AX	RMIO
+RMP.AX	Red Emperor Resources NL
+RMR.AX	
+RMRO.AX	Ram Resources Limited
+RMS.AX	Ramelius Resources Ltd
+RMT.AX	RMA Energy Ltd
+RNC.AX	Run Corp Ltd
+RND.AX	Rand Mining NL
+RNG.AX	Range River Gold Ltd
+RNI.AX	Resource
+RNS.AX	Renaissance Minerals Limited
+RNU.AX	Renaissance Uranium Limited
+RNY.AX	Reckson New York Property Trust
+ROB.AX	ROB
+ROC.AX	Roc Oil Company Ltd
+ROG.AX	Red Sky Energy Ltd
+ROGOA.AX	Red Sky Energy Limited.
+ROK.AX	Rock Building Society Ltd (The)
+ROL.AX	Robust Resources Ltd
+ROY.AX	Royal Resources Ltd
+ROYO.AX	Royal Resources Limited
+ROYOA.AX	Royal Resources Ltd
+RPF.AX	Redcape Property Group
+RPG.AX	Raptis Group Ltd
+RPX.AX	RP Data Ltd
+RQL.AX	Resource Equipment Ltd
+RRE.AX	Rubianna Resources Limited
+RRI.AX	Rico Resources Limited
+RRL.AX	Regis Resources NL
+RRLO.AX	Regis Resources NL
+RRLOA.AX	Regis Resources NL
+RRLOB.AX	Regis Resources NL
+RRP.AX	Realm Resources Limited
+RRS.AX	Range Resources Ltd
+RRSO.AX	RRSO
+RSG.AX	Resolute Mining Ltd
+RSGG.AX	Resolute Mining Ltd
+RSGO.AX	RSGO
+RSL.AX	Retail Star Ltd
+RSLO.AX	Resource Star Limited
+RSN.AX	Renison Consolidated Mines NL
+RSNG.AX	Macquarie Goodman Group
+RSR.AX	Aii S&p/asx 200 Resources
+RUB.AX	Rubicor Group Ltd
+RUL.AX	Runge Ltd
+RUM.AX	Rum Jungle Uranium Ltd
+RUR.AX	Ruralaus Investments Ltd
+RVA.AX	Reva Medical Inc
+RVR.AX	Red River Resources Ltd
+RWD.AX	Reward Minerals Ltd
+RXL.AX	Rox Resources Ltd
+RXLO.AX	Rox Resources Ltd
+RXLOA.AX	Rox Resources Limited
+RXM.AX	Rex Minerals Ltd
+RZR.AX	
+SAI.AX	SAI Global Ltd
+SAP.AX	Sabina Corporation Ltd
+SAR.AX	Saracen Mineral Holdings Ltd
+SARO.AX	Saracen Mineral Holdings Ltd
+SAU.AX	Southern Gold Ltd
+SAV.AX	Savcor Group Ltd
+SAY.AX	South American Iron & Steel Corporation Ltd
+SBI.AX	Sterling Biofuels International Ltd
+SBKPA.AX	Suncorp-metway Limited .
+SBKPB.AX	Suncorp-metway Limited .
+SBL.AX	Signature Brands Ltd
+SBM.AX	St Barbara Mines Ltd
+SBN.AX	Sun Biomedical Ltd
+SBR.AX	Sabre Resources Ltd
+SBU.AX	Siburan Resources Limited
+SBUO.AX	Siburan Resources Limited
+SCC.AX	Scott Corporation Ltd
+SCD.AX	Scantech Ltd
+SCR.AX	Scandinavian Resources Limited
+SCRO.AX	Scandinavian Resources Limited
+SDG.AX	Sunland Group Ltd
+SDI.AX	SDI Ltd
+SDL.AX	Sundance Resources Ltd
+SDM.AX	Sedgman Ltd
+SDT.AX	Shandong Tianye Australia Limited
+SEA.AX	Sundance Energy Australia Ltd
+SEG.AX	Segue Resources Ltd
+SEH.AX	Sino Gas & Energy Holdings Limited
+SEHOA.AX	Sino Gas & Energy Holdings Limited
+SEHOC.AX	Sino Gas & Energy Holdings Limited
+SEK.AX	Seek Ltd
+SEN.AX	Senetas Corporation Ltd
+SEO.AX	Sentosa Mining Limited
+SER.AX	Strategic Energy Resources Ltd
+SFC.AX	Schaffer Corporation Ltd
+SFH.AX	Specialty Fashion Group Ltd
+SFN.AX	Stanfield Funds Management Limited
+SFP.AX	Safety Medical Products Ltd
+SFR.AX	Sandfire Resources NL
+SFX.AX	Sheffield Resources Limited
+SFY.AX	StreetTracks S&P/ASX 50 Fund
+SFZ.AX	South American Ferro Metals Limited
+SFZO.AX	South American Ferro Metals Limited
+SGH.AX	Slater & Gordon Ltd
+SGI.AX	Signature Capital Investments Limited
+SGM.AX	Sims Group Ltd
+SGN.AX	STW Communications Group Ltd
+SGP.AX	Stockland
+SGQ.AX	St George Mining Limited
+SGT.AX	Singapore Telecommunicatns (Sg CUFS)
+SGU.AX	Success Resources Global Ltd
+SGY.AX	Solimar Energy Ltd
+SGZ.AX	Scotgold Resources Ltd
+SGZO.AX	Scotgold Resources Ltd
+SHC.AX	Sunshine Heart Inc
+SHD.AX	Sherwin Iron Limited
+SHDO.AX	Sherwin Iron Limited
+SHE.AX	Stonehenge Metals Ltd
+SHEOA.AX	Stonehenge Metals Limited
+SHH.AX	Shree Minerals Limited
+SHHO.AX	Shree Minerals Limited
+SHL.AX	Sonic Healthcare Ltd
+SHR.AX	John Shearer (Holdings) Ltd
+SHU.AX	Shenhua International Limited
+SHV.AX	Select Harvests Ltd
+SIE.AX	SciGen Ltd (Singapore)
+SIH.AX	Sihayo Gold Limited
+SIP.AX	Sigma Pharmaceuticals Ltd
+SIR.AX	Sirius Resources Nl
+SIT.AX	SIT
+SIU.AX	Sirius Telecommunications Ltd
+SIV.AX	Silver Chef Ltd
+SKC.AX	Sky City Entertainment Group Ltd
+SKE.AX	Skilled Group Ltd
+SKI.AX	Spark Infrastructure Group
+SKS.AX	Stokes (Australasia) Ltd
+SKT.AX	Sky Network Television Ltd
+SLA.AX	Solagran Ltd
+SLF.AX	StreetTracks 200 Listed Proprty Fund
+SLM.AX	Salmat Ltd
+SLR.AX	Silver Lake Resources Ltd
+SLT.AX	Select Vaccines Ltd
+SLTO.AX	Select Vaccines Limited
+SLV.AX	Sylvania Resources Ltd
+SLX.AX	Silex Systems Ltd
+SMA.AX	SmartTrans Holdings Ltd
+SMC.AX	Strategic Minerals Corporation NL
+SMD.AX	Syndicated Metals Ltd
+SMDO.AX	Syndicated Metals Limited
+SML.AX	Synergy Metals Ltd
+SMLO.AX	Synergy Metals Ltd
+SMLOA.AX	Synergy Metals Ltd
+SMM.AX	Summit Resources Ltd
+SMN.AX	Structural Monitoring Systems Plc
+SMNOA.AX	Structural Monitoring Systems Plc
+SMR.AX	Stanmore Coal Limited
+SMX.AX	SMS Management & Technology Ltd
+SND.AX	Saunders International Ltd
+SNE.AX	Somerton Energy Limited
+SNL.AX	Supply Network Ltd
+SNO.AX	Snowball Group Ltd
+SNR.AX	Synergy Plus Limited
+SNV.AX	Sinovus Mining Ltd
+SOC.AX	Sovereign Gold Company Limited
+SOE.AX	Souls Private Equity Ltd
+SOEOA.AX	Souls Private Equity Limited
+SOF.AX	Sofcom Ltd
+SOI.AX	Soil Sub Technologies Ltd
+SOL.AX	Washington H Soul Pattison & Co Ltd
+SOM.AX	SomnoMed Ltd
+SOO.AX	Solco Ltd
+SPD.AX	Strategic Pooled Development Ltd
+SPFKZA.AX	S&p 500 Emini Futures
+SPFKZB.AX	S&p 500 Emini Futures
+SPFKZQ.AX	S&p 500 Emini Futures
+SPFKZR.AX	S&p 500 Emini Futures
+SPFKZS.AX	S&p 500 Emini Futures
+SPG.AX	Superwoman Group Limited
+SPH.AX	Sphere Investments Ltd
+SPI.AX	Spitfire Resources Ltd
+SPL.AX	Starpharma Holdings Ltd
+SPM.AX	Speewah Metals Ltd
+SPN.AX	SP Ausnet
+SPQ.AX	Superior Resources Ltd
+SPT.AX	Spotless Group Ltd
+SRA.AX	Strathfield Group Ltd
+SRE.AX	Stirling Resources Limited
+SREO.AX	Stirling Resources Limited
+SREOB.AX	Stirling Resources Limited
+SRH.AX	Saferoads Holdings Ltd
+SRI.AX	Sipa Resources Ltd
+SRK.AX	Strike Resources Ltd
+SRL.AX	Straits Resources Ltd
+SRM.AX	Sirra Mining Ltd
+SRQ.AX	Straits Metals Limited
+SRR.AX	Shaw River Resources Ltd
+SRV.AX	Servcorp Ltd
+SRX.AX	Sirtex Medical Ltd
+SRZ.AX	Stellar Resources Ltd
+SSC.AX	Sultan Corporation Ltd
+SSI.AX	Sino Securities International Ltd
+SSL.AX	Sietel Ltd
+SSLPA.AX	Sietel PA
+SSM.AX	Service Stream Ltd
+SSN.AX	Samson Oil & Gas NL
+SSNO.AX	Samson Oil & Gas Limited
+SST.AX	Steamships Trading Company Ltd (PNG)
+STB.AX	South Boulder Mines Ltd
+STE.AX	Stratatel Ltd
+STEO.AX	STE 31AUG05 0.25
+STG.AX	Staging Connections Group Ltd
+STI.AX	Stirling Products Ltd
+STO.AX	Santos Ltd
+STOKZD.AX	Santos Ltd
+STOKZE.AX	Santos Ltd
+STOKZT.AX	Santos Ltd
+STOKZU.AX	Santos Ltd
+STP.AX	Stericorp Ltd
+STS.AX	Structural Systems Ltd
+STU.AX	Stuart Petroleum Ltd
+STW.AX	StreetTracks S&P/ASX 200 Fund
+STWKZB.AX	StreetTracks S&P/ASX 200 Fund
+STWKZD.AX	Spdr S&p/asx 200 Fund
+STWMMI.AX	StreetTracks S&P/ASX 200 Fund
+STX.AX	Strike Oil Ltd
+STZ.AX	STZ
+SUH.AX	Southern Hemisphere Mining Limited
+SUL.AX	Super Cheap Auto Group Ltd
+SUM.AX	Sumatra Copper & Gold Plc
+SUN.AX	Suncorp-Metway Ltd
+SUNKZM.AX	Suncorp-Metway Ltd
+SUNKZN.AX	Suncorp-metway Limited.
+SUNKZP.AX	Suncorp-Metway Ltd
+SUR.AX	Sun Resources NL
+SURG.AX	Sun Resources NL
+SVC.AX	Shell Villages & Resorts Ltd
+SVL.AX	Silver Mines Ltd
+SVLO.AX	Silver Mines Limited
+SVM.AX	Sovereign Metals Ltd
+SVS.AX	Sunvest Corporation Ltd
+SVW.AX	Seven Group Holdings Limited
+SVWPA.AX	Seven Group Holdings Limited
+SWA.AX	Swan Gold Mining Limited
+SWK.AX	Swick Mining Services Ltd
+SWL.AX	Seymour Whyte Limited
+SWN.AX	Silver Swan Group Ltd
+SWR.AX	Southern Crown Resources Limited
+SWRO.AX	Southern Crown Resources Limited
+SWW.AX	Solverdi Worldwide Ltd
+SXE.AX	Southern Cross Electrical Engineering Ltd
+SXG.AX	Southern Cross Goldfields Ltd
+SXGR.AX	Southern Cross Goldfields Limited
+SXL.AX	Southern Cross Media Group
+SXR.AX	Skywest Airlines Ltd
+SXX.AX	Southern Cross Exploration NL
+SXY.AX	Senex Energy Limited
+SYI.AX	Spdr Msci Australia Select High Dividend Yield Fund
+SYL.AX	Sylvastate Ltd
+SYM.AX	Symex Holdings Ltd
+SYP.AX	Style Plantation Ltd
+SYR.AX	Syrah Resources Ltd
+SYS.AX	Syngas Ltd
+TAG.AX	Tag Pacific Ltd
+TAH.AX	Tabcorp Holdings Ltd
+TAHKZF.AX	Tabcorp Holdings Ltd
+TAHKZG.AX	Tabcorp Holdings Ltd
+TAHKZP.AX	Tabcorp Holdings Ltd
+TAHKZQ.AX	Tabcorp Holdings Ltd
+TAL.AX	Tower Australia Group Ltd
+TAM.AX	Tanami Gold NL
+TAN.AX	Tandou Ltd
+TAP.AX	Tap Oil Ltd
+TAS.AX	Tasman Resources NL
+TASOB.AX	Tasman Resources Ltd
+TAW.AX	Tawana Resources NL
+TAWOA.AX	Tawana Option
+TBR.AX	Tribune Resources NL
+TCL.AX	Transurban Group
+TCM.AX	Tiaro Coal Ltd
+TCN.AX	Techniche Ltd
+TCO.AX	Transmetro Corporation Ltd
+TCQ.AX	Trinity Consolidated Group
+TDI.AX	Tidewater Investments Ltd
+TDO.AX	3D Oil Ltd
+TDX.AX	TDX
+TDXO.AX	Tyrian Diagnostics Limited
+TEG.AX	Triangle Energy (global) Limited
+TEL.AX	Telecom Corporation of NZ Ltd
+TEN.AX	Ten Network Holdings Ltd
+TENKZA.AX	Ten Network Holdings Limited
+TEO.AX	Telesso Technologies Ltd
+TEU.AX	Top End Uranium Ltd
+TEX.AX	Target Energy Ltd
+TEXOB.AX	Target Energy Limited
+TEY.AX	Torrens Energy Ltd
+TFC.AX	TFS Corporation Ltd
+TFS.AX	Tranzact Financial Services Ltd
+TFSOA.AX	Tranzact Financial Services Limited
+TGA.AX	Thorn Group Limited
+TGG.AX	Templeton Global Growth Fund Ltd
+TGP.AX	Trafalgar Corporate Group
+TGR.AX	Tassal Group Ltd
+TGS.AX	Tiger Resources Ltd
+TGZ.AX	Teranga Gold Corporation
+THG.AX	Thakral Holdings Ltd
+THO.AX	Thomas & Coffey Ltd
+THR.AX	Thor Mining Plc
+THRO.AX	Thor Mining Plc
+THX.AX	Thundelarra Explrn Ltd (Canada CUFS)
+THXOA.AX	Thundelarra Explrn Ltd (Canada CUFS)
+TIM.AX	Timbercorp Ltd
+TIMG.AX	Timbercorp Ltd
+TIMPB.AX	TIMPB
+TIS.AX	Tissue Therapies Ltd
+TJN.AX	Trojan Equity Ltd
+TKG.AX	Takoradi Ltd
+TKL.AX	Traka Resources Ltd
+TLG.AX	Talga Gold Limited
+TLM.AX	Talisman Mining Ltd
+TLS.AX	Telstra Corporation Ltd
+TLSKZD.AX	Telstra Corporation Ltd
+TLSKZE.AX	Telstra Corporation Limited.
+TLSKZP.AX	Telstra Corporation Ltd
+TLSKZQ.AX	Telstra Corporation Ltd
+TLSMMI.AX	Telstra Corporation Ltd
+TLSTMA.AX	Telstra Corporation Limited.
+TLSTMB.AX	Telstra Corporation Limited.
+TLSTMD.AX	Telstra Corporation Limited.
+TLZ.AX	Telezon Ltd
+TMA.AX	Tma Group Of Companies Limited
+TMM.AX	Tasmania Mines Ltd
+TMX.AX	Terrain Minerals Ltd
+TMXOA.AX	Terrain Minerals Limited
+TMZ.AX	Thomson Resources Limited
+TNC.AX	Transol Corporation Ltd
+TNCOA.AX	Macquarie Goodman Group
+TNE.AX	Technology One Ltd
+TNG.AX	Tennant Creek Gold Ltd
+TNP.AX	Tango Petroleum Limited
+TNPO.AX	Tango Petroleum Limited
+TOE.AX	Toro Energy Ltd
+TOL.AX	Toll Holdings Ltd
+TOLKZH.AX	Toll Holdings Ltd
+TOLKZI.AX	Toll Holdings Limited
+TOLKZR.AX	Toll Holdings Limited
+TOLTMA.AX	Toll Holdings Limited
+TON.AX	Triton Gold Limited
+TONO.AX	Triton Gold Limited
+TOX.AX	Tox Free Solutions Ltd
+TPAPA.AX	TPA
+TPC.AX	Tel Pacific Ltd
+TPI.AX	Transpacific Industries Group Ltd
+TPL.AX	Terraplanet Ltd
+TPM.AX	Tpg Telecom Limited
+TPT.AX	Tangiers Petroleum Limited
+TPTOA.AX	Tangiers Petroleum Limited
+TQH.AX	3Q Holdings Ltd
+TRF.AX	Trafford Resources Ltd
+TRFO.AX	Trafford Resources Limited
+TRG.AX	Treasury Group Ltd
+TRH.AX	Transit Holdings Ltd
+TRM.AX	Truscott Mining Corporation Ltd
+TRO.AX	Tri Origin Minerals Ltd
+TRS.AX	Reject Shop Ltd (The)
+TRU.AX	Trust Company of Australia Ltd
+TRY.AX	Troy Resources NL
+TSE.AX	Transfield Services Ltd
+TSH.AX	TSV Holdings Ltd
+TSI.AX	Transfield Services Infrasture Fund
+TSM.AX	Thinksmart Ltd
+TSN.AX	TSN
+TSO.AX	Tishman Speyer Office Fund
+TSV.AX	Transerv Australia Ltd
+TTA.AX	TTA Holdings Ltd
+TTI.AX	Traffic Technologies Ltd
+TTR.AX	Tectonic Resources NL
+TTS.AX	Tattersalls Ltd
+TTV.AX	Two Way TV Australia Ltd
+TTY.AX	Territory Resources Ltd
+TUC.AX	Territory Uranium Compnay Ltd
+TVN.AX	TVSN Ltd
+TWD.AX	Tamawood Ltd
+TWO.AX	Talent2 International Ltd
+TWR.AX	Tower Ltd
+TWT.AX	TWT Group Ltd
+TXN.AX	Texon Petroleum Ltd
+TYO.AX	TYO
+TYS.AX	Teys Ltd
+TYSO.AX	Teys Ltd
+TZL.AX	TZ Ltd
+TZN.AX	Terramin Australia Ltd
+UBI.AX	Universal Biosensors Ltd
+UCL.AX	Union Resources Ltd
+UCM.AX	USCOM Ltd
+UCW.AX	Undercoverwear Ltd
+UEQ.AX	Uranium Equities Ltd
+UGL.AX	United Group Ltd
+UGLKZC.AX	United Group Ltd
+ULT.AX	Ultrapay Ltd
+UML.AX	Unity Mining Limited
+UNS.AX	Unilife Corporation
+UNV.AX	Universal Coal Plc
+UNX.AX	Uranex NL
+UOG.AX	Uranium Oil And Gas Ltd
+UOS.AX	United Overseas Australia Ltd
+URA.AX	Uran Ltd
+URAOA.AX	Uran Limited
+URM.AX	Uramet Minerals Ltd
+USA.AX	Uraniumsa Ltd
+USD.AX	Betashares U.s. Dollar Etf
+USH.AX	US Masters Hldngs (Brit Virg nCHESS)
+USN.AX	Us Nickel Limited
+UTO.AX	U308 Ltd
+UUL.AX	United Uranium Ltd
+UULOA.AX	United Uranium Limited
+UXA.AX	Uranium Exploration Australia Ltd
+UXC.AX	UXC Ltd
+VAP.AX	Vanguard Australian Property Securities Index Etf
+VAS.AX	VAS
+VBA.AX	Virgin Blue Holdings Ltd
+VBP.AX	Van Eyk Blueprint Alternatives Plus
+VEC.AX	Vector Capital Ltd
+VECO.AX	Vector Capital Ltd
+VELCP.AX	Vealls CP
+VELPA.AX	Vealls PA
+VES.AX	VES
+VEU.AX	VEU
+VGH.AX	Vision Group Holdings Ltd
+VGO.AX	Vantage Goldfields Limited
+VGP.AX	Verticon Group Ltd
+VHL.AX	Virax Holdings Ltd
+VHLG.AX	Virax Holdings Ltd
+VIA.AX	ViaGold Capital Ltd
+VIE.AX	Viento Group Ltd
+VII.AX	Vietnam Industrial Investments Ltd
+VIL.AX	Verus Investments Ltd
+VIP.AX	Voltage IP Ltd
+VIR.AX	Viridis Clean Energy Group
+VKA.AX	Viking Ashanti Limited
+VLA.AX	Viralytices Ltd
+VMC.AX	Venus Metals Corporation Limited
+VMCO.AX	Venus Metals Corporation Limited
+VMG.AX	VDM Group Ltd
+VML.AX	Vital Metals Ltd
+VMS.AX	Venture Minerals Ltd
+VMT.AX	Vmoto Ltd
+VOC.AX	Vocus Communications Limited
+VOR.AX	Voyager Resources Limited
+VORO.AX	Voyager Resources Limited
+VPE.AX	Victoria Petroleum NL
+VPG.AX	Valad Property Group
+VRL.AX	Village Roadshow Ltd
+VRX.AX	Ventnor Resources Ltd
+VSC.AX	Vita Life Sciences Ltd
+VTA.AX	Viterra Inc
+VTG.AX	Vita Group Ltd
+VTP.AX	van Eyk Three Pillars Ltd
+VTS.AX	VTS
+VTX.AX	Vortex Pipes Ltd
+VWM.AX	VWM
+VWMOA.AX	Victory West Moly Limited
+VXR.AX	
+WAA.AX	Wam Active Ltd
+WAAO.AX	Wam Active Ltd
+WAB.AX	Wallace Absolute Return Ltd
+WAC.AX	Wild Acre Metals Limited
+WAF.AX	West African Resources Limited
+WAG.AX	WorldAudio Ltd
+WAL.AX	Wavenet International Ltd
+WAM.AX	WAM Capital Ltd
+WAN.AX	West Australian Newspapers Holdings
+WANG.AX	West Australian Newspapers Holdings Limited
+WAS.AX	Wasabi Energy Ltd
+WASPA.AX	Wasabi Energy Limited
+WAT.AX	Waterco Ltd
+WAX.AX	WAX
+WBA.AX	Webster Ltd
+WBAPA.AX	Webster PA
+WBB.AX	Wide Bay Australia Ltd
+WBC.AX	Westpac Banking Corporation
+WBCKZJ.AX	Westpac Banking Corporation
+WBCKZK.AX	Westpac Banking Corporation
+WBCKZL.AX	Westpac Banking Corporation
+WBCKZP.AX	Westpac Banking Corporation
+WBCKZY.AX	Westpac Banking Corporation
+WBCMMH.AX	Westpac Banking Corporation
+WBCMMI.AX	Westpac Banking Corporation
+WBCPA.AX	Westpac Banking Corporation
+WBCPB.AX	Westpac Banking Corporation
+WBCTMC.AX	Westpac Banking Corporation
+WCB.AX	Warrnambool Cheese & Butter Holdings
+WCL.AX	Westside Corporation Ltd
+WCN.AX	White Cliff Nickel Ltd
+WCNO.AX	White Cliff Nickel Ltd
+WCP.AX	WCP Diversified Investments Ltd
+WCR.AX	Winchester Resources Limited
+WCTPA.AX	WCT
+WCU.AX	White Canyon Uranium Ltd
+WDC.AX	Westfield Group
+WDCKZG.AX	Westfield Group
+WDCKZI.AX	Westfield Group
+WDCKZR.AX	Westfield Group
+WDR.AX	Western Desert Resources Ltd
+WDRO.AX	Western Desert Resources Ltd
+WDS.AX	Walter Diversified Services Ltd
+WEB.AX	Webjet Ltd
+WEC.AX	White Energy Company Ltd
+WES.AX	Wesfarmers Ltd
+WESKZG.AX	Wesfarmers Ltd
+WESKZI.AX	Wesfarmers Limited
+WESKZW.AX	Wesfarmers Limited
+WESKZX.AX	Wesfarmers Limited
+WESN.AX	Wesfarmer Ltd
+WESTMC.AX	Wesfarmers Limited
+WFA.AX	Westfield America Trust merger WDC
+WFE.AX	Winmar Resources Limited
+WFL.AX	Willmott Forests Ltd
+WFLPA.AX	Willmott Forests Ltd
+WFM.AX	WFM
+WFT.AX	Westfield Trust Ltd merger WDC
+WGO.AX	Waratah Gold Ltd
+WGP.AX	Westralian Gas & Power Ltd
+WGPOA.AX	Westralian Gas And Power Limited
+WGR.AX	Westgold Resources NL
+WHC.AX	Whitehaven Coal Ltd
+WHCTMC.AX	Whitehaven Coal Limited
+WHE.AX	Wildhorse Energy Ltd
+WHF.AX	Whitefield Ltd
+WHFPA.AX	Whitefield PA
+WHG.AX	WHK Group Ltd
+WHN.AX	Wind Hydrogen Ltd
+WHNO.AX	Whl Energy Limited
+WHS.AX	Warehouse Group Ltd (The)
+WIC.AX	Westoz Investment Company Limited
+WICO.AX	Westoz Investment Company Limited
+WIG.AX	Wilson HTM Investment Group Ltd
+WLF.AX	Wolf Minerals Ltd
+WLFO.AX	Wolf Minerals Limited
+WLL.AX	Wellcom Group Ltd
+WMN.AX	Western Manganese Limted
+WNI.AX	Wah Nam International Holdings Limited
+WNIO.AX	Wah Nam International Holdings Limited
+WNS.AX	World.Net Services Ltd
+WOR.AX	WorleyParsons Ltd
+WORKZD.AX	WorleyParsons Ltd
+WORMMI.AX	WorleyParsons Ltd
+WOW.AX	Woolworths Ltd
+WOWKZD.AX	Woolworths Ltd
+WOWKZE.AX	Woolworths Ltd
+WOWKZR.AX	Woolworths Ltd
+WOWKZS.AX	Woolworths Ltd
+WOWKZT.AX	Woolworths Ltd
+WOWMMI.AX	Woolworths Ltd
+WOWTMC.AX	Woolworths Limited
+WPG.AX	Western Plains Gold Ltd
+WPI.AX	West Peak Iron Limited
+WPL.AX	Woodside Petroleum Ltd
+WPLKZI.AX	Woodside Petroleum Ltd
+WPLKZJ.AX	Woodside Petroleum Ltd
+WPLKZP.AX	Woodside Petroleum Limited
+WPLKZY.AX	Woodside Petroleum Limited
+WPLKZZ.AX	Woodside Petroleum Limited
+WPLMMI.AX	Woodside Petroleum Ltd
+WPLTMA.AX	Woodside Petroleum Limited
+WPLTMB.AX	Woodside Petroleum Limited
+WPLTMD.AX	Woodside Petroleum Limited
+WRG.AX	Water Resources Group Limited
+WRM.AX	White Rock Minerals Limited
+WRR.AX	World Reach Ltd
+WRT.AX	Westfield Retail Trust
+WSA.AX	Western Areas NL
+WSF.AX	Westfield Holdings Ltd merger WDC
+WTF.AX	Wotif.com Holdings Ltd
+WTG.AX	
+WTP.AX	Watpac Ltd
+WVL.AX	Windimurra Vanadium Ltd
+WWG.AX	WWG
+WWI.AX	West Wits Mining Ltd
+WWM.AX	Wentworth Mutual Ltd
+WWW.AX	Whinnen Resources Ltd
+WWWO.AX	Whinnen Resources Limited
+XAF.AX	S&P/ASX All Australian 50
+XAM.AX	Xanadu Mines Limited
+XAO.AX	ASX All Ordinaries
+XAT.AX	S&P/ASX All Australian 200
+XBW.AX	S&P/ASX Buy-Write Index
+XCD.AX	Xceed Capital Ltd
+XDJ.AX	S&P/ASX 200 Consumer Discretionary
+XEJ.AX	S&P/ASX 200 Energy
+XFJ.AX	S&P/ASX 200 Financials
+XFL.AX	S&P/ASX 50
+XGD.AX	S&P/ASX All Ordinaries Gold
+XHJ.AX	S&P/ASX 200 Health Care
+XIJ.AX	S&P/ASX 200 Information Technology
+XJO.AX	S&P/ASX 200
+XJOKZG.AX	S&P/ASX 200
+XJOKZH.AX	S&P/ASX 200
+XJOKZJ.AX	S&P/ASX 200
+XJOKZL.AX	XJOKZL
+XJOKZP.AX	XJOKZP
+XJOKZY.AX	XJOKZY
+XJOKZZ.AX	XJOKZZ
+XJOTM1.AX	XJOTM1
+XJOTM2.AX	XJOTM2
+XJOTM4.AX	XJOTM4
+XJOUMK.AX	S&P/ASX 200
+XJOUML.AX	S&P/ASX 200
+XJOUMN.AX	XJOUMN
+XJOUMU.AX	S&P/ASX 200
+XJOUMV.AX	XJOUMV
+XJOUMW.AX	XJOUMW
+XJOUMZ.AX	S&P/ASX 200
+XKO.AX	S&P/ASX 300
+XMD.AX	S&P/ASX Midcap 50
+XMJ.AX	S&P/ASX 200 Materials
+XMM.AX	S&P/ASX 300 Metals And Mining
+XNJ.AX	S&P/ASX 200 Industrials
+XPJ.AX	S&P/ASX 200 Property Trusts
+XRF.AX	XRF Scientific Ltd
+XSJ.AX	S&P/ASX 200 Consumer Staples
+XSO.AX	S&P/ASX Small Ordinaries
+XST.AX	Xstate Resources Ltd
+XSTO.AX	Xstate Resources Limited
+XTE.AX	ASX Telecommunications
+XTJ.AX	S&P/ASX 200 Telecommunication Services
+XTL.AX	S&P/ASX 20
+XTO.AX	S&P/ASX 100
+XUJ.AX	S&P/ASX 200 Utilities
+XXJ.AX	S&P/ASX 200 Financials x Property Trusts
+XXL.AX	Xiaoxiao Education Limited
+YHL.AX	Yanghao International Limited
+YRR.AX	Yellow Rock Resources Ltd
+YRROA.AX	Yellow Rock Resources Limited
+YTC.AX	YTC Resources Ltd
+ZCLKZA.AX	ZCLKZA
+ZCLKZB.AX	ZCLKZB
+ZCLKZQ.AX	ZCLKZQ
+ZCLKZR.AX	ZCLKZR
+ZGCKZA.AX	ZGCKZA
+ZGCKZB.AX	ZGCKZB
+ZGCKZC.AX	ZGCKZC
+ZGCKZQ.AX	ZGCKZQ
+ZGCKZR.AX	ZGCKZR
+ZGL.AX	Zicom Group Ltd
+ZGM.AX	Zamia Gold Mines Ltd
+ZHE.AX	Zheng He Global Capital Limited
+ZHGKZB.AX	Comex Copper Futures (cme)
+ZHGKZP.AX	Comex Copper Futures (cme)
+ZIM.AX	Zimbabwe Platinum Mines Ltd
+ZMG.AX	Zingmobile Group Ltd
+ZNC.AX	Zinc Co Australia Ltd
+ZRL.AX	Zambezi Resources Ltd
+ZSIKZA.AX	Comex Silver Futures (cme)
+ZSIKZB.AX	Comex Silver Futures (cme)
+ZSIKZP.AX	Comex Silver Futures (cme)
+ZSIKZR.AX	Comex Silver Futures (cme)
+ZYL.AX	Zylotech Ltd

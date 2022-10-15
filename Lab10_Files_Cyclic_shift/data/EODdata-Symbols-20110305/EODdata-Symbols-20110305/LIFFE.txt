@@ -1,0 +1,249 @@
+Symbol	Description
+CA.C	No. 7 Cocoa Continuation
+CAH11	No. 7 Cocoa {Mar 11}
+CAH12	No. 7 Cocoa {Mar 12}
+CAK11	No. 7 Cocoa {May 11}
+CAK12	No. 7 Cocoa {May 12}
+CAN11	No. 7 Cocoa {Jul 11}
+CAN12	No. 7 Cocoa {Jul 12}
+CAU11	No. 7 Cocoa {Sep 11}
+CAU12	No. 7 Cocoa {Sep 12}
+CAZ11	No. 7 Cocoa {Dec 11}
+CAZ12	No. 7 Cocoa {Dec 12}
+EI.C	Euroyen (Tibor) Continuation
+EIH11	Euroyen (Tibor) {Mar 11}
+EIH12	Euroyen (Tibor) {Mar 12}
+EIH13	Euroyen (Tibor) {Mar 13}
+EIM11	Euroyen (Tibor) {Jun 11}
+EIM12	Euroyen (Tibor) {Jun 12}
+EIM13	Euroyen (Tibor) {Jun 13}
+EIU11	Euroyen (Tibor) {Sep 11}
+EIU12	Euroyen (Tibor) {Sep 12}
+EIU13	Euroyen (Tibor) {Sep 13}
+EIZ11	Euroyen (Tibor) {Dec 11}
+EIZ12	Euroyen (Tibor) {Dec 12}
+EIZ13	Euroyen (Tibor) {Dec 13}
+ET	EuroTop 100
+ET.C	EuroTop 100 Continuation
+ETH11	EuroTop 100 {Mar 11}
+ETM11	EuroTop 100 {Jun 11}
+ETU11	EuroTop 100 {Sep 11}
+F.C	3-Month Euroswiss Continuation
+FH11	3-Month Euroswiss {Mar 11}
+FH12	3-Month Euroswiss {Mar 12}
+FH13	3-Month Euroswiss {Mar 13}
+FI	FTSEurofirst 300
+FJ	FTSEurofirst 100
+FJ.C	FTSEurofirst 100 Continuation
+FJH11	FTSEurofirst 100 {Mar 11}
+FJM11	FTSEurofirst 100 {Jun 11}
+FJU11	FTSEurofirst 100 {Sep 11}
+FK	FTSEurofirst 80
+FK.C	FTSEurofirst 80 Continuation
+FKH11	FTSEurofirst 80 {Mar 11}
+FKM11	FTSEurofirst 80 {Jun 11}
+FKU11	FTSEurofirst 80 {Sep 11}
+FM11	3-Month Euroswiss {Jun 11}
+FM12	3-Month Euroswiss {Jun 12}
+FM13	3-Month Euroswiss {Jun 13}
+FU11	3-Month Euroswiss {Sep 11}
+FU12	3-Month Euroswiss {Sep 12}
+FU13	3-Month Euroswiss {Sep 13}
+FZ11	3-Month Euroswiss {Dec 11}
+FZ12	3-Month Euroswiss {Dec 12}
+FZ13	3-Month Euroswiss {Dec 13}
+G.C	10-Year Gilt Continuation
+GH11	10-Year Gilt {Mar 11}
+GM11	10-Year Gilt {Jun 11}
+GU11	10-Year Gilt {Sep 11}
+IB.C	FTSE 100 Dividend Index Continuation
+IBZ11	FTSE 100 Dividend Index {Dec 11}
+IBZ12	FTSE 100 Dividend Index {Dec 12}
+IBZ13	FTSE 100 Dividend Index {Dec 13}
+IBZ14	FTSE 100 Dividend Index {Dec 14}
+IBZ15	FTSE 100 Dividend Index {Dec 15}
+IBZ16	FTSE 100 Dividend Index {Dec 16}
+IBZ17	FTSE 100 Dividend Index {Dec 17}
+IE.C	3-Month EONIA Continuation
+IEG11	3-Month EONIA {Feb 11}
+IEH11	3-Month EONIA {Mar 11}
+IEH12	3-Month EONIA {Mar 12}
+IEJ11	3-Month EONIA {Apr 11}
+IEK11	3-Month EONIA {May 11}
+IEM11	3-Month EONIA {Jun 11}
+IEM12	3-Month EONIA {Jun 12}
+IEN11	3-Month EONIA {Jul 11}
+IEQ11	3-Month EONIA {Aug 11}
+IEU11	3-Month EONIA {Sep 11}
+IEU12	3-Month EONIA {Sep 12}
+IEZ11	3-Month EONIA {Dec 11}
+IEZ12	3-Month EONIA {Dec 12}
+IF.C	3-Month Eurodollar Continuation
+IFH11	3-Month Eurodollar {Mar 11}
+IFH12	3-Month Eurodollar {Mar 12}
+IFH13	3-Month Eurodollar {Mar 13}
+IFH14	3-Month Eurodollar {Mar 14}
+IFH15	3-Month Eurodollar {Mar 15}
+IFM11	3-Month Eurodollar {Jun 11}
+IFM12	3-Month Eurodollar {Jun 12}
+IFM13	3-Month Eurodollar {Jun 13}
+IFM14	3-Month Eurodollar {Jun 14}
+IFU11	3-Month Eurodollar {Sep 11}
+IFU12	3-Month Eurodollar {Sep 12}
+IFU13	3-Month Eurodollar {Sep 13}
+IFU14	3-Month Eurodollar {Sep 14}
+IFZ11	3-Month Eurodollar {Dec 11}
+IFZ12	3-Month Eurodollar {Dec 12}
+IFZ13	3-Month Eurodollar {Dec 13}
+IFZ14	3-Month Eurodollar {Dec 14}
+IJ.C	1-Month EONIA Continuation
+IJG11	1-Month EONIA {Feb 11}
+IJH11	1-Month EONIA {Mar 11}
+IJJ11	1-Month EONIA {Apr 11}
+IJK11	1-Month EONIA {May 11}
+IJM11	1-Month EONIA {Jun 11}
+IJN11	1-Month EONIA {Jul 11}
+IJQ11	1-Month EONIA {Aug 11}
+IJU11	1-Month EONIA {Sep 11}
+IJV11	1-Month EONIA {Oct 11}
+IJX11	1-Month EONIA {Nov 11}
+IJZ11	1-Month EONIA {Dec 11}
+IM.C	3-Month EuriBor Continuation
+IMG11	3-Month EuriBor {Feb 11}
+IMH11	3-Month EuriBor {Mar 11}
+IMH12	3-Month EuriBor {Mar 12}
+IMH13	3-Month EuriBor {Mar 13}
+IMH14	3-Month EuriBor {Mar 14}
+IMH15	3-Month EuriBor {Mar 15}
+IMH16	3-Month EuriBor {Mar 16}
+IMJ11	3-Month EuriBor {Apr 11}
+IMK11	3-Month EuriBor {May 11}
+IMM11	3-Month EuriBor {Jun 11}
+IMM12	3-Month EuriBor {Jun 12}
+IMM13	3-Month EuriBor {Jun 13}
+IMM14	3-Month EuriBor {Jun 14}
+IMM15	3-Month EuriBor {Jun 15}
+IMM16	3-Month EuriBor {Jun 16}
+IMN11	3-Month EuriBor {Jul 11}
+IMQ11	3-Month EuriBor {Aug 11}
+IMU11	3-Month EuriBor {Sep 11}
+IMU12	3-Month EuriBor {Sep 12}
+IMU13	3-Month EuriBor {Sep 13}
+IMU14	3-Month EuriBor {Sep 14}
+IMU15	3-Month EuriBor {Sep 15}
+IMU16	3-Month EuriBor {Sep 16}
+IMZ11	3-Month EuriBor {Dec 11}
+IMZ12	3-Month EuriBor {Dec 12}
+IMZ13	3-Month EuriBor {Dec 13}
+IMZ14	3-Month EuriBor {Dec 14}
+IMZ15	3-Month EuriBor {Dec 15}
+IMZ16	3-Month EuriBor {Dec 16}
+J.C	10-Year JGB Continuation
+JH11	10-Year JGB {Mar 11}
+JM11	10-Year JGB {Jun 11}
+L.C	3-Month Sterling Continuation
+LG11	3-Month Sterling {Feb 11}
+LH11	3-Month Sterling {Mar 11}
+LH12	3-Month Sterling {Mar 12}
+LH13	3-Month Sterling {Mar 13}
+LH14	3-Month Sterling {Mar 14}
+LH15	3-Month Sterling {Mar 15}
+LH16	3-Month Sterling {Mar 16}
+LJ11	3-Month Sterling {Apr 11}
+LK11	3-Month Sterling {May 11}
+LM11	3-Month Sterling {Jun 11}
+LM12	3-Month Sterling {Jun 12}
+LM13	3-Month Sterling {Jun 13}
+LM14	3-Month Sterling {Jun 14}
+LM15	3-Month Sterling {Jun 15}
+LM16	3-Month Sterling {Jun 16}
+LU11	3-Month Sterling {Sep 11}
+LU12	3-Month Sterling {Sep 12}
+LU13	3-Month Sterling {Sep 13}
+LU14	3-Month Sterling {Sep 14}
+LU15	3-Month Sterling {Sep 15}
+LU16	3-Month Sterling {Sep 16}
+LW.C	Wheat Continuation
+LWF12	Wheat {Jan 12}
+LWH11	Wheat {Mar 11}
+LWH12	Wheat {Mar 12}
+LWK11	Wheat {May 11}
+LWK12	Wheat {May 12}
+LWK13	Wheat {May 13}
+LWN11	Wheat {Jul 11}
+LWN12	Wheat {Jul 12}
+LWX11	Wheat {Nov 11}
+LWX12	Wheat {Nov 12}
+LZ11	3-Month Sterling {Dec 11}
+LZ12	3-Month Sterling {Dec 12}
+LZ13	3-Month Sterling {Dec 13}
+LZ14	3-Month Sterling {Dec 14}
+LZ15	3-Month Sterling {Dec 15}
+LZ16	3-Month Sterling {Dec 16}
+MA	MSCI Pan_Euro Index
+MA.C	MSCI Pan_Euro Index Continuation
+MAH11	MSCI Pan_Euro Index {Mar 11}
+MAM11	MSCI Pan_Euro Index {Jun 11}
+MC	MSCI Euro Index
+QD.C	5-Year Gilt Continuation
+QDH11	5-Year Gilt {Mar 11}
+QDM11	5-Year Gilt {Jun 11}
+QDU11	5-Year Gilt {Sep 11}
+QE.C	2-Year Gilt Continuation
+QEH11	2-Year Gilt {Mar 11}
+QEM11	2-Year Gilt {Jun 11}
+QEU11	2-Year Gilt {Sep 11}
+QF.C	LIFFE Topix Index Continuation
+QFH11	LIFFE Topix Index {Mar 11}
+QFM11	LIFFE Topix Index {Jun 11}
+QFU11	LIFFE Topix Index {Sep 11}
+QFZ11	LIFFE Topix Index {Dec 11}
+RM.C	Robusta Coffee 10-T Continuation
+RMF12	Robusta Coffee 10-T {Jan 12}
+RMH11	Robusta Coffee 10-T {Mar 11}
+RMH12	Robusta Coffee 10-T {Mar 12}
+RMK11	Robusta Coffee 10-T {May 11}
+RMK12	Robusta Coffee 10-T {May 12}
+RMN11	Robusta Coffee 10-T {Jul 11}
+RMN12	Robusta Coffee 10-T {Jul 12}
+RMU11	Robusta Coffee 10-T {Sep 11}
+RMU12	Robusta Coffee 10-T {Sep 12}
+RMX11	Robusta Coffee 10-T {Nov 11}
+SW.C	No. 5 White Sugar Continuation
+SWH11	No. 5 White Sugar {Mar 11}
+SWH12	No. 5 White Sugar {Mar 12}
+SWK11	No. 5 White Sugar {May 11}
+SWK12	No. 5 White Sugar {May 12}
+SWQ11	No. 5 White Sugar {Aug 11}
+SWQ12	No. 5 White Sugar {Aug 12}
+SWV11	No. 5 White Sugar {Oct 11}
+SWV12	No. 5 White Sugar {Oct 12}
+SWZ11	No. 5 White Sugar {Dec 11}
+VF.C	5-Yr Euro Swapnote Continuation
+VFH11	5-Yr Euro Swapnote {Mar 11}
+VFM11	5-Yr Euro Swapnote {Jun 11}
+VT.C	10-Yr Euro Swapnote Continuation
+VTH11	10-Yr Euro Swapnote {Mar 11}
+VTM11	10-Yr Euro Swapnote {Jun 11}
+VW.C	2-Yr Euro Swapnote Continuation
+VWH11	2-Yr Euro Swapnote {Mar 11}
+VWM11	2-Yr Euro Swapnote {Jun 11}
+VX.C	2-Yr Dollar Swapnote Continuation
+VXH11	2-Yr Dollar Swapnote {Mar 11}
+VXM11	2-Yr Dollar Swapnote {Jun 11}
+VY.C	5-Yr Dollar Swapnote Continuation
+VYH11	5-Yr Dollar Swapnote {Mar 11}
+VYM11	5-Yr Dollar Swapnote {Jun 11}
+VZ.C	10Yr Dollar Swapnote Continuation
+VZH11	10Yr Dollar Swapnote {Mar 11}
+VZM11	10Yr Dollar Swapnote {Jun 11}
+X	FTSE 100
+X.C	FTSE 100 Continuation
+XH11	FTSE 100 {Mar 11}
+XM11	FTSE 100 {Jun 11}
+XU11	FTSE 100 {Sep 11}
+XZ11	FTSE 100 {Dec 11}
+Y	FTSE 250
+Y.C	FTSE 250 Continuation
+YH11	FTSE 250 {Mar 11}
+YM11	FTSE 250 {Jun 11}

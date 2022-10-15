@@ -1,0 +1,1356 @@
+Symbol	Description
+A8.C	FAME Biodiesel Continuation
+A8F11	FAME Biodiesel {Jan 11}
+A8G11	FAME Biodiesel {Feb 11}
+A8H11	FAME Biodiesel {Mar 11}
+A8J11	FAME Biodiesel {Apr 11}
+A8K11	FAME Biodiesel {May 11}
+A8M11	FAME Biodiesel {Jun 11}
+A8N11	FAME Biodiesel {Jul 11}
+A8Q11	FAME Biodiesel {Aug 11}
+A8U11	FAME Biodiesel {Sep 11}
+B7.C	RME Biodiesel Continuation
+B7F11	RME Biodiesel {Jan 11}
+B7G11	RME Biodiesel {Feb 11}
+B7H11	RME Biodiesel {Mar 11}
+B7J11	RME Biodiesel {Apr 11}
+B7K11	RME Biodiesel {May 11}
+B7M11	RME Biodiesel {Jun 11}
+B7N11	RME Biodiesel {Jul 11}
+B7Q11	RME Biodiesel {Aug 11}
+B7U11	RME Biodiesel {Sep 11}
+B7V11	RME Biodiesel {Oct 11}
+B7X11	RME Biodiesel {Nov 11}
+B7Z11	RME Biodiesel {Dec 11}
+B9.C	Fame 0 biodiesel Continuation
+B9G21	Fame 0 biodiesel {Feb 21}
+BH.C	Heating Oil (E) Continuation
+BHF12	Heating Oil (E) {Jan 12}
+BHF13	Heating Oil (E) {Jan 13}
+BHG12	Heating Oil (E) {Feb 12}
+BHH11	Heating Oil (E) {Mar 11}
+BHH12	Heating Oil (E) {Mar 12}
+BHJ11	Heating Oil (E) {Apr 11}
+BHJ12	Heating Oil (E) {Apr 12}
+BHK11	Heating Oil (E) {May 11}
+BHK12	Heating Oil (E) {May 12}
+BHM11	Heating Oil (E) {Jun 11}
+BHM12	Heating Oil (E) {Jun 12}
+BHN11	Heating Oil (E) {Jul 11}
+BHN12	Heating Oil (E) {Jul 12}
+BHQ11	Heating Oil (E) {Aug 11}
+BHQ12	Heating Oil (E) {Aug 12}
+BHU11	Heating Oil (E) {Sep 11}
+BHU12	Heating Oil (E) {Sep 12}
+BHV11	Heating Oil (E) {Oct 11}
+BHV12	Heating Oil (E) {Oct 12}
+BHX11	Heating Oil (E) {Nov 11}
+BHX12	Heating Oil (E) {Nov 12}
+BHZ11	Heating Oil (E) {Dec 11}
+BHZ12	Heating Oil (E) {Dec 12}
+CJ.C	NYMEX Cocoa Continuation
+CJH11	NYMEX Cocoa {Mar 11}
+CJH12	NYMEX Cocoa {Mar 12}
+CJK11	NYMEX Cocoa {May 11}
+CJK12	NYMEX Cocoa {May 12}
+CJN11	NYMEX Cocoa {Jul 11}
+CJU11	NYMEX Cocoa {Sep 11}
+CJZ11	NYMEX Cocoa {Dec 11}
+CL	Crude Oil WTI
+CL.C	Crude Oil WTI Continuation
+CLF12	Crude Oil WTI {Jan 12}
+CLF13	Crude Oil WTI {Jan 13}
+CLF14	Crude Oil WTI {Jan 14}
+CLF15	Crude Oil WTI {Jan 15}
+CLG12	Crude Oil WTI {Feb 12}
+CLG13	Crude Oil WTI {Feb 13}
+CLG14	Crude Oil WTI {Feb 14}
+CLG15	Crude Oil WTI {Feb 15}
+CLH11	Crude Oil WTI {Mar 11}
+CLH12	Crude Oil WTI {Mar 12}
+CLH13	Crude Oil WTI {Mar 13}
+CLH14	Crude Oil WTI {Mar 14}
+CLH15	Crude Oil WTI {Mar 15}
+CLJ11	Crude Oil WTI {Apr 11}
+CLJ12	Crude Oil WTI {Apr 12}
+CLJ13	Crude Oil WTI {Apr 13}
+CLJ14	Crude Oil WTI {Apr 14}
+CLJ15	Crude Oil WTI {Apr 15}
+CLK11	Crude Oil WTI {May 11}
+CLK12	Crude Oil WTI {May 12}
+CLK13	Crude Oil WTI {May 13}
+CLK14	Crude Oil WTI {May 14}
+CLK15	Crude Oil WTI {May 15}
+CLM09	Crude Oil WTI {Jun 09}
+CLM11	Crude Oil WTI {Jun 11}
+CLM12	Crude Oil WTI {Jun 12}
+CLM13	Crude Oil WTI {Jun 13}
+CLM14	Crude Oil WTI {Jun 14}
+CLM15	Crude Oil WTI {Jun 15}
+CLM16	Crude Oil WTI {Jun 16}
+CLM17	Crude Oil WTI {Jun 17}
+CLM18	Crude Oil WTI {Jun 18}
+CLM19	Crude Oil WTI {Jun 19}
+CLN11	Crude Oil WTI {Jul 11}
+CLN12	Crude Oil WTI {Jul 12}
+CLN13	Crude Oil WTI {Jul 13}
+CLN14	Crude Oil WTI {Jul 14}
+CLN15	Crude Oil WTI {Jul 15}
+CLQ11	Crude Oil WTI {Aug 11}
+CLQ12	Crude Oil WTI {Aug 12}
+CLQ13	Crude Oil WTI {Aug 13}
+CLQ14	Crude Oil WTI {Aug 14}
+CLQ15	Crude Oil WTI {Aug 15}
+CLU11	Crude Oil WTI {Sep 11}
+CLU12	Crude Oil WTI {Sep 12}
+CLU13	Crude Oil WTI {Sep 13}
+CLU14	Crude Oil WTI {Sep 14}
+CLU15	Crude Oil WTI {Sep 15}
+CLV11	Crude Oil WTI {Oct 11}
+CLV12	Crude Oil WTI {Oct 12}
+CLV13	Crude Oil WTI {Oct 13}
+CLV14	Crude Oil WTI {Oct 14}
+CLV15	Crude Oil WTI {Oct 15}
+CLX11	Crude Oil WTI {Nov 11}
+CLX12	Crude Oil WTI {Nov 12}
+CLX13	Crude Oil WTI {Nov 13}
+CLX14	Crude Oil WTI {Nov 14}
+CLX15	Crude Oil WTI {Nov 15}
+CLZ09	Crude Oil WTI {Dec 09}
+CLZ11	Crude Oil WTI {Dec 11}
+CLZ12	Crude Oil WTI {Dec 12}
+CLZ13	Crude Oil WTI {Dec 13}
+CLZ14	Crude Oil WTI {Dec 14}
+CLZ15	Crude Oil WTI {Dec 15}
+CLZ16	Crude Oil WTI {Dec 16}
+CLZ17	Crude Oil WTI {Dec 17}
+CLZ18	Crude Oil WTI {Dec 18}
+CLZ19	Crude Oil WTI {Dec 19}
+CP.C	Crude Oil REBCO (E) Continuation
+CPF12	Crude Oil REBCO (E) {Jan 12}
+CPG12	Crude Oil REBCO (E) {Feb 12}
+CPH11	Crude Oil REBCO (E) {Mar 11}
+CPH12	Crude Oil REBCO (E) {Mar 12}
+CPJ11	Crude Oil REBCO (E) {Apr 11}
+CPJ12	Crude Oil REBCO (E) {Apr 12}
+CPK11	Crude Oil REBCO (E) {May 11}
+CPK12	Crude Oil REBCO (E) {May 12}
+CPM11	Crude Oil REBCO (E) {Jun 11}
+CPM12	Crude Oil REBCO (E) {Jun 12}
+CPN11	Crude Oil REBCO (E) {Jul 11}
+CPN12	Crude Oil REBCO (E) {Jul 12}
+CPQ11	Crude Oil REBCO (E) {Aug 11}
+CPQ12	Crude Oil REBCO (E) {Aug 12}
+CPU11	Crude Oil REBCO (E) {Sep 11}
+CPU12	Crude Oil REBCO (E) {Sep 12}
+CPV11	Crude Oil REBCO (E) {Oct 11}
+CPV12	Crude Oil REBCO (E) {Oct 12}
+CPX11	Crude Oil REBCO (E) {Nov 11}
+CPX12	Crude Oil REBCO (E) {Nov 12}
+CPZ11	Crude Oil REBCO (E) {Dec 11}
+CPZ12	Crude Oil REBCO (E) {Dec 12}
+D1.C	Ethanol T1 FOB exD Continuation
+D1F11	Ethanol T1 FOB exD {Jan 11}
+D1G11	Ethanol T1 FOB exD {Feb 11}
+D1H11	Ethanol T1 FOB exD {Mar 11}
+FH.C	Ethanol Swaps-NY Continuation
+FHF11	Ethanol Swaps-NY {Jan 11}
+FHG11	Ethanol Swaps-NY {Feb 11}
+FHH11	Ethanol Swaps-NY {Mar 11}
+FHJ11	Ethanol Swaps-NY {Apr 11}
+FHK11	Ethanol Swaps-NY {May 11}
+FHM11	Ethanol Swaps-NY {Jun 11}
+FHV11	Ethanol Swaps-NY {Oct 11}
+FHX11	Ethanol Swaps-NY {Nov 11}
+FHZ11	Ethanol Swaps-NY {Dec 11}
+FL.C	Ethanol Swaps-Chgo Continuation
+FLF11	Ethanol Swaps-Chgo {Jan 11}
+FLF12	Ethanol Swaps-Chgo {Jan 12}
+FLG11	Ethanol Swaps-Chgo {Feb 11}
+FLG12	Ethanol Swaps-Chgo {Feb 12}
+FLH11	Ethanol Swaps-Chgo {Mar 11}
+FLH12	Ethanol Swaps-Chgo {Mar 12}
+FLJ11	Ethanol Swaps-Chgo {Apr 11}
+FLJ12	Ethanol Swaps-Chgo {Apr 12}
+FLK11	Ethanol Swaps-Chgo {May 11}
+FLK12	Ethanol Swaps-Chgo {May 12}
+FLM11	Ethanol Swaps-Chgo {Jun 11}
+FLM12	Ethanol Swaps-Chgo {Jun 12}
+FLN12	Ethanol Swaps-Chgo {Jul 12}
+FLQ12	Ethanol Swaps-Chgo {Aug 12}
+FLU12	Ethanol Swaps-Chgo {Sep 12}
+FLV11	Ethanol Swaps-Chgo {Oct 11}
+FLV12	Ethanol Swaps-Chgo {Oct 12}
+FLX11	Ethanol Swaps-Chgo {Nov 11}
+FLX12	Ethanol Swaps-Chgo {Nov 12}
+FLZ11	Ethanol Swaps-Chgo {Dec 11}
+FLZ12	Ethanol Swaps-Chgo {Dec 12}
+HH.C	Natural Gas LDay (E) Continuation
+HHF12	Natural Gas LDay (E) {Jan 12}
+HHF13	Natural Gas LDay (E) {Jan 13}
+HHF14	Natural Gas LDay (E) {Jan 14}
+HHF15	Natural Gas LDay (E) {Jan 15}
+HHG12	Natural Gas LDay (E) {Feb 12}
+HHG13	Natural Gas LDay (E) {Feb 13}
+HHG14	Natural Gas LDay (E) {Feb 14}
+HHG15	Natural Gas LDay (E) {Feb 15}
+HHH11	Natural Gas LDay (E) {Mar 11}
+HHH12	Natural Gas LDay (E) {Mar 12}
+HHH13	Natural Gas LDay (E) {Mar 13}
+HHH14	Natural Gas LDay (E) {Mar 14}
+HHH15	Natural Gas LDay (E) {Mar 15}
+HHJ11	Natural Gas LDay (E) {Apr 11}
+HHJ12	Natural Gas LDay (E) {Apr 12}
+HHJ13	Natural Gas LDay (E) {Apr 13}
+HHJ14	Natural Gas LDay (E) {Apr 14}
+HHJ15	Natural Gas LDay (E) {Apr 15}
+HHK11	Natural Gas LDay (E) {May 11}
+HHK12	Natural Gas LDay (E) {May 12}
+HHK13	Natural Gas LDay (E) {May 13}
+HHK14	Natural Gas LDay (E) {May 14}
+HHK15	Natural Gas LDay (E) {May 15}
+HHM11	Natural Gas LDay (E) {Jun 11}
+HHM12	Natural Gas LDay (E) {Jun 12}
+HHM13	Natural Gas LDay (E) {Jun 13}
+HHM14	Natural Gas LDay (E) {Jun 14}
+HHM15	Natural Gas LDay (E) {Jun 15}
+HHN11	Natural Gas LDay (E) {Jul 11}
+HHN12	Natural Gas LDay (E) {Jul 12}
+HHN13	Natural Gas LDay (E) {Jul 13}
+HHN14	Natural Gas LDay (E) {Jul 14}
+HHN15	Natural Gas LDay (E) {Jul 15}
+HHQ11	Natural Gas LDay (E) {Aug 11}
+HHQ12	Natural Gas LDay (E) {Aug 12}
+HHQ13	Natural Gas LDay (E) {Aug 13}
+HHQ14	Natural Gas LDay (E) {Aug 14}
+HHQ15	Natural Gas LDay (E) {Aug 15}
+HHU11	Natural Gas LDay (E) {Sep 11}
+HHU12	Natural Gas LDay (E) {Sep 12}
+HHU13	Natural Gas LDay (E) {Sep 13}
+HHU14	Natural Gas LDay (E) {Sep 14}
+HHU15	Natural Gas LDay (E) {Sep 15}
+HHV11	Natural Gas LDay (E) {Oct 11}
+HHV12	Natural Gas LDay (E) {Oct 12}
+HHV13	Natural Gas LDay (E) {Oct 13}
+HHV14	Natural Gas LDay (E) {Oct 14}
+HHV15	Natural Gas LDay (E) {Oct 15}
+HHX11	Natural Gas LDay (E) {Nov 11}
+HHX12	Natural Gas LDay (E) {Nov 12}
+HHX13	Natural Gas LDay (E) {Nov 13}
+HHX14	Natural Gas LDay (E) {Nov 14}
+HHX15	Natural Gas LDay (E) {Nov 15}
+HHZ11	Natural Gas LDay (E) {Dec 11}
+HHZ12	Natural Gas LDay (E) {Dec 12}
+HHZ13	Natural Gas LDay (E) {Dec 13}
+HHZ14	Natural Gas LDay (E) {Dec 14}
+HHZ15	Natural Gas LDay (E) {Dec 15}
+HO	Heating Oil
+HO.C	Heating Oil Continuation
+HOF12	Heating Oil {Jan 12}
+HOF13	Heating Oil {Jan 13}
+HOG12	Heating Oil {Feb 12}
+HOH11	Heating Oil {Mar 11}
+HOH12	Heating Oil {Mar 12}
+HOJ11	Heating Oil {Apr 11}
+HOJ12	Heating Oil {Apr 12}
+HOK11	Heating Oil {May 11}
+HOK12	Heating Oil {May 12}
+HOM11	Heating Oil {Jun 11}
+HOM12	Heating Oil {Jun 12}
+HON11	Heating Oil {Jul 11}
+HON12	Heating Oil {Jul 12}
+HOQ11	Heating Oil {Aug 11}
+HOQ12	Heating Oil {Aug 12}
+HOU11	Heating Oil {Sep 11}
+HOU12	Heating Oil {Sep 12}
+HOV11	Heating Oil {Oct 11}
+HOV12	Heating Oil {Oct 12}
+HOX11	Heating Oil {Nov 11}
+HOX12	Heating Oil {Nov 12}
+HOZ11	Heating Oil {Dec 11}
+HOZ12	Heating Oil {Dec 12}
+HP.C	Natural Gas (E) Continuation
+HPF12	Natural Gas (E) {Jan 12}
+HPF13	Natural Gas (E) {Jan 13}
+HPF14	Natural Gas (E) {Jan 14}
+HPF15	Natural Gas (E) {Jan 15}
+HPG12	Natural Gas (E) {Feb 12}
+HPG13	Natural Gas (E) {Feb 13}
+HPG14	Natural Gas (E) {Feb 14}
+HPG15	Natural Gas (E) {Feb 15}
+HPH11	Natural Gas (E) {Mar 11}
+HPH12	Natural Gas (E) {Mar 12}
+HPH13	Natural Gas (E) {Mar 13}
+HPH14	Natural Gas (E) {Mar 14}
+HPH15	Natural Gas (E) {Mar 15}
+HPJ11	Natural Gas (E) {Apr 11}
+HPJ12	Natural Gas (E) {Apr 12}
+HPJ13	Natural Gas (E) {Apr 13}
+HPJ14	Natural Gas (E) {Apr 14}
+HPJ15	Natural Gas (E) {Apr 15}
+HPK11	Natural Gas (E) {May 11}
+HPK12	Natural Gas (E) {May 12}
+HPK13	Natural Gas (E) {May 13}
+HPK14	Natural Gas (E) {May 14}
+HPK15	Natural Gas (E) {May 15}
+HPM11	Natural Gas (E) {Jun 11}
+HPM12	Natural Gas (E) {Jun 12}
+HPM13	Natural Gas (E) {Jun 13}
+HPM14	Natural Gas (E) {Jun 14}
+HPM15	Natural Gas (E) {Jun 15}
+HPN11	Natural Gas (E) {Jul 11}
+HPN12	Natural Gas (E) {Jul 12}
+HPN13	Natural Gas (E) {Jul 13}
+HPN14	Natural Gas (E) {Jul 14}
+HPN15	Natural Gas (E) {Jul 15}
+HPQ11	Natural Gas (E) {Aug 11}
+HPQ12	Natural Gas (E) {Aug 12}
+HPQ13	Natural Gas (E) {Aug 13}
+HPQ14	Natural Gas (E) {Aug 14}
+HPQ15	Natural Gas (E) {Aug 15}
+HPU11	Natural Gas (E) {Sep 11}
+HPU12	Natural Gas (E) {Sep 12}
+HPU13	Natural Gas (E) {Sep 13}
+HPU14	Natural Gas (E) {Sep 14}
+HPU15	Natural Gas (E) {Sep 15}
+HPV11	Natural Gas (E) {Oct 11}
+HPV12	Natural Gas (E) {Oct 12}
+HPV13	Natural Gas (E) {Oct 13}
+HPV14	Natural Gas (E) {Oct 14}
+HPV15	Natural Gas (E) {Oct 15}
+HPX11	Natural Gas (E) {Nov 11}
+HPX12	Natural Gas (E) {Nov 12}
+HPX13	Natural Gas (E) {Nov 13}
+HPX14	Natural Gas (E) {Nov 14}
+HPX15	Natural Gas (E) {Nov 15}
+HPZ11	Natural Gas (E) {Dec 11}
+HPZ12	Natural Gas (E) {Dec 12}
+HPZ13	Natural Gas (E) {Dec 13}
+HPZ14	Natural Gas (E) {Dec 14}
+HPZ15	Natural Gas (E) {Dec 15}
+HU	Gasoline Unleaded
+HV.C	Steel Continuation
+HVG11	Steel {Feb 11}
+HVH11	Steel {Mar 11}
+HVJ11	Steel {Apr 11}
+HVK11	Steel {May 11}
+HVM11	Steel {Jun 11}
+HVN11	Steel {Jul 11}
+HVQ11	Steel {Aug 11}
+HVU11	Steel {Sep 11}
+HVV11	Steel {Oct 11}
+HVX11	Steel {Nov 11}
+JM	PJM Monthly On Peak
+JM.C	PJM Monthly On Peak Continuation
+JMF12	PJM Monthly On Peak {Jan 12}
+JMF13	PJM Monthly On Peak {Jan 13}
+JMF14	PJM Monthly On Peak {Jan 14}
+JMF15	PJM Monthly On Peak {Jan 15}
+JMG11	PJM Monthly On Peak {Feb 11}
+JMG12	PJM Monthly On Peak {Feb 12}
+JMG13	PJM Monthly On Peak {Feb 13}
+JMG14	PJM Monthly On Peak {Feb 14}
+JMG15	PJM Monthly On Peak {Feb 15}
+JMH11	PJM Monthly On Peak {Mar 11}
+JMH12	PJM Monthly On Peak {Mar 12}
+JMH13	PJM Monthly On Peak {Mar 13}
+JMH14	PJM Monthly On Peak {Mar 14}
+JMH15	PJM Monthly On Peak {Mar 15}
+JMJ11	PJM Monthly On Peak {Apr 11}
+JMJ12	PJM Monthly On Peak {Apr 12}
+JMJ13	PJM Monthly On Peak {Apr 13}
+JMJ14	PJM Monthly On Peak {Apr 14}
+JMJ15	PJM Monthly On Peak {Apr 15}
+JMK11	PJM Monthly On Peak {May 11}
+JMK12	PJM Monthly On Peak {May 12}
+JMK13	PJM Monthly On Peak {May 13}
+JMK14	PJM Monthly On Peak {May 14}
+JMK15	PJM Monthly On Peak {May 15}
+JMM11	PJM Monthly On Peak {Jun 11}
+JMM12	PJM Monthly On Peak {Jun 12}
+JMM13	PJM Monthly On Peak {Jun 13}
+JMM14	PJM Monthly On Peak {Jun 14}
+JMN11	PJM Monthly On Peak {Jul 11}
+JMN12	PJM Monthly On Peak {Jul 12}
+JMN13	PJM Monthly On Peak {Jul 13}
+JMN14	PJM Monthly On Peak {Jul 14}
+JMQ11	PJM Monthly On Peak {Aug 11}
+JMQ12	PJM Monthly On Peak {Aug 12}
+JMQ13	PJM Monthly On Peak {Aug 13}
+JMQ14	PJM Monthly On Peak {Aug 14}
+JMU11	PJM Monthly On Peak {Sep 11}
+JMU12	PJM Monthly On Peak {Sep 12}
+JMU13	PJM Monthly On Peak {Sep 13}
+JMU14	PJM Monthly On Peak {Sep 14}
+JMV11	PJM Monthly On Peak {Oct 11}
+JMV12	PJM Monthly On Peak {Oct 12}
+JMV13	PJM Monthly On Peak {Oct 13}
+JMV14	PJM Monthly On Peak {Oct 14}
+JMX11	PJM Monthly On Peak {Nov 11}
+JMX12	PJM Monthly On Peak {Nov 12}
+JMX13	PJM Monthly On Peak {Nov 13}
+JMX14	PJM Monthly On Peak {Nov 14}
+JMZ11	PJM Monthly On Peak {Dec 11}
+JMZ12	PJM Monthly On Peak {Dec 12}
+JMZ13	PJM Monthly On Peak {Dec 13}
+JMZ14	PJM Monthly On Peak {Dec 14}
+JP.C	PJM Monthly Off Peak Continuation
+JPF11	PJM Monthly Off Peak {Jan 11}
+JPF12	PJM Monthly Off Peak {Jan 12}
+JPF13	PJM Monthly Off Peak {Jan 13}
+JPF14	PJM Monthly Off Peak {Jan 14}
+JPG11	PJM Monthly Off Peak {Feb 11}
+JPG12	PJM Monthly Off Peak {Feb 12}
+JPG13	PJM Monthly Off Peak {Feb 13}
+JPG14	PJM Monthly Off Peak {Feb 14}
+JPH11	PJM Monthly Off Peak {Mar 11}
+JPH12	PJM Monthly Off Peak {Mar 12}
+JPH13	PJM Monthly Off Peak {Mar 13}
+JPH14	PJM Monthly Off Peak {Mar 14}
+JPJ11	PJM Monthly Off Peak {Apr 11}
+JPJ12	PJM Monthly Off Peak {Apr 12}
+JPJ13	PJM Monthly Off Peak {Apr 13}
+JPJ14	PJM Monthly Off Peak {Apr 14}
+JPK11	PJM Monthly Off Peak {May 11}
+JPK12	PJM Monthly Off Peak {May 12}
+JPK13	PJM Monthly Off Peak {May 13}
+JPK14	PJM Monthly Off Peak {May 14}
+JPM11	PJM Monthly Off Peak {Jun 11}
+JPM12	PJM Monthly Off Peak {Jun 12}
+JPM13	PJM Monthly Off Peak {Jun 13}
+JPM14	PJM Monthly Off Peak {Jun 14}
+JPN11	PJM Monthly Off Peak {Jul 11}
+JPN12	PJM Monthly Off Peak {Jul 12}
+JPN13	PJM Monthly Off Peak {Jul 13}
+JPN14	PJM Monthly Off Peak {Jul 14}
+JPQ11	PJM Monthly Off Peak {Aug 11}
+JPQ12	PJM Monthly Off Peak {Aug 12}
+JPQ13	PJM Monthly Off Peak {Aug 13}
+JPQ14	PJM Monthly Off Peak {Aug 14}
+JPU11	PJM Monthly Off Peak {Sep 11}
+JPU12	PJM Monthly Off Peak {Sep 12}
+JPU13	PJM Monthly Off Peak {Sep 13}
+JPU14	PJM Monthly Off Peak {Sep 14}
+JPV11	PJM Monthly Off Peak {Oct 11}
+JPV12	PJM Monthly Off Peak {Oct 12}
+JPV13	PJM Monthly Off Peak {Oct 13}
+JPV14	PJM Monthly Off Peak {Oct 14}
+JPX11	PJM Monthly Off Peak {Nov 11}
+JPX12	PJM Monthly Off Peak {Nov 12}
+JPX13	PJM Monthly Off Peak {Nov 13}
+JPX14	PJM Monthly Off Peak {Nov 14}
+JPZ11	PJM Monthly Off Peak {Dec 11}
+JPZ12	PJM Monthly Off Peak {Dec 12}
+JPZ13	PJM Monthly Off Peak {Dec 13}
+JPZ14	PJM Monthly Off Peak {Dec 14}
+KA.C	NYMEX Sugar #11 Continuation
+KAH11	NYMEX Sugar #11 {Mar 11}
+KAH12	NYMEX Sugar #11 {Mar 12}
+KAK11	NYMEX Sugar #11 {May 11}
+KAK12	NYMEX Sugar #11 {May 12}
+KAN11	NYMEX Sugar #11 {Jul 11}
+KAV11	NYMEX Sugar #11 {Oct 11}
+KG.C	NYMEX Cotton #2 Continuation
+KGH11	NYMEX Cotton #2 {Mar 11}
+KGK11	NYMEX Cotton #2 {May 11}
+KGN11	NYMEX Cotton #2 {Jul 11}
+KGV11	NYMEX Cotton #2 {Oct 11}
+KGZ11	NYMEX Cotton #2 {Dec 11}
+KT.C	NYMEX Coffee Continuation
+KTH11	NYMEX Coffee {Mar 11}
+KTH12	NYMEX Coffee {Mar 12}
+KTK11	NYMEX Coffee {May 11}
+KTK12	NYMEX Coffee {May 12}
+KTN11	NYMEX Coffee {Jul 11}
+KTU11	NYMEX Coffee {Sep 11}
+KTZ11	NYMEX Coffee {Dec 11}
+LL.C	Diesel NY (ULSD) Continuation
+LLF12	Diesel NY (ULSD) {Jan 12}
+LLG12	Diesel NY (ULSD) {Feb 12}
+LLH11	Diesel NY (ULSD) {Mar 11}
+LLH12	Diesel NY (ULSD) {Mar 12}
+LLJ11	Diesel NY (ULSD) {Apr 11}
+LLK11	Diesel NY (ULSD) {May 11}
+LLM11	Diesel NY (ULSD) {Jun 11}
+LLN11	Diesel NY (ULSD) {Jul 11}
+LLQ11	Diesel NY (ULSD) {Aug 11}
+LLU11	Diesel NY (ULSD) {Sep 11}
+LLV11	Diesel NY (ULSD) {Oct 11}
+LLX11	Diesel NY (ULSD) {Nov 11}
+LLZ11	Diesel NY (ULSD) {Dec 11}
+LR.C	Gasoline Gulf Coast Continuation
+LRF12	Gasoline Gulf Coast {Jan 12}
+LRG12	Gasoline Gulf Coast {Feb 12}
+LRH11	Gasoline Gulf Coast {Mar 11}
+LRH12	Gasoline Gulf Coast {Mar 12}
+LRJ11	Gasoline Gulf Coast {Apr 11}
+LRK11	Gasoline Gulf Coast {May 11}
+LRM11	Gasoline Gulf Coast {Jun 11}
+LRN11	Gasoline Gulf Coast {Jul 11}
+LRQ11	Gasoline Gulf Coast {Aug 11}
+LRU11	Gasoline Gulf Coast {Sep 11}
+LRV11	Gasoline Gulf Coast {Oct 11}
+LRX11	Gasoline Gulf Coast {Nov 11}
+LRZ11	Gasoline Gulf Coast {Dec 11}
+LT.C	Diesel Gulf (ULSD) Continuation
+LTF12	Diesel Gulf (ULSD) {Jan 12}
+LTG12	Diesel Gulf (ULSD) {Feb 12}
+LTH11	Diesel Gulf (ULSD) {Mar 11}
+LTH12	Diesel Gulf (ULSD) {Mar 12}
+LTJ11	Diesel Gulf (ULSD) {Apr 11}
+LTJ12	Diesel Gulf (ULSD) {Apr 12}
+LTK11	Diesel Gulf (ULSD) {May 11}
+LTK12	Diesel Gulf (ULSD) {May 12}
+LTM11	Diesel Gulf (ULSD) {Jun 11}
+LTM12	Diesel Gulf (ULSD) {Jun 12}
+LTN11	Diesel Gulf (ULSD) {Jul 11}
+LTN12	Diesel Gulf (ULSD) {Jul 12}
+LTQ11	Diesel Gulf (ULSD) {Aug 11}
+LTU11	Diesel Gulf (ULSD) {Sep 11}
+LTV11	Diesel Gulf (ULSD) {Oct 11}
+LTX11	Diesel Gulf (ULSD) {Nov 11}
+LTZ11	Diesel Gulf (ULSD) {Dec 11}
+MT.C	Gulf Sour Crude Oil Continuation
+MTF12	Gulf Sour Crude Oil {Jan 12}
+MTF13	Gulf Sour Crude Oil {Jan 13}
+MTG12	Gulf Sour Crude Oil {Feb 12}
+MTG13	Gulf Sour Crude Oil {Feb 13}
+MTH11	Gulf Sour Crude Oil {Mar 11}
+MTH12	Gulf Sour Crude Oil {Mar 12}
+MTH13	Gulf Sour Crude Oil {Mar 13}
+MTH14	Gulf Sour Crude Oil {Mar 14}
+MTJ11	Gulf Sour Crude Oil {Apr 11}
+MTJ12	Gulf Sour Crude Oil {Apr 12}
+MTJ13	Gulf Sour Crude Oil {Apr 13}
+MTK11	Gulf Sour Crude Oil {May 11}
+MTK12	Gulf Sour Crude Oil {May 12}
+MTK13	Gulf Sour Crude Oil {May 13}
+MTM11	Gulf Sour Crude Oil {Jun 11}
+MTM12	Gulf Sour Crude Oil {Jun 12}
+MTM13	Gulf Sour Crude Oil {Jun 13}
+MTN11	Gulf Sour Crude Oil {Jul 11}
+MTN12	Gulf Sour Crude Oil {Jul 12}
+MTQ11	Gulf Sour Crude Oil {Aug 11}
+MTQ12	Gulf Sour Crude Oil {Aug 12}
+MTU11	Gulf Sour Crude Oil {Sep 11}
+MTU12	Gulf Sour Crude Oil {Sep 12}
+MTV11	Gulf Sour Crude Oil {Oct 11}
+MTV12	Gulf Sour Crude Oil {Oct 12}
+MTX11	Gulf Sour Crude Oil {Nov 11}
+MTX12	Gulf Sour Crude Oil {Nov 12}
+MTX13	Gulf Sour Crude Oil {Nov 13}
+MTZ11	Gulf Sour Crude Oil {Dec 11}
+MTZ12	Gulf Sour Crude Oil {Dec 12}
+MY.C	Gulf Sour Crude (E) Continuation
+MYF12	Gulf Sour Crude (E) {Jan 12}
+MYF13	Gulf Sour Crude (E) {Jan 13}
+MYG12	Gulf Sour Crude (E) {Feb 12}
+MYG13	Gulf Sour Crude (E) {Feb 13}
+MYH11	Gulf Sour Crude (E) {Mar 11}
+MYH12	Gulf Sour Crude (E) {Mar 12}
+MYH13	Gulf Sour Crude (E) {Mar 13}
+MYH14	Gulf Sour Crude (E) {Mar 14}
+MYJ11	Gulf Sour Crude (E) {Apr 11}
+MYJ12	Gulf Sour Crude (E) {Apr 12}
+MYJ13	Gulf Sour Crude (E) {Apr 13}
+MYK11	Gulf Sour Crude (E) {May 11}
+MYK12	Gulf Sour Crude (E) {May 12}
+MYK13	Gulf Sour Crude (E) {May 13}
+MYM11	Gulf Sour Crude (E) {Jun 11}
+MYM12	Gulf Sour Crude (E) {Jun 12}
+MYM13	Gulf Sour Crude (E) {Jun 13}
+MYN11	Gulf Sour Crude (E) {Jul 11}
+MYN12	Gulf Sour Crude (E) {Jul 12}
+MYQ11	Gulf Sour Crude (E) {Aug 11}
+MYQ12	Gulf Sour Crude (E) {Aug 12}
+MYU11	Gulf Sour Crude (E) {Sep 11}
+MYU12	Gulf Sour Crude (E) {Sep 12}
+MYV11	Gulf Sour Crude (E) {Oct 11}
+MYV12	Gulf Sour Crude (E) {Oct 12}
+MYX11	Gulf Sour Crude (E) {Nov 11}
+MYX12	Gulf Sour Crude (E) {Nov 12}
+MYX13	Gulf Sour Crude (E) {Nov 13}
+MYZ11	Gulf Sour Crude (E) {Dec 11}
+MYZ12	Gulf Sour Crude (E) {Dec 12}
+NG	Natural Gas
+NG.C	Natural Gas Continuation
+NGA12	Natural Gas
+NGB11	Natural Gas
+NGB12	Natural Gas
+NGC11	Natural Gas
+NGC12	Natural Gas
+NGD11	Natural Gas
+NGD12	Natural Gas
+NGE11	Natural Gas
+NGE12	Natural Gas
+NGF09	Natural Gas {Jan 09}
+NGF10	Natural Gas {Jan 10}
+NGF11	Natural Gas {Jan 11}
+NGF12	Natural Gas {Jan 12}
+NGF13	Natural Gas {Jan 13}
+NGF14	Natural Gas {Jan 14}
+NGF15	Natural Gas {Jan 15}
+NGF16	Natural Gas {Jan 16}
+NGF17	Natural Gas {Jan 17}
+NGF18	Natural Gas {Jan 18}
+NGF19	Natural Gas {Jan 19}
+NGF20	Natural Gas {Jan 20}
+NGF21	Natural Gas {Jan 21}
+NGF22	Natural Gas {Jan 22}
+NGF23	Natural Gas {Jan 23}
+NGG09	Natural Gas {Feb 09}
+NGG10	Natural Gas {Feb 10}
+NGG11	Natural Gas {Feb 11}
+NGG12	Natural Gas {Feb 12}
+NGG13	Natural Gas {Feb 13}
+NGG14	Natural Gas {Feb 14}
+NGG15	Natural Gas {Feb 15}
+NGG16	Natural Gas {Feb 16}
+NGG17	Natural Gas {Feb 17}
+NGG18	Natural Gas {Feb 18}
+NGG19	Natural Gas {Feb 19}
+NGG20	Natural Gas {Feb 20}
+NGG21	Natural Gas {Feb 21}
+NGG22	Natural Gas {Feb 22}
+NGG23	Natural Gas {Feb 23}
+NGH09	Natural Gas {Mar 09}
+NGH10	Natural Gas {Mar 10}
+NGH11	Natural Gas {Mar 11}
+NGH12	Natural Gas {Mar 12}
+NGH13	Natural Gas {Mar 13}
+NGH14	Natural Gas {Mar 14}
+NGH15	Natural Gas {Mar 15}
+NGH16	Natural Gas {Mar 16}
+NGH17	Natural Gas {Mar 17}
+NGH18	Natural Gas {Mar 18}
+NGH19	Natural Gas {Mar 19}
+NGH20	Natural Gas {Mar 20}
+NGH21	Natural Gas {Mar 21}
+NGH22	Natural Gas {Mar 22}
+NGH23	Natural Gas {Mar 23}
+NGI11	Natural Gas
+NGI12	Natural Gas
+NGJ09	Natural Gas {Apr 09}
+NGJ10	Natural Gas {Apr 10}
+NGJ11	Natural Gas {Apr 11}
+NGJ12	Natural Gas {Apr 12}
+NGJ13	Natural Gas {Apr 13}
+NGJ14	Natural Gas {Apr 14}
+NGJ15	Natural Gas {Apr 15}
+NGJ16	Natural Gas {Apr 16}
+NGJ17	Natural Gas {Apr 17}
+NGJ18	Natural Gas {Apr 18}
+NGJ19	Natural Gas {Apr 19}
+NGJ20	Natural Gas {Apr 20}
+NGJ21	Natural Gas {Apr 21}
+NGJ22	Natural Gas {Apr 22}
+NGJ23	Natural Gas {Apr 23}
+NGK09	Natural Gas {May 09}
+NGK10	Natural Gas {May 10}
+NGK11	Natural Gas {May 11}
+NGK12	Natural Gas {May 12}
+NGK13	Natural Gas {May 13}
+NGK14	Natural Gas {May 14}
+NGK15	Natural Gas {May 15}
+NGK16	Natural Gas {May 16}
+NGK17	Natural Gas {May 17}
+NGK18	Natural Gas {May 18}
+NGK19	Natural Gas {May 19}
+NGK20	Natural Gas {May 20}
+NGK21	Natural Gas {May 21}
+NGK22	Natural Gas {May 22}
+NGK23	Natural Gas {May 23}
+NGL11	Natural Gas
+NGL12	Natural Gas
+NGM09	Natural Gas {Jun 09}
+NGM10	Natural Gas {Jun 10}
+NGM11	Natural Gas {Jun 11}
+NGM12	Natural Gas {Jun 12}
+NGM13	Natural Gas {Jun 13}
+NGM14	Natural Gas {Jun 14}
+NGM15	Natural Gas {Jun 15}
+NGM16	Natural Gas {Jun 16}
+NGM17	Natural Gas {Jun 17}
+NGM18	Natural Gas {Jun 18}
+NGM19	Natural Gas {Jun 19}
+NGM20	Natural Gas {Jun 20}
+NGM21	Natural Gas {Jun 21}
+NGM22	Natural Gas {Jun 22}
+NGM23	Natural Gas {Jun 23}
+NGN09	Natural Gas {Jul 09}
+NGN10	Natural Gas {Jul 10}
+NGN11	Natural Gas {Jul 11}
+NGN12	Natural Gas {Jul 12}
+NGN13	Natural Gas {Jul 13}
+NGN14	Natural Gas {Jul 14}
+NGN15	Natural Gas {Jul 15}
+NGN16	Natural Gas {Jul 16}
+NGN17	Natural Gas {Jul 17}
+NGN18	Natural Gas {Jul 18}
+NGN19	Natural Gas {Jul 19}
+NGN20	Natural Gas {Jul 20}
+NGN21	Natural Gas {Jul 21}
+NGN22	Natural Gas {Jul 22}
+NGN23	Natural Gas {Jul 23}
+NGO11	Natural Gas
+NGO12	Natural Gas
+NGP11	Natural Gas
+NGP12	Natural Gas
+NGQ09	Natural Gas {Aug 09}
+NGQ10	Natural Gas {Aug 10}
+NGQ11	Natural Gas {Aug 11}
+NGQ12	Natural Gas {Aug 12}
+NGQ13	Natural Gas {Aug 13}
+NGQ14	Natural Gas {Aug 14}
+NGQ15	Natural Gas {Aug 15}
+NGQ16	Natural Gas {Aug 16}
+NGQ17	Natural Gas {Aug 17}
+NGQ18	Natural Gas {Aug 18}
+NGQ19	Natural Gas {Aug 19}
+NGQ20	Natural Gas {Aug 20}
+NGQ21	Natural Gas {Aug 21}
+NGQ22	Natural Gas {Aug 22}
+NGQ23	Natural Gas {Aug 23}
+NGR11	Natural Gas
+NGR12	Natural Gas
+NGS11	Natural Gas
+NGS12	Natural Gas
+NGT11	Natural Gas
+NGT12	Natural Gas
+NGU09	Natural Gas {Sep 09}
+NGU10	Natural Gas {Sep 10}
+NGU11	Natural Gas {Sep 11}
+NGU12	Natural Gas {Sep 12}
+NGU13	Natural Gas {Sep 13}
+NGU14	Natural Gas {Sep 14}
+NGU15	Natural Gas {Sep 15}
+NGU16	Natural Gas {Sep 16}
+NGU17	Natural Gas {Sep 17}
+NGU18	Natural Gas {Sep 18}
+NGU19	Natural Gas {Sep 19}
+NGU20	Natural Gas {Sep 20}
+NGU21	Natural Gas {Sep 21}
+NGU22	Natural Gas {Sep 22}
+NGU23	Natural Gas {Sep 23}
+NGV09	Natural Gas {Oct 09}
+NGV10	Natural Gas {Oct 10}
+NGV11	Natural Gas {Oct 11}
+NGV12	Natural Gas {Oct 12}
+NGV13	Natural Gas {Oct 13}
+NGV14	Natural Gas {Oct 14}
+NGV15	Natural Gas {Oct 15}
+NGV16	Natural Gas {Oct 16}
+NGV17	Natural Gas {Oct 17}
+NGV18	Natural Gas {Oct 18}
+NGV19	Natural Gas {Oct 19}
+NGV20	Natural Gas {Oct 20}
+NGV21	Natural Gas {Oct 21}
+NGV22	Natural Gas {Oct 22}
+NGV23	Natural Gas {Oct 23}
+NGX09	Natural Gas {Nov 09}
+NGX10	Natural Gas {Nov 10}
+NGX11	Natural Gas {Nov 11}
+NGX12	Natural Gas {Nov 12}
+NGX13	Natural Gas {Nov 13}
+NGX14	Natural Gas {Nov 14}
+NGX15	Natural Gas {Nov 15}
+NGX16	Natural Gas {Nov 16}
+NGX17	Natural Gas {Nov 17}
+NGX18	Natural Gas {Nov 18}
+NGX19	Natural Gas {Nov 19}
+NGX20	Natural Gas {Nov 20}
+NGX21	Natural Gas {Nov 21}
+NGX22	Natural Gas {Nov 22}
+NGX23	Natural Gas {Nov 23}
+NGZ09	Natural Gas {Dec 09}
+NGZ10	Natural Gas {Dec 10}
+NGZ11	Natural Gas {Dec 11}
+NGZ12	Natural Gas {Dec 12}
+NGZ13	Natural Gas {Dec 13}
+NGZ14	Natural Gas {Dec 14}
+NGZ15	Natural Gas {Dec 15}
+NGZ16	Natural Gas {Dec 16}
+NGZ17	Natural Gas {Dec 17}
+NGZ18	Natural Gas {Dec 18}
+NGZ19	Natural Gas {Dec 19}
+NGZ20	Natural Gas {Dec 20}
+NGZ21	Natural Gas {Dec 21}
+NGZ22	Natural Gas {Dec 22}
+NGZ23	Natural Gas {Dec 23}
+PA	Palladium
+PA.C	Palladium Continuation
+PAG11	Palladium {Feb 11}
+PAH11	Palladium {Mar 11}
+PAH12	Palladium {Mar 12}
+PAM11	Palladium {Jun 11}
+PAU11	Palladium {Sep 11}
+PAZ11	Palladium {Dec 11}
+PL	Platinum
+PL.C	Platinum Continuation
+PLJ11	Platinum {Apr 11}
+PLN11	Platinum {Jul 11}
+PN	Propane
+Q5.C	Crude Oil BCI Continuation
+Q5Z11	Crude Oil BCI {Dec 11}
+Q5Z12	Crude Oil BCI {Dec 12}
+QA.C	Crude Oil Brent (E) Continuation
+QAF12	Crude Oil Brent (E) {Jan 12}
+QAF13	Crude Oil Brent (E) {Jan 13}
+QAF14	Crude Oil Brent (E) {Jan 14}
+QAF15	Crude Oil Brent (E) {Jan 15}
+QAG12	Crude Oil Brent (E) {Feb 12}
+QAG13	Crude Oil Brent (E) {Feb 13}
+QAG14	Crude Oil Brent (E) {Feb 14}
+QAG15	Crude Oil Brent (E) {Feb 15}
+QAH11	Crude Oil Brent (E) {Mar 11}
+QAH12	Crude Oil Brent (E) {Mar 12}
+QAH13	Crude Oil Brent (E) {Mar 13}
+QAH14	Crude Oil Brent (E) {Mar 14}
+QAH15	Crude Oil Brent (E) {Mar 15}
+QAJ11	Crude Oil Brent (E) {Apr 11}
+QAJ12	Crude Oil Brent (E) {Apr 12}
+QAJ13	Crude Oil Brent (E) {Apr 13}
+QAJ14	Crude Oil Brent (E) {Apr 14}
+QAJ15	Crude Oil Brent (E) {Apr 15}
+QAK11	Crude Oil Brent (E) {May 11}
+QAK12	Crude Oil Brent (E) {May 12}
+QAK13	Crude Oil Brent (E) {May 13}
+QAK14	Crude Oil Brent (E) {May 14}
+QAK15	Crude Oil Brent (E) {May 15}
+QAM11	Crude Oil Brent (E) {Jun 11}
+QAM12	Crude Oil Brent (E) {Jun 12}
+QAM13	Crude Oil Brent (E) {Jun 13}
+QAM14	Crude Oil Brent (E) {Jun 14}
+QAM15	Crude Oil Brent (E) {Jun 15}
+QAM16	Crude Oil Brent (E) {Jun 16}
+QAM17	Crude Oil Brent (E) {Jun 17}
+QAN11	Crude Oil Brent (E) {Jul 11}
+QAN12	Crude Oil Brent (E) {Jul 12}
+QAN13	Crude Oil Brent (E) {Jul 13}
+QAN14	Crude Oil Brent (E) {Jul 14}
+QAN15	Crude Oil Brent (E) {Jul 15}
+QAQ11	Crude Oil Brent (E) {Aug 11}
+QAQ12	Crude Oil Brent (E) {Aug 12}
+QAQ13	Crude Oil Brent (E) {Aug 13}
+QAQ14	Crude Oil Brent (E) {Aug 14}
+QAQ15	Crude Oil Brent (E) {Aug 15}
+QAU11	Crude Oil Brent (E) {Sep 11}
+QAU12	Crude Oil Brent (E) {Sep 12}
+QAU13	Crude Oil Brent (E) {Sep 13}
+QAU14	Crude Oil Brent (E) {Sep 14}
+QAU15	Crude Oil Brent (E) {Sep 15}
+QAV11	Crude Oil Brent (E) {Oct 11}
+QAV12	Crude Oil Brent (E) {Oct 12}
+QAV13	Crude Oil Brent (E) {Oct 13}
+QAV14	Crude Oil Brent (E) {Oct 14}
+QAV15	Crude Oil Brent (E) {Oct 15}
+QAX11	Crude Oil Brent (E) {Nov 11}
+QAX12	Crude Oil Brent (E) {Nov 12}
+QAX13	Crude Oil Brent (E) {Nov 13}
+QAX14	Crude Oil Brent (E) {Nov 14}
+QAX15	Crude Oil Brent (E) {Nov 15}
+QAZ11	Crude Oil Brent (E) {Dec 11}
+QAZ12	Crude Oil Brent (E) {Dec 12}
+QAZ13	Crude Oil Brent (E) {Dec 13}
+QAZ14	Crude Oil Brent (E) {Dec 14}
+QAZ15	Crude Oil Brent (E) {Dec 15}
+QAZ16	Crude Oil Brent (E) {Dec 16}
+QAZ17	Crude Oil Brent (E) {Dec 17}
+QB.C	Ethanol Physical-NY Continuation
+QBF12	Ethanol Physical-NY {Jan 12}
+QBG12	Ethanol Physical-NY {Feb 12}
+QBH11	Ethanol Physical-NY {Mar 11}
+QBH12	Ethanol Physical-NY {Mar 12}
+QBJ11	Ethanol Physical-NY {Apr 11}
+QBK11	Ethanol Physical-NY {May 11}
+QBM11	Ethanol Physical-NY {Jun 11}
+QBN11	Ethanol Physical-NY {Jul 11}
+QBQ11	Ethanol Physical-NY {Aug 11}
+QBU11	Ethanol Physical-NY {Sep 11}
+QBV11	Ethanol Physical-NY {Oct 11}
+QBX11	Ethanol Physical-NY {Nov 11}
+QBZ11	Ethanol Physical-NY {Dec 11}
+QG	E-Mini Natural Gas
+QG.C	E-Mini Natural Gas Continuation
+QGF12	E-Mini Natural Gas {Jan 12}
+QGF13	E-Mini Natural Gas {Jan 13}
+QGF14	E-Mini Natural Gas {Jan 14}
+QGF15	E-Mini Natural Gas {Jan 15}
+QGG12	E-Mini Natural Gas {Feb 12}
+QGG13	E-Mini Natural Gas {Feb 13}
+QGG14	E-Mini Natural Gas {Feb 14}
+QGG15	E-Mini Natural Gas {Feb 15}
+QGH11	E-Mini Natural Gas {Mar 11}
+QGH12	E-Mini Natural Gas {Mar 12}
+QGH13	E-Mini Natural Gas {Mar 13}
+QGH14	E-Mini Natural Gas {Mar 14}
+QGH15	E-Mini Natural Gas {Mar 15}
+QGJ11	E-Mini Natural Gas {Apr 11}
+QGJ12	E-Mini Natural Gas {Apr 12}
+QGJ13	E-Mini Natural Gas {Apr 13}
+QGJ14	E-Mini Natural Gas {Apr 14}
+QGJ15	E-Mini Natural Gas {Apr 15}
+QGK11	E-Mini Natural Gas {May 11}
+QGK12	E-Mini Natural Gas {May 12}
+QGK13	E-Mini Natural Gas {May 13}
+QGK14	E-Mini Natural Gas {May 14}
+QGK15	E-Mini Natural Gas {May 15}
+QGM11	E-Mini Natural Gas {Jun 11}
+QGM12	E-Mini Natural Gas {Jun 12}
+QGM13	E-Mini Natural Gas {Jun 13}
+QGM14	E-Mini Natural Gas {Jun 14}
+QGM15	E-Mini Natural Gas {Jun 15}
+QGN11	E-Mini Natural Gas {Jul 11}
+QGN12	E-Mini Natural Gas {Jul 12}
+QGN13	E-Mini Natural Gas {Jul 13}
+QGN14	E-Mini Natural Gas {Jul 14}
+QGN15	E-Mini Natural Gas {Jul 15}
+QGQ11	E-Mini Natural Gas {Aug 11}
+QGQ12	E-Mini Natural Gas {Aug 12}
+QGQ13	E-Mini Natural Gas {Aug 13}
+QGQ14	E-Mini Natural Gas {Aug 14}
+QGQ15	E-Mini Natural Gas {Aug 15}
+QGU11	E-Mini Natural Gas {Sep 11}
+QGU12	E-Mini Natural Gas {Sep 12}
+QGU13	E-Mini Natural Gas {Sep 13}
+QGU14	E-Mini Natural Gas {Sep 14}
+QGU15	E-Mini Natural Gas {Sep 15}
+QGV11	E-Mini Natural Gas {Oct 11}
+QGV12	E-Mini Natural Gas {Oct 12}
+QGV13	E-Mini Natural Gas {Oct 13}
+QGV14	E-Mini Natural Gas {Oct 14}
+QGV15	E-Mini Natural Gas {Oct 15}
+QGX11	E-Mini Natural Gas {Nov 11}
+QGX12	E-Mini Natural Gas {Nov 12}
+QGX13	E-Mini Natural Gas {Nov 13}
+QGX14	E-Mini Natural Gas {Nov 14}
+QGX15	E-Mini Natural Gas {Nov 15}
+QGZ11	E-Mini Natural Gas {Dec 11}
+QGZ12	E-Mini Natural Gas {Dec 12}
+QGZ13	E-Mini Natural Gas {Dec 13}
+QGZ14	E-Mini Natural Gas {Dec 14}
+QGZ15	E-Mini Natural Gas {Dec 15}
+QH	E-Mini Heating Oil
+QH.C	E-Mini Heating Oil Continuation
+QHH11	E-Mini Heating Oil {Mar 11}
+QHJ11	E-Mini Heating Oil {Apr 11}
+QHK11	E-Mini Heating Oil {May 11}
+QHM11	E-Mini Heating Oil {Jun 11}
+QHN11	E-Mini Heating Oil {Jul 11}
+QHQ11	E-Mini Heating Oil {Aug 11}
+QHU11	E-Mini Heating Oil {Sep 11}
+QHV11	E-Mini Heating Oil {Oct 11}
+QHX11	E-Mini Heating Oil {Nov 11}
+QHZ11	E-Mini Heating Oil {Dec 11}
+QL	Coal Futures
+QL.C	Coal Futures Continuation
+QLF12	Coal Futures {Jan 12}
+QLF13	Coal Futures {Jan 13}
+QLF14	Coal Futures {Jan 14}
+QLG12	Coal Futures {Feb 12}
+QLG13	Coal Futures {Feb 13}
+QLG14	Coal Futures {Feb 14}
+QLH11	Coal Futures {Mar 11}
+QLH12	Coal Futures {Mar 12}
+QLH13	Coal Futures {Mar 13}
+QLH14	Coal Futures {Mar 14}
+QLJ11	Coal Futures {Apr 11}
+QLJ12	Coal Futures {Apr 12}
+QLJ13	Coal Futures {Apr 13}
+QLJ14	Coal Futures {Apr 14}
+QLK11	Coal Futures {May 11}
+QLK12	Coal Futures {May 12}
+QLK13	Coal Futures {May 13}
+QLK14	Coal Futures {May 14}
+QLM11	Coal Futures {Jun 11}
+QLM12	Coal Futures {Jun 12}
+QLM13	Coal Futures {Jun 13}
+QLM14	Coal Futures {Jun 14}
+QLN11	Coal Futures {Jul 11}
+QLN12	Coal Futures {Jul 12}
+QLN13	Coal Futures {Jul 13}
+QLN14	Coal Futures {Jul 14}
+QLQ11	Coal Futures {Aug 11}
+QLQ12	Coal Futures {Aug 12}
+QLQ13	Coal Futures {Aug 13}
+QLQ14	Coal Futures {Aug 14}
+QLU11	Coal Futures {Sep 11}
+QLU12	Coal Futures {Sep 12}
+QLU13	Coal Futures {Sep 13}
+QLU14	Coal Futures {Sep 14}
+QLV11	Coal Futures {Oct 11}
+QLV12	Coal Futures {Oct 12}
+QLV13	Coal Futures {Oct 13}
+QLV14	Coal Futures {Oct 14}
+QLX11	Coal Futures {Nov 11}
+QLX12	Coal Futures {Nov 12}
+QLX13	Coal Futures {Nov 13}
+QLX14	Coal Futures {Nov 14}
+QLZ11	Coal Futures {Dec 11}
+QLZ12	Coal Futures {Dec 12}
+QLZ13	Coal Futures {Dec 13}
+QLZ14	Coal Futures {Dec 14}
+QM	E-Mini Crude Oil
+QM.C	E-Mini Crude Oil Continuation
+QMF12	E-Mini Crude Oil {Jan 12}
+QMF13	E-Mini Crude Oil {Jan 13}
+QMF14	E-Mini Crude Oil {Jan 14}
+QMF15	E-Mini Crude Oil {Jan 15}
+QMG12	E-Mini Crude Oil {Feb 12}
+QMG13	E-Mini Crude Oil {Feb 13}
+QMG14	E-Mini Crude Oil {Feb 14}
+QMG15	E-Mini Crude Oil {Feb 15}
+QMH11	E-Mini Crude Oil {Mar 11}
+QMH12	E-Mini Crude Oil {Mar 12}
+QMH13	E-Mini Crude Oil {Mar 13}
+QMH14	E-Mini Crude Oil {Mar 14}
+QMH15	E-Mini Crude Oil {Mar 15}
+QMJ11	E-Mini Crude Oil {Apr 11}
+QMJ12	E-Mini Crude Oil {Apr 12}
+QMJ13	E-Mini Crude Oil {Apr 13}
+QMJ14	E-Mini Crude Oil {Apr 14}
+QMJ15	E-Mini Crude Oil {Apr 15}
+QMK11	E-Mini Crude Oil {May 11}
+QMK12	E-Mini Crude Oil {May 12}
+QMK13	E-Mini Crude Oil {May 13}
+QMK14	E-Mini Crude Oil {May 14}
+QMK15	E-Mini Crude Oil {May 15}
+QMM11	E-Mini Crude Oil {Jun 11}
+QMM12	E-Mini Crude Oil {Jun 12}
+QMM13	E-Mini Crude Oil {Jun 13}
+QMM14	E-Mini Crude Oil {Jun 14}
+QMM15	E-Mini Crude Oil {Jun 15}
+QMN11	E-Mini Crude Oil {Jul 11}
+QMN12	E-Mini Crude Oil {Jul 12}
+QMN13	E-Mini Crude Oil {Jul 13}
+QMN14	E-Mini Crude Oil {Jul 14}
+QMN15	E-Mini Crude Oil {Jul 15}
+QMQ11	E-Mini Crude Oil {Aug 11}
+QMQ12	E-Mini Crude Oil {Aug 12}
+QMQ13	E-Mini Crude Oil {Aug 13}
+QMQ14	E-Mini Crude Oil {Aug 14}
+QMQ15	E-Mini Crude Oil {Aug 15}
+QMU11	E-Mini Crude Oil {Sep 11}
+QMU12	E-Mini Crude Oil {Sep 12}
+QMU13	E-Mini Crude Oil {Sep 13}
+QMU14	E-Mini Crude Oil {Sep 14}
+QMU15	E-Mini Crude Oil {Sep 15}
+QMV11	E-Mini Crude Oil {Oct 11}
+QMV12	E-Mini Crude Oil {Oct 12}
+QMV13	E-Mini Crude Oil {Oct 13}
+QMV14	E-Mini Crude Oil {Oct 14}
+QMV15	E-Mini Crude Oil {Oct 15}
+QMX11	E-Mini Crude Oil {Nov 11}
+QMX12	E-Mini Crude Oil {Nov 12}
+QMX13	E-Mini Crude Oil {Nov 13}
+QMX14	E-Mini Crude Oil {Nov 14}
+QMX15	E-Mini Crude Oil {Nov 15}
+QMZ11	E-Mini Crude Oil {Dec 11}
+QMZ12	E-Mini Crude Oil {Dec 12}
+QMZ13	E-Mini Crude Oil {Dec 13}
+QMZ14	E-Mini Crude Oil {Dec 14}
+QMZ15	E-Mini Crude Oil {Dec 15}
+QU.C	E-Mini Gasoline Continuation
+QUH11	E-Mini Gasoline {Mar 11}
+QUJ11	E-Mini Gasoline {Apr 11}
+QUK11	E-Mini Gasoline {May 11}
+QUM11	E-Mini Gasoline {Jun 11}
+R2.C	Crude Oil MACI Continuation
+R2F12	Crude Oil MACI {Jan 12}
+R2F13	Crude Oil MACI {Jan 13}
+RB	Gasoline RBOB
+RB.C	Gasoline RBOB Continuation
+RBF12	Gasoline RBOB {Jan 12}
+RBF13	Gasoline RBOB {Jan 13}
+RBG12	Gasoline RBOB {Feb 12}
+RBG13	Gasoline RBOB {Feb 13}
+RBH11	Gasoline RBOB {Mar 11}
+RBH12	Gasoline RBOB {Mar 12}
+RBH13	Gasoline RBOB {Mar 13}
+RBJ11	Gasoline RBOB {Apr 11}
+RBJ12	Gasoline RBOB {Apr 12}
+RBJ13	Gasoline RBOB {Apr 13}
+RBK11	Gasoline RBOB {May 11}
+RBK12	Gasoline RBOB {May 12}
+RBK13	Gasoline RBOB {May 13}
+RBM11	Gasoline RBOB {Jun 11}
+RBM12	Gasoline RBOB {Jun 12}
+RBM13	Gasoline RBOB {Jun 13}
+RBN11	Gasoline RBOB {Jul 11}
+RBN12	Gasoline RBOB {Jul 12}
+RBQ11	Gasoline RBOB {Aug 11}
+RBQ12	Gasoline RBOB {Aug 12}
+RBU11	Gasoline RBOB {Sep 11}
+RBU12	Gasoline RBOB {Sep 12}
+RBV11	Gasoline RBOB {Oct 11}
+RBV12	Gasoline RBOB {Oct 12}
+RBX11	Gasoline RBOB {Nov 11}
+RBX12	Gasoline RBOB {Nov 12}
+RBZ11	Gasoline RBOB {Dec 11}
+RBZ12	Gasoline RBOB {Dec 12}
+RE.C	Crude Oil REBCO Continuation
+REF12	Crude Oil REBCO {Jan 12}
+REG12	Crude Oil REBCO {Feb 12}
+REH11	Crude Oil REBCO {Mar 11}
+REH12	Crude Oil REBCO {Mar 12}
+REJ11	Crude Oil REBCO {Apr 11}
+REJ12	Crude Oil REBCO {Apr 12}
+REK11	Crude Oil REBCO {May 11}
+REK12	Crude Oil REBCO {May 12}
+REM11	Crude Oil REBCO {Jun 11}
+REM12	Crude Oil REBCO {Jun 12}
+REN11	Crude Oil REBCO {Jul 11}
+REN12	Crude Oil REBCO {Jul 12}
+REQ11	Crude Oil REBCO {Aug 11}
+REQ12	Crude Oil REBCO {Aug 12}
+REU11	Crude Oil REBCO {Sep 11}
+REU12	Crude Oil REBCO {Sep 12}
+REV11	Crude Oil REBCO {Oct 11}
+REV12	Crude Oil REBCO {Oct 12}
+REX11	Crude Oil REBCO {Nov 11}
+REX12	Crude Oil REBCO {Nov 12}
+REZ11	Crude Oil REBCO {Dec 11}
+REZ12	Crude Oil REBCO {Dec 12}
+RT.C	Gasoline RBOB (E) Continuation
+RTF12	Gasoline RBOB (E) {Jan 12}
+RTF13	Gasoline RBOB (E) {Jan 13}
+RTG12	Gasoline RBOB (E) {Feb 12}
+RTG13	Gasoline RBOB (E) {Feb 13}
+RTH11	Gasoline RBOB (E) {Mar 11}
+RTH12	Gasoline RBOB (E) {Mar 12}
+RTH13	Gasoline RBOB (E) {Mar 13}
+RTJ11	Gasoline RBOB (E) {Apr 11}
+RTJ12	Gasoline RBOB (E) {Apr 12}
+RTJ13	Gasoline RBOB (E) {Apr 13}
+RTK11	Gasoline RBOB (E) {May 11}
+RTK12	Gasoline RBOB (E) {May 12}
+RTK13	Gasoline RBOB (E) {May 13}
+RTM11	Gasoline RBOB (E) {Jun 11}
+RTM12	Gasoline RBOB (E) {Jun 12}
+RTM13	Gasoline RBOB (E) {Jun 13}
+RTN11	Gasoline RBOB (E) {Jul 11}
+RTN12	Gasoline RBOB (E) {Jul 12}
+RTQ11	Gasoline RBOB (E) {Aug 11}
+RTQ12	Gasoline RBOB (E) {Aug 12}
+RTU11	Gasoline RBOB (E) {Sep 11}
+RTU12	Gasoline RBOB (E) {Sep 12}
+RTV11	Gasoline RBOB (E) {Oct 11}
+RTV12	Gasoline RBOB (E) {Oct 12}
+RTX11	Gasoline RBOB (E) {Nov 11}
+RTX12	Gasoline RBOB (E) {Nov 12}
+RTZ11	Gasoline RBOB (E) {Dec 11}
+RTZ12	Gasoline RBOB (E) {Dec 12}
+SC	Crude Oil Brent
+SC.C	Crude Oil Brent Continuation
+SCF12	Crude Oil Brent {Jan 12}
+SCF13	Crude Oil Brent {Jan 13}
+SCF14	Crude Oil Brent {Jan 14}
+SCF15	Crude Oil Brent {Jan 15}
+SCF16	Crude Oil Brent {Jan 16}
+SCF17	Crude Oil Brent {Jan 17}
+SCG12	Crude Oil Brent {Feb 12}
+SCG13	Crude Oil Brent {Feb 13}
+SCG14	Crude Oil Brent {Feb 14}
+SCG15	Crude Oil Brent {Feb 15}
+SCG16	Crude Oil Brent {Feb 16}
+SCG17	Crude Oil Brent {Feb 17}
+SCH11	Crude Oil Brent {Mar 11}
+SCH12	Crude Oil Brent {Mar 12}
+SCH13	Crude Oil Brent {Mar 13}
+SCH14	Crude Oil Brent {Mar 14}
+SCH15	Crude Oil Brent {Mar 15}
+SCH16	Crude Oil Brent {Mar 16}
+SCH17	Crude Oil Brent {Mar 17}
+SCJ11	Crude Oil Brent {Apr 11}
+SCJ12	Crude Oil Brent {Apr 12}
+SCJ13	Crude Oil Brent {Apr 13}
+SCJ14	Crude Oil Brent {Apr 14}
+SCJ15	Crude Oil Brent {Apr 15}
+SCJ16	Crude Oil Brent {Apr 16}
+SCJ17	Crude Oil Brent {Apr 17}
+SCK11	Crude Oil Brent {May 11}
+SCK12	Crude Oil Brent {May 12}
+SCK13	Crude Oil Brent {May 13}
+SCK14	Crude Oil Brent {May 14}
+SCK15	Crude Oil Brent {May 15}
+SCK16	Crude Oil Brent {May 16}
+SCK17	Crude Oil Brent {May 17}
+SCM11	Crude Oil Brent {Jun 11}
+SCM12	Crude Oil Brent {Jun 12}
+SCM13	Crude Oil Brent {Jun 13}
+SCM14	Crude Oil Brent {Jun 14}
+SCM15	Crude Oil Brent {Jun 15}
+SCM16	Crude Oil Brent {Jun 16}
+SCM17	Crude Oil Brent {Jun 17}
+SCN11	Crude Oil Brent {Jul 11}
+SCN12	Crude Oil Brent {Jul 12}
+SCN13	Crude Oil Brent {Jul 13}
+SCN14	Crude Oil Brent {Jul 14}
+SCN15	Crude Oil Brent {Jul 15}
+SCN16	Crude Oil Brent {Jul 16}
+SCN17	Crude Oil Brent {Jul 17}
+SCQ11	Crude Oil Brent {Aug 11}
+SCQ12	Crude Oil Brent {Aug 12}
+SCQ13	Crude Oil Brent {Aug 13}
+SCQ14	Crude Oil Brent {Aug 14}
+SCQ15	Crude Oil Brent {Aug 15}
+SCQ16	Crude Oil Brent {Aug 16}
+SCQ17	Crude Oil Brent {Aug 17}
+SCU11	Crude Oil Brent {Sep 11}
+SCU12	Crude Oil Brent {Sep 12}
+SCU13	Crude Oil Brent {Sep 13}
+SCU14	Crude Oil Brent {Sep 14}
+SCU15	Crude Oil Brent {Sep 15}
+SCU16	Crude Oil Brent {Sep 16}
+SCU17	Crude Oil Brent {Sep 17}
+SCV11	Crude Oil Brent {Oct 11}
+SCV12	Crude Oil Brent {Oct 12}
+SCV13	Crude Oil Brent {Oct 13}
+SCV14	Crude Oil Brent {Oct 14}
+SCV15	Crude Oil Brent {Oct 15}
+SCV16	Crude Oil Brent {Oct 16}
+SCV17	Crude Oil Brent {Oct 17}
+SCX11	Crude Oil Brent {Nov 11}
+SCX12	Crude Oil Brent {Nov 12}
+SCX13	Crude Oil Brent {Nov 13}
+SCX14	Crude Oil Brent {Nov 14}
+SCX15	Crude Oil Brent {Nov 15}
+SCX16	Crude Oil Brent {Nov 16}
+SCX17	Crude Oil Brent {Nov 17}
+SCZ11	Crude Oil Brent {Dec 11}
+SCZ12	Crude Oil Brent {Dec 12}
+SCZ13	Crude Oil Brent {Dec 13}
+SCZ14	Crude Oil Brent {Dec 14}
+SCZ15	Crude Oil Brent {Dec 15}
+SCZ16	Crude Oil Brent {Dec 16}
+SCZ17	Crude Oil Brent {Dec 17}
+UX.C	Uranium Continuation
+UXF11	Uranium {Jan 11}
+UXF12	Uranium {Jan 12}
+UXF13	Uranium {Jan 13}
+UXF14	Uranium {Jan 14}
+UXF15	Uranium {Jan 15}
+UXG11	Uranium {Feb 11}
+UXG12	Uranium {Feb 12}
+UXG13	Uranium {Feb 13}
+UXG14	Uranium {Feb 14}
+UXG15	Uranium {Feb 15}
+UXH11	Uranium {Mar 11}
+UXH12	Uranium {Mar 12}
+UXH13	Uranium {Mar 13}
+UXH14	Uranium {Mar 14}
+UXH15	Uranium {Mar 15}
+UXJ11	Uranium {Apr 11}
+UXJ12	Uranium {Apr 12}
+UXJ13	Uranium {Apr 13}
+UXJ14	Uranium {Apr 14}
+UXJ15	Uranium {Apr 15}
+UXK11	Uranium {May 11}
+UXK12	Uranium {May 12}
+UXK13	Uranium {May 13}
+UXK14	Uranium {May 14}
+UXK15	Uranium {May 15}
+UXM11	Uranium {Jun 11}
+UXM12	Uranium {Jun 12}
+UXM13	Uranium {Jun 13}
+UXM14	Uranium {Jun 14}
+UXN11	Uranium {Jul 11}
+UXN12	Uranium {Jul 12}
+UXN13	Uranium {Jul 13}
+UXN14	Uranium {Jul 14}
+UXQ11	Uranium {Aug 11}
+UXQ12	Uranium {Aug 12}
+UXQ13	Uranium {Aug 13}
+UXQ14	Uranium {Aug 14}
+UXU11	Uranium {Sep 11}
+UXU12	Uranium {Sep 12}
+UXU13	Uranium {Sep 13}
+UXU14	Uranium {Sep 14}
+UXV11	Uranium {Oct 11}
+UXV12	Uranium {Oct 12}
+UXV13	Uranium {Oct 13}
+UXV14	Uranium {Oct 14}
+UXX11	Uranium {Nov 11}
+UXX12	Uranium {Nov 12}
+UXX13	Uranium {Nov 13}
+UXX14	Uranium {Nov 14}
+UXZ11	Uranium {Dec 11}
+UXZ12	Uranium {Dec 12}
+UXZ13	Uranium {Dec 13}
+UXZ14	Uranium {Dec 14}
+VE	Crude Oil VIX
+VE.C	Crude Oil VIX Continuation
+VEH12	Crude Oil VIX {Mar 12}
+WS.C	Crude Oil WTI (E) Continuation
+WSF12	Crude Oil WTI (E) {Jan 12}
+WSF13	Crude Oil WTI (E) {Jan 13}
+WSF14	Crude Oil WTI (E) {Jan 14}
+WSF15	Crude Oil WTI (E) {Jan 15}
+WSG12	Crude Oil WTI (E) {Feb 12}
+WSG13	Crude Oil WTI (E) {Feb 13}
+WSG14	Crude Oil WTI (E) {Feb 14}
+WSG15	Crude Oil WTI (E) {Feb 15}
+WSH11	Crude Oil WTI (E) {Mar 11}
+WSH12	Crude Oil WTI (E) {Mar 12}
+WSH13	Crude Oil WTI (E) {Mar 13}
+WSH14	Crude Oil WTI (E) {Mar 14}
+WSH15	Crude Oil WTI (E) {Mar 15}
+WSJ11	Crude Oil WTI (E) {Apr 11}
+WSJ12	Crude Oil WTI (E) {Apr 12}
+WSJ13	Crude Oil WTI (E) {Apr 13}
+WSJ14	Crude Oil WTI (E) {Apr 14}
+WSJ15	Crude Oil WTI (E) {Apr 15}
+WSK11	Crude Oil WTI (E) {May 11}
+WSK12	Crude Oil WTI (E) {May 12}
+WSK13	Crude Oil WTI (E) {May 13}
+WSK14	Crude Oil WTI (E) {May 14}
+WSK15	Crude Oil WTI (E) {May 15}
+WSM09	Crude Oil WTI (E) {Jun 09}
+WSM11	Crude Oil WTI (E) {Jun 11}
+WSM12	Crude Oil WTI (E) {Jun 12}
+WSM13	Crude Oil WTI (E) {Jun 13}
+WSM14	Crude Oil WTI (E) {Jun 14}
+WSM15	Crude Oil WTI (E) {Jun 15}
+WSM16	Crude Oil WTI (E) {Jun 16}
+WSM17	Crude Oil WTI (E) {Jun 17}
+WSM18	Crude Oil WTI (E) {Jun 18}
+WSM19	Crude Oil WTI (E) {Jun 19}
+WSN11	Crude Oil WTI (E) {Jul 11}
+WSN12	Crude Oil WTI (E) {Jul 12}
+WSN13	Crude Oil WTI (E) {Jul 13}
+WSN14	Crude Oil WTI (E) {Jul 14}
+WSN15	Crude Oil WTI (E) {Jul 15}
+WSQ11	Crude Oil WTI (E) {Aug 11}
+WSQ12	Crude Oil WTI (E) {Aug 12}
+WSQ13	Crude Oil WTI (E) {Aug 13}
+WSQ14	Crude Oil WTI (E) {Aug 14}
+WSQ15	Crude Oil WTI (E) {Aug 15}
+WSU11	Crude Oil WTI (E) {Sep 11}
+WSU12	Crude Oil WTI (E) {Sep 12}
+WSU13	Crude Oil WTI (E) {Sep 13}
+WSU14	Crude Oil WTI (E) {Sep 14}
+WSU15	Crude Oil WTI (E) {Sep 15}
+WSV11	Crude Oil WTI (E) {Oct 11}
+WSV12	Crude Oil WTI (E) {Oct 12}
+WSV13	Crude Oil WTI (E) {Oct 13}
+WSV14	Crude Oil WTI (E) {Oct 14}
+WSV15	Crude Oil WTI (E) {Oct 15}
+WSX11	Crude Oil WTI (E) {Nov 11}
+WSX12	Crude Oil WTI (E) {Nov 12}
+WSX13	Crude Oil WTI (E) {Nov 13}
+WSX14	Crude Oil WTI (E) {Nov 14}
+WSX15	Crude Oil WTI (E) {Nov 15}
+WSZ09	Crude Oil WTI (E) {Dec 09}
+WSZ11	Crude Oil WTI (E) {Dec 11}
+WSZ12	Crude Oil WTI (E) {Dec 12}
+WSZ13	Crude Oil WTI (E) {Dec 13}
+WSZ14	Crude Oil WTI (E) {Dec 14}
+WSZ15	Crude Oil WTI (E) {Dec 15}
+WSZ16	Crude Oil WTI (E) {Dec 16}
+WSZ17	Crude Oil WTI (E) {Dec 17}
+WSZ18	Crude Oil WTI (E) {Dec 18}
+WSZ19	Crude Oil WTI (E) {Dec 19}
+X0	Crude 24-Mon Strip
+X3	Nat Gas 12-Mon Strip
+X4	Nat Gas 24-Mon Strip
+X9	Crude 12-Mon Strip
